@@ -3,13 +3,24 @@
 Working: 202 of 260 companies
 
 
+## New this run
+
+- **Anduril**: [2027 Optical Payload Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) Costa Mesa, California, United States
+- **Northrop Grumman**: [2027 Intern Engineer - Product Support](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10260078) United States-Oklahoma-Oklahoma City
+- **Northrop Grumman**: [2027 Systems Engineer Intern - Dulles VA or McLean VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857) 2 Locations
+- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Factory Enablement Digital Engineer (Spring/Summer Co-op)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473) US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105
+- **PACCAR / Peterbilt / Kenworth**: [2027 Summer Internship: Design Engineer- Hoods and Outer Body](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Design-Engineer-Hoods-and-Outer-Body-TX-76205-7864/1456234933/) 
+- **PACCAR / Peterbilt / Kenworth**: [2027 Summer Internship: Engineering Systems](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Engineering-Systems-TX-76205-7864/1456235133/) 
+- **PACCAR / Peterbilt / Kenworth**: [2027 Summer Internship: Warranty Containment Engineer](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Containment-Engineer-TX-76205-7864/1456235533/) 
+- **Celestica**: [Student Intern, Process and Manufacturing Engineer](https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Process-and-Manufacturing-Engineer-ON/1456226233/) 
+
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | AeroVironment | ✅ ok | workday | 26 | cache |
 | Airbus | ✅ ok | workday | 8 | config |
-| Anduril | ✅ ok | greenhouse | 23 | config |
+| Anduril | ✅ ok | greenhouse | 24 | cache |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 36 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
@@ -37,11 +48,11 @@ Working: 202 of 260 companies
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
 | Moog | ✅ ok | workday | 11 | cache |
-| Northrop Grumman | ✅ ok | workday | 6 | config |
+| Northrop Grumman | ✅ ok | workday | 8 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 37 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 111 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 112 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 16 | cache |
@@ -103,7 +114,7 @@ Working: 202 of 260 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 22 | config |
+| ABB | ✅ ok | phenom | 19 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -166,8 +177,8 @@ Working: 202 of 260 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 45 | cache |
-| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 24 | config |
+| Oshkosh | ✅ ok | phenom | 43 | cache |
+| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 25 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
@@ -223,7 +234,7 @@ Working: 202 of 260 companies
 | AMETEK | ✅ ok | successfactors | 6 | config |
 | Baker Hughes | ✅ ok | workday | 13 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
-| Celestica | ✅ ok | successfactors | 2 | config |
+| Celestica | ✅ ok | successfactors | 3 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 1 | config |
 | Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError |
@@ -239,7 +250,7 @@ Working: 202 of 260 companies
 | Hubbell | ✅ ok | successfactors | 16 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
-| Jabil | ✅ ok | workday | 11 | cache |
+| Jabil | ✅ ok | workday | 10 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
@@ -267,7 +278,7 @@ Working: 202 of 260 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 9 | cache |
+| Trane Technologies | ✅ ok | phenom | 12 | cache |
 | Carrier | ✅ ok | workday | 21 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |

@@ -293,6 +293,10 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Mechanical Engineering Co-op- Summer 2027"
    },
+   "JR00051359": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Engineering Sales Intern - Summer 2027"
+   },
    "JR00051490": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Manufacturing Process Engineering Intern- Summer 2027"
@@ -400,6 +404,10 @@
    "1449196600": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Pre-Engineering OMNI Intern"
+   },
+   "1449595200": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Human Resources Intern"
    }
   },
   "seeded": true
@@ -1313,6 +1321,10 @@
    "5280611007": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Fall 2027 Manufacturing Engineer Co-op"
+   },
+   "5291546007": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Optical Payload Engineer Intern"
    }
   },
   "seeded": true
@@ -2204,6 +2216,10 @@
    "200238": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Mottorad Intern"
+   },
+   "200533": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Intern, BMW FS Strategic Planning & Steering"
    }
   },
   "seeded": true
@@ -3880,6 +3896,10 @@
    "1456225233": {
     "first_seen": "2026-11-10 20:56 UTC",
     "title": "Student Intern, Test Manufacturing and Process Engineering"
+   },
+   "1456226233": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Student Intern, Process and Manufacturing Engineer"
    }
   },
   "seeded": true
@@ -5638,6 +5658,10 @@
    "/job/Remote/Artificial-Intelligence-Intern_R5042294-1": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Artificial Intelligence Intern"
+   },
+   "/job/Remote/Configurations-Intern_R5042953-1": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Configurations Intern"
    },
    "/job/Rivalta-di-Torino/Program-Management-Intern_R5042066-1": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -9572,9 +9596,17 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Supplier Quality Intern"
    },
+   "60456": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "AI/ML Intern"
+   },
    "60457": {
     "first_seen": "2026-11-10 20:56 UTC",
     "title": "Digital IT Intern"
+   },
+   "60661": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "IT Security Intern"
    }
   },
   "seeded": true
@@ -10098,9 +10130,17 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "2027 Engineering Intern - Hollywood (MD) (Evergreen)"
    },
+   "/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10260078": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Intern Engineer - Product Support"
+   },
    "/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Graduate-or-PhD---Dulles-VA---Baltimore-MD-_R10259462": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "2027 Engineering Internship (Graduate or PhD) (Dulles VA / Baltimore MD)"
+   },
+   "/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineer-Intern---Dulles-VA-or-McLean-VA_R10259857": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Systems Engineer Intern - Dulles VA or McLean VA"
    },
    "/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Operations-Intern---Radford-VA_R10259949": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -10762,6 +10802,22 @@
    "1456196433": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Operations Management Intern 1"
+   },
+   "1456234933": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Summer Internship: Design Engineer- Hoods and Outer Body"
+   },
+   "1456235133": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Summer Internship: Engineering Systems"
+   },
+   "1456235433": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Summer Internship: Program Management"
+   },
+   "1456235533": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Summer Internship: Warranty Containment Engineer"
    }
   },
   "seeded": true
@@ -11246,6 +11302,10 @@
    "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite"
+   },
+   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Factory Enablement Digital Engineer (Spring/Summer Co-op)"
    },
    "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -12850,6 +12910,10 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027"
    },
+   "c85af510-9fe4-4167-a914-c3ab344bef03": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Middleware Software Engineer Intern - Summer 2027"
+   },
    "d39c46ce-a4e9-45d2-99bf-17e3b7dac34b": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Autonomy Engineer Intern, 2027"
@@ -14353,6 +14417,10 @@
    "346007": {
     "first_seen": "2026-11-10 16:19 UTC",
     "title": "2027 Intern - Program Master Scheduler - Wilmington, MA"
+   },
+   "346245": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Spring Co-Op - Marketing (Content Marketing)"
    }
   },
   "seeded": true
@@ -14511,6 +14579,10 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Construction Project Management Intern"
    },
+   "JR-15106": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
    "JR-15109": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Services"
@@ -14518,6 +14590,22 @@
    "JR-15110": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15111": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15114": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15115": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15117": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15131": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -14531,6 +14619,10 @@
     "first_seen": "2026-11-10 20:56 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
    },
+   "JR-15151": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
    "JR-15152": {
     "first_seen": "2026-11-10 20:56 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
@@ -14542,6 +14634,10 @@
    "JR-15155": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15157": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15158": {
     "first_seen": "2026-11-10 20:56 UTC",
@@ -14730,6 +14826,10 @@
    "JR-16429": {
     "first_seen": "2026-11-10 20:50 UTC",
     "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-16956": {
+    "first_seen": "2026-11-10 21:54 UTC",
+    "title": "Intern-Controls Technician -King of Prussia, PA"
    },
    "JR-17505": {
     "first_seen": "2026-11-10 18:53 UTC",
