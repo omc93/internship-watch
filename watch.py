@@ -572,8 +572,7 @@ def notify(title, message, click=None, tags="briefcase", priority="default"):
         print(f"[no NTFY_TOPIC] {title}: {message}")
         return
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
-    if topic.startswith("http"):
-        topic = topic.rsplit("/", 1)[-1]
+    topic = topic.rsplit("/", 1)[-1]   # accept "ntfy.sh/name" or a full URL too
     headers = {"Title": title.encode("utf-8").decode("latin-1", "replace"),
                "Tags": tags, "Priority": priority, "Content-Type": "text/plain; charset=utf-8"}
     if click:
