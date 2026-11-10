@@ -530,11 +530,13 @@ def check(company, resolved):
 
 
 def notify(title, message, click=None, tags="briefcase", priority="default"):
-    topic = os.environ.get("NTFY_TOPIC")
+    topic = (os.environ.get("NTFY_TOPIC") or "").strip().strip("/")
     if not topic:
         print(f"[no NTFY_TOPIC] {title}: {message}")
         return
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    if topic.startswith("http"):
+        topic = topic.rsplit("/", 1)[-1]
     headers = {"Title": title.encode("utf-8").decode("latin-1", "replace"),
                "Tags": tags, "Priority": priority, "Content-Type": "text/plain; charset=utf-8"}
     if click:
