@@ -40,7 +40,7 @@ MAX_ALERTS_PER_RUN = 20
 REDISCOVER_HOURS = 24
 # Bump when search logic changes, so companies re-record silently instead of
 # alerting on postings that were there all along.
-SEARCH_VERSION = 2
+SEARCH_VERSION = 3
 
 INTERN_RE = re.compile(r"\b(intern|interns|internship|internships|co-?op|coop)\b", re.I)
 EXCLUDE_RE = re.compile(r"\b(high school|internal|international|skillbridge)\b|"
@@ -241,14 +241,19 @@ def fetch_phenom(base):
             obj, _ = json.JSONDecoder().raw_decode(page[page.find("{", i):])
             if total is None:
                 total = obj.get("totalHits") or obj.get("hits") or 0
-            jobs = (obj.get("data") or {}).get("jobs", [])
+            data = obj.get("data") or {}
+            if not total:
+                total = data.get("totalHits") or 0
+            jobs = data.get("jobs", [])
+            before = len(out)
             for j in jobs:
                 jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
                 loc = j.get("cityStateCountry") or j.get("location") or ""
                 out[jid] = posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
                                    j.get("postedDate", ""))
             start += len(jobs)
-            if not jobs or start >= total:
+            # stop at the end of results; if the total is unknown, stop when a page adds nothing new
+            if not jobs or (total and start >= total) or (not total and len(out) == before):
                 break
     return list(out.values())
 
