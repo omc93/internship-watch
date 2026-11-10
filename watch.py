@@ -38,6 +38,9 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 TIMEOUT = 25
 MAX_ALERTS_PER_RUN = 20
 REDISCOVER_HOURS = 24
+# Bump when search logic changes, so companies re-record silently instead of
+# alerting on postings that were there all along.
+SEARCH_VERSION = 2
 
 INTERN_RE = re.compile(r"\b(intern|interns|internship|internships|co-?op|coop)\b", re.I)
 EXCLUDE_RE = re.compile(r"\b(high school|internal|international)\b", re.I)
@@ -111,7 +114,7 @@ def fetch_workday(url):
     site = segs[0]
     api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
     out = {}
-    for text in ("intern", "co-op"):
+    for text in ("intern", "internship", "co-op"):
         offset, total = 0, None
         while offset < 400:
             d = http(api, {"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": text})
@@ -169,7 +172,7 @@ def fetch_oracle(url):
     p = urllib.parse.urlparse(url)
     site = re.search(r"/sites/([^/?#]+)", p.path).group(1)
     out = []
-    for kw in ("intern", "co-op"):
+    for kw in ("intern", "internship", "co-op"):
         q = (f"https://{p.netloc}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?"
              f"onlyData=true&expand=requisitionList.secondaryLocations&"
              f"finder=findReqs;siteNumber={site},keyword={urllib.parse.quote(kw)},"
@@ -194,22 +197,23 @@ def _phenom_jobs(page):
 
 def fetch_phenom(base):
     base = base.rstrip("/")
-    out = []
-    for start in range(0, 100, 10):
-        page, _ = http(f"{base}/search-results?keywords=intern&from={start}&s=1", as_json=False)
-        jobs = _phenom_jobs(page)
-        if jobs is None:
-            if start == 0:
-                raise ValueError("no Phenom job data on page")
-            break
-        for j in jobs:
-            jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
-            loc = j.get("cityStateCountry") or j.get("location") or ""
-            out.append(posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
-                               j.get("postedDate", "")))
-        if len(jobs) < 10:
-            break
-    return out
+    out = {}
+    for kw in ("intern", "internship", "co-op"):
+        for start in range(0, 100, 10):
+            page, _ = http(f"{base}/search-results?keywords={kw}&from={start}&s=1", as_json=False)
+            jobs = _phenom_jobs(page)
+            if jobs is None:
+                if start == 0 and kw == "intern":
+                    raise ValueError("no Phenom job data on page")
+                break
+            for j in jobs:
+                jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
+                loc = j.get("cityStateCountry") or j.get("location") or ""
+                out[jid] = posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
+                                   j.get("postedDate", ""))
+            if len(jobs) < 10:
+                break
+    return list(out.values())
 
 
 LINK_RE = re.compile(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', re.I | re.S)
@@ -234,15 +238,16 @@ def fetch_radancy(base):
     base = base.rstrip("/")
     out = {}
     # JSON endpoint used by TalentBrew sites; newest first.
-    try:
-        q = (f"{base}/search-jobs/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=200"
-             f"&Distance=50&Keywords=intern&SortCriteria=1&SortDirection=1&SearchType=5"
-             f"&ResultsType=0")
-        d = http(q, headers={"X-Requested-With": "XMLHttpRequest"})
-        for p in links_from(d.get("results", ""), base, r"/job/"):
-            out[p["id"]] = p
-    except Exception:
-        pass
+    for kw in ("intern", "internship", "co-op"):
+        try:
+            q = (f"{base}/search-jobs/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=200"
+                 f"&Distance=50&Keywords={kw}&SortCriteria=1&SortDirection=1&SearchType=5"
+                 f"&ResultsType=0")
+            d = http(q, headers={"X-Requested-With": "XMLHttpRequest"})
+            for p in links_from(d.get("results", ""), base, r"/job/"):
+                out[p["id"]] = p
+        except Exception:
+            pass
     if not out:
         for pg in (1, 2, 3):
             page, final = http(f"{base}/search-jobs/intern?p={pg}", as_json=False)
@@ -508,6 +513,10 @@ def main():
         interns = [p for p in r["jobs"] if is_internship(p)]
         state = seen.setdefault(name, {"seeded": False, "ids": {}})
         if r["status"] == "ok":
+            fp = [SEARCH_VERSION] + list(r.get("ats") or [])
+            if state.get("fp") != fp:
+                state["fp"] = fp     # new job system or search logic: record silently
+                state["seeded"] = False
             new = [p for p in interns if p["id"] not in state["ids"]]
             for p in interns:
                 state["ids"].setdefault(p["id"], {"title": p["title"], "first_seen": now})

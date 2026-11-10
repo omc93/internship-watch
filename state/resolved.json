@@ -104,14 +104,9 @@
   "status": "ok"
  },
  "Applied Materials": {
-  "ats": [
-   "ashby",
-   "applied"
-  ],
   "fails": 0,
-  "last_discovery": 1794326242.1451147,
-  "note": "guessed from company name - verify",
-  "status": "ok"
+  "note": "wrong guess removed",
+  "status": "error"
  },
  "Apptronik": {
   "ats": [
@@ -745,14 +740,9 @@
   "status": "error"
  },
  "Parker Hannifin": {
-  "ats": [
-   "ashby",
-   "parker"
-  ],
   "fails": 0,
-  "last_discovery": 1794326242.1444302,
-  "note": "guessed from company name - verify",
-  "status": "ok"
+  "note": "wrong guess removed",
+  "status": "error"
  },
  "RTX (Collins, Pratt & Whitney, Raytheon)": {
   "ats": [

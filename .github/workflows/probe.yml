@@ -1,0 +1,26 @@
+name: Probe (diagnostics)
+
+on:
+  workflow_dispatch:
+    inputs:
+      companies:
+        description: "Comma-separated names, or 'failing'"
+        default: "failing"
+      urls:
+        description: "JSON map of extra pages per company"
+        default: "{}"
+      raw:
+        description: "JSON list of extra URLs to inspect"
+        default: "[]"
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/probe.py
+        env:
+          PROBE: ${{ inputs.companies }}
+          PROBE_URLS: ${{ inputs.urls }}
+          RAW_URLS: ${{ inputs.raw }}
