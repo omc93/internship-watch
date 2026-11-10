@@ -235,24 +235,20 @@ def links_from(page, base_url, pattern):
 
 
 def fetch_radancy(base):
+    """Radancy / TalentBrew career sites (careers.example.com/search-jobs/KEYWORD)."""
     base = base.rstrip("/")
     out = {}
-    # JSON endpoint used by TalentBrew sites; newest first.
     for kw in ("intern", "internship", "co-op"):
-        try:
-            q = (f"{base}/search-jobs/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=200"
-                 f"&Distance=50&Keywords={kw}&SortCriteria=1&SortDirection=1&SearchType=5"
-                 f"&ResultsType=0")
-            d = http(q, headers={"X-Requested-With": "XMLHttpRequest"})
-            for p in links_from(d.get("results", ""), base, r"/job/"):
+        for pg in (1, 2, 3, 4):
+            try:
+                page, final = http(f"{base}/search-jobs/{kw}?p={pg}", as_json=False)
+            except Exception:
+                break
+            found = links_from(page, final, r"/job/")
+            for p in found:
                 out[p["id"]] = p
-        except Exception:
-            pass
-    if not out:
-        for pg in (1, 2, 3):
-            page, final = http(f"{base}/search-jobs/intern?p={pg}", as_json=False)
-            for p in links_from(page, final, r"/job/"):
-                out[p["id"]] = p
+            if len(found) < 10:
+                break
     if not out:
         raise ValueError("no job links found")
     return list(out.values())
@@ -409,8 +405,6 @@ def slug_guesses(name):
     base = re.sub(r"\(.*?\)", "", name).lower().replace("&", "and")
     words = re.findall(r"[a-z0-9]+", base)
     g = ["".join(words), "-".join(words)]
-    if len(words) > 1:
-        g.append(words[0])
     return list(dict.fromkeys(x for x in g if x))
 
 
