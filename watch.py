@@ -134,10 +134,15 @@ def posting(pid, title, url, location="", posted=""):
 
 def fetch_workday(url):
     p = urllib.parse.urlparse(url)
-    tenant = p.netloc.split(".")[0]
     segs = [s for s in p.path.split("/") if s and not re.fullmatch(r"[a-z]{2}-[A-Z]{2}", s)]
-    site = segs[0]
-    api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
+    if "myworkdaysite.com" in p.netloc:          # wdN.myworkdaysite.com/recruiting/TENANT/SITE
+        tenant, site = segs[1], segs[2]
+        api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
+        link_base = f"https://{p.netloc}/recruiting/{tenant}/{site}"
+    else:
+        tenant, site = p.netloc.split(".")[0], segs[0]
+        api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
+        link_base = f"https://{p.netloc}/{site}"
     out = {}
     for text in ("intern", "internship", "co-op"):
         offset, total = 0, None
@@ -148,7 +153,7 @@ def fetch_workday(url):
             jobs = d.get("jobPostings", [])
             for j in jobs:
                 path = j.get("externalPath", "")
-                out[path] = posting(path, j.get("title", ""), f"https://{p.netloc}/{site}{path}",
+                out[path] = posting(path, j.get("title", ""), f"{link_base}{path}",
                                     j.get("locationsText", ""), j.get("postedOn", ""))
             offset += 20
             if not jobs or offset >= total:
@@ -287,14 +292,13 @@ def fetch_html(url, pattern=r"/job"):
     return found
 
 
-def fetch_amazon(query):
+def fetch_amazon(query, must="robotics"):
     url = ("https://www.amazon.jobs/en/search.json?result_limit=100&sort=recent"
            f"&normalized_country_code%5B%5D=USA&base_query={urllib.parse.quote(query)}")
     d = http(url)
     out = []
     for j in d.get("jobs", []):
-        blob = json.dumps(j).lower()
-        if "robotics" not in blob:
+        if must.lower() not in json.dumps(j).lower():
             continue
         out.append(posting(j.get("id_icims") or j.get("id"), j.get("title", ""),
                            "https://www.amazon.jobs" + j.get("job_path", ""),
@@ -453,8 +457,18 @@ def candidates_from(page):
                 found.append((kind, urllib.parse.unquote(m.group(1))))
     if "phenompeople" in page or "phApp.ddo" in page:
         found.append(("phenom?", ""))
-    if "talentbrew" in page.lower():
+    low = page.lower()
+    if "talentbrew" in low:
         found.append(("radancy?", ""))
+    if "rmkcdn.successfactors" in low or "jobs2web" in low or "sapsf.com" in low or "sapsf.eu" in low \
+            or "successfactors.eu" in low or "career5.successfactors" in low:
+        found.append(("successfactors?", ""))
+    if "jibecdn" in low:
+        found.append(("jibe?", ""))
+    for m in re.finditer(r"https?://([a-z0-9-]+\.taleo\.net)/careersection/([a-z0-9_]+)/", page, re.I):
+        found.append(("taleo", f"https://{m.group(1)}|{m.group(2)}"))
+    for m in re.finditer(r"https?://(wd\d+)\.myworkdaysite\.com/(?:[a-z]{2}-[A-Z]{2}/)?recruiting/([a-z0-9_-]+)/([A-Za-z0-9_-]+)", page):
+        found.append(("workday", f"https://{m.group(1)}.myworkdaysite.com/recruiting/{m.group(2)}/{m.group(3)}"))
     seen, out = set(), []
     for c in found:
         if c not in seen:
@@ -463,10 +477,15 @@ def candidates_from(page):
     return out
 
 
-def slug_guesses(name):
+def slug_guesses(name, careers=""):
     base = re.sub(r"\(.*?\)", "", name).lower().replace("&", "and")
     words = re.findall(r"[a-z0-9]+", base)
     g = ["".join(words), "-".join(words)]
+    host = urllib.parse.urlparse(careers).netloc.lower().split(".")
+    host = [h for h in host if h not in ("www", "careers", "jobs", "com", "co", "io", "ai", "aero",
+                                         "space", "tech", "xyz", "us", "energy", "bot")]
+    if host and len(host[0]) > 3:
+        g.append(host[0])
     return list(dict.fromkeys(x for x in g if x))
 
 
@@ -476,9 +495,12 @@ def try_candidate(c, careers_url):
         m = re.match(r"(https?://[^/]+/[a-z]+/[a-z]{2})(?=/|$|\?)", careers_url)
         base = m.group(1) if m else careers_url.rstrip("/")
         c = ("phenom", base)
-    elif kind == "radancy?":
+    elif kind in ("radancy?", "successfactors?", "jibe?"):
         p = urllib.parse.urlparse(careers_url)
-        c = ("radancy", f"{p.scheme}://{p.netloc}")
+        c = (kind[:-1], f"{p.scheme}://{p.netloc}")
+    elif kind == "taleo":
+        host, section = arg.split("|")
+        c = ("taleo", host, section)
     jobs = run_ats(c)
     return c, jobs
 
@@ -511,20 +533,20 @@ def discover(company):
     cands = []
     for page, final in pages:
         for c in candidates_from(page):
-            if c[0] in ("phenom?", "radancy?"):
+            if c[0].endswith("?"):
                 c = (c[0], final)
             if c not in cands:
                 cands.append(c)
     for c in cands:
         try:
             ats, jobs = try_candidate(c, c[1] if c[0].endswith("?") else url)
-            if jobs or ats[0] in ("greenhouse", "lever", "ashby", "workday", "oracle"):
+            if jobs or ats[0] in ("greenhouse", "lever", "ashby", "workday", "oracle", "taleo"):
                 return ats, jobs, "found on careers page"
         except Exception as e:
             tried.append(f"{c[0]}:{c[1]} {type(e).__name__}")
 
     # Startups mostly use Greenhouse / Lever / Ashby with a slug like their name.
-    for slug in slug_guesses(name):
+    for slug in slug_guesses(name, url):
         for kind in ("greenhouse", "ashby", "lever"):
             try:
                 jobs = run_ats((kind, slug))
