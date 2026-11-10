@@ -282,11 +282,83 @@ def fetch_amazon(query):
     return out
 
 
+def fetch_successfactors(base):
+    """SAP SuccessFactors career sites (jobs.example.com/job/Title/12345/)."""
+    base = base.rstrip("/")
+    out = {}
+    for kw in ("intern", "internship", "co-op"):
+        # Newer "Career Site Builder" sites load results from this JSON service.
+        try:
+            for page_no in range(0, 5):
+                d = http(f"{base}/services/recruiting/v1/jobs",
+                         {"locale": "en_US", "pageNumber": page_no, "sortBy": "date",
+                          "keywords": kw, "location": "", "facetFilters": {}, "brand": "",
+                          "skills": [], "categoryId": 0, "alertId": "", "rcmCandidateId": ""})
+                items = d.get("jobSearchResult", [])
+                for it in items:
+                    j = it.get("response", it)
+                    jid = j.get("id")
+                    loc = j.get("jobLocationShort") or j.get("jobLocationState") or ""
+                    if isinstance(loc, list):
+                        loc = "; ".join(map(str, loc))
+                    out[str(jid)] = posting(jid, j.get("unifiedStandardTitle") or j.get("title", ""),
+                                            f"{base}/job/{j.get('urlTitle', 'job')}/{jid}/", loc,
+                                            j.get("unifiedStandardStart", ""))
+                if len(items) < 10:
+                    break
+        except Exception:
+            pass
+        if out:
+            continue
+        # Classic sites render results as HTML.
+        for start in (0, 25, 50, 75):
+            page, final = http(f"{base}/search/?q={kw}&sortColumn=referencedate&sortDirection=desc"
+                               f"&startrow={start}", as_json=False)
+            found = [p for p in links_from(page, final, r"/job/[^/]+/\d+/?") ]
+            for p in found:
+                p["id"] = re.search(r"/(\d+)/?$", p["url"]).group(1) if re.search(r"/(\d+)/?$", p["url"]) else p["id"]
+                out[p["id"]] = p
+            if len(found) < 20:
+                break
+    if not out:
+        raise ValueError("no SuccessFactors results")
+    return list(out.values())
+
+
+def fetch_jibe(base):
+    """Jibe-powered career sites (careers.example.com/api/jobs)."""
+    base = base.rstrip("/")
+    out = {}
+    for kw in ("intern", "internship", "co-op"):
+        d = http(f"{base}/api/jobs?keywords={urllib.parse.quote(kw)}&page=1&limit=100&sortBy=posted_date")
+        for item in d.get("jobs", []):
+            j = item.get("data", item)
+            jid = j.get("req_id") or j.get("slug")
+            loc = ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
+            url = j.get("apply_url") or f"{base}/jobs/{j.get('slug', jid)}"
+            out[str(jid)] = posting(jid, j.get("title", ""), url, loc, j.get("posted_date", ""))
+    return list(out.values())
+
+
+def fetch_eightfold(host, domain):
+    host = host.rstrip("/")
+    out = {}
+    for kw in ("intern", "internship", "co-op"):
+        d = http(f"{host}/api/apply/v2/jobs?domain={domain}&query={urllib.parse.quote(kw)}"
+                 f"&start=0&num=100&sort_by=timestamp")
+        for j in d.get("positions", []):
+            out[str(j["id"])] = posting(j["id"], j.get("name", ""),
+                                        j.get("canonicalPositionUrl") or f"{host}/careers?pid={j['id']}",
+                                        j.get("location", ""), j.get("t_create", ""))
+    return list(out.values())
+
+
 FETCHERS = {
     "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
     "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
     "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
-    "amazon": fetch_amazon,
+    "amazon": fetch_amazon, "successfactors": fetch_successfactors, "jibe": fetch_jibe,
+    "eightfold": fetch_eightfold,
 }
 
 

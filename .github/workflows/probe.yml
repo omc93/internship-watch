@@ -12,6 +12,9 @@ on:
       raw:
         description: "JSON list of extra URLs to inspect"
         default: "[]"
+      ats:
+        description: "JSON list of job-system specs to test"
+        default: "[]"
 
 jobs:
   probe:
@@ -24,3 +27,4 @@ jobs:
           PROBE: ${{ inputs.companies }}
           PROBE_URLS: ${{ inputs.urls }}
           RAW_URLS: ${{ inputs.raw }}
+          ATS_TESTS: ${{ inputs.ats }}

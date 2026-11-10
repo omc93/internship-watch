@@ -87,7 +87,7 @@ def workday_hits(c):
 
 def probe(c, extra):
     out = {"name": c["name"], "pages": [page_leads(u) for u in [c["careers"]] + extra.get(c["name"], [])],
-           "boards": board_hits(c), "workday": workday_hits(c)}
+           "boards": board_hits(c), "workday": []}
     return out
 
 
@@ -110,6 +110,19 @@ def main():
                 print("  board", b)
             for w in r["workday"]:
                 print("  workday", w)
+    specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
+
+    def test(spec):
+        try:
+            jobs = watch.run_ats(tuple(spec))
+            interns = [p for p in jobs if watch.is_internship(p)]
+            return f"OK {spec} total={len(jobs)} interns={len(interns)} e.g. " + \
+                "; ".join(f"{p['title'][:50]} [{p['location'][:25]}]" for p in interns[:3])
+        except Exception as e:
+            return f"FAIL {spec} {type(e).__name__}: {str(e)[:120]}"
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for line in pool.map(test, specs):
+            print("ATS", line)
     for url in json.loads(os.environ.get("RAW_URLS", "[]") or "[]"):
         p = page_leads(url)
         print("=" * 8, "RAW", url, p["code"], p["final"], p["title"], "phenom", p["phenom"],
