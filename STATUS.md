@@ -1,21 +1,15 @@
 # Internship watch status
 
-Working: 200 of 260 companies
+Working: 202 of 260 companies
 
 
 ## New this run
 
-- **Northrop Grumman**: [Chandler Manufacturing Technician Intern - Fall](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966) United States-Arizona-Chandler
-- **Northrop Grumman**: [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794) United States-Arizona-Chandler
-- **Northrop Grumman**: [2027 Manufacturing Engineer Intern- Commerce CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976) United States-California-Commerce
-- **ABB**: [Systems Engineering Intern - Summer 2027](https://careers.abb/global/en/job/JR00048328) Cleveland, Ohio, United States of America
-- **ABB**: [Mechanical Engineering Co-op- Summer 2027](https://careers.abb/global/en/job/JR00051089) Mebane, North Carolina, United States of America
-- **Oshkosh**: [Supplier Quality Engineer Intern](https://careers.oshkoshcorp.com/us/en/job/R50855) Oshkosh, Wisconsin, United States of America
-- **PACCAR / Peterbilt / Kenworth**: [Resident Engineer Intern Summer 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Summer-2027-MS-39701/1456162633/) 
-- **PACCAR / Peterbilt / Kenworth**: [Resident Engineer Intern Spring 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Spring-2027-MS-39701/1456163033/) 
-- **Formlabs**: [Social Media Engineering Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8360209/apply/?gh_jid=8360209) Somerville, MA
-- **ITW**: [Structural Engineering Intern](https://careers.itw.com/us/en/job/JR11018) Orlando, Florida, United States of America
-- **Intel**: [Facilities Water Treatment Technician Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Facilities-Water-Treatment-Technician-Intern_JR0287403) US, New Mexico, Albuquerque
+- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01
+- **ABB**: [Systems Engineering Intern Houston - Summer 2027](https://careers.abb/global/en/job/JR00048684) Houston, Texas, United States of America
+- **ABB**: [Manufacturing Quality Engineer Intern - Spring & Summer 2027](https://careers.abb/global/en/job/JR00050507) New Berlin, Wisconsin, United States of America
+- **ABB**: [Multiphysics & Engineering Intern- Summer 2027](https://careers.abb/global/en/job/JR00048430) Raleigh, North Carolina, United States of America
+- **Samsung (US)**: [5G Network Intelligence and Automation Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) 6555 Excellence Way, Plano, TX, USA
 
 ## Aerospace, space & defense
 
@@ -25,14 +19,14 @@ Working: 200 of 260 companies
 | Airbus | ✅ ok | workday | 8 | config |
 | Anduril | ✅ ok | greenhouse | 23 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
-| Astranis | ✅ ok | greenhouse | 37 | cache |
+| Astranis | ✅ ok | greenhouse | 36 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 11 | config |
+| BAE Systems | ✅ ok | phenom | 10 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 34 | config |
 | Boeing | ✅ ok | workday | 1 | config |
-| Bombardier | ✅ ok | successfactors | 14 | config |
+| Bombardier | ✅ ok | successfactors | 13 | config |
 | Castelion | ✅ ok | html | 2 | config |
 | CesiumAstro | ✅ ok | lever | 14 | cache |
 | Crane Aerospace & Electronics | ✅ ok | workday | 10 | cache |
@@ -50,15 +44,15 @@ Working: 200 of 260 companies
 | L3Harris | ✅ ok | radancy | 0 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
-| Moog | ✅ ok | workday | 12 | cache |
+| Moog | ✅ ok | workday | 11 | cache |
 | Northrop Grumman | ✅ ok | workday | 6 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
-| Rocket Lab | ✅ ok | greenhouse | 39 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 110 | config |
+| Rocket Lab | ✅ ok | greenhouse | 37 | cache |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 111 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
-| Sierra Nevada Corporation | ✅ ok | workday | 17 | cache |
+| Sierra Nevada Corporation | ✅ ok | workday | 16 | cache |
 | Sierra Space | ✅ ok | workday | 0 | config |
 | Skydio | ✅ ok | ashby | 13 | cache |
 | SpaceX | ✅ ok | greenhouse | 8 | config |
@@ -180,7 +174,7 @@ Working: 200 of 260 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 46 | cache |
+| Oshkosh | ✅ ok | phenom | 45 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 24 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -195,7 +189,7 @@ Working: 200 of 260 companies
 | Divergent | ✅ ok | greenhouse | 2 | cache |
 | Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
-| Stellantis | ❌ unresolved |  |  | careers page: HTTPError |
+| Stellantis | ✅ ok | cws | 3 | config |
 | Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
 | Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
 | Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
@@ -212,8 +206,8 @@ Working: 200 of 260 companies
 | ZF | ✅ ok | successfactors | 7 | cache |
 | Continental | ❌ unresolved |  |  | no job system found on careers page |
 | Denso | ❌ unresolved |  |  | careers page: HTTPError |
-| Allison Transmission | ✅ ok | workday | 12 | cache |
-| Dana | ✅ ok | successfactors | 9 | config |
+| Allison Transmission | ✅ ok | workday | 11 | cache |
+| Dana | ✅ ok | successfactors | 7 | config |
 | American Axle | ✅ ok | radancy | 4 | cache |
 | Goodyear | ✅ ok | workday | 0 | cache |
 | Bridgestone Americas | ✅ ok | workday | 5 | cache |
@@ -253,10 +247,10 @@ Working: 200 of 260 companies
 | Hubbell | ✅ ok | successfactors | 16 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
-| Jabil | ✅ ok | workday | 12 | cache |
+| Jabil | ✅ ok | workday | 11 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
-| Parker Hannifin | ❌ unresolved |  |  | careers page: HTTPError |
+| Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
 | Re:Build Manufacturing | ✅ ok | greenhouse | 3 | cache |
 | Sanmina | ❌ unresolved |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 24 | config |
@@ -281,14 +275,14 @@ Working: 200 of 260 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 15 | cache |
+| Trane Technologies | ✅ ok | phenom | 8 | cache |
 | Carrier | ✅ ok | workday | 21 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
-| Whirlpool | ❌ unresolved |  |  | careers page: URLError |
+| Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
 | 3M | ✅ ok | workday | 0 | config |
 | Dow | ✅ ok | workday | 0 | config |
-| Samsung (US) | ✅ ok | workday | 0 | config |
+| Samsung (US) | ✅ ok | workday | 1 | config |
 | Intel | ✅ ok | workday | 12 | config |
 | Micron | ✅ ok | workday | 31 | cache |
 

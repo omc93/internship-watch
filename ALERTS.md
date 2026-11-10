@@ -1,5 +1,10 @@
 # Recent internship alerts
 
+- 2026-11-10 20:50 UTC · **RTX (Collins, Pratt & Whitney, Raytheon)** · [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) · US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01
+- 2026-11-10 20:50 UTC · **ABB** · [Systems Engineering Intern Houston - Summer 2027](https://careers.abb/global/en/job/JR00048684) · Houston, Texas, United States of America
+- 2026-11-10 20:50 UTC · **ABB** · [Manufacturing Quality Engineer Intern - Spring & Summer 2027](https://careers.abb/global/en/job/JR00050507) · New Berlin, Wisconsin, United States of America
+- 2026-11-10 20:50 UTC · **ABB** · [Multiphysics & Engineering Intern- Summer 2027](https://careers.abb/global/en/job/JR00048430) · Raleigh, North Carolina, United States of America
+- 2026-11-10 20:50 UTC · **Samsung (US)** · [5G Network Intelligence and Automation Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) · 6555 Excellence Way, Plano, TX, USA
 - 2026-11-10 18:53 UTC · **Northrop Grumman** · [Chandler Manufacturing Technician Intern - Fall](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966) · United States-Arizona-Chandler
 - 2026-11-10 18:53 UTC · **Northrop Grumman** · [Chandler Manufacturing Technician Intern (2nd Shift) - Fall](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794) · United States-Arizona-Chandler
 - 2026-11-10 18:53 UTC · **Northrop Grumman** · [2027 Manufacturing Engineer Intern- Commerce CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976) · United States-California-Commerce
