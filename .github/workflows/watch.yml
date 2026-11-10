@@ -1,0 +1,50 @@
+name: Internship watch
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Send a test notification only"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send test alert
+        if: ${{ inputs.test_alert }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watch.py --test
+
+      - name: Check companies
+        if: ${{ !inputs.test_alert }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 watch.py
+
+      - name: Save what was seen
+        if: ${{ !inputs.test_alert }}
+        run: |
+          git config user.name "internship-watch"
+          git config user.email "internship-watch@users.noreply.github.com"
+          git add state STATUS.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -q -m "Update seen postings"
+            git push
+          fi

@@ -1,0 +1,195 @@
+"""Companies to watch.
+
+Each entry has:
+  name     - display name
+  careers  - the company's careers page (used to auto-discover its job system)
+  ats      - optional, the job system if already known:
+               ("workday", "https://TENANT.wdN.myworkdayjobs.com/SITE")
+               ("greenhouse", "slug")      ("lever", "slug")
+               ("ashby", "slug")           ("smartrecruiters", "CompanyId")
+               ("oracle", "https://HOST/hcmUI/CandidateExperience/en/sites/CX_1")
+               ("phenom", "https://careers.example.com/us/en")
+               ("radancy", "https://careers.example.com")
+               ("html", "https://search-url", r"link-regex")
+               ("amazon", "search words")
+               ("none", "reason")         - skip; site blocks automated checks
+If an ats entry stops working, the checker falls back to discovering it again
+from the careers page.
+"""
+
+AEROSPACE = [
+    dict(name="AeroVironment", careers="https://www.avinc.com/careers"),
+    dict(name="Airbus", careers="https://www.airbus.com/en/careers",
+         ats=("workday", "https://ag.wd3.myworkdayjobs.com/Airbus")),
+    dict(name="Anduril", careers="https://www.anduril.com/careers",
+         ats=("greenhouse", "andurilindustries")),
+    dict(name="Archer Aviation", careers="https://www.archer.com/careers"),
+    dict(name="Astranis", careers="https://www.astranis.com/careers"),
+    dict(name="Astro Mechanica", careers="https://www.astromecha.co/careers"),
+    dict(name="Axiom Space", careers="https://www.axiomspace.com/careers"),
+    dict(name="BAE Systems", careers="https://jobs.baesystems.com/global/en",
+         ats=("phenom", "https://jobs.baesystems.com/global/en")),
+    dict(name="Bell Flight", careers="https://www.bellflight.com/company/careers"),
+    dict(name="Blue Origin", careers="https://www.blueorigin.com/careers",
+         ats=("workday", "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin")),
+    dict(name="Boeing", careers="https://jobs.boeing.com",
+         ats=("workday", "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS")),
+    dict(name="Bombardier", careers="https://jobs.bombardier.com"),
+    dict(name="Castelion", careers="https://www.castelion.com/careers"),
+    dict(name="CesiumAstro", careers="https://www.cesiumastro.com/careers"),
+    dict(name="Crane Aerospace & Electronics", careers="https://www.craneae.com/careers"),
+    dict(name="Curtiss-Wright", careers="https://www.curtisswright.com/careers"),
+    dict(name="Embraer", careers="https://embraer.com/global/en/careers"),
+    dict(name="Firefly Aerospace", careers="https://fireflyspace.com/careers/",
+         ats=("workday", "https://fireflyspace.wd115.myworkdayjobs.com/Firefly")),
+    dict(name="GE Aerospace", careers="https://careers.geaerospace.com",
+         ats=("workday", "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite")),
+    dict(name="General Atomics", careers="https://www.ga.com/careers"),
+    dict(name="Gulfstream Aerospace", careers="https://www.gulfstream.com/en/careers/"),
+    dict(name="Hermeus", careers="https://www.hermeus.com/careers"),
+    dict(name="Honeywell", careers="https://careers.honeywell.com/us/en",
+         ats=("phenom", "https://careers.honeywell.com/us/en")),
+    dict(name="Howmet Aerospace", careers="https://www.howmet.com/careers/"),
+    dict(name="Impulse Space", careers="https://www.impulsespace.com/careers"),
+    dict(name="Joby Aviation", careers="https://www.jobyaviation.com/careers/"),
+    dict(name="L3Harris", careers="https://careers.l3harris.com",
+         ats=("radancy", "https://careers.l3harris.com/en")),
+    dict(name="Lockheed Martin", careers="https://www.lockheedmartinjobs.com",
+         ats=("radancy", "https://www.lockheedmartinjobs.com")),
+    dict(name="Loft Orbital", careers="https://www.loftorbital.com/careers"),
+    dict(name="Moog", careers="https://www.moog.com/careers.html"),
+    dict(name="Northrop Grumman", careers="https://www.northropgrumman.com/jobs",
+         ats=("workday", "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site")),
+    dict(name="Redwire", careers="https://redwirespace.com/careers/"),
+    dict(name="Relativity Space", careers="https://www.relativityspace.com/careers"),
+    dict(name="Rocket Lab", careers="https://www.rocketlabcorp.com/careers/"),
+    dict(name="RTX (Collins, Pratt & Whitney, Raytheon)", careers="https://careers.rtx.com",
+         ats=("workday", "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway")),
+    dict(name="Safran", careers="https://www.safran-group.com/jobs"),
+    dict(name="Shield AI", careers="https://shield.ai/careers/"),
+    dict(name="Sierra Nevada Corporation", careers="https://www.sncorp.com/careers/"),
+    dict(name="Sierra Space", careers="https://www.sierraspace.com/careers/"),
+    dict(name="Skydio", careers="https://www.skydio.com/careers"),
+    dict(name="SpaceX", careers="https://www.spacex.com/careers/",
+         ats=("greenhouse", "spacex")),
+    dict(name="Stoke Space", careers="https://www.stokespace.com/careers/"),
+    dict(name="Stratolaunch", careers="https://www.stratolaunch.com/careers/"),
+    dict(name="Teledyne", careers="https://www.teledyne.com/en-us/careers"),
+    dict(name="Textron Aviation", careers="https://txtav.com/en/careers"),
+    dict(name="Triumph Group", careers="https://www.triumphgroup.com/careers/"),
+    dict(name="True Anomaly", careers="https://www.trueanomaly.space/careers"),
+    dict(name="United Launch Alliance", careers="https://www.ulalaunch.com/careers"),
+    dict(name="Vast Space", careers="https://www.vastspace.com/careers"),
+    dict(name="Wisk Aero", careers="https://wisk.aero/careers/"),
+    dict(name="Woodward", careers="https://www.woodward.com/careers/"),
+    dict(name="York Space Systems", careers="https://www.yorkspacesystems.com/careers/"),
+    dict(name="Zipline", careers="https://www.flyzipline.com/careers"),
+]
+
+ROBOTICS = [
+    dict(name="1X", careers="https://www.1x.tech/careers"),
+    dict(name="ABB", careers="https://careers.abb/global/en",
+         ats=("phenom", "https://careers.abb/global/en")),
+    dict(name="Aeva", careers="https://www.aeva.com/careers/"),
+    dict(name="Agility Robotics", careers="https://www.agilityrobotics.com/about/careers"),
+    dict(name="Amazon Robotics", careers="https://www.amazon.jobs/content/en/teams/amazon-robotics",
+         ats=("amazon", "Amazon Robotics intern")),
+    dict(name="Apptronik", careers="https://apptronik.com/careers"),
+    dict(name="Aurora", careers="https://aurora.tech/careers"),
+    dict(name="Boston Dynamics", careers="https://bostondynamics.com/careers/"),
+    dict(name="FANUC", careers="https://www.fanucamerica.com/careers"),
+    dict(name="Figure", careers="https://www.figure.ai/careers"),
+    dict(name="Intuitive Surgical", careers="https://careers.intuitive.com"),
+    dict(name="KUKA", careers="https://www.kuka.com/en-us/company/jobs-and-careers"),
+    dict(name="Nuro", careers="https://www.nuro.ai/careers"),
+    dict(name="Rockwell Automation", careers="https://www.rockwellautomation.com/en-us/company/careers.html"),
+    dict(name="Symbotic", careers="https://www.symbotic.com/careers/"),
+    dict(name="Teradyne", careers="https://www.teradyne.com/careers/"),
+]
+
+AUTOMOTIVE = [
+    dict(name="AGCO", careers="https://www.agcocorp.com/careers.html"),
+    dict(name="BMW", careers="https://www.bmwgroup.jobs/us/en.html"),
+    dict(name="Bosch", careers="https://www.bosch.us/careers/",
+         ats=("smartrecruiters", "BoschGroup")),
+    dict(name="Caterpillar", careers="https://careers.caterpillar.com",
+         ats=("workday", "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers")),
+    dict(name="CNH", careers="https://www.cnh.com/en-US/Careers"),
+    dict(name="Cummins", careers="https://www.cummins.com/careers"),
+    dict(name="Daimler Truck", careers="https://northamerica.daimlertruck.com/careers"),
+    dict(name="Ford", careers="https://www.careers.ford.com"),
+    dict(name="General Motors", careers="https://search-careers.gm.com",
+         ats=("workday", "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM")),
+    dict(name="Hitachi Construction Machinery", careers="https://www.hitachicm.us/careers/"),
+    dict(name="Honda", careers="https://careers.honda.com"),
+    dict(name="John Deere", careers="https://www.deere.com/en/our-company/careers/"),
+    dict(name="Komatsu", careers="https://www.komatsu.com/en/careers/"),
+    dict(name="Lucid Motors", careers="https://lucidmotors.com/careers"),
+    dict(name="Mercedes-Benz", careers="https://group.mercedes-benz.com/careers/"),
+    dict(name="Nissan", careers="https://www.nissanusa.com/about/careers.html"),
+    dict(name="Oshkosh", careers="https://www.oshkoshcorp.com/en/careers"),
+    dict(name="PACCAR / Peterbilt / Kenworth", careers="https://www.paccar.com/careers/"),
+    dict(name="Rivian", careers="https://rivian.com/careers"),
+    dict(name="Stellar Industries", careers="https://www.stellarindustries.com/careers"),
+    dict(name="Tesla", careers="https://www.tesla.com/careers",
+         ats=("none", "Tesla's site blocks automated checks")),
+    dict(name="Toyota", careers="https://careers.toyota.com"),
+    dict(name="Volkswagen", careers="https://www.vwgoa.com/careers"),
+    dict(name="Volvo Group", careers="https://www.volvogroup.com/en/careers.html"),
+]
+
+INDUSTRIAL = [
+    dict(name="Allegion", careers="https://allegion.com/corp/en/careers.html"),
+    dict(name="AMETEK", careers="https://www.ametek.com/careers"),
+    dict(name="Baker Hughes", careers="https://careers.bakerhughes.com"),
+    dict(name="Benchmark Electronics", careers="https://www.bench.com/careers"),
+    dict(name="Celestica", careers="https://www.celestica.com/careers"),
+    dict(name="Commonwealth Fusion Systems", careers="https://cfs.energy/careers"),
+    dict(name="Corning", careers="https://www.corning.com/careers"),
+    dict(name="Danfoss", careers="https://www.danfoss.com/en/about-danfoss/careers/"),
+    dict(name="Eaton", careers="https://www.eaton.com/us/en-us/company/careers.html"),
+    dict(name="Emerson / National Instruments", careers="https://www.emerson.com/en-us/careers"),
+    dict(name="Fictiv", careers="https://www.fictiv.com/careers"),
+    dict(name="Flex", careers="https://flex.com/careers"),
+    dict(name="Flowserve", careers="https://www.flowserve.com/en/careers/"),
+    dict(name="Formlabs", careers="https://formlabs.com/company/careers/"),
+    dict(name="Fortive", careers="https://www.fortive.com/careers"),
+    dict(name="GE Vernova", careers="https://careers.gevernova.com",
+         ats=("workday", "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite")),
+    dict(name="Grundfos", careers="https://www.grundfos.com/about-us/careers"),
+    dict(name="Hubbell", careers="https://www.hubbell.com/hubbell/en/careers"),
+    dict(name="Infinitum", careers="https://goinfinitum.com/careers/"),
+    dict(name="ITW", careers="https://www.itw.com/careers/"),
+    dict(name="Jabil", careers="https://careers.jabil.com"),
+    dict(name="Molex", careers="https://www.molex.com/en-us/careers"),
+    dict(name="NOV", careers="https://www.nov.com/careers"),
+    dict(name="Parker Hannifin", careers="https://www.parker.com/us/en/careers.html"),
+    dict(name="Re:Build Manufacturing", careers="https://rebuildmanufacturing.com/careers/"),
+    dict(name="Sanmina", careers="https://www.sanmina.com/careers/"),
+    dict(name="Schneider Electric", careers="https://careers.se.com"),
+    dict(name="Siemens", careers="https://jobs.siemens.com"),
+    dict(name="Stanley Black & Decker", careers="https://www.stanleyblackanddecker.com/careers"),
+    dict(name="Sulzer", careers="https://www.sulzer.com/en/shared/careers"),
+    dict(name="TE Connectivity", careers="https://careers.te.com"),
+    dict(name="TechnipFMC", careers="https://www.technipfmc.com/en/careers/"),
+    dict(name="Weatherford", careers="https://www.weatherford.com/careers/"),
+    dict(name="Xylem", careers="https://www.xylem.com/en-us/careers/"),
+]
+
+SEMICONDUCTOR = [
+    dict(name="Applied Materials", careers="https://www.appliedmaterials.com/us/en/careers.html"),
+    dict(name="ASML", careers="https://www.asml.com/en/careers"),
+    dict(name="Entegris", careers="https://www.entegris.com/en/home/about-us/careers.html"),
+    dict(name="KLA", careers="https://www.kla.com/careers"),
+    dict(name="Lam Research", careers="https://careers.lamresearch.com"),
+]
+
+GROUPS = {
+    "Aerospace, space & defense": AEROSPACE,
+    "Robotics & autonomous vehicles": ROBOTICS,
+    "Automotive, trucks & heavy equipment": AUTOMOTIVE,
+    "Industrial equipment & manufacturing": INDUSTRIAL,
+    "Semiconductor equipment": SEMICONDUCTOR,
+}
+
+COMPANIES = [dict(c, group=g) for g, lst in GROUPS.items() for c in lst]

@@ -1,0 +1,573 @@
+#!/usr/bin/env python3
+"""Internship watcher.
+
+Checks each company's own job system for internship postings, compares them
+with what it has already seen, and sends new ones to your phone via ntfy.
+
+Usage:
+  python watch.py              normal run (sends alerts for new postings)
+  python watch.py --test       send one test notification and exit
+  python watch.py --only NAME  check only companies whose name contains NAME
+
+Environment:
+  NTFY_TOPIC   your private ntfy topic name (required for alerts)
+  NTFY_SERVER  defaults to https://ntfy.sh
+"""
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
+
+from companies import COMPANIES
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+STATE_DIR = os.path.join(ROOT, "state")
+SEEN_FILE = os.path.join(STATE_DIR, "seen.json")
+RESOLVED_FILE = os.path.join(STATE_DIR, "resolved.json")
+STATUS_FILE = os.path.join(ROOT, "STATUS.md")
+
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
+TIMEOUT = 25
+MAX_ALERTS_PER_RUN = 20
+REDISCOVER_HOURS = 24
+
+INTERN_RE = re.compile(r"\b(intern|interns|internship|internships|co-?op|coop)\b", re.I)
+EXCLUDE_RE = re.compile(r"\b(high school|internal|international)\b", re.I)
+# Locations clearly outside the US. Postings with no location, or a US/remote
+# location, are kept.
+NON_US = re.compile(
+    r"\b(india|china|germany|deutschland|france|uk|united kingdom|england|"
+    r"scotland|ireland|mexico|méxico|brazil|brasil|canada|ontario|quebec|"
+    r"québec|british columbia|alberta|japan|korea|singapore|malaysia|"
+    r"philippines|vietnam|thailand|indonesia|taiwan|australia|new zealand|"
+    r"poland|czech|hungary|romania|slovakia|italy|italia|spain|españa|"
+    r"portugal|netherlands|belgium|switzerland|austria|sweden|norway|"
+    r"denmark|finland|israel|turkey|türkiye|saudi|uae|dubai|qatar|egypt|"
+    r"morocco|south africa|argentina|chile|colombia|peru|costa rica|"
+    r"bangalore|bengaluru|hyderabad|pune|chennai|shanghai|suzhou|beijing|"
+    r"shenzhen|munich|münchen|berlin|stuttgart|toulouse|paris|hamburg|"
+    r"bremen|madrid|getafe|montreal|montréal|toronto|mississauga|"
+    r"querétaro|queretaro|monterrey|chihuahua|juarez|juárez|tijuana|"
+    r"guadalajara|krakow|kraków|wroclaw|wrocław|rzeszow|rzeszów|"
+    r"budapest|bucharest|bratislava|prague|brno|eindhoven|veldhoven)\b",
+    re.I)
+
+
+# ---------------------------------------------------------------- HTTP
+
+def http(url, data=None, headers=None, method=None, as_json=True):
+    h = {"User-Agent": UA, "Accept": "application/json, text/html;q=0.9, */*;q=0.8",
+         "Accept-Language": "en-US,en;q=0.9"}
+    if headers:
+        h.update(headers)
+    body = None
+    if data is not None:
+        body = json.dumps(data).encode() if not isinstance(data, bytes) else data
+        h.setdefault("Content-Type", "application/json")
+    req = urllib.request.Request(url, data=body, headers=h, method=method)
+    last = None
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                raw = r.read()
+                text = raw.decode(r.headers.get_content_charset() or "utf-8", "replace")
+                if as_json:
+                    return json.loads(text)
+                return text, r.geturl()
+        except urllib.error.HTTPError as e:
+            if e.code in (400, 401, 403, 404, 410, 422):
+                raise
+            last = e
+        except Exception as e:  # timeouts, resets
+            last = e
+        time.sleep(2)
+    raise last
+
+
+def clean(s):
+    s = re.sub(r"<[^>]+>", " ", s or "")
+    return re.sub(r"\s+", " ", html.unescape(s)).strip()
+
+
+def posting(pid, title, url, location="", posted=""):
+    return {"id": str(pid), "title": clean(title), "url": url,
+            "location": clean(location), "posted": clean(str(posted or ""))}
+
+
+# ---------------------------------------------------------------- job systems
+
+def fetch_workday(url):
+    p = urllib.parse.urlparse(url)
+    tenant = p.netloc.split(".")[0]
+    segs = [s for s in p.path.split("/") if s and not re.fullmatch(r"[a-z]{2}-[A-Z]{2}", s)]
+    site = segs[0]
+    api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
+    out = {}
+    for text in ("intern", "co-op"):
+        offset, total = 0, None
+        while offset < 400:
+            d = http(api, {"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": text})
+            if total is None:
+                total = d.get("total", 0)
+            jobs = d.get("jobPostings", [])
+            for j in jobs:
+                path = j.get("externalPath", "")
+                out[path] = posting(path, j.get("title", ""), f"https://{p.netloc}/{site}{path}",
+                                    j.get("locationsText", ""), j.get("postedOn", ""))
+            offset += 20
+            if not jobs or offset >= total:
+                break
+    return list(out.values())
+
+
+def fetch_greenhouse(slug):
+    d = http(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs")
+    return [posting(j["id"], j["title"], j["absolute_url"],
+                    (j.get("location") or {}).get("name", ""),
+                    j.get("first_published") or j.get("updated_at", ""))
+            for j in d.get("jobs", [])]
+
+
+def fetch_lever(slug):
+    d = http(f"https://api.lever.co/v0/postings/{slug}?mode=json")
+    return [posting(j["id"], j["text"], j["hostedUrl"],
+                    (j.get("categories") or {}).get("location", ""))
+            for j in d]
+
+
+def fetch_ashby(slug):
+    d = http(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+    return [posting(j["id"], j["title"], j.get("jobUrl", ""), j.get("location", ""),
+                    j.get("publishedAt", ""))
+            for j in d.get("jobs", [])]
+
+
+def fetch_smartrecruiters(cid):
+    out = []
+    for q in ("intern", "internship", "co-op"):
+        d = http(f"https://api.smartrecruiters.com/v1/companies/{cid}/postings?"
+                 f"q={urllib.parse.quote(q)}&limit=100&country=us")
+        for j in d.get("content", []):
+            loc = j.get("location") or {}
+            out.append(posting(j["id"], j["name"],
+                               f"https://jobs.smartrecruiters.com/{cid}/{j['id']}",
+                               ", ".join(x for x in (loc.get("city"), loc.get("region"),
+                                                     loc.get("country")) if x),
+                               j.get("releasedDate", "")))
+    return out
+
+
+def fetch_oracle(url):
+    p = urllib.parse.urlparse(url)
+    site = re.search(r"/sites/([^/?#]+)", p.path).group(1)
+    out = []
+    for kw in ("intern", "co-op"):
+        q = (f"https://{p.netloc}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?"
+             f"onlyData=true&expand=requisitionList.secondaryLocations&"
+             f"finder=findReqs;siteNumber={site},keyword={urllib.parse.quote(kw)},"
+             f"limit=200,sortBy=POSTING_DATES_DESC")
+        d = http(q)
+        for item in d.get("items", []):
+            for j in item.get("requisitionList", []):
+                out.append(posting(j["Id"], j.get("Title", ""),
+                                   f"https://{p.netloc}/hcmUI/CandidateExperience/en/sites/{site}/job/{j['Id']}",
+                                   j.get("PrimaryLocation", ""), j.get("PostedDate", "")))
+    return out
+
+
+def _phenom_jobs(page):
+    i = page.find('"eagerLoadRefineSearch"')
+    if i < 0:
+        return None
+    j = page.find("{", i)
+    obj, _ = json.JSONDecoder().raw_decode(page[j:])
+    return (obj.get("data") or {}).get("jobs", [])
+
+
+def fetch_phenom(base):
+    base = base.rstrip("/")
+    out = []
+    for start in range(0, 100, 10):
+        page, _ = http(f"{base}/search-results?keywords=intern&from={start}&s=1", as_json=False)
+        jobs = _phenom_jobs(page)
+        if jobs is None:
+            if start == 0:
+                raise ValueError("no Phenom job data on page")
+            break
+        for j in jobs:
+            jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
+            loc = j.get("cityStateCountry") or j.get("location") or ""
+            out.append(posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
+                               j.get("postedDate", "")))
+        if len(jobs) < 10:
+            break
+    return out
+
+
+LINK_RE = re.compile(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', re.I | re.S)
+
+
+def links_from(page, base_url, pattern):
+    out = {}
+    pat = re.compile(pattern)
+    for href, text in LINK_RE.findall(page):
+        href = html.unescape(href)
+        if not pat.search(href):
+            continue
+        full = urllib.parse.urljoin(base_url, href)
+        title = clean(text)
+        if not title or len(title) > 200:
+            continue
+        out[full] = posting(full, title, full)
+    return list(out.values())
+
+
+def fetch_radancy(base):
+    base = base.rstrip("/")
+    out = {}
+    # JSON endpoint used by TalentBrew sites; newest first.
+    try:
+        q = (f"{base}/search-jobs/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=200"
+             f"&Distance=50&Keywords=intern&SortCriteria=1&SortDirection=1&SearchType=5"
+             f"&ResultsType=0")
+        d = http(q, headers={"X-Requested-With": "XMLHttpRequest"})
+        for p in links_from(d.get("results", ""), base, r"/job/"):
+            out[p["id"]] = p
+    except Exception:
+        pass
+    if not out:
+        for pg in (1, 2, 3):
+            page, final = http(f"{base}/search-jobs/intern?p={pg}", as_json=False)
+            for p in links_from(page, final, r"/job/"):
+                out[p["id"]] = p
+    if not out:
+        raise ValueError("no job links found")
+    return list(out.values())
+
+
+def fetch_html(url, pattern=r"/job"):
+    page, final = http(url, as_json=False)
+    found = links_from(page, final, pattern)
+    if not found:
+        raise ValueError("no job links found")
+    return found
+
+
+def fetch_amazon(query):
+    url = ("https://www.amazon.jobs/en/search.json?result_limit=100&sort=recent"
+           f"&normalized_country_code%5B%5D=USA&base_query={urllib.parse.quote(query)}")
+    d = http(url)
+    out = []
+    for j in d.get("jobs", []):
+        blob = json.dumps(j).lower()
+        if "robotics" not in blob:
+            continue
+        out.append(posting(j.get("id_icims") or j.get("id"), j.get("title", ""),
+                           "https://www.amazon.jobs" + j.get("job_path", ""),
+                           j.get("normalized_location") or j.get("location", ""),
+                           j.get("posted_date", "")))
+    return out
+
+
+FETCHERS = {
+    "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
+    "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
+    "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
+    "amazon": fetch_amazon,
+}
+
+
+def run_ats(ats):
+    kind, *args = ats
+    return FETCHERS[kind](*args)
+
+
+# ---------------------------------------------------------------- discovery
+
+PATTERNS = [
+    ("workday", re.compile(r"https?://([a-z0-9-]+\.wd\d+\.myworkdayjobs\.com)/(?:[a-z]{2}-[A-Z]{2}/)?"
+                           r"(?!wday\b)([A-Za-z0-9_-]+)")),
+    ("greenhouse", re.compile(r"(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board(?:/js)?\?for=)?"
+                              r"([A-Za-z0-9_-]+)")),
+    ("lever", re.compile(r"jobs\.lever\.co/([A-Za-z0-9_-]+)")),
+    ("ashby", re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_.%-]+)")),
+    ("smartrecruiters", re.compile(r"(?:jobs|careers)\.smartrecruiters\.com/([A-Za-z0-9_-]+)")),
+    ("oracle", re.compile(r"https?://([a-z0-9.-]+\.oraclecloud\.com)/hcmUI/CandidateExperience/"
+                          r"[a-zA-Z-]+/sites/([A-Za-z0-9_]+)")),
+]
+SKIP_SLUGS = {"embed", "js", "v1", "jobs", "job", "api", "careers", "search"}
+
+
+def candidates_from(page):
+    found = []
+    for kind, rx in PATTERNS:
+        for m in rx.finditer(page):
+            if kind == "workday":
+                found.append(("workday", f"https://{m.group(1)}/{m.group(2)}"))
+            elif kind == "oracle":
+                found.append(("oracle", f"https://{m.group(1)}/hcmUI/CandidateExperience/en/sites/{m.group(2)}"))
+            elif m.group(1).lower() not in SKIP_SLUGS:
+                found.append((kind, urllib.parse.unquote(m.group(1))))
+    if "phenompeople" in page or "phApp.ddo" in page:
+        found.append(("phenom?", ""))
+    if "talentbrew" in page.lower():
+        found.append(("radancy?", ""))
+    seen, out = set(), []
+    for c in found:
+        if c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+
+def slug_guesses(name):
+    base = re.sub(r"\(.*?\)", "", name).lower().replace("&", "and")
+    words = re.findall(r"[a-z0-9]+", base)
+    g = ["".join(words), "-".join(words)]
+    if len(words) > 1:
+        g.append(words[0])
+    return list(dict.fromkeys(x for x in g if x))
+
+
+def try_candidate(c, careers_url):
+    kind, arg = c
+    if kind == "phenom?":
+        m = re.match(r"(https?://[^/]+/[a-z]+/[a-z]{2})(?=/|$|\?)", careers_url)
+        base = m.group(1) if m else careers_url.rstrip("/")
+        c = ("phenom", base)
+    elif kind == "radancy?":
+        p = urllib.parse.urlparse(careers_url)
+        c = ("radancy", f"{p.scheme}://{p.netloc}")
+    jobs = run_ats(c)
+    return c, jobs
+
+
+def discover(company):
+    """Return (ats, jobs, note) or raise."""
+    name, url = company["name"], company["careers"]
+    tried = []
+    pages = []
+    try:
+        page, final = http(url, as_json=False)
+        pages.append((page, final))
+        # one hop: follow links that look like job search pages
+        hops = []
+        for href, text in LINK_RE.findall(page):
+            t = (href + " " + clean(text)).lower()
+            if any(k in t for k in ("search-jobs", "job-search", "jobs", "openings",
+                                    "positions", "opportunities", "apply", "join")):
+                full = urllib.parse.urljoin(final, html.unescape(href))
+                if full.startswith("http") and full not in hops and full != final:
+                    hops.append(full)
+        for h in hops[:6]:
+            try:
+                pages.append(http(h, as_json=False))
+            except Exception:
+                pass
+    except Exception as e:
+        tried.append(f"careers page: {type(e).__name__}")
+
+    cands = []
+    for page, final in pages:
+        for c in candidates_from(page):
+            if c[0] in ("phenom?", "radancy?"):
+                c = (c[0], final)
+            if c not in cands:
+                cands.append(c)
+    for c in cands:
+        try:
+            ats, jobs = try_candidate(c, c[1] if c[0].endswith("?") else url)
+            if jobs or ats[0] in ("greenhouse", "lever", "ashby", "workday", "oracle"):
+                return ats, jobs, "found on careers page"
+        except Exception as e:
+            tried.append(f"{c[0]}:{c[1]} {type(e).__name__}")
+
+    # Startups mostly use Greenhouse / Lever / Ashby with a slug like their name.
+    for slug in slug_guesses(name):
+        for kind in ("greenhouse", "ashby", "lever"):
+            try:
+                jobs = run_ats((kind, slug))
+                if jobs:
+                    return (kind, slug), jobs, "guessed from company name - verify"
+            except Exception:
+                pass
+    raise LookupError("; ".join(tried[:4]) or "no job system found on careers page")
+
+
+# ---------------------------------------------------------------- main logic
+
+def load(path, default):
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return default
+
+
+def save(path, obj):
+    with open(path, "w") as f:
+        json.dump(obj, f, indent=1, sort_keys=True, ensure_ascii=False)
+        f.write("\n")
+
+
+def is_internship(p):
+    t = p["title"]
+    if not INTERN_RE.search(t) or EXCLUDE_RE.search(t):
+        return False
+    if p["location"] and NON_US.search(p["location"]) and not re.search(
+            r"\b(united states|usa|us|remote)\b", p["location"], re.I):
+        return False
+    if NON_US.search(t):
+        return False
+    return True
+
+
+def check(company, resolved):
+    """Returns dict(status, ats, jobs, note)."""
+    name = company["name"]
+    ats = company.get("ats")
+    if ats and ats[0] == "none":
+        return {"status": "skipped", "note": ats[1], "jobs": []}
+    errors = []
+    for source, cand in (("config", ats), ("cache", resolved.get(name, {}).get("ats"))):
+        if not cand:
+            continue
+        cand = tuple(cand)
+        try:
+            return {"status": "ok", "ats": list(cand), "jobs": run_ats(cand), "note": source}
+        except Exception as e:
+            errors.append(f"{cand[0]} failed ({type(e).__name__}: {str(e)[:80]})")
+    last = resolved.get(name, {}).get("last_discovery", 0)
+    if not errors and time.time() - last < REDISCOVER_HOURS * 3600:
+        return {"status": "unresolved", "note": resolved[name].get("note", ""), "jobs": []}
+    try:
+        found, jobs, note = discover(company)
+        return {"status": "ok", "ats": list(found), "jobs": jobs, "note": note,
+                "discovered": True}
+    except Exception as e:
+        errors.append(str(e)[:200])
+        return {"status": "error", "note": " | ".join(errors), "jobs": [],
+                "discovery_failed": True}
+
+
+def notify(title, message, click=None, tags="briefcase", priority="default"):
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        print(f"[no NTFY_TOPIC] {title}: {message}")
+        return
+    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    headers = {"Title": title.encode("utf-8").decode("latin-1", "replace"),
+               "Tags": tags, "Priority": priority, "Content-Type": "text/plain; charset=utf-8"}
+    if click:
+        headers["Click"] = click
+    req = urllib.request.Request(f"{server}/{topic}", data=message.encode("utf-8"),
+                                 headers=headers, method="POST")
+    try:
+        urllib.request.urlopen(req, timeout=TIMEOUT).read()
+    except Exception as e:
+        print(f"notify failed: {e}")
+
+
+def main():
+    args = sys.argv[1:]
+    if "--test" in args:
+        notify("Internship watch is connected",
+               "Test alert. New internship postings will show up here.", tags="white_check_mark")
+        return
+    only = args[args.index("--only") + 1].lower() if "--only" in args else None
+
+    os.makedirs(STATE_DIR, exist_ok=True)
+    seen = load(SEEN_FILE, {})
+    resolved = load(RESOLVED_FILE, {})
+    companies = [c for c in COMPANIES if not only or only in c["name"].lower()]
+
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        results = list(pool.map(lambda c: (c, check(c, resolved)), companies))
+
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    alerts, rows = [], []
+    for company, r in results:
+        name = company["name"]
+        entry = resolved.setdefault(name, {})
+        if r.get("ats"):
+            entry["ats"] = r["ats"]
+        if r.get("discovered") or r.get("discovery_failed"):
+            entry["last_discovery"] = time.time()
+        entry["note"] = r.get("note", "")
+        entry["status"] = r["status"]
+        entry["fails"] = 0 if r["status"] == "ok" else entry.get("fails", 0) + 1
+
+        interns = [p for p in r["jobs"] if is_internship(p)]
+        state = seen.setdefault(name, {"seeded": False, "ids": {}})
+        if r["status"] == "ok":
+            new = [p for p in interns if p["id"] not in state["ids"]]
+            for p in interns:
+                state["ids"].setdefault(p["id"], {"title": p["title"], "first_seen": now})
+            if state["seeded"]:
+                alerts += [(name, p) for p in new]
+            else:
+                state["seeded"] = True   # first successful check: record silently
+        rows.append((company["group"], name, r["status"],
+                     (r.get("ats") or [""])[0], len(r["jobs"]), len(interns), r.get("note", "")))
+
+    for name, p in alerts[:MAX_ALERTS_PER_RUN]:
+        bits = [x for x in (p["location"], p["posted"]) if x]
+        notify(f"{name}: {p['title']}", " · ".join(bits) or "New internship posting",
+               click=p["url"])
+        print(f"NEW  {name}: {p['title']}  {p['url']}")
+    if len(alerts) > MAX_ALERTS_PER_RUN:
+        rest = alerts[MAX_ALERTS_PER_RUN:]
+        names = sorted({n for n, _ in rest})
+        notify(f"+{len(rest)} more new internships",
+               "Also new at: " + ", ".join(names) + ". See STATUS.md in your repo.",
+               tags="briefcase")
+
+    # Warn once when a company that used to work has failed for 12 checks in a row.
+    for company, r in results:
+        e = resolved[company["name"]]
+        if e["fails"] == 12 and seen.get(company["name"], {}).get("seeded"):
+            notify(f"Check broken: {company['name']}",
+                   "This company's job site has failed for about 12 hours. "
+                   "Ask Claude to look at it.", tags="warning")
+
+    save(SEEN_FILE, seen)
+    save(RESOLVED_FILE, resolved)
+    write_status(rows, alerts, now)
+    ok = sum(1 for r in rows if r[2] == "ok")
+    print(f"\n{ok}/{len(rows)} companies checked OK, {len(alerts)} new internship(s).")
+
+
+def write_status(rows, alerts, now):
+    lines = ["# Internship watch status\n",
+             f"Working: {sum(1 for r in rows if r[2] == 'ok')} of {len(rows)} companies\n"]
+    if alerts:
+        lines.append("\n## New this run\n")
+        for name, p in alerts:
+            lines.append(f"- **{name}**: [{p['title']}]({p['url']}) {p['location']}")
+    group = None
+    for g, name, status, kind, total, interns, note in rows:
+        if g != group:
+            group = g
+            lines += [f"\n## {g}\n", "| Company | Status | System | Open internships | Note |",
+                      "|---|---|---|---|---|"]
+        icon = {"ok": "✅", "skipped": "⏭️"}.get(status, "❌")
+        lines.append(f"| {name} | {icon} {status} | {kind} | {interns if status == 'ok' else ''} "
+                     f"| {note.replace('|', '/')[:120]} |")
+    with open(STATUS_FILE, "w") as f:
+        f.write("\n".join(lines) + "\n")
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a") as f:
+            f.write("\n".join(lines) + "\n")
+
+
+if __name__ == "__main__":
+    main()
