@@ -110,6 +110,27 @@ def main():
                 print("  board", b)
             for w in r["workday"]:
                 print("  workday", w)
+    def wd(tenant):
+        import urllib.request
+        lines = []
+        for n in ("wd1", "wd3", "wd5", "wd12", "wd103", "wd108", "wd501"):
+            url = f"https://{tenant}.{n}.myworkdayjobs.com/"
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": watch.UA, "Accept": "text/html"})
+                with urllib.request.urlopen(req, timeout=15) as r:
+                    body = r.read(200000).decode("utf-8", "replace")
+                    sites = sorted(set(re.findall(r"myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([A-Za-z0-9_-]{3,60})", body)))
+                    lines.append(f"WD {tenant}.{n} 200 final={r.geturl()} sites={sites[:6]}")
+            except Exception as e:
+                code = getattr(e, "code", type(e).__name__)
+                if code not in (404, "URLError", 500):
+                    lines.append(f"WD {tenant}.{n} {code}")
+        return lines
+    tenants = json.loads(os.environ.get("WD_TENANTS", "[]") or "[]")
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for lines in pool.map(wd, tenants):
+            for l in lines:
+                print(l)
     specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
 
     def test(spec):

@@ -344,9 +344,11 @@ def fetch_successfactors(base):
         for start in (0, 25, 50, 75):
             page, final = http(f"{base}/search/?q={kw}&sortColumn=referencedate&sortDirection=desc"
                                f"&startrow={start}", as_json=False)
-            found = [p for p in links_from(page, final, r"/job/[^/]+/\d+/?") ]
+            found = links_from(page, final, r"/job/[^/]+/\d+(?:-[a-z]{2}_[A-Z]{2})?/?$")
             for p in found:
-                p["id"] = re.search(r"/(\d+)/?$", p["url"]).group(1) if re.search(r"/(\d+)/?$", p["url"]) else p["id"]
+                m = re.search(r"/(\d+)(?:-[a-z]{2}_[A-Z]{2})?/?$", p["url"])
+                if m:
+                    p["id"] = m.group(1)
                 out[p["id"]] = p
             if len(found) < 20:
                 break
@@ -378,12 +380,19 @@ def fetch_eightfold(host, domain):
     host = host.rstrip("/")
     out = {}
     for kw in ("intern", "internship", "co-op"):
-        d = http(f"{host}/api/apply/v2/jobs?domain={domain}&query={urllib.parse.quote(kw)}"
-                 f"&start=0&num=100&sort_by=timestamp")
-        for j in d.get("positions", []):
-            out[str(j["id"])] = posting(j["id"], j.get("name", ""),
-                                        j.get("canonicalPositionUrl") or f"{host}/careers?pid={j['id']}",
-                                        j.get("location", ""), j.get("t_create", ""))
+        q = urllib.parse.quote(kw)
+        try:
+            d = http(f"{host}/api/apply/v2/jobs?domain={domain}&query={q}&start=0&num=100&sort_by=timestamp")
+            positions = d.get("positions", [])
+        except urllib.error.HTTPError:
+            d = http(f"{host}/api/pcsx/search?domain={domain}&query={q}&location=&start=0&sort_by=timestamp",
+                     headers={"Referer": f"{host}/careers"})
+            positions = (d.get("data") or d).get("positions", [])
+        for j in positions:
+            loc = j.get("location") or "; ".join(j.get("locations") or [])
+            url = j.get("canonicalPositionUrl") or j.get("positionUrl") or f"/careers/job/{j['id']}"
+            out[str(j["id"])] = posting(j["id"], j.get("name", ""), urllib.parse.urljoin(host + "/", url),
+                                        loc, j.get("t_create") or j.get("postedTs") or "")
     return list(out.values())
 
 

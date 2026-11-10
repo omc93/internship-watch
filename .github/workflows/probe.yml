@@ -15,6 +15,9 @@ on:
       ats:
         description: "JSON list of job-system specs to test"
         default: "[]"
+      wd:
+        description: "JSON list of Workday tenant names to probe"
+        default: "[]"
 
 jobs:
   probe:
@@ -28,3 +31,4 @@ jobs:
           PROBE_URLS: ${{ inputs.urls }}
           RAW_URLS: ${{ inputs.raw }}
           ATS_TESTS: ${{ inputs.ats }}
+          WD_TENANTS: ${{ inputs.wd }}
