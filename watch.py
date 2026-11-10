@@ -172,7 +172,7 @@ def fetch_greenhouse(slug):
 def fetch_lever(slug):
     d = http(f"https://api.lever.co/v0/postings/{slug}?mode=json")
     return [posting(j["id"], j["text"], j["hostedUrl"],
-                    (j.get("categories") or {}).get("location", ""))
+                    (j.get("categories") or {}).get("location", ""), j.get("createdAt", ""))
             for j in d]
 
 
@@ -229,22 +229,27 @@ def fetch_phenom(base):
     base = base.rstrip("/")
     out = {}
     for kw in ("intern", "internship", "co-op"):
-        for start in range(0, 100, 10):
+        start, total = 0, None
+        while start < 600:
             page, _ = http(f"{base}/search-results?keywords={kw}&from={start}&s=1", as_json=False)
-            jobs = _phenom_jobs(page)
-            if jobs is None:
+            i = page.find('"eagerLoadRefineSearch"')
+            if i < 0:
                 if start == 0 and kw == "intern":
                     raise ValueError("no Phenom job data on page")
                 break
+            obj, _ = json.JSONDecoder().raw_decode(page[page.find("{", i):])
+            if total is None:
+                total = obj.get("totalHits") or obj.get("hits") or 0
+            jobs = (obj.get("data") or {}).get("jobs", [])
             for j in jobs:
                 jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
                 loc = j.get("cityStateCountry") or j.get("location") or ""
                 out[jid] = posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
                                    j.get("postedDate", ""))
-            if len(jobs) < 10:
+            start += len(jobs)
+            if not jobs or start >= total:
                 break
     return list(out.values())
-
 
 LINK_RE = re.compile(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', re.I | re.S)
 
@@ -355,15 +360,19 @@ def fetch_jibe(base):
     base = base.rstrip("/")
     out = {}
     for kw in ("intern", "internship", "co-op"):
-        d = http(f"{base}/api/jobs?keywords={urllib.parse.quote(kw)}&page=1&limit=100&sortBy=posted_date")
-        for item in d.get("jobs", []):
-            j = item.get("data", item)
-            jid = j.get("req_id") or j.get("slug")
-            loc = ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
-            url = j.get("apply_url") or f"{base}/jobs/{j.get('slug', jid)}"
-            out[str(jid)] = posting(jid, j.get("title", ""), url, loc, j.get("posted_date", ""))
+        for page_no in range(1, 30):
+            d = http(f"{base}/api/jobs?keywords={urllib.parse.quote(kw)}&page={page_no}&limit=100")
+            items = d.get("jobs", [])
+            for item in items:
+                j = item.get("data", item)
+                jid = j.get("req_id") or j.get("slug")
+                loc = ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
+                out[str(jid)] = posting(jid, j.get("title", ""), f"{base}/jobs/{j.get('slug', jid)}",
+                                        loc, j.get("posted_date", ""))
+            total = d.get("totalCount") or d.get("count") or 0
+            if not items or len(out) >= total or len(items) < 10:
+                break
     return list(out.values())
-
 
 def fetch_eightfold(host, domain):
     host = host.rstrip("/")
@@ -573,6 +582,39 @@ def save(path, obj):
         f.write("\n")
 
 
+MAX_AGE_DAYS = 4   # postings older than this are recorded silently, never alerted
+MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+
+
+def age_days(posted):
+    """Best-effort age of a posting in days, or None if unknown."""
+    t = str(posted or "").strip().lower()
+    if not t:
+        return None
+    now = datetime.now(timezone.utc)
+    if re.fullmatch(r"\d{12,14}", t):                      # epoch milliseconds
+        return (now - datetime.fromtimestamp(int(t) / 1000, timezone.utc)).days
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", t)            # ISO date
+    if m:
+        d = datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
+        return (now - d).days
+    if "today" in t or "just posted" in t or "hour" in t:
+        return 0
+    if "yesterday" in t:
+        return 1
+    m = re.search(r"(\d+)\+?\s*days?", t)                   # "Posted 5 Days Ago", "30+ Days"
+    if m:
+        return int(m[1])
+    m = re.search(r"([a-z]{3})[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})", t)   # "Nov 3, 2026"
+    if m and m[1] in MONTHS:
+        return (now - datetime(int(m[3]), MONTHS[m[1]], int(m[2]), tzinfo=timezone.utc)).days
+    m = re.search(r"(\d{1,2})\s+([a-z]{3})[a-z]*\.?,?\s+(\d{4})", t)   # "3 Nov 2026"
+    if m and m[2] in MONTHS:
+        return (now - datetime(int(m[3]), MONTHS[m[2]], int(m[1]), tzinfo=timezone.utc)).days
+    return None
+
+
 def is_internship(p):
     t = p["title"]
     if not INTERN_RE.search(t) or EXCLUDE_RE.search(t):
@@ -661,7 +703,7 @@ def main():
         entry["status"] = r["status"]
         entry["fails"] = 0 if r["status"] == "ok" else entry.get("fails", 0) + 1
 
-        interns = [p for p in r["jobs"] if is_internship(p)]
+        interns = list({p["id"]: p for p in r["jobs"] if is_internship(p)}.values())
         state = seen.setdefault(name, {"seeded": False, "ids": {}})
         if r["status"] == "ok":
             fp = [SEARCH_VERSION] + list(r.get("ats") or [])
@@ -672,7 +714,10 @@ def main():
             for p in interns:
                 state["ids"].setdefault(p["id"], {"title": p["title"], "first_seen": now})
             if state["seeded"]:
-                alerts += [(name, p) for p in new if is_engineering(p["title"])]
+                for p in new:
+                    age = age_days(p["posted"])
+                    if is_engineering(p["title"]) and (age is None or age <= MAX_AGE_DAYS):
+                        alerts.append((name, p))
             else:
                 state["seeded"] = True   # first successful check: record silently
         rows.append((company["group"], name, r["status"],
