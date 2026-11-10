@@ -441,12 +441,33 @@ def fetch_taleo(host, section):
     return list(out.values())
 
 
+def fetch_sfxml(host, company):
+    """SuccessFactors XML job feed (careerN.successfactors.com/career?company=X&resultType=XML)."""
+    host = host.rstrip("/")
+    page, _ = http(f"{host}/career?company={company}&career_ns=job_listing_summary&resultType=XML",
+                   as_json=False)
+    out = []
+    for block in re.findall(r"<Job>(.*?)</Job>", page, re.S):
+        f = {k.lower(): re.sub(r"^<!\[CDATA\[|\]\]>$", "", v.strip())
+             for k, v in re.findall(r"<([\w-]+)>(.*?)</\1>", block, re.S)}
+        title = f.get("jobtitle") or f.get("title", "")
+        jid = next((v for k, v in f.items() if "reqid" in k.replace("-", "")), "") or title
+        loc = next((v for k, v in f.items() if "location" in k and len(v) < 120), "")
+        date = next((v for k, v in f.items() if "date" in k and len(v) < 40), "")
+        out.append(posting(jid, title,
+                           f"{host}/career?company={company}&career_job_req_id={jid}&career_ns=job_listing",
+                           loc, date))
+    if not out:
+        raise ValueError("no jobs in XML feed")
+    return out
+
+
 FETCHERS = {
     "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
     "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
     "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
     "amazon": fetch_amazon, "successfactors": fetch_successfactors, "jibe": fetch_jibe,
-    "eightfold": fetch_eightfold, "taleo": fetch_taleo,
+    "eightfold": fetch_eightfold, "taleo": fetch_taleo, "sfxml": fetch_sfxml,
 }
 
 
