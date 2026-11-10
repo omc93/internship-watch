@@ -744,6 +744,16 @@ def main():
                    "This company's job site has failed for about 12 hours. "
                    "Ask Claude to look at it.", tags="warning")
 
+    if alerts:   # keep a running list of recent alerts, newest first
+        log = os.path.join(ROOT, "ALERTS.md")
+        try:
+            prev = open(log).read().split("\n", 2)[2] if os.path.exists(log) else ""
+        except IndexError:
+            prev = ""
+        lines = [f"- {now} · **{n}** · [{p['title']}]({p['url']}) · {p['location']}" for n, p in alerts]
+        body = "\n".join(lines + prev.splitlines()[:300])
+        with open(log, "w") as f:
+            f.write("# Recent internship alerts\n\n" + body + "\n")
     save(SEEN_FILE, seen)
     save(RESOLVED_FILE, resolved)
     write_status(rows, alerts, now)
