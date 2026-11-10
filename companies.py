@@ -84,6 +84,19 @@ AEROSPACE = [
     dict(name="Woodward", careers="https://www.woodward.com/careers/"),
     dict(name="York Space Systems", careers="https://www.yorkspacesystems.com/careers/"),
     dict(name="Zipline", careers="https://www.flyzipline.com/careers"),
+    # Added: non-defense aerospace
+    dict(name="Boom Supersonic", careers="https://boomsupersonic.com/careers"),
+    dict(name="BETA Technologies", careers="https://www.beta.team/careers"),
+    dict(name="Varda Space", careers="https://www.varda.com/careers"),
+    dict(name="Apex Space", careers="https://www.apexspace.com/careers"),
+    dict(name="K2 Space", careers="https://www.k2space.com/careers"),
+    dict(name="Intuitive Machines", careers="https://www.intuitivemachines.com/careers"),
+    dict(name="Venus Aerospace", careers="https://www.venusaero.com/careers"),
+    dict(name="Ursa Major", careers="https://www.ursamajor.com/careers"),
+    dict(name="Astrobotic", careers="https://www.astrobotic.com/careers/"),
+    dict(name="Reliable Robotics", careers="https://reliable.co/careers"),
+    dict(name="Supernal", careers="https://www.supernal.aero/careers"),
+    dict(name="Cirrus Aircraft", careers="https://cirrusaircraft.com/careers/"),
 ]
 
 ROBOTICS = [
@@ -105,6 +118,13 @@ ROBOTICS = [
     dict(name="Rockwell Automation", careers="https://www.rockwellautomation.com/en-us/company/careers.html"),
     dict(name="Symbotic", careers="https://www.symbotic.com/careers/"),
     dict(name="Teradyne", careers="https://www.teradyne.com/careers/"),
+    # Added
+    dict(name="Dexterity", careers="https://www.dexterity.ai/careers"),
+    dict(name="Path Robotics", careers="https://www.path-robotics.com/careers"),
+    dict(name="Locus Robotics", careers="https://locusrobotics.com/careers"),
+    dict(name="Carbon Robotics", careers="https://carbonrobotics.com/careers"),
+    dict(name="Machina Labs", careers="https://machinalabs.ai/careers"),
+    dict(name="Hadrian", careers="https://www.hadrian.co/careers"),
 ]
 
 AUTOMOTIVE = [
@@ -136,6 +156,14 @@ AUTOMOTIVE = [
     dict(name="Toyota", careers="https://careers.toyota.com"),
     dict(name="Volkswagen", careers="https://www.vwgoa.com/careers"),
     dict(name="Volvo Group", careers="https://www.volvogroup.com/en/careers.html"),
+    # Added
+    dict(name="Zoox", careers="https://zoox.com/careers"),
+    dict(name="Kodiak Robotics", careers="https://kodiak.ai/careers"),
+    dict(name="Scout Motors", careers="https://www.scoutmotors.com/careers"),
+    dict(name="Slate Auto", careers="https://www.slate.auto/careers"),
+    dict(name="Divergent", careers="https://www.divergent3d.com/careers"),
+    dict(name="Polaris", careers="https://www.polaris.com/en-us/careers/"),
+    dict(name="Harley-Davidson", careers="https://careers.harley-davidson.com"),
 ]
 
 INDUSTRIAL = [
