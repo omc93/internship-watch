@@ -462,12 +462,40 @@ def fetch_sfxml(host, company):
     return out
 
 
+def fetch_cws(base):
+    """Career sites built on the "CWS" WordPress plugin (/job-search-results/, /job/ID/slug/)."""
+    base = base.rstrip("/")
+    page, _ = http(f"{base}/job-search-results/", as_json=False)
+    m = (re.search(r"[Oo]rganization['\"]?\s*[:=]\s*['\"]?(\d{2,7})", page)
+         or re.search(r"\borg(?:_id|Id)?['\"]?\s*[:=]\s*['\"]?(\d{2,7})", page))
+    if not m:
+        hints = sorted(set(re.findall(r"https?://[a-z0-9.-]*m-cloud\.io[^\"' ]*", page)))[:3]
+        raise ValueError(f"CWS organization id not found; hints={hints}")
+    api = re.search(r"https?://[a-z0-9.-]*m-cloud\.io/api", page)
+    api = api.group(0) if api else "https://jobsapi-internal.m-cloud.io/api"
+    out = {}
+    for kw in ("intern", "internship", "co-op"):
+        text, _ = http(f"{api}/job?Organization={m.group(1)}&keyword={kw}&Limit=200&offset=1"
+                       f"&sortfield=open_date&sortorder=descending", as_json=False)
+        text = text.strip()
+        if not text.startswith("{"):
+            text = text[text.find("{"):text.rfind("}") + 1]
+        for j in json.loads(text).get("queryResult", []):
+            loc = ", ".join(x for x in (j.get("primary_city"), j.get("primary_state"),
+                                        j.get("primary_country")) if x)
+            slug = re.sub(r"[^a-z0-9]+", "-", j.get("title", "").lower()).strip("-")
+            out[str(j["id"])] = posting(j["id"], j.get("title", ""), f"{base}/job/{j['id']}/{slug}/",
+                                        loc, j.get("open_date", ""))
+    return list(out.values())
+
+
 FETCHERS = {
     "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
     "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
     "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
     "amazon": fetch_amazon, "successfactors": fetch_successfactors, "jibe": fetch_jibe,
     "eightfold": fetch_eightfold, "taleo": fetch_taleo, "sfxml": fetch_sfxml,
+    "cws": fetch_cws,
 }
 
 
