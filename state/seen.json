@@ -1492,8 +1492,27 @@
   "seeded": true
  },
  "Bell Flight": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   2,
+   "taleo",
+   "https://textron.taleo.net",
+   "bell"
+  ],
+  "ids": {
+   "343804": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Grinder Production (Machinist Intern) - 3rd Shift DSC"
+   },
+   "343805": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Grinder Production (Machinist Intern) - 1st Shift DSC"
+   },
+   "344628": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "SkillBridge Military Intern (Various Locations)"
+   }
+  },
+  "seeded": true
  },
  "Benchmark Electronics": {
   "ids": {},
@@ -4858,8 +4877,34 @@
   "seeded": true
  },
  "K2 Space": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   2,
+   "greenhouse",
+   "k2spacecorporation"
+  ],
+  "ids": {
+   "5411917008": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "GNC Engineering Intern – Summer 2027"
+   },
+   "5411918008": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Electrical Engineering Intern – Summer 2027"
+   },
+   "5411920008": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Software Engineering Intern – Summer 2027"
+   },
+   "5411921008": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Avionics Systems/Test Engineering Intern – Summer 2027"
+   },
+   "5418727008": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Simulation Software Engineering Intern - Summer 2027"
+   }
+  },
+  "seeded": true
  },
  "KLA": {
   "ids": {},
@@ -4888,8 +4933,42 @@
   "seeded": true
  },
  "Komatsu": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   2,
+   "successfactors",
+   "https://komatsu.jobs"
+  ],
+  "ids": {
+   "36875": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Intern - Engineering"
+   },
+   "36945": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Hardware Technician Intern"
+   },
+   "36950": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "AHS Support Intern"
+   },
+   "36952": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Franklin Intern"
+   },
+   "36963": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Chicago Intern Opportunities"
+   },
+   "37294": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Software Engineer Intern MTS BR"
+   },
+   "37339": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Support Intern MTS BR"
+   }
+  },
+  "seeded": true
  },
  "L3Harris": {
   "fp": [
@@ -5050,6 +5129,10 @@
    "44449": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Software Engineering Intern"
+   },
+   "45478": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Mechanical Engineering Intern"
    }
   },
   "seeded": true
@@ -5260,6 +5343,10 @@
    "R50253": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Program Management Intern"
+   },
+   "R50266": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Autonomy & Active Safety Engineering Intern"
    },
    "R50268": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -7141,8 +7228,26 @@
   "seeded": true
  },
  "Stoke Space": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   2,
+   "greenhouse",
+   "stokespacetechnologies"
+  ],
+  "ids": {
+   "6175828004": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Summer 2027 Internship - Engineering"
+   },
+   "6176785004": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Summer 2027 Internship - Operations"
+   },
+   "6176786004": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Summer 2027 Internship - Software"
+   }
+  },
+  "seeded": true
  },
  "Stratolaunch": {
   "fp": [
@@ -7195,8 +7300,14 @@
   "seeded": false
  },
  "Symbotic": {
+  "fp": [
+   2,
+   "html",
+   "https://www.symbotic.com/careers/jobs/",
+   "/job"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "TE Connectivity": {
   "fp": [
@@ -7382,6 +7493,153 @@
   "ids": {},
   "seeded": false
  },
+ "Textron (Textron Aviation, Bell, university hiring)": {
+  "fp": [
+   2,
+   "taleo",
+   "https://textron.taleo.net",
+   "textron_ur"
+  ],
+  "ids": {
+   "337857": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Metallurgy Co-Op (Muskegon, MI)"
+   },
+   "341245": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2026 Fall Co-Op - HR - Piney Flats, TN"
+   },
+   "342061": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Internship - Human Resources Associate (Independence, KS)"
+   },
+   "342104": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Internship - Customer Experience (Events Associate)"
+   },
+   "342547": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME"
+   },
+   "342550": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Software Engineer (Howe & Howe) - Waterboro, ME"
+   },
+   "342579": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Naval Architecture Engineer (Marine) - New Orleans, LA"
+   },
+   "342589": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Intellectual Property - Hunt Valley, MD"
+   },
+   "342599": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern- EHS - Williamsport, PA"
+   },
+   "342620": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Co-Op - Electrical Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
+   },
+   "342622": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Co-Op - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
+   },
+   "342646": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Manufacturing Engineer (Marine) - New Orleans, LA"
+   },
+   "342650": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
+   },
+   "342651": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Co-Op - Systems Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
+   },
+   "342661": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Production Planner (Marine) - New Orleans, LA"
+   },
+   "342704": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Manufacturing Engineer (Crewed Land) - Slidell, LA"
+   },
+   "342717": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Manufacturing Engineer (Lycoming) - Williamsport, PA"
+   },
+   "342718": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Procurement (Lycoming) - Williamsport, PA"
+   },
+   "342740": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Quality Engineer (Crewed Land) - Slidell, LA"
+   },
+   "342748": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Information Technology - Hunt Valley, MD"
+   },
+   "342750": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Co-Op - Accounting - Hunt Valley, MD"
+   },
+   "342823": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Financial Analyst - Hunt Valley, MD (Sea Systems)"
+   },
+   "342824": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Project Controls (Scheduling/EVM) - Hunt Valley, MD"
+   },
+   "342915": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Software Engineer (Crewed Land) - Slidell, LA"
+   },
+   "342925": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD"
+   },
+   "343057": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Talent Development & Talent Management Internship"
+   },
+   "345017": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Financial Shared Services Center Co-Op (Year Round)"
+   },
+   "345401": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Internship - Operations (Independence, KS)"
+   },
+   "345535": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Spring Co-Op - Engineering Documents & Services Analyst Intern"
+   },
+   "345575": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Spring Co-Op - Production Control & Logistics - Fabrication"
+   },
+   "345590": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Spring Co-Op - Mass Properties Engineer"
+   },
+   "345731": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Spring Co-Op - Avionics and Electrical Systems Engineer"
+   },
+   "345735": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Industrial Software Engineer (Lycoming) - Williamsport, PA"
+   },
+   "346007": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "2027 Intern - Program Master Scheduler - Wilmington, MA"
+   }
+  },
+  "seeded": true
+ },
  "Textron Aviation": {
   "ids": {},
   "seeded": false
@@ -7414,8 +7672,90 @@
   "seeded": true
  },
  "United Launch Alliance": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   2,
+   "successfactors",
+   "https://jobs.ulalaunch.com"
+  ],
+  "ids": {
+   "1427396300": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Human Resources Internship - Summer 2027"
+   },
+   "1427396400": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Mechanical Engineering Internship - Summer 2027"
+   },
+   "1427396600": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Civil Engineering Internship - Summer 2027"
+   },
+   "1427396900": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Industrial Engineering Internship - Summer 2027"
+   },
+   "1427397200": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Weld Engineering Internship - Summer 2027"
+   },
+   "1427397300": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Logistics & Transportation Internship - Summer 2027"
+   },
+   "1427397500": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Supply Chain Internship - Summer 2027"
+   },
+   "1427397600": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Composite Engineering Internship - Summer 2027"
+   },
+   "1427397700": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Cyber Security Internship - Summer 2027"
+   },
+   "1427397900": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Finance & Business Internship Summer 2027"
+   },
+   "1427398100": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Government & Political Science Internship - Summer 2027"
+   },
+   "1427398300": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Software Engineering Internship Summer 2027"
+   },
+   "1427398600": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Quality Engineering Internship Summer 2027"
+   },
+   "1427398800": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Material Requirements Planning Specialist (MRP) Internship - Summer 2027"
+   },
+   "1427398900": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Material and Process Engineering Internship Summer 2027"
+   },
+   "1427399000": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Video Editing Internship Summer 2027"
+   },
+   "1427399100": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Information Technology Internship Summer 2027"
+   },
+   "1427399200": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Avionics & Electrical Engineering Internship Summer 2027"
+   },
+   "1427399300": {
+    "first_seen": "2026-11-10 16:19 UTC",
+    "title": "Industrial Hygienist Internship Summer 2027"
+   }
+  },
+  "seeded": true
  },
  "Ursa Major": {
   "fp": [
