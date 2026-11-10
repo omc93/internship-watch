@@ -63,6 +63,31 @@ NON_US = re.compile(
     r"budapest|bucharest|bratislava|prague|brno|eindhoven|veldhoven)\b",
     re.I)
 
+# Only engineering internships trigger alerts. A title must match ENG_RE and
+# must not match NONENG_RE. Edit these lists to widen or narrow alerts.
+ENG_RE = re.compile(
+    r"engineer|engineering|\beng\b|mechanical|aerospace|aeronautic|astronaut|propulsion|structur|"
+    r"manufactur|thermal|fluid|material|composite|additive|weld|machin|tooling|stress|dynamics|"
+    r"aerodynamic|avionic|\bgnc\b|guidance|controls?\b|mechatronic|robotic|hardware|electrical|"
+    r"electronics|\brf\b|systems|integration|\btest|validation|reliability|quality|industrial|"
+    r"process|product development|r&d|research and development|design|\bcad\b|powertrain|battery|"
+    r"vehicle|chassis|engine|spacecraft|satellite|rocket|launch|aircraft|flight|ground support|\bgse\b|"
+    r"mission|payload|analysis|technical|maintenance|facilities|mining|hydraulic|calibration|"
+    r"continuous improvement|lean|automation|\bm&p\b|metallurg|nuclear|energy|power",
+    re.I)
+NONENG_RE = re.compile(
+    r"software|\bit\b|information technology|information systems|\bdata\b|analytics|cyber|security|"
+    r"machine learning|\bml\b|\bai\b|artificial intelligence|computer science|developer|devops|web|"
+    r"cloud|finance|financial|accounting|\bhr\b|human resource|people|talent|recruit|marketing|sales|"
+    r"supply chain|procurement|purchasing|sourcing|logistics|legal|law|communications|public relations|"
+    r"business|strategy|brand|interior design|graphic|\bux\b|\bui\b|user experience|product manage|"
+    r"program manage|project manage|government relations|policy|customer experience|events|"
+    r"executive|administrative|office|audit|tax|treasury|investor|real estate|ehs|health|safety|"
+    r"environmental, health|mba|phd|doctor|firmware|embedded",
+    re.I)
+def is_engineering(t):
+    return bool(ENG_RE.search(t)) and not NONENG_RE.search(t)
+
 
 # ---------------------------------------------------------------- HTTP
 
@@ -625,11 +650,12 @@ def main():
             for p in interns:
                 state["ids"].setdefault(p["id"], {"title": p["title"], "first_seen": now})
             if state["seeded"]:
-                alerts += [(name, p) for p in new]
+                alerts += [(name, p) for p in new if is_engineering(p["title"])]
             else:
                 state["seeded"] = True   # first successful check: record silently
         rows.append((company["group"], name, r["status"],
-                     (r.get("ats") or [""])[0], len(r["jobs"]), len(interns), r.get("note", "")))
+                     (r.get("ats") or [""])[0], len(r["jobs"]),
+                     sum(1 for p in interns if is_engineering(p["title"])), r.get("note", "")))
 
     for name, p in alerts[:MAX_ALERTS_PER_RUN]:
         bits = [x for x in (p["location"], p["posted"]) if x]
@@ -669,7 +695,7 @@ def write_status(rows, alerts, now):
     for g, name, status, kind, total, interns, note in rows:
         if g != group:
             group = g
-            lines += [f"\n## {g}\n", "| Company | Status | System | Open internships | Note |",
+            lines += [f"\n## {g}\n", "| Company | Status | System | Open engineering internships | Note |",
                       "|---|---|---|---|---|"]
         icon = {"ok": "✅", "skipped": "⏭️"}.get(status, "❌")
         lines.append(f"| {name} | {icon} {status} | {kind} | {interns if status == 'ok' else ''} "
