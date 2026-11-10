@@ -3,14 +3,6 @@
 Working: 202 of 260 companies
 
 
-## New this run
-
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537) US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01
-- **ABB**: [Systems Engineering Intern Houston - Summer 2027](https://careers.abb/global/en/job/JR00048684) Houston, Texas, United States of America
-- **ABB**: [Manufacturing Quality Engineer Intern - Spring & Summer 2027](https://careers.abb/global/en/job/JR00050507) New Berlin, Wisconsin, United States of America
-- **ABB**: [Multiphysics & Engineering Intern- Summer 2027](https://careers.abb/global/en/job/JR00048430) Raleigh, North Carolina, United States of America
-- **Samsung (US)**: [5G Network Intelligence and Automation Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) 6555 Excellence Way, Plano, TX, USA
-
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -22,7 +14,7 @@ Working: 202 of 260 companies
 | Astranis | ✅ ok | greenhouse | 36 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 10 | config |
+| BAE Systems | ✅ ok | phenom | 11 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 34 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -111,7 +103,7 @@ Working: 202 of 260 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 21 | config |
+| ABB | ✅ ok | phenom | 22 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -231,7 +223,7 @@ Working: 202 of 260 companies
 | AMETEK | ✅ ok | successfactors | 6 | config |
 | Baker Hughes | ✅ ok | workday | 13 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
-| Celestica | ✅ ok | successfactors | 1 | config |
+| Celestica | ✅ ok | successfactors | 2 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 1 | config |
 | Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError |
@@ -275,7 +267,7 @@ Working: 202 of 260 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 8 | cache |
+| Trane Technologies | ✅ ok | phenom | 9 | cache |
 | Carrier | ✅ ok | workday | 21 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |

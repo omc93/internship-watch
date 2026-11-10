@@ -1,7 +1,7 @@
 {
  "1X": {
   "fp": [
-   2,
+   3,
    "ashby",
    "1x"
   ],
@@ -10,7 +10,7 @@
  },
  "3M": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://3m.wd1.myworkdayjobs.com/Search"
   ],
@@ -92,7 +92,7 @@
  },
  "ABB": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.abb/global/en"
   ],
@@ -302,7 +302,7 @@
  },
  "AGCO": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.agcocorp.com"
   ],
@@ -364,7 +364,7 @@
  },
  "AMETEK": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.ametek.com"
   ],
@@ -410,7 +410,7 @@
  },
  "AeroVironment": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://avav.wd1.myworkdayjobs.com/AVAV"
   ],
@@ -612,7 +612,7 @@
  },
  "Aeva": {
   "fp": [
-   2,
+   3,
    "lever",
    "aeva"
   ],
@@ -621,7 +621,7 @@
  },
  "Agility Robotics": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "agilityrobotics"
   ],
@@ -630,7 +630,7 @@
  },
  "Airbus": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://ag.wd3.myworkdayjobs.com/Airbus"
   ],
@@ -760,7 +760,7 @@
  },
  "Albedo": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "albedo"
   ],
@@ -769,7 +769,7 @@
  },
  "Allegion": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://allegion.wd5.myworkdayjobs.com/careers"
   ],
@@ -959,7 +959,7 @@
  },
  "Allison Transmission": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External"
   ],
@@ -1045,7 +1045,7 @@
  },
  "Amazon Prime Air": {
   "fp": [
-   2,
+   3,
    "amazon",
    "Prime Air intern",
    "prime air"
@@ -1055,7 +1055,7 @@
  },
  "Amazon Project Kuiper": {
   "fp": [
-   2,
+   3,
    "amazon",
    "Kuiper intern",
    "kuiper"
@@ -1065,7 +1065,7 @@
  },
  "Amazon Robotics": {
   "fp": [
-   2,
+   3,
    "amazon",
    "Amazon Robotics intern"
   ],
@@ -1135,7 +1135,7 @@
  },
  "American Axle": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://careers.dauch.com"
   ],
@@ -1161,7 +1161,7 @@
  },
  "Anduril": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "andurilindustries"
   ],
@@ -1319,7 +1319,7 @@
  },
  "Apex Space": {
   "fp": [
-   2,
+   3,
    "ashby",
    "apex-technology-inc"
   ],
@@ -1353,7 +1353,7 @@
  },
  "Applied Materials": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://jobs.appliedmaterials.com"
   ],
@@ -1387,7 +1387,7 @@
  },
  "Apptronik": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "apptronik"
   ],
@@ -1396,7 +1396,7 @@
  },
  "Aptiv": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS"
   ],
@@ -1614,7 +1614,7 @@
  },
  "Astranis": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "astranis"
   ],
@@ -1832,7 +1832,7 @@
  },
  "Astro Mechanica": {
   "fp": [
-   2,
+   3,
    "ashby",
    "Astro-Mechanica"
   ],
@@ -1866,7 +1866,7 @@
  },
  "Astrobotic": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "voyagertechnologiesinc"
   ],
@@ -1908,7 +1908,7 @@
  },
  "Axiom Space": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site"
   ],
@@ -1966,7 +1966,7 @@
  },
  "BAE Systems": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://jobs.baesystems.com/global/en"
   ],
@@ -2092,7 +2092,7 @@
  },
  "BMW": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.bmwgroup.com"
   ],
@@ -2210,7 +2210,7 @@
  },
  "Baker Hughes": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes"
   ],
@@ -2412,7 +2412,7 @@
  },
  "Bell Flight": {
   "fp": [
-   2,
+   3,
    "taleo",
    "https://textron.taleo.net",
    "bell"
@@ -2439,7 +2439,7 @@
  },
  "Blue Origin": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"
   ],
@@ -2645,7 +2645,7 @@
  },
  "Boeing": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS"
   ],
@@ -2663,7 +2663,7 @@
  },
  "Bombardier": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.bombardier.com"
   ],
@@ -2885,7 +2885,7 @@
  },
  "BorgWarner": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers"
   ],
@@ -3063,7 +3063,7 @@
  },
  "Bosch": {
   "fp": [
-   2,
+   3,
    "smartrecruiters",
    "BoschGroup"
   ],
@@ -3269,7 +3269,7 @@
  },
  "Boston Dynamics": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics"
   ],
@@ -3303,7 +3303,7 @@
  },
  "Boston Scientific": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.bostonscientific.com"
   ],
@@ -3341,7 +3341,7 @@
  },
  "Bridgestone Americas": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://bridgestone.wd5.myworkdayjobs.com/external"
   ],
@@ -3387,7 +3387,7 @@
  },
  "Bright Machines": {
   "fp": [
-   2,
+   3,
    "lever",
    "brightmachines"
   ],
@@ -3401,7 +3401,7 @@
  },
  "Built Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "built-robotics"
   ],
@@ -3410,7 +3410,7 @@
  },
  "CNH": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://join.cnh.com"
   ],
@@ -3608,7 +3608,7 @@
  },
  "Carbon Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "carbon-robotics"
   ],
@@ -3617,7 +3617,7 @@
  },
  "Carrier": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://carrier.wd5.myworkdayjobs.com/jobs"
   ],
@@ -3743,7 +3743,7 @@
  },
  "Castelion": {
   "fp": [
-   2,
+   3,
    "html",
    "https://www.castelion.com/careers/",
    "/job"
@@ -3766,7 +3766,7 @@
  },
  "Caterpillar": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers"
   ],
@@ -3852,7 +3852,7 @@
  },
  "Celestica": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.celestica.com"
   ],
@@ -3876,13 +3876,17 @@
    "1456196333": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Student Intern, Human Resources"
+   },
+   "1456225233": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "Student Intern, Test Manufacturing and Process Engineering"
    }
   },
   "seeded": true
  },
  "CesiumAstro": {
   "fp": [
-   2,
+   3,
    "lever",
    "CesiumAstro"
   ],
@@ -3964,7 +3968,7 @@
  },
  "Chevron": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://careers.chevron.com"
   ],
@@ -3977,7 +3981,7 @@
  },
  "Collaborative Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "cobot"
   ],
@@ -3986,7 +3990,7 @@
  },
  "Commonwealth Fusion Systems": {
   "fp": [
-   2,
+   3,
    "lever",
    "cfsenergy"
   ],
@@ -4068,7 +4072,7 @@
  },
  "ConocoPhillips": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://conocophillips.wd1.myworkdayjobs.com/External"
   ],
@@ -4094,7 +4098,7 @@
  },
  "Corning": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://corningjobs.corning.com"
   ],
@@ -4108,7 +4112,7 @@
  },
  "Crane Aerospace & Electronics": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://cranecompany.wd5.myworkdayjobs.com/Careers"
   ],
@@ -4186,7 +4190,7 @@
  },
  "Curtiss-Wright": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
   ],
@@ -4224,7 +4228,7 @@
  },
  "Daimler Truck": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://dtna.wd5.myworkdayjobs.com/DTNA_external"
   ],
@@ -4286,7 +4290,7 @@
  },
  "Dana": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.dana.com"
   ],
@@ -4348,7 +4352,7 @@
  },
  "Dell Technologies": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers"
   ],
@@ -4422,7 +4426,7 @@
  },
  "Dexterity": {
   "fp": [
-   2,
+   3,
    "lever",
    "dexterity"
   ],
@@ -4431,7 +4435,7 @@
  },
  "Divergent": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "divergent"
   ],
@@ -4465,7 +4469,7 @@
  },
  "Dow": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://dow.wd1.myworkdayjobs.com/ExternalCareers"
   ],
@@ -4535,7 +4539,7 @@
  },
  "Dyson": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://dyson.wd3.myworkdayjobs.com/dyson_careers"
   ],
@@ -4549,7 +4553,7 @@
  },
  "Eaton": {
   "fp": [
-   2,
+   3,
    "eightfold",
    "https://eaton.eightfold.ai",
    "eaton.com"
@@ -4688,7 +4692,7 @@
  },
  "Electra.aero": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "electraaero"
   ],
@@ -4701,7 +4705,7 @@
  },
  "Emerson / National Instruments": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
   ],
@@ -4855,7 +4859,7 @@
  },
  "Entegris": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers"
   ],
@@ -5113,7 +5117,7 @@
  },
  "ExxonMobil": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.exxonmobil.com"
   ],
@@ -5143,7 +5147,7 @@
  },
  "Fervo Energy": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "fervoenergy"
   ],
@@ -5157,7 +5161,7 @@
  },
  "Fictiv": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "fictiv"
   ],
@@ -5166,7 +5170,7 @@
  },
  "Figure": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "figureai"
   ],
@@ -5224,7 +5228,7 @@
  },
  "Firefly Aerospace": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://fireflyspace.wd115.myworkdayjobs.com/Firefly"
   ],
@@ -5274,7 +5278,7 @@
  },
  "Flex": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://flextronics.wd1.myworkdayjobs.com/Careers"
   ],
@@ -5336,7 +5340,7 @@
  },
  "Flowserve": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://flowserve.wd1.myworkdayjobs.com/applied"
   ],
@@ -5374,7 +5378,7 @@
  },
  "Ford": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://www.careers.ford.com/en"
   ],
@@ -5383,7 +5387,7 @@
  },
  "Form Energy": {
   "fp": [
-   2,
+   3,
    "ashby",
    "formenergy"
   ],
@@ -5392,7 +5396,7 @@
  },
  "Formic": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "formic"
   ],
@@ -5410,7 +5414,7 @@
  },
  "Formlabs": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "formlabs"
   ],
@@ -5540,7 +5544,7 @@
  },
  "Fortive": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001"
   ],
@@ -5566,7 +5570,7 @@
  },
  "GE Aerospace": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite"
   ],
@@ -5664,7 +5668,7 @@
  },
  "GE Appliances": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://haier.wd3.myworkdayjobs.com/GE_Appliances"
   ],
@@ -5690,7 +5694,7 @@
  },
  "GE Vernova": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
   ],
@@ -5984,7 +5988,7 @@
  },
  "Gecko Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "gecko-robotics"
   ],
@@ -6014,7 +6018,7 @@
  },
  "General Motors": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
   ],
@@ -6288,7 +6292,7 @@
  },
  "Globus Medical": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers"
   ],
@@ -6310,7 +6314,7 @@
  },
  "Goodyear": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
   ],
@@ -6323,7 +6327,7 @@
  },
  "Gulfstream Aerospace": {
   "fp": [
-   2,
+   3,
    "sfxml",
    "https://career4.successfactors.com",
    "GulfStrProd"
@@ -6342,7 +6346,7 @@
  },
  "Hadrian": {
   "fp": [
-   2,
+   3,
    "ashby",
    "hadrian-automation"
   ],
@@ -6364,7 +6368,7 @@
  },
  "Halliburton": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://careers.halliburton.com"
   ],
@@ -6373,7 +6377,7 @@
  },
  "Harbinger Motors": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "harbingermotors"
   ],
@@ -6395,7 +6399,7 @@
  },
  "Harley-Davidson": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.harley-davidson.com"
   ],
@@ -6404,7 +6408,7 @@
  },
  "Helion Energy": {
   "fp": [
-   2,
+   3,
    "ashby",
    "helion"
   ],
@@ -6430,7 +6434,7 @@
  },
  "Hermeus": {
   "fp": [
-   2,
+   3,
    "lever",
    "hermeus"
   ],
@@ -6532,7 +6536,7 @@
  },
  "Honda": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.honda.com/us/en"
   ],
@@ -6594,7 +6598,7 @@
  },
  "Honeywell": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
   ],
@@ -6752,7 +6756,7 @@
  },
  "Howmet Aerospace": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
   ],
@@ -6862,7 +6866,7 @@
  },
  "Hubbell": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.hubbell.com"
   ],
@@ -7064,7 +7068,7 @@
  },
  "ITW": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.itw.com/us/en"
   ],
@@ -7282,7 +7286,7 @@
  },
  "Impulse Space": {
   "fp": [
-   2,
+   3,
    "ashby",
    "impulse"
   ],
@@ -7296,7 +7300,7 @@
  },
  "Infinitum": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "infinitumelectric"
   ],
@@ -7305,7 +7309,7 @@
  },
  "Intel": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://intel.wd1.myworkdayjobs.com/External"
   ],
@@ -7523,7 +7527,7 @@
  },
  "Intuitive Surgical": {
   "fp": [
-   2,
+   3,
    "smartrecruiters",
    "Intuitive"
   ],
@@ -7585,7 +7589,7 @@
  },
  "Inversion Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "inversionspace"
   ],
@@ -7619,7 +7623,7 @@
  },
  "Jabil": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers"
   ],
@@ -7781,7 +7785,7 @@
  },
  "JetZero": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "jetzero"
   ],
@@ -7819,7 +7823,7 @@
  },
  "John Deere": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.deere.com"
   ],
@@ -7865,7 +7869,7 @@
  },
  "K2 Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "k2spacecorporation"
   ],
@@ -7895,7 +7899,7 @@
  },
  "KLA": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://kla.wd1.myworkdayjobs.com/Search"
   ],
@@ -8073,7 +8077,7 @@
  },
  "Kairos Power": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "kairospower"
   ],
@@ -8107,7 +8111,7 @@
  },
  "Kodiak Robotics": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "kodiak"
   ],
@@ -8125,7 +8129,7 @@
  },
  "Komatsu": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://komatsu.jobs"
   ],
@@ -8167,7 +8171,7 @@
  },
  "L3Harris": {
   "fp": [
-   2,
+   3,
    "radancy",
    "https://careers.l3harris.com/en"
   ],
@@ -8176,7 +8180,7 @@
  },
  "Lam Research": {
   "fp": [
-   2,
+   3,
    "eightfold",
    "https://lamresearch.eightfold.ai",
    "lamresearch.com"
@@ -8291,7 +8295,7 @@
  },
  "Lear": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.lear.com"
   ],
@@ -8308,7 +8312,7 @@
  },
  "Locus Robotics": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "locusrobotics"
   ],
@@ -8317,7 +8321,7 @@
  },
  "Loft Orbital": {
   "fp": [
-   2,
+   3,
    "lever",
    "loftorbital"
   ],
@@ -8343,7 +8347,7 @@
  },
  "Lucid Motors": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "lucidmotors"
   ],
@@ -8352,7 +8356,7 @@
  },
  "Machina Labs": {
   "fp": [
-   2,
+   3,
    "ashby",
    "machina-labs"
   ],
@@ -8366,7 +8370,7 @@
  },
  "Magna": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://wd3.myworkdaysite.com/recruiting/magna/Magna"
   ],
@@ -8448,7 +8452,7 @@
  },
  "Manitowoc": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://fda.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
   ],
@@ -8518,7 +8522,7 @@
  },
  "May Mobility": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "maymobility"
   ],
@@ -8531,7 +8535,7 @@
  },
  "Medtronic": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
   ],
@@ -8577,7 +8581,7 @@
  },
  "Michelin North America": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://michelinhr.wd3.myworkdayjobs.com/Michelin"
   ],
@@ -8651,7 +8655,7 @@
  },
  "Micron": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://micron.wd1.myworkdayjobs.com/External"
   ],
@@ -8945,7 +8949,7 @@
  },
  "Momentus": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "momentus"
   ],
@@ -8954,7 +8958,7 @@
  },
  "Moog": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
   ],
@@ -9016,7 +9020,7 @@
  },
  "Motional": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "motional"
   ],
@@ -9025,7 +9029,7 @@
  },
  "Muon Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "muonspace"
   ],
@@ -9091,7 +9095,7 @@
  },
  "NOV": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001"
   ],
@@ -9113,7 +9117,7 @@
  },
  "NVIDIA": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
   ],
@@ -9539,7 +9543,7 @@
  },
  "Navistar (International)": {
   "fp": [
-   2,
+   3,
    "jibe",
    "https://careers.navistar.com"
   ],
@@ -9567,13 +9571,17 @@
    "59946": {
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Supplier Quality Intern"
+   },
+   "60457": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "Digital IT Intern"
    }
   },
   "seeded": true
  },
  "Neuralink": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "neuralink"
   ],
@@ -9655,7 +9663,7 @@
  },
  "Nissan": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://alliance.wd3.myworkdayjobs.com/nissanjobs"
   ],
@@ -10045,7 +10053,7 @@
  },
  "Northrop Grumman": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
   ],
@@ -10103,7 +10111,7 @@
  },
  "Northwood Space": {
   "fp": [
-   2,
+   3,
    "ashby",
    "NorthwoodSpace"
   ],
@@ -10121,7 +10129,7 @@
  },
  "Nuro": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "nuro"
   ],
@@ -10135,7 +10143,7 @@
  },
  "Oshkosh": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.oshkoshcorp.com/us/en"
   ],
@@ -10537,7 +10545,7 @@
  },
  "Outpost Space": {
   "fp": [
-   2,
+   3,
    "ashby",
    "outpost-technologies-corporation"
   ],
@@ -10546,7 +10554,7 @@
  },
  "PACCAR / Peterbilt / Kenworth": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.paccar.com"
   ],
@@ -10760,7 +10768,7 @@
  },
  "PROCEPT BioRobotics": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT"
   ],
@@ -10769,7 +10777,7 @@
  },
  "Panasonic Energy of North America": {
   "fp": [
-   2,
+   3,
    "jibe",
    "https://careers.na.panasonic.com"
   ],
@@ -10923,7 +10931,7 @@
  },
  "Path Robotics": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "pathrobotics"
   ],
@@ -10941,7 +10949,7 @@
  },
  "Phillips 66": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.phillips66.com"
   ],
@@ -10963,7 +10971,7 @@
  },
  "Planet Labs": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "planetlabs"
   ],
@@ -10976,7 +10984,7 @@
  },
  "Portal Space Systems": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "portalspacesystems"
   ],
@@ -10985,7 +10993,7 @@
  },
  "QuantumScape": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.quantumscape.com"
   ],
@@ -10994,7 +11002,7 @@
  },
  "RTX (Collins, Pratt & Whitney, Raytheon)": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
   ],
@@ -11608,7 +11616,7 @@
  },
  "Radiant Industries": {
   "fp": [
-   2,
+   3,
    "ashby",
    "radiant-industries"
   ],
@@ -11617,7 +11625,7 @@
  },
  "Re:Build Manufacturing": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "rebuildmanufacturing"
   ],
@@ -11647,7 +11655,7 @@
  },
  "Redwood Materials": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "redwoodmaterials"
   ],
@@ -11656,7 +11664,7 @@
  },
  "Relativity Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "relativity"
   ],
@@ -11665,7 +11673,7 @@
  },
  "Reliable Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "reliable-robotics"
   ],
@@ -11674,7 +11682,7 @@
  },
  "Rivian": {
   "fp": [
-   2,
+   3,
    "jibe",
    "https://careers.rivian.com"
   ],
@@ -11864,7 +11872,7 @@
  },
  "Rocket Lab": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "rocketlab"
   ],
@@ -12142,7 +12150,7 @@
  },
  "Rolls-Royce": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://rollsroyce.wd3.myworkdayjobs.com/professional"
   ],
@@ -12159,7 +12167,7 @@
  },
  "Samsung (US)": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://sec.wd3.myworkdayjobs.com/Samsung_Careers"
   ],
@@ -12225,7 +12233,7 @@
  },
  "Schneider Electric": {
   "fp": [
-   2,
+   3,
    "jibe",
    "https://careers.se.com"
   ],
@@ -12434,6 +12442,10 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Environmental, Health & Safety Intern"
    },
+   "141359": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "Summer 2027 Offer Management Intern"
+   },
    "141728": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Field Service Representative - SkillBridge Internship"
@@ -12451,7 +12463,7 @@
  },
  "Scout Motors": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "scoutmotors"
   ],
@@ -12517,7 +12529,7 @@
  },
  "Serve Robotics": {
   "fp": [
-   2,
+   3,
    "ashby",
    "serverobotics"
   ],
@@ -12526,7 +12538,7 @@
  },
  "Shell USA": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://shell.wd3.myworkdayjobs.com/ShellCareers"
   ],
@@ -12552,7 +12564,7 @@
  },
  "Shield AI": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "aechelontechnology"
   ],
@@ -12574,7 +12586,7 @@
  },
  "Sierra Nevada Corporation": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
   ],
@@ -12760,7 +12772,7 @@
  },
  "Sierra Space": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site"
   ],
@@ -12773,7 +12785,7 @@
  },
  "Skydio": {
   "fp": [
-   2,
+   3,
    "ashby",
    "skydio"
   ],
@@ -12871,7 +12883,7 @@
  },
  "Slate Auto": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://recar.wd108.myworkdayjobs.com/SLATEcareers"
   ],
@@ -12880,7 +12892,7 @@
  },
  "Southwest Airlines": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.southwestair.com/us/en"
   ],
@@ -12889,7 +12901,7 @@
  },
  "SpaceX": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "spacex"
   ],
@@ -12947,7 +12959,7 @@
  },
  "Spire Global": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "spire"
   ],
@@ -12956,7 +12968,7 @@
  },
  "Spirit AeroSystems": {
   "fp": [
-   2,
+   3,
    "jibe",
    "https://careers.spiritaero.com"
   ],
@@ -12990,7 +13002,7 @@
  },
  "Stack AV": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "stackav"
   ],
@@ -12999,7 +13011,7 @@
  },
  "Stanley Black & Decker": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site"
   ],
@@ -13073,7 +13085,7 @@
  },
  "Starfish Space": {
   "fp": [
-   2,
+   3,
    "ashby",
    "starfish-space-inc"
   ],
@@ -13091,7 +13103,7 @@
  },
  "Stellantis": {
   "fp": [
-   2,
+   3,
    "cws",
    "https://careers.stellantis.com"
   ],
@@ -13153,7 +13165,7 @@
  },
  "Stoke Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "stokespacetechnologies"
   ],
@@ -13175,7 +13187,7 @@
  },
  "Stratolaunch": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "stratolaunch"
   ],
@@ -13217,7 +13229,7 @@
  },
  "Stryker": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
   ],
@@ -13679,7 +13691,7 @@
  },
  "Symbotic": {
   "fp": [
-   2,
+   3,
    "html",
    "https://www.symbotic.com/careers/jobs/",
    "/job"
@@ -13689,7 +13701,7 @@
  },
  "TAE Technologies": {
   "fp": [
-   2,
+   3,
    "ashby",
    "tae-power-solutions"
   ],
@@ -13698,7 +13710,7 @@
  },
  "TE Connectivity": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.te.com"
   ],
@@ -13856,7 +13868,7 @@
  },
  "TechnipFMC": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://careers.technipfmc.com"
   ],
@@ -13906,7 +13918,7 @@
  },
  "Teradyne": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.teradyne.com"
   ],
@@ -13924,7 +13936,7 @@
  },
  "Terex": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://terex.wd1.myworkdayjobs.com/terexcareers"
   ],
@@ -13962,7 +13974,7 @@
  },
  "Texas Instruments": {
   "fp": [
-   2,
+   3,
    "oracle",
    "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
   ],
@@ -14200,7 +14212,7 @@
  },
  "Textron (Textron Aviation, Bell, university hiring)": {
   "fp": [
-   2,
+   3,
    "taleo",
    "https://textron.taleo.net",
    "textron_ur"
@@ -14351,7 +14363,7 @@
  },
  "Torc Robotics": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "torcrobotics"
   ],
@@ -14360,7 +14372,7 @@
  },
  "Toyota": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://toyota.wd503.myworkdayjobs.com/TMNA"
   ],
@@ -14374,7 +14386,7 @@
  },
  "Trane Technologies": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.tranetechnologies.com/global/en"
   ],
@@ -14415,9 +14427,25 @@
     "first_seen": "2026-11-10 20:50 UTC",
     "title": "2027 Technical Sales Intern - Services"
    },
+   "JR-15043": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
    "JR-15046": {
     "first_seen": "2026-11-10 20:50 UTC",
     "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15047": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Controls"
+   },
+   "JR-15050": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15051": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Construction Project Management Intern"
    },
    "JR-15052": {
     "first_seen": "2026-11-10 20:50 UTC",
@@ -14495,6 +14523,18 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
    },
+   "JR-15135": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15136": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15152": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
    "JR-15154": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Controls"
@@ -14502,6 +14542,18 @@
    "JR-15155": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15158": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Services"
+   },
+   "JR-15159": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Energy Engineering Intern"
+   },
+   "JR-15161": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Energy Engineering Intern"
    },
    "JR-15177": {
     "first_seen": "2026-11-10 20:50 UTC",
@@ -14547,6 +14599,10 @@
     "first_seen": "2026-11-10 20:50 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
    },
+   "JR-15261": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Services"
+   },
    "JR-15264": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Equipment"
@@ -14586,6 +14642,10 @@
    "JR-15280": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "2027 Technical Sales Intern - Controls"
+   },
+   "JR-15282": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15283": {
     "first_seen": "2026-11-10 20:50 UTC",
@@ -14679,9 +14739,21 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Accounting Internship"
    },
+   "JR-17836": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Construction Project Management Intern-1"
+   },
    "JR-18159": {
     "first_seen": "2026-11-10 20:50 UTC",
     "title": "2027 Energy Engineering Intern"
+   },
+   "JR-18406": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-18628": {
+    "first_seen": "2026-11-10 20:56 UTC",
+    "title": "2026 Technical Sales Intern - Services"
    },
    "JR-18650": {
     "first_seen": "2026-11-10 16:34 UTC",
@@ -14756,7 +14828,7 @@
  },
  "True Anomaly": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "trueanomalyinc"
   ],
@@ -14765,7 +14837,7 @@
  },
  "United Airlines": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.united.com/us/en"
   ],
@@ -14774,7 +14846,7 @@
  },
  "United Launch Alliance": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.ulalaunch.com"
   ],
@@ -14860,7 +14932,7 @@
  },
  "Ursa Major": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "ursamajor"
   ],
@@ -14898,7 +14970,7 @@
  },
  "Varda Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "vardaspace"
   ],
@@ -15016,7 +15088,7 @@
  },
  "Vast Space": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "vast"
   ],
@@ -15038,7 +15110,7 @@
  },
  "Venus Aerospace": {
   "fp": [
-   2,
+   3,
    "lever",
    "venusaero"
   ],
@@ -15060,7 +15132,7 @@
  },
  "Volvo Group": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.volvogroup.com"
   ],
@@ -15142,7 +15214,7 @@
  },
  "Wabtec": {
   "fp": [
-   2,
+   3,
    "smartrecruiters",
    "Wabtec"
   ],
@@ -15208,7 +15280,7 @@
  },
  "Whirlpool": {
   "fp": [
-   2,
+   3,
    "eightfold",
    "https://jobs.whirlpool.com",
    "whirlpool.com"
@@ -15243,7 +15315,7 @@
  },
  "Wisk Aero": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers"
   ],
@@ -15252,7 +15324,7 @@
  },
  "Woodward": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://woodward.wd5.myworkdayjobs.com/woodward"
   ],
@@ -15261,7 +15333,7 @@
  },
  "X-energy": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://xenergy.wd5.myworkdayjobs.com/X-energyUS"
   ],
@@ -15311,7 +15383,7 @@
  },
  "Xylem": {
   "fp": [
-   2,
+   3,
    "workday",
    "https://xylem.wd5.myworkdayjobs.com/xylem-careers"
   ],
@@ -15324,7 +15396,7 @@
  },
  "ZF": {
   "fp": [
-   2,
+   3,
    "successfactors",
    "https://jobs.zf.com"
   ],
@@ -15378,7 +15450,7 @@
  },
  "Zimmer Biomet": {
   "fp": [
-   2,
+   3,
    "phenom",
    "https://careers.zimmerbiomet.com/us/en"
   ],
@@ -15412,7 +15484,7 @@
  },
  "Zipline": {
   "fp": [
-   2,
+   3,
    "greenhouse",
    "flyzipline"
   ],
@@ -15674,7 +15746,7 @@
  },
  "Zoox": {
   "fp": [
-   2,
+   3,
    "lever",
    "zoox"
   ],
