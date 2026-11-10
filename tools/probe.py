@@ -131,6 +131,48 @@ def main():
         for lines in pool.map(wd, tenants):
             for l in lines:
                 print(l)
+    WDS = ("wd1", "wd2", "wd3", "wd5", "wd10", "wd12", "wd101", "wd102", "wd103", "wd105", "wd108",
+           "wd115", "wd501", "wd503")
+    SITES = ("External", "Careers", "careers", "Search", "External_Careers", "ExternalCareers", "External_Career_Site",
+             "ExternalCareerSite", "Career", "jobs", "Jobs", "{T}", "{T}Careers", "{T}_Careers", "{t}", "{t}careers",
+             "{T}_External", "{T}External", "{T}_Career_Site", "{T}_External_Careers", "{T}_External_Career_Site",
+             "{T}ExternalCareers", "Campus", "University", "Students", "Early_Careers", "EarlyCareers")
+
+    def wdfind(item):
+        tenant, label = item
+        out = []
+        for n in WDS:
+            api = f"https://{tenant}.{n}.myworkdayjobs.com/wday/cxs/{tenant}"
+            try:
+                watch.http(f"{api}/zzzz/jobs", {"limit": 1, "offset": 0, "searchText": ""})
+                code = 200
+            except Exception as e:
+                code = getattr(e, "code", type(e).__name__)
+            if code in (404, "URLError", "TimeoutError", 500, 503, 400, 403, 406):
+                continue
+            hit = None
+            for sname in SITES:
+                site = sname.replace("{T}", label).replace("{t}", label.lower())
+                try:
+                    d = watch.http(f"{api}/{site}/jobs", {"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": "intern"})
+                    hit = (site, d.get("total"))
+                    break
+                except Exception:
+                    pass
+            out.append(f"WDFIND {tenant}.{n} tenant-exists code={code} site={hit}")
+        return out
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        for lines in pool.map(wdfind, json.loads(os.environ.get("WD_FIND", "[]") or "[]")):
+            for l in lines:
+                print(l)
+    for url in json.loads(os.environ.get("PEEK", "[]") or "[]"):
+        try:
+            page, final = watch.http(url, as_json=False)
+            i = page.lower().find("intern")
+            print("PEEK", url, "->", final, "len", len(page), "| head:", page[:300].replace("\n", " "),
+                  "| around intern:", page[max(0, i - 300):i + 300].replace("\n", " ") if i >= 0 else "none")
+        except Exception as e:
+            print("PEEK FAIL", url, type(e).__name__, str(e)[:100])
     specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
 
     def test(spec):
