@@ -349,12 +349,49 @@ def fetch_eightfold(host, domain):
     return list(out.values())
 
 
+def fetch_taleo(host, section):
+    """Oracle Taleo career sections (host.taleo.net/careersection/SECTION)."""
+    host = host.rstrip("/")
+    page, _ = http(f"{host}/careersection/{section}/jobsearch.ftl?lang=en", as_json=False)
+    m = re.search(r"portal[=:\"' ]+(\d{6,})", page)
+    if not m:
+        raise ValueError("Taleo portal number not found")
+    out = {}
+    for kw in ("intern", "co-op"):
+        for page_no in (1, 2, 3):
+            body = {"multilineEnabled": False,
+                    "sortingSelection": {"sortBySelectionParam": "3", "ascendingSortingOrder": "false"},
+                    "fieldData": {"fields": {"KEYWORD": kw, "LOCATION": ""}, "valid": True},
+                    "filterSelectionParam": {"searchFilterSelections": []},
+                    "advancedSearchFiltersSelectionParam": {"searchFilterSelections": []},
+                    "pageNo": page_no}
+            d = http(f"{host}/careersection/rest/jobboard/searchjobs?lang=en&portal={m.group(1)}", body,
+                     headers={"tz": "GMT-06:00", "tzname": "America/Chicago"})
+            reqs = d.get("requisitionList", [])
+            for r in reqs:
+                cols = r.get("column", [])
+                title = cols[0] if cols else ""
+                loc = cols[1] if len(cols) > 1 else ""
+                if isinstance(loc, str) and loc.startswith("["):
+                    try:
+                        loc = "; ".join(json.loads(loc))
+                    except Exception:
+                        pass
+                cid = r.get("contestNo") or r.get("jobId")
+                out[str(cid)] = posting(cid, title,
+                                        f"{host}/careersection/{section}/jobdetail.ftl?job={cid}&lang=en",
+                                        loc, cols[2] if len(cols) > 2 else "")
+            if len(reqs) < 25:
+                break
+    return list(out.values())
+
+
 FETCHERS = {
     "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
     "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
     "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
     "amazon": fetch_amazon, "successfactors": fetch_successfactors, "jibe": fetch_jibe,
-    "eightfold": fetch_eightfold,
+    "eightfold": fetch_eightfold, "taleo": fetch_taleo,
 }
 
 
