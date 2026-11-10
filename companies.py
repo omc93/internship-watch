@@ -241,7 +241,8 @@ INDUSTRIAL = [
     dict(name="Jabil", careers="https://careers.jabil.com"),
     dict(name="Molex", careers="https://www.molex.com/en-us/careers"),
     dict(name="NOV", careers="https://www.nov.com/careers"),
-    dict(name="Parker Hannifin", careers="https://www.parker.com/us/en/careers.html"),
+    dict(name="Parker Hannifin", careers="https://www.parker.com/us/en/careers.html",
+         ats=('none', 'job site blocks automated checks')),
     dict(name="Re:Build Manufacturing", careers="https://rebuildmanufacturing.com/careers/"),
     dict(name="Sanmina", careers="https://www.sanmina.com/careers/"),
     dict(name="Schneider Electric", careers="https://careers.se.com",
@@ -334,7 +335,8 @@ ROBOTICS += [
 ]
 
 AUTOMOTIVE += [
-    dict(name="Stellantis", careers="https://www.stellantis.com/en/careers"),
+    dict(name="Stellantis", careers="https://www.stellantis.com/en/careers",
+         ats=('cws', 'https://careers.stellantis.com')),
     dict(name="Hyundai Motor Group (US)", careers="https://www.hyundaiusa.com/us/en/careers"),
     dict(name="Kia Georgia", careers="https://www.kiageorgia.com/careers"),
     dict(name="Subaru of Indiana", careers="https://www.subaru-sia.com/careers"),
