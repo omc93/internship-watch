@@ -44,7 +44,7 @@ SEARCH_VERSION = 2
 
 INTERN_RE = re.compile(r"\b(intern|interns|internship|internships|co-?op|coop)\b", re.I)
 EXCLUDE_RE = re.compile(r"\b(high school|internal|international|skillbridge)\b|"
-                        r"\([mfwdx]/[mfwdx]/[mfwdx]\)|\bstage\b|praktik|werkstudent|stagiaire", re.I)
+                        r"\([mfwdx]/[mfwdx]/[mfwdx]\)|praktik|werkstudent|stagiaire", re.I)
 # Locations clearly outside the US. Postings with no location, or a US/remote
 # location, are kept.
 NON_US = re.compile(
