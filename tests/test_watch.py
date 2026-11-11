@@ -61,7 +61,8 @@ class Country(unittest.TestCase):
                  ("Newmarket, ON", "", "non-US"), ("", "", "unknown"),
                  ("Los Angeles, CA, US", "", "US"), ("Costa Mesa, CA", "", "US"),
                  ("Remote - Canada", "", "non-US"), ("Remote", "", "unknown"),
-                 ("Toronto", "ca", "non-US"), ("Austin", "US", "US"), ("3 Locations", "", "unknown")]
+                 ("Toronto", "ca", "non-US"), ("Milton, ON, CA, L9T 0M1", "", "non-US"),
+                 ("Milton-ON-L9T-0M1", "", "non-US"), ("Portland, OR", "", "US"), ("Austin", "US", "US"), ("3 Locations", "", "unknown")]
         for loc, country, want in cases:
             self.assertEqual(triage.country_of(loc, country), want, (loc, country))
 
@@ -98,6 +99,15 @@ class Relevance(unittest.TestCase):
         base = {"title": "Mechanical Engineering Intern", "location": "Austin, TX", "posted": "Posted Today"}
         self.assertEqual(triage.classify(dict(base, id="JR1001"), "today", NOW, {"JR1001"})[0], "skip")
         self.assertEqual(triage.classify(dict(base, id="JR1002"), "today", NOW, {"JR1001"})[0], "alert")
+
+
+class Links(unittest.TestCase):
+    def test_job_card_title_is_the_heading_only(self):
+        card = ('<a href="/job/camden/intern/1"><h2>Intern, Logistics (Camden, AR)</h2>'
+                '<span>Manufacturing|Co Op/Intern</span><span>Camden, AR</span></a>')
+        found = watch.links_from(card, "https://careers.example.com", r"/job/")
+        self.assertEqual(found[0]["title"], "Intern, Logistics (Camden, AR)")
+        self.assertEqual(triage.relevance(found[0]["title"])[0], "excluded")
 
 
 class Pages(unittest.TestCase):

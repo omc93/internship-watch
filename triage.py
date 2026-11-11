@@ -168,8 +168,12 @@ def country_of(location, country=""):
             return "US"                              # "Paris, Texas, United States"
         return "non-US"
     tokens = re.findall(r"[A-Za-z]+", loc)
-    if any(t in CA_PROVINCES for t in tokens if t != "CA") and not US_COUNTRY.search(loc):
-        if not any(t in US_STATES for t in tokens):
+    if not US_COUNTRY.search(loc):
+        # "Milton, ON, CA, L9T 0M1": a province code or a Canadian postal code means Canada,
+        # and the "CA" next to it is the country, not California.
+        if re.search(r"\b[A-Z]\d[A-Z][ -]?\d[A-Z]\d\b", loc):
+            return "non-US"
+        if any(t in CA_PROVINCES for t in tokens) and not any(t in US_STATES and t != "CA" for t in tokens):
             return "non-US"
     if US_COUNTRY.search(loc):
         return "US"

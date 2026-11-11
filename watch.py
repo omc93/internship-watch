@@ -308,7 +308,9 @@ def links_from(page, base_url, pattern):
         if not pat.search(href):
             continue
         full = urllib.parse.urljoin(base_url, href)
-        title = clean(text)
+        # Job cards often wrap a heading plus category and location: the heading is the title.
+        heading = re.search(r"<h[1-6][^>]*>(.*?)</h[1-6]>", text, re.S | re.I)
+        title = clean(heading.group(1) if heading else text)
         if not title or len(title) > 200:
             continue
         out[full] = posting(full, title, full)
