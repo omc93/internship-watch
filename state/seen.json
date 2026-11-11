@@ -3644,8 +3644,13 @@
   "seeded": false
  },
  "Atomos Space": {
+  "fp": [
+   3,
+   "ashby",
+   "atomos"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Aurora": {
   "ids": {},
@@ -4567,6 +4572,15 @@
     "last_seen": "2026-11-11",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Co-op Engineering R&D"
+   },
+   "JR-213219": {
+    "aliases": [
+     "/job/Kuala-Lumpur/Accounting-Intern_JR-213219"
+    ],
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "Posted Today",
+    "title": "Accounting Intern"
    }
   },
   "seeded": true
@@ -4631,12 +4645,71 @@
   "seeded": false
  },
  "Benchmark Space Systems": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "breezy",
+   "benchmark-space-systems-inc"
+  ],
+  "ids": {
+   "139505515416": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-26T20:12:19.726Z",
+    "title": "Propulsion Development Engineering Intern"
+   },
+   "1da2a5203988": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-26T20:10:45.027Z",
+    "title": "Electrical Engineering Intern"
+   },
+   "777791cd6352": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-26T20:12:35.123Z",
+    "title": "Test Engineering Intern"
+   },
+   "9c79847f79fb": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-26T20:12:06.985Z",
+    "title": "Propellant Chemistry Intern"
+   },
+   "a121fe738cc0": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-29T16:21:01.298Z",
+    "title": "Mechatronics Engineering Intern"
+   },
+   "bc01b3dfed6f": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-03T15:51:22.147Z",
+    "title": "Mechanical Analysis Engineering Intern"
+   },
+   "c0756f9be62c": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-26T20:11:51.876Z",
+    "title": "Production Engineering Intern"
+   }
+  },
+  "seeded": true
  },
  "Berkshire Grey": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "bamboohr",
+   "berkshiregrey"
+  ],
+  "ids": {
+   "768": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Spring 2027 Robot Learning R&D Co-op"
+   }
+  },
+  "seeded": true
  },
  "Bloom Energy": {
   "fp": [
@@ -4676,8 +4749,110 @@
   "seeded": true
  },
  "Blue Bird": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "ukg",
+   "https://recruiting.ultipro.com/BLU1004BBBC/JobBoard/1dfd3da7-cc1c-4f67-a1ca-2de669150f8c"
+  ],
+  "ids": {
+   "040f49cf-a6dd-406f-958c-bd411122159a": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:28:17.129Z",
+    "title": "Intern, Data Analytics"
+   },
+   "12d46e6f-4a30-4ec0-b96e-48a31af3a751": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T17:46:26.157Z",
+    "title": "Intern, Sales and Marketing"
+   },
+   "12e8cb8a-f323-4f62-8f28-1f1330b897a7": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-10T20:11:26.167Z",
+    "title": "Intern, Manufacturing Engineering"
+   },
+   "2c84ab22-7b65-40b5-a930-d71c9775d244": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:24:59.675Z",
+    "title": "Intern, Mechanical Engineering"
+   },
+   "2d69bbfe-2048-4975-84b2-647bdcc70e07": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:31:25.49Z",
+    "title": "Intern, Quality Assurance"
+   },
+   "30a30094-610d-4d33-ae2d-83b851c22528": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-28T18:53:39.875Z",
+    "title": "Intern, Supply Chain"
+   },
+   "3925ce6e-b605-467a-9c8c-5edc04288a50": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:19:42.313Z",
+    "title": "Intern, Electrical Engineering"
+   },
+   "5d8913d2-a5aa-4039-882a-604c7bc22a0e": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-10T20:10:52.166Z",
+    "title": "Intern, Manufacturing Engineering"
+   },
+   "672af545-aa84-493d-be02-a5af841b27bf": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:37:44.831Z",
+    "title": "Intern, Materials"
+   },
+   "8fbd1c46-f9b0-4c8a-9fe9-4c4d125abe20": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:17:21.725Z",
+    "title": "Intern, Mechanical Engineering"
+   },
+   "c2c2a19a-e76d-4fb7-bde8-d5f33de3cde9": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-10T20:11:09.347Z",
+    "title": "Intern, Safety"
+   },
+   "caa6d284-4b88-4155-a078-5520c4c08169": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-23T19:15:53.385Z",
+    "title": "Intern, Finance"
+   },
+   "de4702a5-35e8-4455-a135-d81610af3283": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-10T20:10:31.017Z",
+    "title": "Intern, Finance"
+   },
+   "f2964cfc-d2ae-4dda-97c2-3e1c1c5e5877": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:32:18.597Z",
+    "title": "Intern, Pricing Analyst"
+   },
+   "f56c76a3-1859-4f2b-99f1-b57d3da2d30d": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:30:12.115Z",
+    "title": "Intern, Electrical Engineering"
+   },
+   "fced90b0-dd69-40fe-b0c2-42970454d988": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13T13:27:22.683Z",
+    "title": "Intern, Content Developer"
+   }
+  },
+  "seeded": true
  },
  "Blue Origin": {
   "fp": [
@@ -7831,8 +8006,13 @@
   "seeded": false
  },
  "Cooper Standard": {
+  "fp": [
+   3,
+   "workday",
+   "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Corning": {
   "fp": [
@@ -8081,8 +8261,13 @@
   "seeded": true
  },
  "Daikin Comfort Technologies": {
+  "fp": [
+   3,
+   "ukg",
+   "https://recruiting2.ultipro.com/GOO1038GOMN/JobBoard/75022464-9dbd-43d2-af44-2840603d5823"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Daimler Truck": {
   "fp": [
@@ -8279,8 +8464,20 @@
   "seeded": false
  },
  "Dassault Falcon Jet": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "ukg",
+   "https://falconjet.rec.pro.ukg.net/DAS1003DASS/JobBoard/e029f427-8251-41cd-8df5-a3bcab602a51"
+  ],
+  "ids": {
+   "0305735e-dec3-4d93-bf9d-f1cf702461f7": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-02T20:09:51.107Z",
+    "title": "SUPPLY CHAIN COOP"
+   }
+  },
+  "seeded": true
  },
  "Dell Technologies": {
   "fp": [
@@ -9646,8 +9843,13 @@
   "seeded": true
  },
  "Exotec": {
+  "fp": [
+   3,
+   "workable",
+   "exotec"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "ExxonMobil": {
   "fp": [
@@ -10825,8 +11027,8 @@
  "GE HealthCare": {
   "fp": [
    3,
-   "workday",
-   "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite"
+   "phenom",
+   "https://careers.gehealthcare.com/global/en"
   ],
   "ids": {
    "R4040613": {
@@ -10844,7 +11046,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-11",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "2026-09-01T00:00:00.000+0000",
     "title": "Edison Engineering Development Program Internship - Hardware"
    },
    "R4043933": {
@@ -10853,7 +11055,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-11",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "2026-09-01T00:00:00.000+0000",
     "title": "Edison Engineering Development Program Intern – Software"
    },
    "R4046211": {
@@ -10865,6 +11067,12 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Operations Management Leadership Program - Internship"
    },
+   "R4046817": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-23T00:00:00.000+0000",
+    "title": "Infant Care V&V Engineering Co-op - Fall 2027"
+   },
    "R4046957": {
     "aliases": [
      "/job/ITA01-01-Milan-Via-Privata-Galeno-36/Clinical-Education-Project---Digital-Programs-Intern_R4046957"
@@ -10873,6 +11081,12 @@
     "last_seen": "2026-11-11",
     "posted_raw": "Posted 19 Days Ago",
     "title": "Digital Programs & Training Project Intern"
+   },
+   "R4046982": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-06T00:00:00.000+0000",
+    "title": "Electrical Engineering Technician Co-op"
    },
    "R4047832": {
     "aliases": [
@@ -14595,8 +14809,49 @@
   "seeded": true
  },
  "Ingersoll Rand": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "successfactors",
+   "https://careers.irco.com"
+  ],
+  "ids": {
+   "1428129900": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "PTL Engineering Intern 2027"
+   },
+   "1428133800": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "2027 Engineering Intern, PFT"
+   },
+   "1432952200": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Manufacturing Engineer Intern - Summer 2027"
+   },
+   "1432952900": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Manufacturing Engineer Intern Project 2"
+   },
+   "1449419700": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "AI Engineer Intern (2027)"
+   },
+   "1449425200": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Modern Workplace Intern (2027)"
+   },
+   "1449429200": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Cybersecurity Intern"
+   }
+  },
+  "seeded": true
  },
  "Intel": {
   "fp": [
@@ -20018,8 +20273,13 @@
   "seeded": false
  },
  "Natilus": {
+  "fp": [
+   3,
+   "workable",
+   "natilus"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Navistar (International)": {
   "fp": [
@@ -21364,8 +21624,128 @@
   "seeded": true
  },
  "Oceaneering": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "oracle",
+   "https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+  ],
+  "ids": {
+   "11514": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-23",
+    "title": "C++ Software Intern"
+   },
+   "11523": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-06",
+    "title": "3d Subsea Simulator Software Intern"
+   },
+   "11594": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-29",
+    "title": "CyberSecurity SOC Intern"
+   },
+   "11596": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-29",
+    "title": "AI Governance Intern"
+   },
+   "11608": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-06",
+    "title": "IT Finance Analyst Intern"
+   },
+   "11613": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-30",
+    "title": "IT Security Architecture Intern"
+   },
+   "11620": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-01",
+    "title": "Mechanical Engineering Intern"
+   },
+   "11623": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-01",
+    "title": "IT/OT CyberSecurity Intern"
+   },
+   "11624": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13",
+    "title": "Power Platform Developer Intern"
+   },
+   "11627": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-13",
+    "title": "Software Asset Management Analyst Intern"
+   },
+   "11635": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-07",
+    "title": "Project Management Intern"
+   },
+   "11636": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-08",
+    "title": "Azure AKS DevOps Intern"
+   },
+   "11640": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-06",
+    "title": "IT SCM Business Analyst Intern"
+   },
+   "11648": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-07",
+    "title": "Mechanical Engineering Intern"
+   },
+   "11713": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-14",
+    "title": "C++ Robotics Algorithm Developer Intern"
+   },
+   "11734": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-15",
+    "title": "SCM Intern, Global Planning"
+   },
+   "11779": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-23",
+    "title": "Intern II - Engineering"
+   },
+   "11831": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-10-28",
+    "title": "IMR System Design Engineering Intern"
+   },
+   "11892": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-11-05",
+    "title": "Historical Research Specialist - Summer Intern"
+   }
+  },
+  "seeded": true
  },
  "Oklo": {
   "fp": [
@@ -21385,8 +21765,38 @@
   "seeded": true
  },
  "Oncor": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "ukg",
+   "https://recruiting2.ultipro.com/ONC1003OEDC/JobBoard/2ca6d629-6f1e-4d28-a593-e27d9a5894a9"
+  ],
+  "ids": {
+   "2ee23d96-8c53-470b-8341-7bbf85d3d1fd": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-09T15:13:41.34Z",
+    "title": "Summer 2027- Transmission Construction Intern"
+   },
+   "36ae906b-7a4f-49e2-b2f9-c6a31be34897": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-04T10:54:42.783Z",
+    "title": "Summer 2027 - Supply Chain Intern"
+   },
+   "a269f558-fbfb-4df9-934b-ddb03fd6a58f": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-04T11:06:21.795Z",
+    "title": "Summer 2027 - Protection & Control Engineering Specialist Intern"
+   },
+   "ebfbc8c9-72da-4c13-b98b-69f00c5b319e": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "posted_raw": "2026-09-04T18:50:03.333Z",
+    "title": "2026-2027 Electrician S&T B - Intern"
+   }
+  },
+  "seeded": true
  },
  "Oshkosh": {
   "fp": [
@@ -22032,8 +22442,13 @@
   "seeded": true
  },
  "Our Next Energy": {
+  "fp": [
+   3,
+   "ukg",
+   "https://recruiting.ultipro.com/OUR1002ONXE/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Oura": {
   "fp": [
@@ -22805,8 +23220,19 @@
   "seeded": true
  },
  "Plus One Robotics": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "bamboohr",
+   "plusonerobotics"
+  ],
+  "ids": {
+   "113": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "IT Intern"
+   }
+  },
+  "seeded": true
  },
  "Polaris": {
   "ids": {},
@@ -25076,7 +25502,7 @@
     "last_seen": "2026-11-11",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-10T23:17:03-05:00"
+    "updated_raw": "2026-11-10T23:31:55-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -25358,8 +25784,104 @@
   "seeded": true
  },
  "Schaeffler": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "successfactors",
+   "https://jobs.schaeffler.com"
+  ],
+  "ids": {
+   "1392361533": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Scouting & Sourcing Intern"
+   },
+   "1435085433": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "IT Intern"
+   },
+   "1444352833": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Quality Technology intern"
+   },
+   "1446719533": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Logistics Intern"
+   },
+   "1451429033": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Co-op Learning & Development"
+   },
+   "1451473833": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "滚珠丝杠实习生 Intern 上海"
+   },
+   "1452364533": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "知识产权实习生 Intern 上海"
+   },
+   "1452379033": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Customer Service Intern"
+   },
+   "1452383733": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Customer Service Intern"
+   },
+   "1453109533": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Co-Op - HR/Finance Community Engagement"
+   },
+   "1453419033": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Order Entry Intern (All Genders)"
+   },
+   "1453626633": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Marketing Intern"
+   },
+   "1454010133": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Co-Op - Finance Rotation Program - Summer 2027"
+   },
+   "1454254633": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "HR Delivery Intern (All Genders)"
+   },
+   "1454949633": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Customs Strategy Intern"
+   },
+   "1455305233": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Master Data Intern"
+   },
+   "1456093433": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Machining Intern"
+   },
+   "1456235933": {
+    "first_seen": "2026-11-11 04:51 UTC",
+    "last_seen": "2026-11-11",
+    "title": "Purchasing Intern"
+   }
+  },
+  "seeded": true
  },
  "Schneider Electric": {
   "fp": [
@@ -31126,8 +31648,13 @@
   "seeded": false
  },
  "Volvo Cars": {
+  "fp": [
+   3,
+   "successfactors",
+   "https://jobs.volvocars.com"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Volvo Group": {
   "fp": [
@@ -31861,8 +32388,13 @@
   "seeded": true
  },
  "Zap Energy": {
+  "fp": [
+   3,
+   "rippling",
+   "zap-energy-careers"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "ZeroAvia": {
   "ids": {},
