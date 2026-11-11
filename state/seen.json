@@ -2700,6 +2700,14 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Intern, MDO Tools Development (Winter 2027)"
    },
+   "15373": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Intern, Geometry optimization tools & Application (Winter 2027)"
+   },
+   "15387": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Intern, Project Engineering - New development (Winter 2027)"
+   },
    "15491": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Intern, Executive-Level Project Management (Winter 2027)"
@@ -5939,6 +5947,10 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Field Engineer Intern"
    },
+   "/job/Remote/GE-Vernova-Technical-Field-Advisor-Intern---2027_R5058143-3": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "GE Vernova Technical Field Advisor Intern - 2027"
+   },
    "/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "GE Vernova Grid Solutions - Hardware Engineering Intern (Critical Infrastructure Communications) – Spring/Summer 2027"
@@ -6126,6 +6138,10 @@
    "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "2027 Summer Intern, Data Scaling, Embodied AI"
+   },
+   "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "2027 Summer Intern – Machine Learning Engineer, AV/AI Platform"
    },
    "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -9302,6 +9318,10 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026"
    },
+   "/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Corporate Development MBA Intern - Summer 2027"
+   },
    "/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548": {
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027"
@@ -9313,6 +9333,10 @@
    "/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907": {
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027"
+   },
+   "/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Financial Analyst Intern, Hardware FP&A - Summer 2027"
    },
    "/job/US-CA-Santa-Clara/Human-Resources-Intern---Summer-2027_JR2028740": {
     "first_seen": "2026-11-10 16:34 UTC",
@@ -9385,6 +9409,10 @@
    "/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704": {
     "first_seen": "2026-11-10 16:34 UTC",
     "title": "PCIe Design Verification Intern - Spring 2027"
+   },
+   "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Performance Engineering Intern, Platform Performance and Power - Spring 2027"
    },
    "/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1": {
     "first_seen": "2026-11-10 16:34 UTC",
@@ -10118,9 +10146,21 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "2027 Systems Engineering Intern - Colorado Springs CO"
    },
+   "/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "2027 Optics/Photonic Engineering Intern - Apopka FL"
+   },
    "/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "2027 Software Testing Engineering Intern - Apopka FL"
+   },
+   "/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "2027 Operations Manufacturing Engineering Intern"
+   },
+   "/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "2027 Electromechanical Engineer Intern - Rolling Meadows IL"
    },
    "/job/United-States-Maryland-Elkridge/XMLNAME-2027-Strategic-Growth-Intern---Elkridge-MD_R10259704": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -11187,6 +11227,10 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Software Engineering Intern (Summer 2027)"
    },
+   "/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Quality Engineering Intern (Summer 2027)"
+   },
    "/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "2027 Network Engineering Intern"
@@ -11239,9 +11283,21 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "2027 Summer System Engineering Intern (Onsite)"
    },
+   "/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Software Engineering Intern (Summer 2027)"
+   },
    "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Facilities-Maintenance-Co-Op--Summer-Fall-2027-_01885767": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Facilities Maintenance Co-Op (Summer/Fall 2027)"
+   },
+   "/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)"
+   },
+   "/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)"
    },
    "/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886463": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -11274,6 +11330,10 @@
    "/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Summer-Fall-2027-_01886458": {
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Manufacturing Engineering Ops Co-Op (Summer/Fall 2027)"
+   },
+   "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Software Engineering Intern (Summer 2027)"
    },
    "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -11571,6 +11631,10 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "title": "Finance Intern (Summer 2027)"
    },
+   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Systems Engineering Co-op"
+   },
    "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Systems Engineering Intern- Onsite"
@@ -11638,6 +11702,10 @@
    "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Technical-Intern-Summer-2027---Onsite_01882365": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Technical Intern Summer 2027 - Onsite"
+   },
+   "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Software Engineering Intern (Summer 2027)"
    },
    "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -13923,6 +13991,10 @@
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Working Student / Mandatory Intern - Regional HR COE (m/f/d)"
    },
+   "161674": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Manufacturing Engineering Co-op"
+   },
    "162230": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "CO-OP/INTERN"
@@ -14298,6 +14370,10 @@
     "first_seen": "2026-11-10 16:19 UTC",
     "title": "2027 Internship - Customer Experience (Events Associate)"
    },
+   "342174": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "2027 Internship - System Safety Engineer"
+   },
    "342547": {
     "first_seen": "2026-11-10 16:19 UTC",
     "title": "2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME"
@@ -14421,6 +14497,10 @@
    "346245": {
     "first_seen": "2026-11-10 21:54 UTC",
     "title": "Spring Co-Op - Marketing (Content Marketing)"
+   },
+   "346248": {
+    "first_seen": "2026-11-11 02:02 UTC",
+    "title": "Spring Co-Op - Customer Accounts (Independence, KS)"
    }
   },
   "seeded": true
