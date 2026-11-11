@@ -2,7 +2,9 @@ name: Internship watch
 
 on:
   schedule:
-    - cron: "17 * * * *"   # every hour at :17
+    # GitHub often delays or drops scheduled runs, so ask four times an hour and
+    # let the gate below skip any run that comes less than 50 minutes after the last check.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       test_alert:
@@ -30,8 +32,18 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python3 watch.py --test
 
+      - name: Skip if checked recently
+        id: gate
+        run: |
+          last=$(cat state/last_run 2>/dev/null || echo 0)
+          now=$(date +%s)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ $((now - last)) -lt 3000 ]; then
+            echo "Checked $(( (now - last) / 60 )) minutes ago; skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Check companies
-        if: ${{ !inputs.test_alert }}
+        if: ${{ !inputs.test_alert && steps.gate.outputs.skip != 'true' }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
@@ -39,8 +51,9 @@ jobs:
         run: python3 watch.py
 
       - name: Save what was seen
-        if: ${{ !inputs.test_alert }}
+        if: ${{ !inputs.test_alert && steps.gate.outputs.skip != 'true' }}
         run: |
+          date +%s > state/last_run
           git config user.name "internship-watch"
           git config user.email "internship-watch@users.noreply.github.com"
           git add state STATUS.md
