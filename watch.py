@@ -25,6 +25,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
+import triage
 from companies import COMPANIES
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -36,6 +37,20 @@ STATUS_FILE = os.path.join(ROOT, "STATUS.md")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 TIMEOUT = 25
+# Which newly discovered postings become phone alerts:
+#   today             employer-reported date is today (America/Chicago)
+#   last_48_hours     employer-reported date is within 48 hours (date-only: today or yesterday)
+#   newly_discovered  anything not seen before, whatever its date
+# Postings with no usable date, unknown country, or an uncertain fit go to a
+# separate review digest instead of being passed off as recent.
+ALERT_MODE = os.environ.get("ALERT_MODE") or "last_48_hours"
+# Optional private list of requisition IDs you already handled (GitHub secret
+# HANDLED_IDS, separated by commas or new lines). Never commit this to the repo.
+HANDLED = {x.strip() for x in re.split(r"[,\n]", os.environ.get("HANDLED_IDS", "")) if x.strip()}
+MAX_ENRICH_PER_RUN = 40
+ALERTS_FILE = os.path.join(ROOT, "ALERTS.md")
+REVIEW_FILE = os.path.join(ROOT, "REVIEW.md")
+AUDIT_FILE = os.path.join(STATE_DIR, "alerts.jsonl")
 MAX_ALERTS_PER_RUN = 20
 REDISCOVER_HOURS = 24
 # Bump when search logic changes, so companies re-record silently instead of
@@ -126,9 +141,17 @@ def clean(s):
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
-def posting(pid, title, url, location="", posted=""):
-    return {"id": str(pid), "title": clean(title), "url": url,
-            "location": clean(location), "posted": clean(str(posted or ""))}
+def posting(pid, title, url, location="", posted="", **extra):
+    """One job posting.
+
+    id       stable requisition identity within (employer, job system)
+    posted   employer-reported posting date, raw. Never an "updated" value.
+    extra    optional: updated, country, aliases, detail, date_source
+    """
+    p = {"id": str(pid), "title": clean(title), "url": url,
+         "location": clean(location), "posted": clean(str(posted or ""))}
+    p.update({k: v for k, v in extra.items() if v})
+    return p
 
 
 # ---------------------------------------------------------------- job systems
@@ -154,26 +177,43 @@ def fetch_workday(url):
             jobs = d.get("jobPostings", [])
             for j in jobs:
                 path = j.get("externalPath", "")
-                out[path] = posting(path, j.get("title", ""), f"{link_base}{path}",
-                                    j.get("locationsText", ""), j.get("postedOn", ""))
+                # The requisition number is stable; the path changes when a title is edited.
+                req = next((b for b in (j.get("bulletFields") or [])
+                            if re.fullmatch(r"[A-Za-z_-]{0,8}\d{3,}(-\d+)?", str(b).strip())), None)
+                out[path] = posting(req or path, j.get("title", ""), f"{link_base}{path}",
+                                    j.get("locationsText", ""), j.get("postedOn", ""),
+                                    aliases=[path], detail=api[:-len("/jobs")] + path)
             offset += 20
             if not jobs or offset >= total:
                 break
+    # If a "requisition number" is shared by several postings it is not an identity
+    # (some sites put other values in that field): fall back to the path for those.
+    counts = {}
+    for q in out.values():
+        counts[q["id"]] = counts.get(q["id"], 0) + 1
+    for path, q in out.items():
+        if counts[q["id"]] > 1:
+            q["id"] = path
     return list(out.values())
 
 
 def fetch_greenhouse(slug):
     d = http(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs")
+    # first_published is the only publication date. updated_at is kept separately and
+    # is never used as a posted date.
     return [posting(j["id"], j["title"], j["absolute_url"],
                     (j.get("location") or {}).get("name", ""),
-                    j.get("first_published") or j.get("updated_at", ""))
+                    j.get("first_published", ""), updated=j.get("updated_at", ""),
+                    date_source="first_published" if j.get("first_published") else "",
+                    detail=f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs/{j['id']}")
             for j in d.get("jobs", [])]
 
 
 def fetch_lever(slug):
     d = http(f"https://api.lever.co/v0/postings/{slug}?mode=json")
     return [posting(j["id"], j["text"], j["hostedUrl"],
-                    (j.get("categories") or {}).get("location", ""), j.get("createdAt", ""))
+                    (j.get("categories") or {}).get("location", ""), j.get("createdAt", ""),
+                    country=j.get("country", ""))
             for j in d]
 
 
@@ -195,7 +235,7 @@ def fetch_smartrecruiters(cid):
                                f"https://jobs.smartrecruiters.com/{cid}/{j['id']}",
                                ", ".join(x for x in (loc.get("city"), loc.get("region"),
                                                      loc.get("country")) if x),
-                               j.get("releasedDate", "")))
+                               j.get("releasedDate", ""), country=loc.get("country", "")))
     return out
 
 
@@ -250,7 +290,7 @@ def fetch_phenom(base):
                 jid = j.get("jobId") or j.get("reqId") or j.get("jobSeqNo")
                 loc = j.get("cityStateCountry") or j.get("location") or ""
                 out[jid] = posting(jid, j.get("title", ""), f"{base}/job/{jid}", loc,
-                                   j.get("postedDate", ""))
+                                   j.get("postedDate", ""), country=j.get("country", ""))
             start += len(jobs)
             # stop at the end of results; if the total is unknown, stop when a page adds nothing new
             if not jobs or (total and start >= total) or (not total and len(out) == before):
@@ -376,7 +416,7 @@ def fetch_jibe(base):
                 jid = j.get("req_id") or j.get("slug")
                 loc = ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
                 out[str(jid)] = posting(jid, j.get("title", ""), f"{base}/jobs/{j.get('slug', jid)}",
-                                        loc, j.get("posted_date", ""))
+                                        loc, j.get("posted_date", ""), country=j.get("country", ""))
             total = d.get("totalCount") or d.get("count") or 0
             if not items or len(out) >= total or len(items) < 10:
                 break
@@ -495,7 +535,8 @@ def fetch_cws(base):
                                             j.get("primary_country")) if x)
                 slug = re.sub(r"[^a-z0-9]+", "-", j.get("title", "").lower()).strip("-")
                 out[str(j["id"])] = posting(j["id"], j.get("title", ""), f"{base}/job/{j['id']}/{slug}/",
-                                            loc, j.get("open_date", ""))
+                                            loc, j.get("open_date", ""),
+                                            country=j.get("primary_country", ""))
             if len(items) < 100:
                 break
     return list(out.values())
@@ -659,39 +700,6 @@ def save(path, obj):
         f.write("\n")
 
 
-MAX_AGE_DAYS = 4   # postings older than this are recorded silently, never alerted
-MONTHS = {m: i for i, m in enumerate(
-    ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
-
-
-def age_days(posted):
-    """Best-effort age of a posting in days, or None if unknown."""
-    t = str(posted or "").strip().lower()
-    if not t:
-        return None
-    now = datetime.now(timezone.utc)
-    if re.fullmatch(r"\d{12,14}", t):                      # epoch milliseconds
-        return (now - datetime.fromtimestamp(int(t) / 1000, timezone.utc)).days
-    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", t)            # ISO date
-    if m:
-        d = datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
-        return (now - d).days
-    if "today" in t or "just posted" in t or "hour" in t:
-        return 0
-    if "yesterday" in t:
-        return 1
-    m = re.search(r"(\d+)\+?\s*days?", t)                   # "Posted 5 Days Ago", "30+ Days"
-    if m:
-        return int(m[1])
-    m = re.search(r"([a-z]{3})[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})", t)   # "Nov 3, 2026"
-    if m and m[1] in MONTHS:
-        return (now - datetime(int(m[3]), MONTHS[m[1]], int(m[2]), tzinfo=timezone.utc)).days
-    m = re.search(r"(\d{1,2})\s+([a-z]{3})[a-z]*\.?,?\s+(\d{4})", t)   # "3 Nov 2026"
-    if m and m[2] in MONTHS:
-        return (now - datetime(int(m[3]), MONTHS[m[2]], int(m[1]), tzinfo=timezone.utc)).days
-    return None
-
-
 def is_internship(p):
     t = p["title"]
     if not INTERN_RE.search(t) or EXCLUDE_RE.search(t):
@@ -702,6 +710,105 @@ def is_internship(p):
     if NON_US.search(t):
         return False
     return True
+
+# Job systems where the list is scraped from HTML or links are built by hand, so the
+# job page itself has to be checked before a posting is trusted.
+SCRAPED_KINDS = ("successfactors", "html", "radancy", "sfxml")
+
+
+def _page_text(page):
+    text = re.sub(r"<script.*?</script>|<style.*?</style>", " ", page, flags=re.S | re.I)
+    return clean(text)
+
+
+def _from_page(p, page):
+    """Fill date / location / country / canonical link from a job-detail page."""
+    if not p.get("posted"):
+        m = (re.search(r'"datePosted"\s*:\s*"([^"]+)"', page)
+             or re.search(r'itemprop="datePosted"[^>]*content="([^"]+)"', page)
+             or re.search(r'itemprop="datePosted"[^>]*>\s*([^<]{4,40})<', page))
+        if m:
+            p["posted"] = clean(m.group(1))
+    if not p.get("country"):
+        m = re.search(r'"addressCountry"\s*:\s*(?:\{[^}]*?"name"\s*:\s*)?"([^"]+)"', page)
+        if m:
+            p["country"] = clean(m.group(1))
+    if not p.get("location"):
+        city = re.search(r'"addressLocality"\s*:\s*"([^"]+)"', page)
+        region = re.search(r'"addressRegion"\s*:\s*"([^"]+)"', page)
+        geo = (re.search(r'class="jobGeoLocation"[^>]*>\s*([^<]{3,80})<', page)
+               or re.search(r'itemprop="(?:jobLocation|streetAddress)"[^>]*content="([^"]{3,80})"', page))
+        if city or region:
+            p["location"] = ", ".join(clean(x.group(1)) for x in (city, region) if x)
+        elif geo:
+            p["location"] = clean(geo.group(1))
+    m = re.search(r'<link[^>]+rel="canonical"[^>]+href="([^"]+)"', page)
+    if m and "/job" in m.group(1):
+        p["url"] = urllib.parse.urljoin(p["url"], html.unescape(m.group(1)))
+
+
+def enrich(kind, p):
+    """Open the official job-detail record for one new posting.
+
+    Adds: status ("open" / "closed" / "unverified"), flags, and any date,
+    location, country or requisition number the list view did not give.
+    HTTP 200 alone is not treated as proof that a job is open.
+    """
+    p = dict(p)
+    p["status"] = "unverified"
+    text = ""
+    try:
+        if kind == "workday" and p.get("detail"):
+            info = http(p["detail"]).get("jobPostingInfo") or {}
+            text = clean(info.get("jobDescription", ""))
+            if info.get("jobReqId"):
+                p["req"] = info["jobReqId"]
+            if info.get("startDate"):
+                p["posted"] = info["startDate"]
+            if (info.get("country") or {}).get("descriptor"):
+                p["country"] = info["country"]["descriptor"]
+            if info.get("location"):
+                p["location"] = "; ".join([info["location"]] + list(info.get("additionalLocations") or []))
+            if info.get("title"):
+                p["status"] = "open"
+        elif kind == "greenhouse" and p.get("detail"):
+            d = http(p["detail"])
+            text = clean(html.unescape(d.get("content", "")))
+            if d.get("first_published"):
+                p["posted"], p["date_source"] = d["first_published"], "first_published"
+            if d.get("title"):
+                p["status"] = "open"
+        else:
+            urls = [p["url"]]
+            if kind == "successfactors":       # official localized links, tried only if the plain one fails
+                base = p["url"].rstrip("/")
+                urls += [f"{base}-{loc}/" for loc in ("en_US", "en_GB", "fr_CA", "fr_FR", "de_DE")]
+            for i, u in enumerate(urls):
+                try:
+                    page, final = http(u, as_json=False)
+                except urllib.error.HTTPError as e:
+                    if e.code in (404, 410) and i == 0 and len(urls) == 1:
+                        p["status"] = "closed"
+                    continue
+                status = triage.page_status(page, p["title"], p.get("req") or
+                                            (p["id"] if re.fullmatch(r"[\w-]{3,20}", p["id"]) else ""))
+                if status == "unverified" and kind not in SCRAPED_KINDS:
+                    status = "listed"      # in the employer's live job feed; page itself is script-rendered
+                if status == "open" or i == 0:
+                    p["status"] = status
+                if status == "open":
+                    p["url"] = final
+                    _from_page(p, page)
+                    text = _page_text(page)
+                    break
+    except urllib.error.HTTPError as e:
+        p["status"] = "closed" if e.code in (404, 410) else "unverified"   # 403 = blocked, not closed
+    except Exception:
+        p["status"] = "unverified"
+    if p["status"] == "unverified" and kind not in SCRAPED_KINDS and kind not in ("workday", "greenhouse"):
+        p["status"] = "listed"
+    p["flags"] = triage.requirement_flags(text) if text else []
+    return p
 
 
 def check(company, resolved):
@@ -767,8 +874,10 @@ def main():
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(lambda c: (c, check(c, resolved)), companies))
 
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    alerts, rows = [], []
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.strftime("%Y-%m-%d %H:%M UTC")
+    today = now_dt.strftime("%Y-%m-%d")
+    candidates, rows = [], []
     for company, r in results:
         name = company["name"]
         entry = resolved.setdefault(name, {})
@@ -783,35 +892,91 @@ def main():
         interns = list({p["id"]: p for p in r["jobs"] if is_internship(p)}.values())
         state = seen.setdefault(name, {"seeded": False, "ids": {}})
         if r["status"] == "ok":
+            kind = (r.get("ats") or [""])[0]
             fp = [SEARCH_VERSION] + list(r.get("ats") or [])
             if state.get("fp") != fp:
                 state["fp"] = fp     # new job system or search logic: record silently
                 state["seeded"] = False
-            new = [p for p in interns if p["id"] not in state["ids"]]
+            ids = state["ids"]
+            # A requisition is known by its stable id or by any earlier alias (e.g. an old URL path).
+            alias_of = {a: k for k, v in ids.items() for a in v.get("aliases", [])}
             for p in interns:
-                state["ids"].setdefault(p["id"], {"title": p["title"], "first_seen": now})
-            if state["seeded"]:
-                for p in new:
-                    age = age_days(p["posted"])
-                    if is_engineering(p["title"]) and (age is None or age <= MAX_AGE_DAYS):
-                        alerts.append((name, p))
-            else:
-                state["seeded"] = True   # first successful check: record silently
+                keys = [p["id"]] + list(p.get("aliases", []))
+                old_key = next((k for k in keys if k in ids), None) or \
+                    next((alias_of[k] for k in keys if k in alias_of), None)
+                is_new = old_key is None
+                rec = ids.pop(old_key) if old_key and old_key != p["id"] else ids.get(p["id"], {})
+                rec.setdefault("first_seen", now)          # discovery time; preserved across runs
+                if rec.get("title") and rec["title"] != p["title"]:
+                    rec["updated_seen"] = today           # same requisition, edited: not a new role
+                rec["title"] = p["title"]
+                rec["last_seen"] = today
+                if p["posted"]:
+                    rec["posted_raw"] = p["posted"]
+                if p.get("updated"):
+                    rec["updated_raw"] = p["updated"]
+                aliases = sorted(set(rec.get("aliases", [])) | set(keys) - {p["id"]})
+                if aliases:
+                    rec["aliases"] = aliases
+                ids[p["id"]] = rec
+                if is_new and state["seeded"]:
+                    candidates.append((name, kind, p))
+            state["seeded"] = True       # first successful check records silently
         rows.append((company["group"], name, r["status"],
                      (r.get("ats") or [""])[0], len(r["jobs"]),
                      sum(1 for p in interns if is_engineering(p["title"])), r.get("note", "")))
 
+    # Cheap filters first, then open the official job page for what is left.
+    todo, audit = [], []
+    for name, kind, p in candidates:
+        bucket, reasons = triage.classify(p, ALERT_MODE, now_dt, HANDLED)
+        if bucket == "skip":
+            audit.append((name, kind, p, bucket, reasons))
+        else:
+            todo.append((name, kind, p))
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        enriched = list(pool.map(lambda t: enrich(t[1], t[2]), todo[:MAX_ENRICH_PER_RUN]))
+    alerts, review = [], []
+    for i, (name, kind, p) in enumerate(todo):
+        if i < len(enriched):
+            p = enriched[i]
+            bucket, reasons = triage.classify(p, ALERT_MODE, now_dt, HANDLED)
+        else:
+            bucket, reasons = "review", ["not verified this run (too many new postings)"]
+        audit.append((name, kind, p, bucket, reasons))
+        if bucket == "alert":
+            alerts.append((name, p))
+        elif bucket == "review":
+            review.append((name, p, reasons))
+
+    local_now = now_dt.astimezone(triage.LOCAL_TZ).strftime("%b %d %I:%M %p CT")
+
+    def summary_line(p):
+        label, why = triage.relevance(p["title"])
+        where = triage.country_of(p.get("location", ""), p.get("country", ""))
+        return (f"{label} ({why}) | {p.get('location') or 'location unstated'} [{where}] | "
+                f"{triage.describe_date(p.get('posted'), p.get('date_source', ''), now_dt)} | "
+                f"found {local_now} | ID {p.get('req') or p['id'][:40]} | {p.get('status', 'unverified')}")
+
     for name, p in alerts[:MAX_ALERTS_PER_RUN]:
-        bits = [x for x in (p["location"], p["posted"]) if x]
-        notify(f"{name}: {p['title']}", " · ".join(bits) or "New internship posting",
-               click=p["url"])
+        flags = [f for f in p.get("flags", []) if "unstated" not in f]
+        body = summary_line(p).replace(" | ", "\n") + ("\nNote: " + "; ".join(flags) if flags else "")
+        notify(f"{name}: {p['title']}", body, click=p["url"])
         print(f"NEW  {name}: {p['title']}  {p['url']}")
     if len(alerts) > MAX_ALERTS_PER_RUN:
         rest = alerts[MAX_ALERTS_PER_RUN:]
         names = sorted({n for n, _ in rest})
         notify(f"+{len(rest)} more new internships",
-               "Also new at: " + ", ".join(names) + ". See STATUS.md in your repo.",
+               "Also new at: " + ", ".join(names) + ". See ALERTS.md in your repo.",
                tags="briefcase")
+    if review:
+        lines = [f"{n}: {p['title']} ({'; '.join(why)})" for n, p, why in review[:12]]
+        more = f"\n+{len(review) - 12} more in REVIEW.md" if len(review) > 12 else ""
+        notify(f"To review: {len(review)} newly found posting(s)",
+               "Found now, but not confirmed as posted in the alert window:\n" + "\n".join(lines) + more,
+               tags="mag", priority="low")
+        for n, p, why in review:
+            print(f"REVIEW  {n}: {p['title']}  [{'; '.join(why)}]  {p['url']}")
 
     # Warn once when a company that used to work has failed for 12 checks in a row.
     for company, r in results:
@@ -821,21 +986,49 @@ def main():
                    "This company's job site has failed for about 12 hours. "
                    "Ask Claude to look at it.", tags="warning")
 
-    if alerts:   # keep a running list of recent alerts, newest first
-        log = os.path.join(ROOT, "ALERTS.md")
+    def prepend(path, header, lines):
         try:
-            prev = open(log).read().split("\n", 2)[2] if os.path.exists(log) else ""
+            prev = open(path).read().split("\n", 2)[2] if os.path.exists(path) else ""
         except IndexError:
             prev = ""
-        lines = [f"- {now} · **{n}** · [{p['title']}]({p['url']}) · {p['location']}" for n, p in alerts]
-        body = "\n".join(lines + prev.splitlines()[:300])
-        with open(log, "w") as f:
-            f.write("# Recent internship alerts\n\n" + body + "\n")
+        with open(path, "w") as f:
+            f.write(header + "\n\n" + "\n".join(lines + prev.splitlines()[:400]) + "\n")
+
+    if alerts:   # running list of alerts, newest first
+        prepend(ALERTS_FILE, "# Recent internship alerts",
+                [f"- {now} · **{n}** · [{p['title']}]({p['url']}) · {summary_line(p)}" for n, p in alerts])
+    if review:   # found, but date / country / fit could not be confirmed
+        prepend(REVIEW_FILE, "# Newly found postings to review",
+                [f"- {now} · **{n}** · [{p['title']}]({p['url']}) · {summary_line(p)} · "
+                 f"review because: {'; '.join(why)}" for n, p, why in review])
+    if audit:    # machine-readable record of every decision
+        with open(AUDIT_FILE, "a") as f:
+            for name, kind, p, bucket, reasons in audit:
+                d = triage.parse_posted(p.get("posted"), now_dt)
+                label, why = triage.relevance(p["title"])
+                f.write(json.dumps({
+                    "discovered_utc": now_dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                    "discovered_local": now_dt.astimezone(triage.LOCAL_TZ).strftime("%Y-%m-%d %H:%M %Z"),
+                    "company": name, "job_system": kind, "id": p["id"], "requisition": p.get("req", ""),
+                    "aliases": p.get("aliases", []), "title": p["title"], "url": p["url"],
+                    "location": p.get("location", ""), "country_field": p.get("country", ""),
+                    "country": triage.country_of(p.get("location", ""), p.get("country", "")),
+                    "posted_raw": p.get("posted", ""),
+                    "posted_day_local": d["day"].isoformat() if d["day"] else None,
+                    "posted_at_utc": d["when"].astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                    if d["when"] else None,
+                    "date_precision": d["precision"],
+                    "date_source": p.get("date_source") or ("employer-reported" if d["day"] else "none"),
+                    "updated_raw": p.get("updated", ""),
+                    "relevance": label, "relevance_reason": why, "status": p.get("status", "not checked"),
+                    "flags": p.get("flags", []), "mode": ALERT_MODE, "decision": bucket,
+                    "decision_reasons": reasons}, ensure_ascii=False) + "\n")
     save(SEEN_FILE, seen)
     save(RESOLVED_FILE, resolved)
     write_status(rows, alerts, now)
     ok = sum(1 for r in rows if r[2] == "ok")
-    print(f"\n{ok}/{len(rows)} companies checked OK, {len(alerts)} new internship(s).")
+    print(f"\n{ok}/{len(rows)} companies checked OK, {len(alerts)} alert(s), {len(review)} to review, "
+          f"{len(audit) - len(alerts) - len(review)} new but skipped. Mode: {ALERT_MODE}.")
 
 
 def write_status(rows, alerts, now):

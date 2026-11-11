@@ -34,6 +34,8 @@ jobs:
         if: ${{ !inputs.test_alert }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
+          ALERT_MODE: ${{ vars.ALERT_MODE }}
         run: python3 watch.py
 
       - name: Save what was seen
@@ -41,7 +43,8 @@ jobs:
         run: |
           git config user.name "internship-watch"
           git config user.email "internship-watch@users.noreply.github.com"
-          git add state STATUS.md ALERTS.md 2>/dev/null || git add state STATUS.md
+          git add state STATUS.md
+          git add ALERTS.md REVIEW.md 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes."
           else
