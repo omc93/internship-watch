@@ -543,13 +543,75 @@ def fetch_cws(base):
                 break
     return list(out.values())
 
+def fetch_ukg(board):
+    """UKG / UltiPro job boards (recruiting.ultipro.com/CODE/JobBoard/UUID)."""
+    board = board.rstrip("/").split("?")[0]
+    out = {}
+    for kw in ("intern", "co-op"):
+        d = http(f"{board}/JobBoardView/LoadSearchResults",
+                 {"opportunitySearch": {"Top": 100, "Skip": 0, "QueryString": kw,
+                                        "OrderBy": [{"Value": "postedDateDesc", "PropertyName": "PostedDate",
+                                                     "Ascending": False}], "Filters": []}})
+        for j in d.get("opportunities", []):
+            locs = j.get("Locations") or []
+            addr = (locs[0].get("Address") or {}) if locs else {}
+            loc = ", ".join(x for x in (addr.get("City"), (addr.get("State") or {}).get("Code")) if x)
+            out[j["Id"]] = posting(j["Id"], j.get("Title", ""),
+                                   f"{board}/OpportunityDetail?opportunityId={j['Id']}", loc,
+                                   j.get("PostedDate", ""), country=(addr.get("Country") or {}).get("Code", ""))
+    return list(out.values())
+
+
+def fetch_bamboohr(sub):
+    d = http(f"https://{sub}.bamboohr.com/careers/list")
+    out = []
+    for j in d.get("result", []):
+        loc = j.get("location") or {}
+        out.append(posting(j["id"], j.get("jobOpeningName", ""),
+                           f"https://{sub}.bamboohr.com/careers/{j['id']}",
+                           ", ".join(x for x in (loc.get("city"), loc.get("state")) if x)))
+    return out
+
+
+def fetch_rippling(slug):
+    d = http(f"https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs")
+    items = d if isinstance(d, list) else d.get("items") or d.get("jobs") or []
+    out = []
+    for j in items:
+        loc = j.get("workLocation") or {}
+        out.append(posting(j.get("uuid") or j.get("id"), j.get("name", ""),
+                           j.get("url") or f"https://ats.rippling.com/{slug}/jobs/{j.get('uuid')}",
+                           loc.get("label", "") if isinstance(loc, dict) else str(loc)))
+    return out
+
+
+def fetch_workable(slug):
+    d = http(f"https://apply.workable.com/api/v1/widget/accounts/{slug}")
+    return [posting(j.get("shortcode"), j.get("title", ""),
+                    j.get("url") or f"https://apply.workable.com/{slug}/j/{j.get('shortcode')}/",
+                    ", ".join(x for x in (j.get("city"), j.get("state")) if x),
+                    j.get("published_on", ""), country=j.get("country", ""))
+            for j in d.get("jobs", [])]
+
+
+def fetch_breezy(sub):
+    d = http(f"https://{sub}.breezy.hr/json")
+    out = []
+    for j in d:
+        loc = j.get("location") or {}
+        out.append(posting(j.get("id"), j.get("name", ""), j.get("url", ""), loc.get("name", ""),
+                           j.get("published_date", ""), country=(loc.get("country") or {}).get("id", "")))
+    return out
+
+
 FETCHERS = {
     "workday": fetch_workday, "greenhouse": fetch_greenhouse, "lever": fetch_lever,
     "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters, "oracle": fetch_oracle,
     "phenom": fetch_phenom, "radancy": fetch_radancy, "html": fetch_html,
     "amazon": fetch_amazon, "successfactors": fetch_successfactors, "jibe": fetch_jibe,
     "eightfold": fetch_eightfold, "taleo": fetch_taleo, "sfxml": fetch_sfxml,
-    "cws": fetch_cws,
+    "cws": fetch_cws, "ukg": fetch_ukg, "bamboohr": fetch_bamboohr, "rippling": fetch_rippling,
+    "workable": fetch_workable, "breezy": fetch_breezy,
 }
 
 
@@ -598,6 +660,20 @@ def candidates_from(page):
         found.append(("taleo", f"https://{m.group(1)}|{m.group(2)}"))
     for m in re.finditer(r"https?://(wd\d+)\.myworkdaysite\.com/(?:[a-z]{2}-[A-Z]{2}/)?recruiting/([a-z0-9_-]+)/([A-Za-z0-9_-]+)", page):
         found.append(("workday", f"https://{m.group(1)}.myworkdaysite.com/recruiting/{m.group(2)}/{m.group(3)}"))
+    for m in re.finditer(r"https?://(recruiting\d*\.ultipro\.com|[a-z0-9.-]+\.ukg\.net)/([A-Za-z0-9]+)/JobBoard/"
+                         r"([0-9a-f-]{36})", page):
+        found.append(("ukg", f"https://{m.group(1)}/{m.group(2)}/JobBoard/{m.group(3)}"))
+    for m in re.finditer(r"https?://([a-z0-9-]+)\.bamboohr\.com", page):
+        if m.group(1) not in ("www", "resources", "app", "cdn"):
+            found.append(("bamboohr", m.group(1)))
+    for m in re.finditer(r"(?:ats/v1/board|ats\.rippling\.com)/([a-z0-9-]+)/jobs", page):
+        found.append(("rippling", m.group(1)))
+    for m in re.finditer(r"https?://([a-z0-9-]+)\.breezy\.hr", page):
+        if m.group(1) not in ("www", "app", "assets"):
+            found.append(("breezy", m.group(1)))
+    for m in re.finditer(r"apply\.workable\.com/([a-z0-9-]+)", page):
+        if m.group(1) not in ("api", "assets"):
+            found.append(("workable", m.group(1)))
     seen, out = set(), []
     for c in found:
         if c not in seen:
@@ -669,7 +745,8 @@ def discover(company):
     for c in cands:
         try:
             ats, jobs = try_candidate(c, c[1] if c[0].endswith("?") else url)
-            if jobs or ats[0] in ("greenhouse", "lever", "ashby", "workday", "oracle", "taleo"):
+            if jobs or ats[0] in ("greenhouse", "lever", "ashby", "workday", "oracle", "taleo", "ukg",
+                                  "bamboohr", "rippling", "breezy", "workable"):
                 return ats, jobs, "found on careers page"
         except Exception as e:
             tried.append(f"{c[0]}:{c[1]} {type(e).__name__}")
