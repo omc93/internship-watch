@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-11 04:18 UTC · **L3Harris** · [Intern, Loistics (Camden, AR) Manufacturing|Co Op/Intern Camden, AR](https://careers.l3harris.com/en/job/camden/intern-loistics-camden-ar/4832/103139921616) · fit (manufacturing) | Camden, AR [US] | employer-reported Nov 11 | found Nov 10 10:18 PM CT | ID https://careers.l3harris.com/en/job/camd | open
 - 2026-11-11 02:02 UTC · **Bombardier** · [Intern, Project Engineering - New development (Winter 2027)](https://jobs.bombardier.com/job/Intern%2C-Project-Engineering-New-development-%28Winter-2027%29/15387/) · St-Laurent, QC, CAN,
 - 2026-11-11 02:02 UTC · **Northrop Grumman** · [2027 Optics/Photonic Engineering Intern - Apopka FL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) · United States-Florida-Apopka
 - 2026-11-11 02:02 UTC · **Northrop Grumman** · [2027 Operations Manufacturing Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1) · United States-Florida-Saint Augustine

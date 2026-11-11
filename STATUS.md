@@ -5,30 +5,20 @@ Working: 202 of 260 companies
 
 ## New this run
 
-- **Bombardier**: [Intern, Project Engineering - New development (Winter 2027)](https://jobs.bombardier.com/job/Intern%2C-Project-Engineering-New-development-%28Winter-2027%29/15387/) St-Laurent, QC, CAN,
-- **Northrop Grumman**: [2027 Optics/Photonic Engineering Intern - Apopka FL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) United States-Florida-Apopka
-- **Northrop Grumman**: [2027 Operations Manufacturing Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1) United States-Florida-Saint Augustine
-- **Northrop Grumman**: [2027 Electromechanical Engineer Intern - Rolling Meadows IL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085) United States-Illinois-Rolling Meadows
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Systems Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039) 2 Locations
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Quality-Engineering-Intern--Summer-2027-_01882062) US-CO-COLORADO SPRINGS-793 ~ 1225 Aeroplaza Dr ~ AEROPLAZA
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878) US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Manufacturing Electrical Engineer Co-op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Summer-Fall-2027-_01883880) US-FL-MELBOURNE-308 ~ 1100 W Hibiscus Blvd ~ BLDG 308
-- **NVIDIA**: [Performance Engineering Intern, Platform Performance and Power - Spring 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541) US, CA, Santa Clara
-- **GE Vernova**: [GE Vernova Technical Field Advisor Intern - 2027](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/GE-Vernova-Technical-Field-Advisor-Intern---2027_R5058143-3) Remote
-- **TE Connectivity**: [Manufacturing Engineering Co-op](https://careers.te.com/job/Manufacturing-Engineering-Co-op/161674/) FUQUAY - VARINA, NC, USA, 27526
+- **L3Harris**: [Intern, Loistics (Camden, AR) Manufacturing|Co Op/Intern Camden, AR](https://careers.l3harris.com/en/job/camden/intern-loistics-camden-ar/4832/103139921616) Camden, AR
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | AeroVironment | ✅ ok | workday | 26 | cache |
-| Airbus | ✅ ok | workday | 7 | config |
+| Airbus | ✅ ok | workday | 6 | config |
 | Anduril | ✅ ok | greenhouse | 24 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 34 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 11 | config |
+| BAE Systems | ✅ ok | phenom | 5 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 34 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -47,7 +37,7 @@ Working: 202 of 260 companies
 | Howmet Aerospace | ✅ ok | oracle | 11 | cache |
 | Impulse Space | ✅ ok | ashby | 1 | cache |
 | Joby Aviation | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
-| L3Harris | ✅ ok | radancy | 0 | config |
+| L3Harris | ✅ ok | radancy | 1 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
 | Moog | ✅ ok | workday | 11 | cache |
@@ -117,7 +107,7 @@ Working: 202 of 260 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 21 | config |
+| ABB | ✅ ok | phenom | 19 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -181,13 +171,13 @@ Working: 202 of 260 companies
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
 | Oshkosh | ✅ ok | phenom | 45 | cache |
-| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 25 | config |
+| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 23 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
 | Toyota | ✅ ok | workday | 0 | cache |
 | Volkswagen | ❌ unresolved |  |  | careers page: URLError |
-| Volvo Group | ✅ ok | successfactors | 5 | config |
+| Volvo Group | ✅ ok | successfactors | 7 | config |
 | Zoox | ✅ ok | lever | 4 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
@@ -209,7 +199,7 @@ Working: 202 of 260 companies
 | Aptiv | ✅ ok | workday | 22 | config |
 | Magna | ✅ ok | workday | 11 | config |
 | Lear | ✅ ok | successfactors | 0 | cache |
-| ZF | ✅ ok | successfactors | 7 | cache |
+| ZF | ✅ ok | successfactors | 4 | cache |
 | Continental | ❌ unresolved |  |  | no job system found on careers page |
 | Denso | ❌ unresolved |  |  | careers page: HTTPError |
 | Allison Transmission | ✅ ok | workday | 11 | cache |
@@ -237,7 +227,7 @@ Working: 202 of 260 companies
 | AMETEK | ✅ ok | successfactors | 6 | config |
 | Baker Hughes | ✅ ok | workday | 13 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
-| Celestica | ✅ ok | successfactors | 3 | config |
+| Celestica | ✅ ok | successfactors | 4 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 1 | config |
 | Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError |
@@ -252,7 +242,7 @@ Working: 202 of 260 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 16 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 28 | cache |
+| ITW | ✅ ok | phenom | 29 | cache |
 | Jabil | ✅ ok | workday | 10 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
@@ -281,7 +271,7 @@ Working: 202 of 260 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 15 | cache |
+| Trane Technologies | ✅ ok | phenom | 12 | cache |
 | Carrier | ✅ ok | workday | 21 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
