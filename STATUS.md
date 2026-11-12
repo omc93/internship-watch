@@ -1,35 +1,33 @@
 # Internship watch status
 
-Working: 308 of 421 companies
+Working: 309 of 421 companies
 
 
 ## New this run
 
-- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Charlottesville VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260) United States-Virginia-Charlottesville
-- **Northrop Grumman**: [2027 Propulsion Engineering Intern - Promontory UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Propulsion-Engineering-Intern---Promontory-UT_R10260223) United States-Utah-Corinne; United States-Utah-Clearfield; United States-Utah-Magna
-- **Northrop Grumman**: [2027 Mechanical Engineer Intern- Redondo Beach CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-Beach-CA_R10260186) United States-California-Redondo Beach
-- **Northrop Grumman**: [2027 Systems Engineer Intern - Cape Canaveral FL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849) United States-Florida-Cape Canaveral
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Operations Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864) US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC
-- **Valeo**: [R&D Co-Op](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Auburn-Hills-MI/R-D-Co-Op_REQ2026082825) Auburn Hills, MI
-- **Eaton**: [Design Engineer Internship (Summer 2027)](https://eaton.eightfold.ai/careers/job/687240116405) Beltsville, Maryland, USA, 20705
-- **Eaton**: [Manufacturing Engineer Internship (Summer 2027)](https://eaton.eightfold.ai/careers/job/687240115170) Beltsville, Maryland, USA, 20705
-- **Bechtel**: [27 Intern | US | Automation Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297656EXTERNALENUS/27-Intern-US-Automation-Engr) United States
-- **Bechtel**: [27 Intern | US | Mechanical Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297667EXTERNALENUS/27-Intern-US-Mechanical-Engr) United States
-- **Bechtel**: [27 Intern | US | Project Controls Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297671EXTERNALENUS/27-Intern-US-Project-Controls-Engr) United States
-- **Bechtel**: [27 Intern | US | Control Systems Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297661EXTERNALENUS/27-Intern-US-Control-Systems-Engr) United States
-- **Bechtel**: [27 Intern | US | Process Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297670EXTERNALENUS/27-Intern-US-Process-Engr) United States
-- **Bechtel**: [27 Intern | US | Quality/Six Sigma](https://jobs.bechtel.com/us/en/job/BCFBCKUS297674EXTERNALENUS/27-Intern-US-Quality-Six-Sigma) United States
-- **Bechtel**: [27 Intern | US | Systems Engr](https://jobs.bechtel.com/us/en/job/BCFBCKUS297665EXTERNALENUS/27-Intern-US-Systems-Engr) United States
+- **AeroVironment**: [GNC / Autonomy Engineering Intern](https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/GNC---Autonomy-Engineering-Intern_9363) Lawrence, KS
+- **Moog**: [Intern Engineering, Product Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern-Engineering--Product-Engineering_R-26-21312) Blacksburg, VA
+- **Moog**: [Intern, Design Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Design-Engineering_R-26-21242) Blacksburg, VA
+- **Northrop Grumman**: [2027 Industrial Engineering Intern - Elkridge MD](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314) United States-Maryland-Elkridge
+- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Elkridge MD](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318) United States-Maryland-Elkridge
+- **Northrop Grumman**: [2027 Program Cost and Schedule Control Intern - Northridge CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Program-Cost-and-Schedule-Control-Intern---Northridge-CA_R10260298) United States-California-Northridge
+- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Charlottesville VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251) United States-Virginia-Charlottesville
+- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Charlottesville VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1) United States-Virginia-Charlottesville
+- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Waynesboro VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271) United States-Virginia-Charlottesville
+- **Sierra Nevada Corporation**: [Systems Engineer Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749) Dayton, OH
+- **SharkNinja**: [Summer 2027: Control Systems & Algorithms Intern (May to August)](https://careers.sharkninja.com/job/needham/summer-2027-control-systems-and-algorithms-intern-may-to-august/47204/103185026320) Needham, MA
+- **SharkNinja**: [Spring 2027: Product Performance Test Engineer Co-op (January through June)](https://careers.sharkninja.com/job/needham/spring-2027-product-performance-test-engineer-co-op-january-through-june/47204/103185026112) Needham, MA
+- **SharkNinja**: [Spring 2027: Control Systems & Algorithms Co-op (January to June)](https://careers.sharkninja.com/job/needham/spring-2027-control-systems-and-algorithms-co-op-january-to-june/47204/103185025840) Needham, MA
+- **ITW**: [Quality Engineering Intern](https://careers.itw.com/us/en/job/JR11135) Danvers, Massachusetts, United States of America
+- **Bloom Energy**: [RMCC Systems Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363) San Jose, California
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| AeroVironment | ✅ ok | workday | 26 | cache |
+| AeroVironment | ✅ ok | workday | 27 | cache |
 | Airbus | ✅ ok | workday | 6 | config |
-| Anduril | ✅ ok | greenhouse | 24 | cache |
+| Anduril | ✅ ok | greenhouse | 24 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 34 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
@@ -53,15 +51,15 @@ Working: 308 of 421 companies
 | Howmet Aerospace | ✅ ok | oracle | 11 | cache |
 | Impulse Space | ✅ ok | ashby | 1 | cache |
 | Joby Aviation | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
-| L3Harris | ✅ ok | radancy | 0 | config |
+| L3Harris | ✅ ok | radancy | 2 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
-| Moog | ✅ ok | workday | 11 | cache |
-| Northrop Grumman | ✅ ok | workday | 14 | config |
+| Moog | ✅ ok | workday | 19 | cache |
+| Northrop Grumman | ✅ ok | workday | 21 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 36 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 118 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 115 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 15 | cache |
@@ -72,7 +70,7 @@ Working: 308 of 421 companies
 | Stratolaunch | ✅ ok | greenhouse | 3 | cache |
 | Teledyne | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Textron (Textron Aviation, Bell, university hiring) | ✅ ok | taleo | 16 | config |
-| Triumph Group | ✅ ok | successfactors | 0 | found on careers page |
+| Triumph Group | ✅ ok | successfactors | 0 | cache |
 | True Anomaly | ✅ ok | greenhouse | 0 | config |
 | United Launch Alliance | ✅ ok | successfactors | 10 | config |
 | Vast Space | ✅ ok | greenhouse | 0 | cache |
@@ -81,22 +79,22 @@ Working: 308 of 421 companies
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 22 | config |
 | Boom Supersonic | ⏭️ skipped |  |  | job board isn't publicly readable |
-| BETA Technologies | ❌ error |  |  | no job system found on careers page |
+| BETA Technologies | ❌ unresolved |  |  | no job system found on careers page |
 | Varda Space | ✅ ok | greenhouse | 17 | cache |
 | Apex Space | ✅ ok | ashby | 3 | cache |
 | K2 Space | ✅ ok | greenhouse | 3 | config |
-| Intuitive Machines | ❌ error |  |  | careers page: HTTPError |
+| Intuitive Machines | ❌ unresolved |  |  | careers page: HTTPError |
 | Venus Aerospace | ✅ ok | lever | 0 | cache |
 | Ursa Major | ✅ ok | greenhouse | 2 | cache |
 | Astrobotic | ✅ ok | greenhouse | 3 | cache |
 | Reliable Robotics | ✅ ok | ashby | 0 | cache |
-| Supernal | ❌ error |  |  | careers page: HTTPError |
+| Supernal | ❌ unresolved |  |  | careers page: HTTPError |
 | Cirrus Aircraft | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
 | Rolls-Royce | ✅ ok | workday | 0 | config |
 | Spirit AeroSystems | ✅ ok | jibe | 4 | cache |
-| Honda Aircraft | ❌ error |  |  | careers page: HTTPError |
+| Honda Aircraft | ❌ unresolved |  |  | careers page: HTTPError |
 | Dassault Falcon Jet | ✅ ok | ukg | 0 | config |
-| Virgin Galactic | ❌ error |  |  | careers page: HTTPError |
+| Virgin Galactic | ❌ unresolved |  |  | careers page: HTTPError |
 | Planet Labs | ✅ ok | greenhouse | 0 | cache |
 | Spire Global | ✅ ok | greenhouse | 0 | cache |
 | Muon Space | ✅ ok | greenhouse | 8 | cache |
@@ -106,14 +104,14 @@ Working: 308 of 421 companies
 | Northwood Space | ✅ ok | ashby | 0 | cache |
 | Portal Space Systems | ✅ ok | greenhouse | 0 | cache |
 | Outpost Space | ✅ ok | ashby | 0 | cache |
-| Radian Aerospace | ❌ error |  |  | careers page: HTTPError |
+| Radian Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
 | Electra.aero | ✅ ok | greenhouse | 0 | cache |
 | JetZero | ✅ ok | greenhouse | 2 | cache |
 | Natilus | ✅ ok | workable | 0 | config |
 | Momentus | ✅ ok | greenhouse | 0 | cache |
 | Southwest Airlines | ✅ ok | phenom | 0 | cache |
-| American Airlines | ❌ error |  |  | careers page: HTTPError |
-| Delta Air Lines | ❌ error |  |  | no job system found on careers page |
+| American Airlines | ❌ unresolved |  |  | careers page: HTTPError |
+| Delta Air Lines | ❌ unresolved |  |  | no job system found on careers page |
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
@@ -161,12 +159,12 @@ Working: 308 of 421 companies
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
 | Apptronik | ✅ ok | greenhouse | 0 | config |
-| Aurora | ❌ error |  |  | no job system found on careers page |
+| Aurora | ❌ unresolved |  |  | no job system found on careers page |
 | Boston Dynamics | ✅ ok | workday | 4 | cache |
-| FANUC | ❌ error |  |  | no job system found on careers page |
+| FANUC | ❌ unresolved |  |  | no job system found on careers page |
 | Figure | ✅ ok | greenhouse | 6 | config |
 | Intuitive Surgical | ✅ ok | smartrecruiters | 5 | config |
-| KUKA | ❌ error |  |  | careers page: HTTPError |
+| KUKA | ❌ unresolved |  |  | careers page: HTTPError |
 | Nuro | ✅ ok | greenhouse | 0 | cache |
 | Rockwell Automation | ⏭️ skipped |  |  | site blocks automated checks |
 | Symbotic | ✅ ok | html | 0 | config |
@@ -187,16 +185,16 @@ Working: 308 of 421 companies
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
 | Formic | ✅ ok | greenhouse | 0 | cache |
 | Bright Machines | ✅ ok | lever | 0 | cache |
-| Dusty Robotics | ❌ error |  |  | greenhouse:dustyrobotics HTTPError |
+| Dusty Robotics | ❌ unresolved |  |  | greenhouse:dustyrobotics HTTPError |
 | Serve Robotics | ✅ ok | ashby | 0 | cache |
-| Starship Technologies | ❌ error |  |  | no job system found on careers page |
+| Starship Technologies | ❌ unresolved |  |  | no job system found on careers page |
 | Collaborative Robotics | ✅ ok | ashby | 0 | config |
-| Skild AI | ❌ error |  |  | careers page: HTTPError |
+| Skild AI | ❌ unresolved |  |  | careers page: HTTPError |
 | Built Robotics | ✅ ok | ashby | 0 | cache |
-| iRobot | ❌ error |  |  | careers page: HTTPError |
+| iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ✅ ok | workday | 0 | config |
 | Dell Technologies | ✅ ok | oracle | 2 | config |
-| Texas Instruments | ✅ ok | oracle | 27 | config |
+| Texas Instruments | ✅ ok | oracle | 25 | config |
 | NVIDIA | ✅ ok | workday | 20 | config |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
@@ -217,7 +215,7 @@ Working: 308 of 421 companies
 | Johnson & Johnson | ✅ ok | workday | 3 | config |
 | Abbott | ✅ ok | workday | 3 | config |
 | Edwards Lifesciences | ✅ ok | workday | 0 | config |
-| BD | ✅ ok | workday | 3 | config |
+| BD | ✅ ok | workday | 2 | config |
 | Baxter | ✅ ok | workday | 1 | config |
 | GE HealthCare | ✅ ok | workday | 3 | config |
 | Thermo Fisher | ✅ ok | workday | 9 | config |
@@ -233,7 +231,7 @@ Working: 308 of 421 companies
 | Sonos | ✅ ok | workday | 0 | config |
 | GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
-| SharkNinja | ✅ ok | radancy | 12 | cache |
+| SharkNinja | ✅ ok | radancy | 15 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
 | YETI | ✅ ok | workday | 0 | config |
@@ -257,33 +255,33 @@ Working: 308 of 421 companies
 | Daimler Truck | ✅ ok | workday | 2 | cache |
 | Ford | ✅ ok | radancy | 0 | config |
 | General Motors | ✅ ok | workday | 28 | config |
-| Hitachi Construction Machinery | ❌ error |  |  | careers page: URLError |
+| Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
 | John Deere | ✅ ok | successfactors | 4 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 45 | cache |
-| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 22 | config |
+| Oshkosh | ✅ ok | phenom | 41 | cache |
+| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
 | Toyota | ✅ ok | workday | 0 | cache |
-| Volkswagen | ❌ error |  |  | careers page: URLError |
+| Volkswagen | ❌ unresolved |  |  | careers page: URLError |
 | Volvo Group | ✅ ok | successfactors | 8 | config |
 | Zoox | ✅ ok | lever | 4 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
 | Slate Auto | ✅ ok | workday | 0 | cache |
 | Divergent | ✅ ok | greenhouse | 2 | cache |
-| Polaris | ❌ error |  |  | no job system found on careers page |
+| Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
-| Stellantis | ❌ error |  |  | cws failed (HTTPError: HTTP Error 403: Forbidden) / cws failed (HTTPError: HTTP Error 403: Forbidden) / careers page: HT |
-| Hyundai Motor Group (US) | ❌ error |  |  | no job system found on careers page |
-| Kia Georgia | ❌ error |  |  | careers page: HTTPError |
-| Subaru of Indiana | ❌ error |  |  | careers page: HTTPError |
-| Mazda Toyota Manufacturing | ❌ error |  |  | careers page: HTTPError |
+| Stellantis | ✅ ok | cws | 3 | config |
+| Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
+| Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
+| Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
+| Mazda Toyota Manufacturing | ❌ unresolved |  |  | careers page: HTTPError |
 | Motional | ✅ ok | greenhouse | 0 | cache |
 | May Mobility | ✅ ok | greenhouse | 0 | cache |
 | Torc Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -294,21 +292,21 @@ Working: 308 of 421 companies
 | Magna | ✅ ok | workday | 11 | config |
 | Lear | ✅ ok | successfactors | 0 | cache |
 | ZF | ✅ ok | successfactors | 5 | cache |
-| Continental | ❌ error |  |  | no job system found on careers page |
-| Denso | ❌ error |  |  | careers page: HTTPError |
+| Continental | ❌ unresolved |  |  | no job system found on careers page |
+| Denso | ❌ unresolved |  |  | careers page: HTTPError |
 | Allison Transmission | ✅ ok | workday | 10 | cache |
 | Dana | ✅ ok | successfactors | 7 | config |
 | American Axle | ✅ ok | radancy | 4 | cache |
 | Goodyear | ✅ ok | workday | 0 | cache |
 | Bridgestone Americas | ✅ ok | workday | 5 | cache |
 | Michelin North America | ✅ ok | workday | 3 | config |
-| Navistar (International) | ✅ ok | jibe | 4 | cache |
+| Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
 | QuantumScape | ✅ ok | successfactors | 0 | cache |
 | Panasonic Energy of North America | ✅ ok | jibe | 18 | cache |
-| Haas Automation | ❌ error |  |  | no job system found on careers page |
-| Kubota | ❌ error |  |  | no job system found on careers page |
-| Doosan Bobcat | ❌ error |  |  | no job system found on careers page |
+| Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
+| Kubota | ❌ unresolved |  |  | no job system found on careers page |
+| Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
 | Terex | ✅ ok | workday | 2 | cache |
 | Manitowoc | ✅ ok | oracle | 5 | cache |
 | Wabtec | ✅ ok | smartrecruiters | 5 | config |
@@ -351,36 +349,36 @@ Working: 308 of 421 companies
 | Allegion | ✅ ok | workday | 24 | cache |
 | AMETEK | ✅ ok | successfactors | 8 | config |
 | Baker Hughes | ✅ ok | workday | 13 | cache |
-| Benchmark Electronics | ❌ error |  |  | no job system found on careers page |
+| Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 4 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 0 | config |
-| Danfoss | ❌ error |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
+| Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
 | Eaton | ✅ ok | eightfold | 23 | config |
-| Emerson / National Instruments | ✅ ok | oracle | 16 | cache |
+| Emerson / National Instruments | ✅ ok | oracle | 17 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | workday | 9 | cache |
 | Flowserve | ✅ ok | workday | 2 | cache |
 | Formlabs | ✅ ok | greenhouse | 18 | cache |
-| Fortive | ✅ ok | oracle | 3 | cache |
+| Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ✅ ok | workday | 39 | config |
-| Grundfos | ❌ error |  |  | careers page: TimeoutError |
+| Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 15 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 28 | cache |
+| ITW | ✅ ok | phenom | 30 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
-| Molex | ❌ error |  |  | careers page: TimeoutError |
+| Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
 | Re:Build Manufacturing | ✅ ok | greenhouse | 2 | cache |
-| Sanmina | ❌ error |  |  | no job system found on careers page |
+| Sanmina | ❌ unresolved |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 24 | config |
-| Siemens | ❌ error |  |  | no job system found on careers page |
+| Siemens | ❌ unresolved |  |  | no job system found on careers page |
 | Stanley Black & Decker | ✅ ok | workday | 11 | config |
-| Sulzer | ❌ error |  |  | careers page: HTTPError |
-| TE Connectivity | ✅ ok | successfactors | 23 | config |
+| Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
+| TE Connectivity | ✅ ok | successfactors | 22 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
-| Weatherford | ❌ error |  |  | careers page: HTTPError |
+| Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
 | Xylem | ✅ ok | workday | 0 | cache |
 | ExxonMobil | ✅ ok | successfactors | 1 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
@@ -388,7 +386,7 @@ Working: 308 of 421 companies
 | ConocoPhillips | ✅ ok | workday | 0 | cache |
 | Phillips 66 | ✅ ok | successfactors | 1 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
-| SLB | ❌ error |  |  | no job system found on careers page |
+| SLB | ❌ unresolved |  |  | no job system found on careers page |
 | Helion Energy | ✅ ok | ashby | 2 | cache |
 | TAE Technologies | ✅ ok | ashby | 0 | cache |
 | Form Energy | ✅ ok | ashby | 0 | cache |
@@ -396,9 +394,9 @@ Working: 308 of 421 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 9 | cache |
+| Trane Technologies | ✅ ok | phenom | 12 | cache |
 | Carrier | ✅ ok | workday | 21 | config |
-| Lennox | ❌ error |  |  | no job system found on careers page |
+| Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
 | 3M | ✅ ok | workday | 0 | config |
@@ -410,7 +408,7 @@ Working: 308 of 421 companies
 | Otis | ✅ ok | workday | 1 | cache |
 | Kohler | ❌ unresolved |  |  | workday failed (HTTPError: HTTP Error 422: Unprocessable Entity) / careers page: URLError |
 | Generac | ✅ ok | workday | 9 | config |
-| Bloom Energy | ✅ ok | workday | 0 | config |
+| Bloom Energy | ✅ ok | workday | 1 | config |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
 | Rheem | ❌ unresolved |  |  | no job system found on careers page |
 | Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
@@ -419,7 +417,7 @@ Working: 308 of 421 companies
 | Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
 | Kennametal | ❌ unresolved |  |  | no job system found on careers page |
 | Nordson | ❌ unresolved |  |  | careers page: HTTPError |
-| Graco | ✅ ok | workday | 25 | cache |
+| Graco | ✅ ok | workday | 26 | cache |
 | Dover | ❌ unresolved |  |  | no job system found on careers page |
 | IDEX | ❌ unresolved |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
@@ -433,7 +431,7 @@ Working: 308 of 421 companies
 | Oklo | ✅ ok | greenhouse | 0 | cache |
 | NuScale | ❌ unresolved |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
-| Westinghouse | ✅ ok | successfactors | 6 | cache |
+| Westinghouse | ✅ ok | successfactors | 5 | cache |
 | BWX Technologies | ✅ ok | successfactors | 3 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
 | Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
@@ -441,7 +439,7 @@ Working: 308 of 421 companies
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
-| Bechtel | ✅ ok | phenom | 14 | cache |
+| Bechtel | ✅ ok | phenom | 0 | cache |
 | Fluor | ❌ unresolved |  |  | no job system found on careers page |
 | Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
 | Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
@@ -456,7 +454,7 @@ Working: 308 of 421 companies
 | Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
 | NASA JPL | ✅ ok | workday | 1 | cache |
 | Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
-| Johns Hopkins APL | ✅ ok | jibe | 29 | cache |
+| Johns Hopkins APL | ✅ ok | jibe | 28 | cache |
 | MIT Lincoln Laboratory | ✅ ok | successfactors | 10 | cache |
 
 ## Semiconductor equipment
@@ -464,7 +462,7 @@ Working: 308 of 421 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Applied Materials | ✅ ok | radancy | 0 | config |
-| ASML | ❌ error |  |  | no job system found on careers page |
+| ASML | ❌ unresolved |  |  | no job system found on careers page |
 | Entegris | ✅ ok | workday | 37 | config |
-| KLA | ✅ ok | workday | 25 | config |
+| KLA | ✅ ok | workday | 26 | config |
 | Lam Research | ✅ ok | eightfold | 10 | config |
