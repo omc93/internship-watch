@@ -1,24 +1,24 @@
 # Internship watch status
 
-Working: 309 of 421 companies
+Working: 308 of 421 companies
 
 
 ## New this run
 
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Mechanical Engineering Co-op (Winter/Spring 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01889376) US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG
+- **Johns Hopkins APL**: [2027 Internship - Material Sciences](https://careers.jhuapl.edu/jobs/60857) Laurel, Maryland, United States
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | AeroVironment | ✅ ok | workday | 27 | cache |
-| Airbus | ✅ ok | workday | 7 | config |
+| Airbus | ✅ ok | workday | 8 | config |
 | Anduril | ✅ ok | greenhouse | 24 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 4 | config |
+| BAE Systems | ✅ ok | phenom | 3 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 34 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -37,15 +37,15 @@ Working: 309 of 421 companies
 | Howmet Aerospace | ✅ ok | oracle | 11 | cache |
 | Impulse Space | ✅ ok | ashby | 1 | cache |
 | Joby Aviation | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
-| L3Harris | ✅ ok | radancy | 2 | config |
+| L3Harris | ✅ ok | radancy | 0 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
-| Moog | ✅ ok | workday | 13 | cache |
-| Northrop Grumman | ✅ ok | workday | 26 | config |
+| Moog | ✅ ok | workday | 7 | cache |
+| Northrop Grumman | ✅ ok | workday | 21 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 35 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 116 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 113 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 14 | cache |
@@ -101,46 +101,46 @@ Working: 309 of 421 companies
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
-| Lanteris Space Systems | ❌ unresolved |  |  | careers page: HTTPError |
+| Lanteris Space Systems | ❌ error |  |  | careers page: HTTPError |
 | Terran Orbital | ✅ ok | greenhouse | 0 | cache |
-| Astrolab | ❌ unresolved |  |  | careers page: HTTPError |
+| Astrolab | ❌ error |  |  | careers page: HTTPError |
 | Lunar Outpost | ✅ ok | bamboohr | 1 | cache |
 | Voyager Technologies | ✅ ok | greenhouse | 3 | cache |
-| Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Agile Space Industries | ❌ error |  |  | no job system found on careers page |
 | Benchmark Space Systems | ✅ ok | breezy | 6 | config |
-| X-Bow Systems | ❌ unresolved |  |  | no job system found on careers page |
+| X-Bow Systems | ❌ error |  |  | no job system found on careers page |
 | Astra | ✅ ok | ashby | 0 | cache |
 | Skyryse | ✅ ok | greenhouse | 0 | cache |
 | Merlin Labs | ✅ ok | lever | 0 | cache |
-| ZeroAvia | ❌ unresolved |  |  | careers page: HTTPError |
+| ZeroAvia | ❌ error |  |  | careers page: HTTPError |
 | Pyka | ✅ ok | lever | 2 | cache |
 | Elroy Air | ✅ ok | lever | 0 | cache |
 | Wing | ✅ ok | greenhouse | 8 | cache |
 | Saronic | ✅ ok | ashby | 4 | cache |
-| Ducommun | ❌ unresolved |  |  | no job system found on careers page |
-| HEICO | ❌ unresolved |  |  | no job system found on careers page |
-| Kaman | ❌ unresolved |  |  | no job system found on careers page |
-| Kratos | ❌ unresolved |  |  | no job system found on careers page |
-| GKN Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
-| Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
-| Garmin | ❌ unresolved |  |  | no job system found on careers page |
+| Ducommun | ❌ error |  |  | no job system found on careers page |
+| HEICO | ❌ error |  |  | no job system found on careers page |
+| Kaman | ❌ error |  |  | no job system found on careers page |
+| Kratos | ❌ error |  |  | no job system found on careers page |
+| GKN Aerospace | ❌ error |  |  | careers page: HTTPError |
+| Piper Aircraft | ❌ error |  |  | no job system found on careers page |
+| Garmin | ❌ error |  |  | no job system found on careers page |
 | Leidos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | KBR | ✅ ok | workday | 0 | config |
-| Jacobs | ❌ unresolved |  |  | no job system found on careers page |
-| Phase Four | ❌ unresolved |  |  | careers page: URLError |
+| Jacobs | ❌ error |  |  | no job system found on careers page |
+| Phase Four | ❌ error |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
 | Vantor | ✅ ok | workday | 0 | cache |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
-| Argo Space | ❌ unresolved |  |  | no job system found on careers page |
+| Argo Space | ❌ error |  |  | no job system found on careers page |
 
 ## Robotics & autonomous vehicles
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 18 | config |
+| ABB | ✅ ok | phenom | 14 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -164,7 +164,7 @@ Working: 309 of 421 companies
 | Neuralink | ✅ ok | greenhouse | 7 | cache |
 | Stryker | ✅ ok | workday | 34 | config |
 | Medtronic | ✅ ok | workday | 0 | config |
-| Boston Scientific | ✅ ok | successfactors | 3 | cache |
+| Boston Scientific | ✅ ok | successfactors | 4 | cache |
 | Zimmer Biomet | ✅ ok | phenom | 4 | cache |
 | Globus Medical | ✅ ok | workday | 1 | cache |
 | PROCEPT BioRobotics | ✅ ok | workday | 0 | cache |
@@ -180,53 +180,53 @@ Working: 309 of 421 companies
 | iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ✅ ok | workday | 0 | config |
 | Dell Technologies | ✅ ok | oracle | 2 | config |
-| Texas Instruments | ✅ ok | oracle | 24 | config |
-| NVIDIA | ✅ ok | workday | 20 | cache |
+| Texas Instruments | ✅ ok | oracle | 23 | config |
+| NVIDIA | ✅ ok | workday | 20 | found on careers page |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
 | Plus One Robotics | ✅ ok | bamboohr | 0 | config |
 | Outrider | ✅ ok | greenhouse | 0 | cache |
-| Gatik | ❌ unresolved |  |  | no job system found on careers page |
+| Gatik | ❌ error |  |  | no job system found on careers page |
 | Applied Intuition | ✅ ok | ashby | 2 | cache |
 | Physical Intelligence | ✅ ok | ashby | 1 | cache |
 | Sanctuary AI | ✅ ok | ashby | 0 | cache |
 | Berkshire Grey | ✅ ok | bamboohr | 1 | config |
-| Seegrid | ❌ unresolved |  |  | no job system found on careers page |
-| Vecna Robotics | ❌ unresolved |  |  | no job system found on careers page |
+| Seegrid | ❌ error |  |  | no job system found on careers page |
+| Vecna Robotics | ❌ error |  |  | no job system found on careers page |
 | Exotec | ✅ ok | workable | 0 | config |
 | Brinc | ✅ ok | ashby | 0 | cache |
 | Flock Safety | ✅ ok | ashby | 0 | cache |
-| Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
-| Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
-| Johnson & Johnson | ✅ ok | workday | 3 | found on careers page |
-| Abbott | ✅ ok | workday | 3 | cache |
-| Edwards Lifesciences | ✅ ok | workday | 0 | cache |
+| Vicarious Surgical | ❌ error |  |  | greenhouse:vicarioussurgical HTTPError |
+| Moon Surgical | ❌ error |  |  | careers page: HTTPError |
+| Johnson & Johnson | ✅ ok | workday | 3 | config |
+| Abbott | ✅ ok | workday | 3 | found on careers page |
+| Edwards Lifesciences | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | BD | ✅ ok | workday | 2 | config |
 | Baxter | ✅ ok | workday | 1 | config |
-| GE HealthCare | ✅ ok | workday | 3 | config |
+| GE HealthCare | ✅ ok | phenom | 3 | found on careers page |
 | Thermo Fisher | ✅ ok | workday | 9 | config |
 | Illumina | ✅ ok | workday | 0 | config |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
-| NXP | ❌ unresolved |  |  | careers page: HTTPError |
+| NXP | ❌ error |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
 | Tokyo Electron | ✅ ok | workday | 1 | config |
 | Silicon Labs | ✅ ok | workday | 3 | config |
-| Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
-| Infineon | ❌ unresolved |  |  | no job system found on careers page |
-| HP | ✅ ok | workday | 7 | cache |
+| Cirrus Logic | ❌ error |  |  | no job system found on careers page |
+| Infineon | ❌ error |  |  | no job system found on careers page |
+| HP | ✅ ok | workday | 7 | config |
 | Sonos | ✅ ok | workday | 1 | config |
-| GoPro | ❌ unresolved |  |  | careers page: HTTPError |
+| GoPro | ❌ error |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 15 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
 | YETI | ✅ ok | workday | 0 | config |
 | Trek Bicycle | ✅ ok | workday | 0 | cache |
-| SRAM | ❌ unresolved |  |  | no job system found on careers page |
+| SRAM | ❌ error |  |  | no job system found on careers page |
 | Fox Factory | ✅ ok | workday | 1 | cache |
-| Specialized | ✅ ok | workday | 0 | found on careers page |
+| Specialized | ✅ ok | workday | 0 | cache |
 | Logitech | ✅ ok | workday | 0 | cache |
-| Bose | ❌ unresolved |  |  | careers page: HTTPError |
+| Bose | ❌ error |  |  | careers page: HTTPError |
 
 ## Automotive, trucks & heavy equipment
 
@@ -236,7 +236,7 @@ Working: 309 of 421 companies
 | BMW | ✅ ok | successfactors | 5 | config |
 | Bosch | ✅ ok | smartrecruiters | 18 | config |
 | Caterpillar | ✅ ok | workday | 7 | config |
-| CNH | ✅ ok | successfactors | 17 | config |
+| CNH | ✅ ok | successfactors | 18 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
 | Daimler Truck | ✅ ok | workday | 1 | cache |
 | Ford | ✅ ok | radancy | 0 | config |
@@ -289,7 +289,7 @@ Working: 309 of 421 companies
 | Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
 | QuantumScape | ✅ ok | successfactors | 0 | cache |
-| Panasonic Energy of North America | ✅ ok | jibe | 18 | cache |
+| Panasonic Energy of North America | ✅ ok | jibe | 2 | cache |
 | Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
 | Kubota | ❌ unresolved |  |  | no job system found on careers page |
 | Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
@@ -304,28 +304,28 @@ Working: 309 of 421 companies
 | Group14 | ✅ ok | greenhouse | 0 | cache |
 | ChargePoint | ✅ ok | greenhouse | 2 | cache |
 | Blue Bird | ✅ ok | ukg | 8 | config |
-| Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
-| Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Thor Industries | ❌ error |  |  | no job system found on careers page |
+| Winnebago Industries | ❌ error |  |  | no job system found on careers page |
 | Brunswick | ✅ ok | workday | 11 | config |
-| Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
+| Yamaha Motor USA | ❌ error |  |  | no job system found on careers page |
 | BRP | ✅ ok | phenom | 0 | cache |
 | Gentex | ✅ ok | workday | 0 | cache |
-| Autoliv | ❌ unresolved |  |  | no job system found on careers page |
+| Autoliv | ❌ error |  |  | no job system found on careers page |
 | Tenneco | ✅ ok | successfactors | 1 | cache |
 | Schaeffler | ✅ ok | successfactors | 3 | config |
 | Valeo | ✅ ok | workday | 9 | cache |
-| Forvia | ❌ unresolved |  |  | careers page: HTTPError |
+| Forvia | ❌ error |  |  | careers page: HTTPError |
 | Nexteer | ✅ ok | successfactors | 6 | cache |
-| Visteon | ❌ unresolved |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
+| Visteon | ❌ error |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
 | Garrett Motion | ✅ ok | oracle | 0 | cache |
 | Modine | ✅ ok | successfactors | 1 | cache |
 | Timken | ✅ ok | successfactors | 1 | cache |
 | Gates | ✅ ok | successfactors | 0 | cache |
 | Cooper Standard | ✅ ok | workday | 0 | config |
-| Mack Trucks | ❌ unresolved |  |  | careers page: HTTPError |
+| Mack Trucks | ❌ error |  |  | careers page: HTTPError |
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
-| Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
+| Bollinger Motors | ❌ error |  |  | careers page: HTTPError |
 | Textron Specialized Vehicles | ✅ ok | taleo | 14 | config |
 
 ## Industrial equipment & manufacturing
@@ -345,13 +345,13 @@ Working: 309 of 421 companies
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | workday | 9 | cache |
 | Flowserve | ✅ ok | workday | 4 | cache |
-| Formlabs | ✅ ok | greenhouse | 18 | cache |
+| Formlabs | ✅ ok | greenhouse | 17 | cache |
 | Fortive | ✅ ok | oracle | 2 | cache |
-| GE Vernova | ✅ ok | workday | 42 | config |
+| GE Vernova | ✅ ok | workday | 31 | config |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
-| Hubbell | ✅ ok | successfactors | 12 | config |
+| Hubbell | ✅ ok | successfactors | 13 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 28 | cache |
+| ITW | ✅ ok | phenom | 24 | cache |
 | Jabil | ✅ ok | workday | 8 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
@@ -362,7 +362,7 @@ Working: 309 of 421 companies
 | Siemens | ❌ unresolved |  |  | no job system found on careers page |
 | Stanley Black & Decker | ✅ ok | workday | 12 | config |
 | Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
-| TE Connectivity | ✅ ok | successfactors | 19 | config |
+| TE Connectivity | ✅ ok | successfactors | 20 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
 | Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
 | Xylem | ✅ ok | workday | 0 | cache |
@@ -370,7 +370,7 @@ Working: 309 of 421 companies
 | Chevron | ✅ ok | radancy | 0 | cache |
 | Shell USA | ✅ ok | workday | 0 | config |
 | ConocoPhillips | ✅ ok | workday | 0 | cache |
-| Phillips 66 | ✅ ok | successfactors | 0 | cache |
+| Phillips 66 | ✅ ok | successfactors | 1 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
 | SLB | ❌ unresolved |  |  | no job system found on careers page |
 | Helion Energy | ✅ ok | ashby | 2 | cache |
@@ -380,8 +380,8 @@ Working: 309 of 421 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 9 | cache |
-| Carrier | ✅ ok | workday | 21 | config |
+| Trane Technologies | ✅ ok | phenom | 10 | cache |
+| Carrier | ✅ ok | workday | 16 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
@@ -389,59 +389,59 @@ Working: 309 of 421 companies
 | Dow | ✅ ok | workday | 0 | config |
 | Samsung (US) | ✅ ok | workday | 1 | config |
 | Intel | ✅ ok | workday | 12 | config |
-| Micron | ✅ ok | workday | 29 | cache |
+| Micron | ✅ ok | workday | 28 | cache |
 | Johnson Controls | ✅ ok | workday | 3 | config |
 | Otis | ✅ ok | workday | 1 | cache |
-| Kohler | ❌ unresolved |  |  | careers page: URLError |
+| Kohler | ❌ error |  |  | careers page: URLError |
 | Generac | ✅ ok | workday | 9 | config |
 | Bloom Energy | ✅ ok | workday | 2 | config |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
-| Rheem | ❌ unresolved |  |  | no job system found on careers page |
-| Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
+| Rheem | ❌ error |  |  | no job system found on careers page |
+| Siemens Energy | ❌ error |  |  | no job system found on careers page |
 | Mitsubishi Power Americas | ✅ ok | successfactors | 3 | cache |
-| Toro | ❌ unresolved |  |  | careers page: HTTPError |
-| Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
-| Kennametal | ❌ unresolved |  |  | no job system found on careers page |
-| Nordson | ❌ unresolved |  |  | careers page: HTTPError |
+| Toro | ❌ error |  |  | careers page: HTTPError |
+| Lincoln Electric | ❌ error |  |  | careers page: HTTPError |
+| Kennametal | ❌ error |  |  | no job system found on careers page |
+| Nordson | ❌ error |  |  | careers page: HTTPError |
 | Graco | ✅ ok | workday | 26 | cache |
-| Dover | ❌ unresolved |  |  | no job system found on careers page |
-| IDEX | ❌ unresolved |  |  | no job system found on careers page |
+| Dover | ❌ error |  |  | no job system found on careers page |
+| IDEX | ❌ error |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
 | Pentair | ✅ ok | phenom | 1 | cache |
-| Regal Rexnord | ❌ unresolved |  |  | careers page: HTTPError |
+| Regal Rexnord | ❌ error |  |  | careers page: HTTPError |
 | Chart Industries | ✅ ok | successfactors | 0 | cache |
 | Plug Power | ✅ ok | workday | 0 | cache |
-| Enphase | ❌ unresolved |  |  | no job system found on careers page |
+| Enphase | ❌ error |  |  | no job system found on careers page |
 | First Solar | ✅ ok | oracle | 14 | cache |
-| Fluence | ❌ unresolved |  |  | careers page: HTTPError |
+| Fluence | ❌ error |  |  | careers page: HTTPError |
 | Oklo | ✅ ok | greenhouse | 0 | cache |
-| NuScale | ❌ unresolved |  |  | careers page: HTTPError |
+| NuScale | ❌ error |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
-| Westinghouse | ✅ ok | successfactors | 4 | cache |
+| Westinghouse | ✅ ok | successfactors | 3 | cache |
 | BWX Technologies | ✅ ok | successfactors | 4 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
-| Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
+| Type One Energy | ❌ error |  |  | no job system found on careers page |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
 | Bechtel | ✅ ok | phenom | 14 | cache |
-| Fluor | ❌ unresolved |  |  | no job system found on careers page |
-| Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
-| Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
+| Fluor | ❌ error |  |  | no job system found on careers page |
+| Burns & McDonnell | ❌ error |  |  | no job system found on careers page |
+| Quanta Services | ❌ error |  |  | no job system found on careers page |
 | Vistra | ✅ ok | workday | 1 | cache |
-| NRG | ❌ unresolved |  |  | careers page: HTTPError |
+| NRG | ❌ error |  |  | careers page: HTTPError |
 | Oncor | ✅ ok | ukg | 2 | config |
 | CenterPoint Energy | ✅ ok | successfactors | 0 | cache |
 | NextEra Energy | ✅ ok | successfactors | 1 | cache |
-| Solar Turbines | ❌ unresolved |  |  | careers page: HTTPError |
+| Solar Turbines | ❌ error |  |  | careers page: HTTPError |
 | Hexcel | ✅ ok | workday | 2 | cache |
-| Sandia National Labs | ❌ unresolved |  |  | no job system found on careers page |
-| Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
+| Sandia National Labs | ❌ error |  |  | no job system found on careers page |
+| Los Alamos National Lab | ❌ error |  |  | careers page: HTTPError |
 | NASA JPL | ✅ ok | workday | 1 | cache |
-| Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
-| Johns Hopkins APL | ✅ ok | jibe | 28 | cache |
-| MIT Lincoln Laboratory | ✅ ok | successfactors | 9 | cache |
+| Southwest Research Institute | ❌ error |  |  | no job system found on careers page |
+| Johns Hopkins APL | ✅ ok | jibe | 29 | cache |
+| MIT Lincoln Laboratory | ✅ ok | successfactors | 8 | cache |
 
 ## Semiconductor equipment
 
