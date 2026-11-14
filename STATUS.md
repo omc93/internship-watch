@@ -1,34 +1,17 @@
 # Internship watch status
 
-Working: 268 of 421 companies
+Working: 251 of 421 companies
 
 
 ## New this run
 
-- **Northrop Grumman**: [2027 Manufacturing Engineering Intern - Sunnyvale CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394) United States-California-Sunnyvale
-- **Sierra Nevada Corporation**: [Systems Engineer Intern](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1) Southern Pines, NC
-- **Reliable Robotics**: [Supplier Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/bac27e34-c847-42f7-96d6-2bbd42df649c) Mountain View, CA
-- **Reliable Robotics**: [Flight Simulation Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/0cd44e07-169f-4664-bf31-cded94b93deb) Mountain View, CA
-- **Reliable Robotics**: [FPGA Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54) Mountain View, CA
-- **Reliable Robotics**: [Manufacturing Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8) Mountain View, CA
-- **Reliable Robotics**: [Flight Test Integration Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96) Mountain View, CA
-- **Amazon Robotics**: [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) North Reading, Massachusetts, USA
-- **Boston Dynamics**: [Advanced Manufacturing Engineering Co-Op](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380) Waltham Office (POST)
-- **Texas Instruments**: [Product Engineering Failure Analysis Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015) Dallas, TX, United States
-- **SharkNinja**: [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](https://careers.sharkninja.com/job/needham/summer-2027-mechanical-engineering-intern-ninja-may-to-august/47204/103262349008) Needham, MA
-- **Eaton**: [Co-op: Manufacturing Engineer](https://eaton.eightfold.ai/careers/job/687240054083) Sherman, Texas, USA, 75090
-- **Eaton**: [Co-op: Continuous Improvement](https://eaton.eightfold.ai/careers/job/687240111524) Sherman, Texas, USA, 75090
-- **Eaton**: [Co-op: Quality](https://eaton.eightfold.ai/careers/job/687240074534) Sherman, Texas, USA, 75090
-- **Flowserve**: [Engineering Co-op](https://flowserve.wd1.myworkdayjobs.com/applied/job/Rancho-Dominguez-California-US/CoOp-Intern_R-21348) Rancho Dominguez, California US
-- **Samsung (US)**: [2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243) 3900 N Capital of Texas Hwy, Austin, TX, USA; 3655 N 1st St, San Jose, CA, USA
-- **Bloom Energy**: [Process Development Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Process-Development-Engineering-Intern_JR-25333) San Jose, California
-- **Bloom Energy**: [Automation Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/Fremont-California/Automation-Engineering-Intern_JR-25265) Fremont, California
+- **Zoox**: [Feature Integration Intern [Summer 2027]](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f) Foster City, CA
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| AeroVironment | ✅ ok | workday | 27 | cache |
+| AeroVironment | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://avav.wd1.myworkdayjobs.com/AVAV HTTPError |
 | Airbus | ✅ ok | workday | 9 | config |
 | Anduril | ✅ ok | greenhouse | 24 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
@@ -38,15 +21,15 @@ Working: 268 of 421 companies
 | BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
-| Boeing | ✅ ok | workday | 1 | config |
-| Bombardier | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| Boeing | ✅ ok | radancy | 0 | found on careers page |
+| Bombardier | ✅ ok | successfactors | 2 | config |
 | Castelion | ✅ ok | html | 3 | config |
 | CesiumAstro | ✅ ok | lever | 14 | cache |
 | Crane Aerospace & Electronics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://cranecompany.wd5.myworkdayjobs.com/Careers HTTPErro |
-| Curtiss-Wright | ✅ ok | workday | 1 | cache |
+| Curtiss-Wright | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://curtisswright.wd1.myworkdayjobs.com/CW_External_Car |
 | Embraer | ⏭️ skipped |  |  | no US job site found |
 | Firefly Aerospace | ✅ ok | workday | 9 | config |
-| GE Aerospace | ✅ ok | phenom | 5 | found on careers page |
+| GE Aerospace | ✅ ok | phenom | 5 | cache |
 | General Atomics | ⏭️ skipped |  |  | defense; uses BrassRing, dropped |
 | Gulfstream Aerospace | ✅ ok | sfxml | 1 | config |
 | Hermeus | ✅ ok | lever | 15 | cache |
@@ -54,19 +37,19 @@ Working: 268 of 421 companies
 | Howmet Aerospace | ✅ ok | oracle | 11 | cache |
 | Impulse Space | ✅ ok | ashby | 1 | cache |
 | Joby Aviation | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
-| L3Harris | ✅ ok | radancy | 0 | config |
+| L3Harris | ✅ ok | radancy | 1 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
 | Moog | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Sit |
-| Northrop Grumman | ✅ ok | workday | 23 | config |
+| Northrop Grumman | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
 | RTX (Collins, Pratt & Whitney, Raytheon) | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
-| Sierra Nevada Corporation | ✅ ok | workday | 15 | cache |
-| Sierra Space | ✅ ok | workday | 0 | config |
+| Sierra Nevada Corporation | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site  |
+| Sierra Space | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
 | Skydio | ✅ ok | ashby | 13 | cache |
 | SpaceX | ✅ ok | greenhouse | 8 | config |
 | Stoke Space | ✅ ok | greenhouse | 1 | config |
@@ -82,22 +65,22 @@ Working: 268 of 421 companies
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 20 | config |
 | Boom Supersonic | ⏭️ skipped |  |  | job board isn't publicly readable |
-| BETA Technologies | ❌ error |  |  | no job system found on careers page |
+| BETA Technologies | ❌ unresolved |  |  | no job system found on careers page |
 | Varda Space | ✅ ok | greenhouse | 17 | cache |
 | Apex Space | ✅ ok | ashby | 2 | cache |
 | K2 Space | ✅ ok | greenhouse | 0 | config |
-| Intuitive Machines | ❌ error |  |  | careers page: HTTPError |
+| Intuitive Machines | ❌ unresolved |  |  | careers page: HTTPError |
 | Venus Aerospace | ✅ ok | lever | 0 | cache |
 | Ursa Major | ✅ ok | greenhouse | 2 | cache |
 | Astrobotic | ✅ ok | greenhouse | 3 | cache |
 | Reliable Robotics | ✅ ok | ashby | 13 | cache |
-| Supernal | ❌ error |  |  | careers page: HTTPError |
+| Supernal | ❌ unresolved |  |  | careers page: HTTPError |
 | Cirrus Aircraft | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
 | Rolls-Royce | ✅ ok | workday | 0 | config |
 | Spirit AeroSystems | ✅ ok | jibe | 2 | cache |
-| Honda Aircraft | ❌ error |  |  | careers page: HTTPError |
+| Honda Aircraft | ❌ unresolved |  |  | careers page: HTTPError |
 | Dassault Falcon Jet | ✅ ok | ukg | 0 | config |
-| Virgin Galactic | ❌ error |  |  | careers page: HTTPError |
+| Virgin Galactic | ❌ unresolved |  |  | careers page: HTTPError |
 | Planet Labs | ✅ ok | greenhouse | 0 | cache |
 | Spire Global | ✅ ok | greenhouse | 0 | cache |
 | Muon Space | ✅ ok | greenhouse | 7 | cache |
@@ -107,14 +90,14 @@ Working: 268 of 421 companies
 | Northwood Space | ✅ ok | ashby | 0 | cache |
 | Portal Space Systems | ✅ ok | greenhouse | 0 | cache |
 | Outpost Space | ✅ ok | ashby | 0 | cache |
-| Radian Aerospace | ❌ error |  |  | careers page: HTTPError |
+| Radian Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
 | Electra.aero | ✅ ok | greenhouse | 0 | cache |
 | JetZero | ✅ ok | greenhouse | 0 | cache |
 | Natilus | ✅ ok | workable | 0 | config |
 | Momentus | ✅ ok | greenhouse | 0 | cache |
 | Southwest Airlines | ✅ ok | phenom | 0 | cache |
-| American Airlines | ❌ error |  |  | careers page: HTTPError |
-| Delta Air Lines | ❌ error |  |  | no job system found on careers page |
+| American Airlines | ❌ unresolved |  |  | careers page: HTTPError |
+| Delta Air Lines | ❌ unresolved |  |  | no job system found on careers page |
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
@@ -142,13 +125,13 @@ Working: 268 of 421 companies
 | Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
 | Garmin | ❌ unresolved |  |  | no job system found on careers page |
 | Leidos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
-| KBR | ✅ ok | phenom | 4 | found on careers page |
+| KBR | ✅ ok | phenom | 4 | cache |
 | Jacobs | ❌ unresolved |  |  | no job system found on careers page |
 | Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
-| Vantor | ✅ ok | workday | 0 | cache |
+| Vantor | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://maxar.wd1.myworkdayjobs.com/Vantor HTTPError |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
 | Argo Space | ❌ unresolved |  |  | no job system found on careers page |
 
@@ -157,17 +140,17 @@ Working: 268 of 421 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 14 | config |
+| ABB | ✅ ok | phenom | 19 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
 | Apptronik | ✅ ok | greenhouse | 0 | config |
-| Aurora | ❌ error |  |  | no job system found on careers page |
-| Boston Dynamics | ✅ ok | workday | 5 | cache |
-| FANUC | ❌ error |  |  | no job system found on careers page |
+| Aurora | ❌ unresolved |  |  | no job system found on careers page |
+| Boston Dynamics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamic |
+| FANUC | ❌ unresolved |  |  | no job system found on careers page |
 | Figure | ✅ ok | greenhouse | 6 | config |
 | Intuitive Surgical | ✅ ok | smartrecruiters | 5 | config |
-| KUKA | ❌ error |  |  | careers page: HTTPError |
+| KUKA | ❌ unresolved |  |  | careers page: HTTPError |
 | Nuro | ✅ ok | greenhouse | 0 | cache |
 | Rockwell Automation | ⏭️ skipped |  |  | site blocks automated checks |
 | Symbotic | ✅ ok | html | 0 | config |
@@ -179,22 +162,22 @@ Working: 268 of 421 companies
 | Machina Labs | ✅ ok | ashby | 1 | cache |
 | Hadrian | ✅ ok | ashby | 1 | cache |
 | Neuralink | ✅ ok | greenhouse | 7 | cache |
-| Stryker | ✅ ok | workday | 35 | config |
-| Medtronic | ✅ ok | workday | 0 | config |
-| Boston Scientific | ✅ ok | successfactors | 4 | cache |
-| Zimmer Biomet | ✅ ok | phenom | 4 | cache |
+| Stryker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
+| Medtronic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
+| Boston Scientific | ✅ ok | successfactors | 5 | cache |
+| Zimmer Biomet | ✅ ok | phenom | 3 | cache |
 | Globus Medical | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers HT |
 | PROCEPT BioRobotics | ✅ ok | workday | 0 | cache |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
 | Formic | ✅ ok | greenhouse | 0 | cache |
 | Bright Machines | ✅ ok | lever | 0 | cache |
-| Dusty Robotics | ❌ error |  |  | greenhouse:dustyrobotics HTTPError |
+| Dusty Robotics | ❌ unresolved |  |  | greenhouse:dustyrobotics HTTPError |
 | Serve Robotics | ✅ ok | ashby | 0 | cache |
-| Starship Technologies | ❌ error |  |  | no job system found on careers page |
+| Starship Technologies | ❌ unresolved |  |  | no job system found on careers page |
 | Collaborative Robotics | ✅ ok | ashby | 0 | config |
-| Skild AI | ❌ error |  |  | careers page: HTTPError |
+| Skild AI | ❌ unresolved |  |  | careers page: HTTPError |
 | Built Robotics | ✅ ok | ashby | 0 | cache |
-| iRobot | ❌ error |  |  | careers page: HTTPError |
+| iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ✅ ok | workday | 0 | config |
 | Dell Technologies | ✅ ok | oracle | 2 | config |
 | Texas Instruments | ✅ ok | oracle | 28 | config |
@@ -216,31 +199,31 @@ Working: 268 of 421 companies
 | Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
 | Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
 | Johnson & Johnson | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
-| Abbott | ✅ ok | phenom | 2 | found on careers page |
+| Abbott | ✅ ok | phenom | 2 | cache |
 | Edwards Lifesciences | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
-| BD | ✅ ok | workday | 3 | config |
-| Baxter | ✅ ok | workday | 1 | config |
-| GE HealthCare | ✅ ok | phenom | 2 | found on careers page |
-| Thermo Fisher | ✅ ok | phenom | 0 | found on careers page |
-| Illumina | ✅ ok | workday | 0 | config |
+| BD | ✅ ok | radancy | 1 | found on careers page |
+| Baxter | ✅ ok | radancy | 0 | found on careers page |
+| GE HealthCare | ✅ ok | phenom | 2 | cache |
+| Thermo Fisher | ✅ ok | phenom | 0 | cache |
+| Illumina | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
 | Tokyo Electron | ✅ ok | workday | 1 | config |
-| Silicon Labs | ✅ ok | workday | 3 | config |
+| Silicon Labs | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
 | Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
 | Infineon | ❌ unresolved |  |  | no job system found on careers page |
-| HP | ✅ ok | greenhouse | 0 | guessed from company name - verify |
-| Sonos | ✅ ok | workday | 1 | config |
+| HP | ✅ ok | greenhouse | 0 | cache |
+| Sonos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
 | GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 16 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
-| YETI | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
-| Trek Bicycle | ✅ ok | workday | 0 | cache |
+| YETI | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
+| Trek Bicycle | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://trekbikes.wd1.myworkdayjobs.com/TREK HTTPError |
 | SRAM | ❌ unresolved |  |  | no job system found on careers page |
-| Fox Factory | ✅ ok | workday | 1 | cache |
+| Fox Factory | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://foxfactory.wd1.myworkdayjobs.com/FOX HTTPError |
 | Specialized | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://specialized.wd5.myworkdayjobs.com/Specialized_Exter |
 | Logitech | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://logitech.wd5.myworkdayjobs.com/Logitech HTTPError |
 | Bose | ❌ unresolved |  |  | careers page: HTTPError |
@@ -250,15 +233,15 @@ Working: 268 of 421 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | AGCO | ✅ ok | successfactors | 6 | config |
-| BMW | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| BMW | ✅ ok | successfactors | 6 | config |
 | Bosch | ✅ ok | smartrecruiters | 17 | config |
 | Caterpillar | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
-| CNH | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| CNH | ✅ ok | successfactors | 18 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
 | Daimler Truck | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://dtna.wd5.myworkdayjobs.com/DTNA_external HTTPError |
 | Ford | ✅ ok | radancy | 0 | config |
 | General Motors | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
-| Hitachi Construction Machinery | ❌ error |  |  | careers page: URLError |
+| Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
 | John Deere | ✅ ok | successfactors | 4 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
@@ -266,25 +249,25 @@ Working: 268 of 421 companies
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
 | Oshkosh | ✅ ok | phenom | 39 | cache |
-| PACCAR / Peterbilt / Kenworth | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
 | Toyota | ✅ ok | workday | 0 | cache |
-| Volkswagen | ❌ error |  |  | careers page: URLError |
-| Volvo Group | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
-| Zoox | ✅ ok | lever | 4 | cache |
+| Volkswagen | ❌ unresolved |  |  | careers page: URLError |
+| Volvo Group | ✅ ok | successfactors | 9 | config |
+| Zoox | ✅ ok | lever | 6 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
 | Slate Auto | ✅ ok | workday | 0 | cache |
 | Divergent | ✅ ok | greenhouse | 2 | cache |
-| Polaris | ❌ error |  |  | no job system found on careers page |
+| Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
 | Stellantis | ✅ ok | cws | 3 | config |
-| Hyundai Motor Group (US) | ❌ error |  |  | no job system found on careers page |
-| Kia Georgia | ❌ error |  |  | careers page: HTTPError |
-| Subaru of Indiana | ❌ error |  |  | careers page: HTTPError |
-| Mazda Toyota Manufacturing | ❌ error |  |  | careers page: HTTPError |
+| Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
+| Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
+| Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
+| Mazda Toyota Manufacturing | ❌ unresolved |  |  | careers page: HTTPError |
 | Motional | ✅ ok | greenhouse | 0 | cache |
 | May Mobility | ✅ ok | greenhouse | 0 | cache |
 | Torc Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -293,28 +276,28 @@ Working: 268 of 421 companies
 | BorgWarner | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
 | Aptiv | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
 | Magna | ✅ ok | workday | 11 | config |
-| Lear | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / no job system found on careers page |
-| ZF | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / no job system found on careers page |
-| Continental | ❌ error |  |  | no job system found on careers page |
-| Denso | ❌ error |  |  | careers page: HTTPError |
-| Allison Transmission | ✅ ok | workday | 10 | cache |
+| Lear | ✅ ok | successfactors | 0 | cache |
+| ZF | ✅ ok | successfactors | 3 | cache |
+| Continental | ❌ unresolved |  |  | no job system found on careers page |
+| Denso | ❌ unresolved |  |  | careers page: HTTPError |
+| Allison Transmission | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://allisontransmission.wd1.myworkdayjobs.com/ATI-Exter |
 | Dana | ✅ ok | successfactors | 7 | config |
 | American Axle | ✅ ok | radancy | 5 | cache |
-| Goodyear | ✅ ok | workday | 0 | cache |
+| Goodyear | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers HTTP |
 | Bridgestone Americas | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://bridgestone.wd5.myworkdayjobs.com/external HTTPErro |
 | Michelin North America | ✅ ok | workday | 3 | config |
 | Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
 | QuantumScape | ✅ ok | successfactors | 0 | cache |
 | Panasonic Energy of North America | ✅ ok | jibe | 2 | cache |
-| Haas Automation | ❌ error |  |  | no job system found on careers page |
-| Kubota | ❌ error |  |  | no job system found on careers page |
-| Doosan Bobcat | ❌ error |  |  | no job system found on careers page |
-| Terex | ✅ ok | workday | 2 | cache |
+| Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
+| Kubota | ❌ unresolved |  |  | no job system found on careers page |
+| Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
+| Terex | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://terex.wd1.myworkdayjobs.com/terexcareers HTTPError |
 | Manitowoc | ✅ ok | oracle | 5 | cache |
 | Wabtec | ✅ ok | smartrecruiters | 6 | config |
 | Hyliion | ✅ ok | greenhouse | 0 | cache |
-| Volvo Cars | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| Volvo Cars | ✅ ok | successfactors | 0 | config |
 | Our Next Energy | ✅ ok | ukg | 0 | config |
 | Sila Nanotechnologies | ✅ ok | greenhouse | 0 | cache |
 | Solid Power | ✅ ok | greenhouse | 1 | cache |
@@ -323,13 +306,13 @@ Working: 268 of 421 companies
 | Blue Bird | ✅ ok | ukg | 10 | config |
 | Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
-| Brunswick | ✅ ok | workday | 10 | config |
+| Brunswick | ✅ ok | ashby | 0 | guessed from company name - verify |
 | Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
 | BRP | ✅ ok | phenom | 0 | cache |
 | Gentex | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://gentex.wd5.myworkdayjobs.com/Gentex HTTPError |
 | Autoliv | ❌ unresolved |  |  | no job system found on careers page |
 | Tenneco | ✅ ok | successfactors | 1 | cache |
-| Schaeffler | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| Schaeffler | ✅ ok | successfactors | 3 | config |
 | Valeo | ✅ ok | workday | 12 | cache |
 | Forvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Nexteer | ✅ ok | successfactors | 6 | cache |
@@ -338,7 +321,7 @@ Working: 268 of 421 companies
 | Modine | ✅ ok | successfactors | 1 | cache |
 | Timken | ✅ ok | successfactors | 1 | cache |
 | Gates | ✅ ok | successfactors | 0 | cache |
-| Cooper Standard | ✅ ok | workday | 0 | config |
+| Cooper Standard | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
 | Mack Trucks | ❌ unresolved |  |  | careers page: HTTPError |
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
@@ -351,45 +334,45 @@ Working: 268 of 421 companies
 |---|---|---|---|---|
 | Allegion | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://allegion.wd5.myworkdayjobs.com/careers HTTPError |
 | AMETEK | ✅ ok | successfactors | 11 | config |
-| Baker Hughes | ✅ ok | phenom | 10 | found on careers page |
-| Benchmark Electronics | ❌ error |  |  | no job system found on careers page |
-| Celestica | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / successfactors failed (HTTPError: HTTP Error 404: Not Fou |
+| Baker Hughes | ✅ ok | phenom | 10 | cache |
+| Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
+| Celestica | ✅ ok | successfactors | 0 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 0 | config |
-| Danfoss | ❌ error |  |  | no job system found on careers page |
+| Danfoss | ❌ unresolved |  |  | no job system found on careers page |
 | Eaton | ✅ ok | eightfold | 27 | config |
 | Emerson / National Instruments | ✅ ok | oracle | 13 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
-| Flex | ✅ ok | workday | 8 | cache |
-| Flowserve | ✅ ok | workday | 5 | cache |
+| Flex | ✅ ok | greenhouse | 0 | guessed from company name - verify |
+| Flowserve | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://flowserve.wd1.myworkdayjobs.com/applied HTTPError |
 | Formlabs | ✅ ok | greenhouse | 17 | cache |
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
-| Grundfos | ❌ error |  |  | careers page: TimeoutError |
+| Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 13 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 24 | cache |
+| ITW | ✅ ok | phenom | 27 | cache |
 | Jabil | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Careers HTTPError |
-| Molex | ❌ error |  |  | careers page: TimeoutError |
+| Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
 | Re:Build Manufacturing | ✅ ok | greenhouse | 2 | cache |
-| Sanmina | ❌ error |  |  | no job system found on careers page |
+| Sanmina | ❌ unresolved |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 28 | config |
-| Siemens | ❌ error |  |  | no job system found on careers page |
-| Stanley Black & Decker | ✅ ok | workday | 12 | config |
-| Sulzer | ❌ error |  |  | careers page: HTTPError |
+| Siemens | ❌ unresolved |  |  | no job system found on careers page |
+| Stanley Black & Decker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
+| Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
 | TE Connectivity | ✅ ok | successfactors | 15 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
-| Weatherford | ❌ error |  |  | careers page: HTTPError |
+| Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
 | Xylem | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://xylem.wd5.myworkdayjobs.com/xylem-careers HTTPError |
 | ExxonMobil | ✅ ok | successfactors | 2 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
 | Shell USA | ✅ ok | workday | 0 | config |
-| ConocoPhillips | ✅ ok | workday | 0 | cache |
+| ConocoPhillips | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://conocophillips.wd1.myworkdayjobs.com/External HTTPE |
 | Phillips 66 | ✅ ok | successfactors | 1 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
-| SLB | ❌ error |  |  | no job system found on careers page |
+| SLB | ❌ unresolved |  |  | no job system found on careers page |
 | Helion Energy | ✅ ok | ashby | 2 | cache |
 | TAE Technologies | ✅ ok | ashby | 0 | cache |
 | Form Energy | ✅ ok | ashby | 0 | cache |
@@ -397,25 +380,25 @@ Working: 268 of 421 companies
 | X-energy | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS HTTPError |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 13 | cache |
-| Carrier | ✅ ok | radancy | 3 | found on careers page |
-| Lennox | ❌ error |  |  | no job system found on careers page |
+| Trane Technologies | ✅ ok | phenom | 9 | cache |
+| Carrier | ✅ ok | radancy | 3 | cache |
+| Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
-| 3M | ✅ ok | workday | 0 | config |
-| Dow | ✅ ok | workday | 0 | config |
+| 3M | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
+| Dow | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
 | Samsung (US) | ✅ ok | workday | 2 | config |
-| Intel | ✅ ok | workday | 4 | config |
-| Micron | ✅ ok | workday | 29 | cache |
+| Intel | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / careers page:  |
+| Micron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://micron.wd1.myworkdayjobs.com/External HTTPError; ra |
 | Johnson Controls | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
 | Otis | ✅ ok | workday | 1 | cache |
 | Kohler | ❌ unresolved |  |  | careers page: URLError |
 | Generac | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
-| Bloom Energy | ✅ ok | workday | 8 | config |
+| Bloom Energy | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / workday:https: |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
 | Rheem | ❌ unresolved |  |  | no job system found on careers page |
 | Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
-| Mitsubishi Power Americas | ❌ error |  |  | successfactors failed (HTTPError: HTTP Error 404: Not Found) / no job system found on careers page |
+| Mitsubishi Power Americas | ✅ ok | successfactors | 3 | cache |
 | Toro | ❌ unresolved |  |  | careers page: HTTPError |
 | Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
 | Kennametal | ❌ unresolved |  |  | no job system found on careers page |
@@ -455,7 +438,7 @@ Working: 268 of 421 companies
 | Hexcel | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday:https://hexcel.wd5.myworkdayjobs.com/HexcelCareers HTTPErro |
 | Sandia National Labs | ❌ unresolved |  |  | no job system found on careers page |
 | Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
-| NASA JPL | ✅ ok | phenom | 1 | found on careers page |
+| NASA JPL | ✅ ok | phenom | 1 | cache |
 | Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
 | MIT Lincoln Laboratory | ✅ ok | successfactors | 8 | cache |
@@ -465,7 +448,7 @@ Working: 268 of 421 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Applied Materials | ✅ ok | radancy | 0 | config |
-| ASML | ❌ error |  |  | no job system found on careers page |
-| Entegris | ✅ ok | workday | 49 | config |
-| KLA | ✅ ok | workday | 26 | config |
+| ASML | ❌ unresolved |  |  | no job system found on careers page |
+| Entegris | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
+| KLA | ❌ error |  |  | workday failed (HTTPError: HTTP Error 521: <none>) / workday failed (HTTPError: HTTP Error 521: <none>) / no job system  |
 | Lam Research | ✅ ok | eightfold | 9 | config |
