@@ -1,31 +1,37 @@
 # Internship watch status
 
-Working: 251 of 421 companies
+Working: 336 of 535 companies
 
+
+## New this run
+
+- **Moog**: [Intern, Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Engineering_R-26-21444) Torrance, CA
+- **GE Vernova**: [Assembly Associate Co-op](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Assembly-Associate-Co-op_R5058298-2) Findlay Township
+- **Bloom Energy**: [Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Engineering-Intern_JR-25266) San Jose, California
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| AeroVironment | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://avav.wd1.myworkdayjobs.com |
+| AeroVironment | ✅ ok | workday | 27 | cache |
 | Airbus | ✅ ok | workday | 9 | config |
 | Anduril | ✅ ok | greenhouse | 24 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
-| Axiom Space | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://axiomspace.wd5.myworkdayjo |
+| Axiom Space | ✅ ok | workday | 4 | cache |
 | BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
-| Blue Origin | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Blue Origin | ✅ ok | workday | 34 | config |
 | Boeing | ✅ ok | radancy | 0 | cache |
 | Bombardier | ✅ ok | successfactors | 12 | config |
 | Castelion | ✅ ok | html | 3 | config |
 | CesiumAstro | ✅ ok | lever | 14 | cache |
-| Crane Aerospace & Electronics | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://cranecompany.wd5.myworkday |
-| Curtiss-Wright | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://curtisswright.wd1.myworkda |
+| Crane Aerospace & Electronics | ✅ ok | workday | 11 | cache |
+| Curtiss-Wright | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://curtisswright.wd |
 | Embraer | ⏭️ skipped |  |  | no US job site found |
 | Firefly Aerospace | ✅ ok | workday | 9 | config |
-| GE Aerospace | ✅ ok | phenom | 5 | cache |
+| GE Aerospace | ✅ ok | workday | 6 | config |
 | General Atomics | ⏭️ skipped |  |  | defense; uses BrassRing, dropped |
 | Gulfstream Aerospace | ✅ ok | sfxml | 1 | config |
 | Hermeus | ✅ ok | lever | 15 | cache |
@@ -36,16 +42,16 @@ Working: 251 of 421 companies
 | L3Harris | ✅ ok | radancy | 0 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
-| Moog | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://moog.wd5.myworkdayjobs.com |
-| Northrop Grumman | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Moog | ✅ ok | workday | 8 | cache |
+| Northrop Grumman | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
-| Sierra Nevada Corporation | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://snc.wd1.myworkdayjobs.com/ |
-| Sierra Space | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Sierra Nevada Corporation | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://snc.wd1.myworkda |
+| Sierra Space | ✅ ok | workday | 0 | config |
 | Skydio | ✅ ok | ashby | 13 | cache |
 | SpaceX | ✅ ok | greenhouse | 8 | config |
 | Stoke Space | ✅ ok | greenhouse | 1 | config |
@@ -57,7 +63,7 @@ Working: 251 of 421 companies
 | United Launch Alliance | ✅ ok | successfactors | 9 | config |
 | Vast Space | ✅ ok | greenhouse | 0 | cache |
 | Wisk Aero | ✅ ok | workday | 0 | cache |
-| Woodward | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://woodward.wd5.myworkdayjobs |
+| Woodward | ✅ ok | workday | 0 | cache |
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 20 | config |
 | Boom Supersonic | ⏭️ skipped |  |  | job board isn't publicly readable |
@@ -97,39 +103,77 @@ Working: 251 of 421 companies
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
-| Lanteris Space Systems | ❌ error |  |  | careers page: HTTPError |
+| Lanteris Space Systems | ❌ unresolved |  |  | careers page: HTTPError |
 | Terran Orbital | ✅ ok | greenhouse | 0 | cache |
-| Astrolab | ❌ error |  |  | careers page: HTTPError |
+| Astrolab | ❌ unresolved |  |  | careers page: HTTPError |
 | Lunar Outpost | ✅ ok | bamboohr | 1 | cache |
 | Voyager Technologies | ✅ ok | greenhouse | 3 | cache |
-| Agile Space Industries | ❌ error |  |  | no job system found on careers page |
+| Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Benchmark Space Systems | ✅ ok | breezy | 6 | config |
-| X-Bow Systems | ❌ error |  |  | no job system found on careers page |
+| X-Bow Systems | ❌ unresolved |  |  | no job system found on careers page |
 | Astra | ✅ ok | ashby | 0 | cache |
 | Skyryse | ✅ ok | greenhouse | 0 | cache |
 | Merlin Labs | ✅ ok | lever | 0 | cache |
-| ZeroAvia | ❌ error |  |  | careers page: HTTPError |
+| ZeroAvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Pyka | ✅ ok | lever | 2 | cache |
 | Elroy Air | ✅ ok | lever | 0 | cache |
 | Wing | ✅ ok | greenhouse | 7 | cache |
 | Saronic | ✅ ok | ashby | 4 | cache |
-| Ducommun | ❌ error |  |  | no job system found on careers page |
-| HEICO | ❌ error |  |  | no job system found on careers page |
-| Kaman | ❌ error |  |  | no job system found on careers page |
-| Kratos | ❌ error |  |  | no job system found on careers page |
-| GKN Aerospace | ❌ error |  |  | careers page: HTTPError |
-| Piper Aircraft | ❌ error |  |  | no job system found on careers page |
-| Garmin | ❌ error |  |  | no job system found on careers page |
-| Leidos | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| KBR | ✅ ok | phenom | 4 | cache |
-| Jacobs | ❌ error |  |  | no job system found on careers page |
-| Phase Four | ❌ error |  |  | careers page: URLError |
+| Ducommun | ❌ unresolved |  |  | no job system found on careers page |
+| HEICO | ❌ unresolved |  |  | no job system found on careers page |
+| Kaman | ❌ unresolved |  |  | no job system found on careers page |
+| Kratos | ❌ unresolved |  |  | no job system found on careers page |
+| GKN Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
+| Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
+| Garmin | ❌ unresolved |  |  | no job system found on careers page |
+| Leidos | ✅ ok | workday | 8 | config |
+| KBR | ✅ ok | workday | 0 | config |
+| Jacobs | ❌ unresolved |  |  | no job system found on careers page |
+| Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
-| Vantor | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://maxar.wd1.myworkdayjobs.co |
+| Vantor | ✅ ok | workday | 0 | cache |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
-| Argo Space | ❌ error |  |  | no job system found on careers page |
+| Argo Space | ❌ unresolved |  |  | no job system found on careers page |
+| Aerospace Corporation | ❌ error |  |  | careers page: HTTPError |
+| Draper | ✅ ok | workday | 14 | config |
+| General Dynamics Mission Systems | ✅ ok | jibe | 48 | found on careers page |
+| AST SpaceMobile | ✅ ok | greenhouse | 0 | found on careers page |
+| Honeybee Robotics | ❌ error |  |  | careers page: HTTPError |
+| Capella Space | ❌ error |  |  | greenhouse:capellaspace HTTPError |
+| Umbra | ❌ error |  |  | no job system found on careers page |
+| BlackSky | ✅ ok | greenhouse | 0 | found on careers page |
+| HawkEye 360 | ✅ ok | greenhouse | 0 | guessed from company name - verify |
+| Astroscale US | ✅ ok | ashby | 0 | found on careers page |
+| Starlab Space | ❌ error |  |  | careers page: HTTPError |
+| Gravitics | ✅ ok | greenhouse | 1 | found on careers page |
+| Orbit Fab | ✅ ok | rippling | 0 | found on careers page |
+| Interlune | ✅ ok | breezy | 0 | found on careers page |
+| AstroForge | ❌ error |  |  | no job system found on careers page |
+| Karman Space & Defense | ✅ ok | greenhouse | 0 | found on careers page |
+| Quantum Space | ✅ ok | greenhouse | 0 | found on careers page |
+| Phantom Space | ❌ error |  |  | careers page: HTTPError |
+| Regent Craft | ✅ ok | ashby | 11 | found on careers page |
+| Whisper Aero | ✅ ok | greenhouse | 0 | found on careers page |
+| Heart Aerospace | ✅ ok | greenhouse | 0 | found on careers page |
+| Eve Air Mobility | ❌ error |  |  | no job system found on careers page |
+| Viasat | ✅ ok | jibe | 2 | found on careers page |
+| Iridium | ❌ error |  |  | no job system found on careers page |
+| Astronics | ✅ ok | greenhouse | 0 | found on careers page |
+| Mercury Systems | ❌ error |  |  | no job system found on careers page |
+| ATI | ✅ ok | phenom | 32 | found on careers page |
+| Carpenter Technology | ✅ ok | workday | 9 | found on careers page |
+| Arconic | ❌ error |  |  | careers page: HTTPError |
+| Williams International | ✅ ok | ukg | 0 | found on careers page |
+| Hartzell Propeller | ❌ error |  |  | no job system found on careers page |
+| MTU Aero Engines North America | ❌ error |  |  | no job system found on careers page |
+| Elbit America | ❌ error |  |  | no job system found on careers page |
+| Cubic | ❌ error |  |  | workday:https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers ValueError; workday:https://cubic.wd1.myworkdayjobs.com/cu |
+| Matternet | ❌ error |  |  | careers page: HTTPError |
+| Flytrex | ❌ error |  |  | no job system found on careers page |
+| Starpath | ❌ error |  |  | no job system found on careers page |
+| ThinkOrbital | ❌ error |  |  | no job system found on careers page |
 
 ## Robotics & autonomous vehicles
 
@@ -142,7 +186,7 @@ Working: 251 of 421 companies
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
 | Apptronik | ✅ ok | greenhouse | 0 | config |
 | Aurora | ❌ unresolved |  |  | no job system found on careers page |
-| Boston Dynamics | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://bostondynamics.wd1.myworkd |
+| Boston Dynamics | ✅ ok | workday | 5 | cache |
 | FANUC | ❌ unresolved |  |  | no job system found on careers page |
 | Figure | ✅ ok | greenhouse | 6 | config |
 | Intuitive Surgical | ✅ ok | smartrecruiters | 5 | config |
@@ -158,11 +202,11 @@ Working: 251 of 421 companies
 | Machina Labs | ✅ ok | ashby | 1 | cache |
 | Hadrian | ✅ ok | ashby | 1 | cache |
 | Neuralink | ✅ ok | greenhouse | 7 | cache |
-| Stryker | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Medtronic | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Stryker | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Medtronic | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Boston Scientific | ✅ ok | successfactors | 2 | cache |
 | Zimmer Biomet | ✅ ok | phenom | 4 | cache |
-| Globus Medical | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://globusmedical.wd5.myworkda |
+| Globus Medical | ✅ ok | workday | 1 | cache |
 | PROCEPT BioRobotics | ✅ ok | workday | 0 | cache |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
 | Formic | ✅ ok | greenhouse | 0 | cache |
@@ -177,52 +221,83 @@ Working: 251 of 421 companies
 | Dyson | ✅ ok | workday | 0 | config |
 | Dell Technologies | ✅ ok | oracle | 1 | config |
 | Texas Instruments | ✅ ok | oracle | 28 | config |
-| NVIDIA | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| NVIDIA | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
 | Plus One Robotics | ✅ ok | bamboohr | 0 | config |
 | Outrider | ✅ ok | greenhouse | 0 | cache |
-| Gatik | ❌ error |  |  | no job system found on careers page |
+| Gatik | ❌ unresolved |  |  | no job system found on careers page |
 | Applied Intuition | ✅ ok | ashby | 2 | cache |
 | Physical Intelligence | ✅ ok | ashby | 1 | cache |
 | Sanctuary AI | ✅ ok | ashby | 0 | cache |
 | Berkshire Grey | ✅ ok | bamboohr | 1 | config |
-| Seegrid | ❌ error |  |  | no job system found on careers page |
-| Vecna Robotics | ❌ error |  |  | no job system found on careers page |
+| Seegrid | ❌ unresolved |  |  | no job system found on careers page |
+| Vecna Robotics | ❌ unresolved |  |  | no job system found on careers page |
 | Exotec | ✅ ok | workable | 0 | config |
 | Brinc | ✅ ok | ashby | 0 | cache |
 | Flock Safety | ✅ ok | ashby | 0 | cache |
-| Vicarious Surgical | ❌ error |  |  | greenhouse:vicarioussurgical HTTPError |
-| Moon Surgical | ❌ error |  |  | careers page: HTTPError |
-| Johnson & Johnson | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
+| Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
+| Johnson & Johnson | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Abbott | ✅ ok | phenom | 0 | cache |
-| Edwards Lifesciences | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Edwards Lifesciences | ✅ ok | workday | 0 | config |
 | BD | ✅ ok | radancy | 1 | cache |
 | Baxter | ✅ ok | radancy | 0 | cache |
-| GE HealthCare | ✅ ok | phenom | 2 | cache |
+| GE HealthCare | ✅ ok | workday | 3 | config |
 | Thermo Fisher | ✅ ok | phenom | 0 | cache |
-| Illumina | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Illumina | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
-| NXP | ❌ error |  |  | careers page: HTTPError |
+| NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
 | Tokyo Electron | ✅ ok | workday | 1 | config |
-| Silicon Labs | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Cirrus Logic | ❌ error |  |  | no job system found on careers page |
-| Infineon | ❌ error |  |  | no job system found on careers page |
+| Silicon Labs | ✅ ok | workday | 3 | config |
+| Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
+| Infineon | ❌ unresolved |  |  | no job system found on careers page |
 | HP | ✅ ok | greenhouse | 0 | cache |
-| Sonos | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| GoPro | ❌ error |  |  | careers page: HTTPError |
+| Sonos | ✅ ok | workday | 1 | config |
+| GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 16 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
-| YETI | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Trek Bicycle | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://trekbikes.wd1.myworkdayjob |
-| SRAM | ❌ error |  |  | no job system found on careers page |
-| Fox Factory | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://foxfactory.wd1.myworkdayjo |
-| Specialized | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://specialized.wd5.myworkdayj |
-| Logitech | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://logitech.wd5.myworkdayjobs |
-| Bose | ❌ error |  |  | careers page: HTTPError |
+| YETI | ✅ ok | workday | 0 | config |
+| Trek Bicycle | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://trekbikes.wd1.my |
+| SRAM | ❌ unresolved |  |  | no job system found on careers page |
+| Fox Factory | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://foxfactory.wd1.m |
+| Specialized | ✅ ok | workday | 0 | cache |
+| Logitech | ✅ ok | workday | 0 | cache |
+| Bose | ❌ unresolved |  |  | careers page: HTTPError |
+| Toyota Research Institute | ✅ ok | lever | 16 | config |
+| RAI Institute | ✅ ok | lever | 2 | found on careers page |
+| Blue River Technology | ✅ ok | greenhouse | 0 | found on careers page |
+| Bedrock Robotics | ✅ ok | ashby | 6 | guessed from company name - verify |
+| Overland AI | ✅ ok | rippling | 0 | found on careers page |
+| Forterra | ❌ error |  |  | no job system found on careers page |
+| Field AI | ✅ ok | lever | 1 | found on careers page |
+| Persona AI | ❌ error |  |  | careers page: URLError |
+| The Bot Company | ✅ ok | ashby | 0 | guessed from company name - verify |
+| Mytra | ✅ ok | rippling | 1 | found on careers page |
+| Chef Robotics | ❌ error |  |  | no job system found on careers page |
+| Standard Bots | ✅ ok | ashby | 0 | found on careers page |
+| Viam | ✅ ok | greenhouse | 0 | found on careers page |
+| Covariant | ❌ error |  |  | careers page: HTTPError |
+| Nimble Robotics | ✅ ok | greenhouse | 0 | found on careers page |
+| RightHand Robotics | ✅ ok | breezy | 0 | found on careers page |
+| Ghost Robotics | ❌ error |  |  | no job system found on careers page |
+| Monarch Tractor | ❌ error |  |  | careers page: HTTPError |
+| Agtonomy | ✅ ok | lever | 0 | found on careers page |
+| Burro | ❌ error |  |  | careers page: HTTPError |
+| Canvas | ❌ error |  |  | careers page: URLError |
+| Wayve | ✅ ok | ashby | 0 | found on careers page |
+| Pronto | ✅ ok | greenhouse | 0 | guessed from company name - verify |
+| Synchron | ❌ error |  |  | no job system found on careers page |
+| Cognex | ✅ ok | workday | 0 | config |
+| Zebra Technologies | ❌ error |  |  | careers page: HTTPError |
+| Omron | ❌ error |  |  | careers page: HTTPError |
+| Yaskawa Motoman | ❌ error |  |  | careers page: HTTPError |
+| Keyence | ✅ ok | successfactors | 0 | found on careers page |
+| Honda Research Institute | ❌ error |  |  | no job system found on careers page |
+| Sarcos / Palladyne AI | ❌ error |  |  | no job system found on careers page |
 
 ## Automotive, trucks & heavy equipment
 
@@ -231,15 +306,15 @@ Working: 251 of 421 companies
 | AGCO | ✅ ok | successfactors | 6 | config |
 | BMW | ✅ ok | successfactors | 5 | config |
 | Bosch | ✅ ok | smartrecruiters | 17 | config |
-| Caterpillar | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Caterpillar | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | CNH | ✅ ok | successfactors | 18 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
-| Daimler Truck | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://dtna.wd5.myworkdayjobs.com |
+| Daimler Truck | ✅ ok | workday | 2 | cache |
 | Ford | ✅ ok | radancy | 0 | config |
-| General Motors | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| General Motors | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 2 | config |
+| John Deere | ✅ ok | successfactors | 3 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
@@ -269,18 +344,18 @@ Working: 251 of 421 companies
 | Torc Robotics | ✅ ok | greenhouse | 0 | cache |
 | Stack AV | ✅ ok | greenhouse | 0 | cache |
 | Harbinger Motors | ✅ ok | greenhouse | 3 | cache |
-| BorgWarner | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Aptiv | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| BorgWarner | ✅ ok | workday | 15 | config |
+| Aptiv | ✅ ok | workday | 22 | config |
 | Magna | ✅ ok | workday | 11 | config |
 | Lear | ✅ ok | successfactors | 0 | cache |
 | ZF | ✅ ok | successfactors | 3 | cache |
 | Continental | ❌ unresolved |  |  | no job system found on careers page |
 | Denso | ❌ unresolved |  |  | careers page: HTTPError |
-| Allison Transmission | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://allisontransmission.wd1.my |
+| Allison Transmission | ✅ ok | workday | 10 | cache |
 | Dana | ✅ ok | successfactors | 7 | config |
 | American Axle | ✅ ok | radancy | 5 | cache |
-| Goodyear | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://goodyear.wd1.myworkdayjobs |
-| Bridgestone Americas | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://bridgestone.wd5.myworkdayj |
+| Goodyear | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://goodyear.wd1.myw |
+| Bridgestone Americas | ✅ ok | workday | 5 | cache |
 | Michelin North America | ✅ ok | workday | 3 | config |
 | Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
@@ -289,7 +364,7 @@ Working: 251 of 421 companies
 | Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
 | Kubota | ❌ unresolved |  |  | no job system found on careers page |
 | Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
-| Terex | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://terex.wd1.myworkdayjobs.co |
+| Terex | ✅ ok | workday | 2 | cache |
 | Manitowoc | ✅ ok | oracle | 5 | cache |
 | Wabtec | ✅ ok | smartrecruiters | 6 | config |
 | Hyliion | ✅ ok | greenhouse | 0 | cache |
@@ -300,35 +375,80 @@ Working: 251 of 421 companies
 | Group14 | ✅ ok | greenhouse | 0 | cache |
 | ChargePoint | ✅ ok | greenhouse | 2 | cache |
 | Blue Bird | ✅ ok | ukg | 10 | config |
-| Thor Industries | ❌ error |  |  | no job system found on careers page |
-| Winnebago Industries | ❌ error |  |  | no job system found on careers page |
-| Brunswick | ✅ ok | ashby | 0 | cache |
-| Yamaha Motor USA | ❌ error |  |  | no job system found on careers page |
+| Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Brunswick | ✅ ok | workday | 10 | config |
+| Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
 | BRP | ✅ ok | phenom | 0 | cache |
-| Gentex | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://gentex.wd5.myworkdayjobs.c |
-| Autoliv | ❌ error |  |  | no job system found on careers page |
+| Gentex | ✅ ok | workday | 0 | cache |
+| Autoliv | ❌ unresolved |  |  | no job system found on careers page |
 | Tenneco | ✅ ok | successfactors | 0 | cache |
 | Schaeffler | ✅ ok | successfactors | 3 | config |
 | Valeo | ✅ ok | workday | 12 | cache |
-| Forvia | ❌ error |  |  | careers page: HTTPError |
+| Forvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Nexteer | ✅ ok | successfactors | 6 | cache |
-| Visteon | ❌ error |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
+| Visteon | ❌ unresolved |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
 | Garrett Motion | ✅ ok | oracle | 0 | cache |
 | Modine | ✅ ok | successfactors | 1 | cache |
 | Timken | ✅ ok | successfactors | 1 | cache |
 | Gates | ✅ ok | successfactors | 0 | cache |
-| Cooper Standard | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Mack Trucks | ❌ error |  |  | careers page: HTTPError |
+| Cooper Standard | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Mack Trucks | ❌ unresolved |  |  | careers page: HTTPError |
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
-| Bollinger Motors | ❌ error |  |  | careers page: HTTPError |
+| Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
 | Textron Specialized Vehicles | ✅ ok | taleo | 14 | config |
+| Polestar | ❌ error |  |  | careers page: HTTPError |
+| Porsche Cars North America | ❌ error |  |  | careers page: HTTPError |
+| Jaguar Land Rover North America | ✅ ok | successfactors | 0 | found on careers page |
+| Zero Motorcycles | ❌ error |  |  | careers page: HTTPError |
+| LiveWire | ❌ error |  |  | no job system found on careers page |
+| Kawasaki Motors Manufacturing | ❌ error |  |  | careers page: URLError |
+| Faraday Future | ✅ ok | greenhouse | 0 | found on careers page |
+| VinFast US | ❌ error |  |  | no job system found on careers page |
+| Aisin | ❌ error |  |  | no job system found on careers page |
+| Toyota Boshoku America | ❌ error |  |  | careers page: HTTPError |
+| JTEKT North America | ❌ error |  |  | no job system found on careers page |
+| Hitachi Astemo Americas | ❌ error |  |  | careers page: HTTPError |
+| Marelli | ✅ ok | successfactors | 0 | found on careers page |
+| MAHLE | ❌ error |  |  | careers page: HTTPError |
+| Hyundai Mobis | ❌ error |  |  | careers page: URLError |
+| Gentherm | ✅ ok | successfactors | 1 | found on careers page |
+| Stoneridge | ✅ ok | workday | 0 | found on careers page |
+| Sensata | ❌ error |  |  | careers page: HTTPError |
+| Littelfuse | ❌ error |  |  | careers page: HTTPError |
+| Amphenol | ❌ error |  |  | careers page: HTTPError |
+| Linamar | ❌ error |  |  | careers page: HTTPError |
+| Martinrea | ❌ error |  |  | careers page: HTTPError |
+| Adient | ✅ ok | workday | 3 | found on careers page |
+| LG Energy Solution Michigan | ❌ error |  |  | careers page: URLError |
+| Ultium Cells | ❌ error |  |  | no job system found on careers page |
+| BlueOval SK | ❌ error |  |  | careers page: URLError |
+| Factorial Energy | ✅ ok | greenhouse | 0 | found on careers page |
+| Lyten | ❌ error |  |  | careers page: HTTPError |
+| Amprius | ✅ ok | workable | 0 | found on careers page |
+| Ascend Elements | ❌ error |  |  | careers page: HTTPError |
+| EVgo | ❌ error |  |  | careers page: HTTPError |
+| Roush | ❌ error |  |  | careers page: HTTPError |
+| Multimatic | ✅ ok | workday | 1 | found on careers page |
+| Hendrick Motorsports | ❌ error |  |  | careers page: HTTPError |
+| Team Penske | ❌ error |  |  | no job system found on careers page |
+| Joe Gibbs Racing | ❌ error |  |  | careers page: HTTPError |
+| Vermeer | ✅ ok | workday | 6 | found on careers page |
+| Club Car | ❌ error |  |  | careers page: HTTPError |
+| Wabash | ❌ error |  |  | no job system found on careers page |
+| REV Group | ✅ ok | workday | 2 | found on careers page |
+| Gillig | ✅ ok | greenhouse | 0 | found on careers page |
+| New Flyer / NFI | ❌ error |  |  | careers page: HTTPError |
+| Accelera by Cummins | ❌ error |  |  | careers page: HTTPError |
+| Pirelli North America | ❌ error |  |  | careers page: HTTPError |
+| Hankook Tire America | ❌ error |  |  | careers page: HTTPError |
 
 ## Industrial equipment & manufacturing
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Allegion | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://allegion.wd5.myworkdayjobs |
+| Allegion | ✅ ok | workday | 21 | cache |
 | AMETEK | ✅ ok | successfactors | 10 | config |
 | Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
@@ -340,15 +460,15 @@ Working: 251 of 421 companies
 | Emerson / National Instruments | ✅ ok | oracle | 13 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | greenhouse | 0 | cache |
-| Flowserve | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://flowserve.wd1.myworkdayjob |
+| Flowserve | ✅ ok | workday | 5 | cache |
 | Formlabs | ✅ ok | greenhouse | 17 | cache |
 | Fortive | ✅ ok | oracle | 2 | cache |
-| GE Vernova | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| GE Vernova | ✅ ok | workday | 31 | config |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 14 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
-| Jabil | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://jabil.wd5.myworkdayjobs.co |
+| Jabil | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://jabil.wd5.mywork |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
@@ -356,16 +476,16 @@ Working: 251 of 421 companies
 | Sanmina | ❌ unresolved |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 28 | config |
 | Siemens | ❌ unresolved |  |  | no job system found on careers page |
-| Stanley Black & Decker | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Stanley Black & Decker | ✅ ok | workday | 12 | config |
 | Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
 | TE Connectivity | ✅ ok | successfactors | 15 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
 | Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
-| Xylem | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://xylem.wd5.myworkdayjobs.co |
+| Xylem | ✅ ok | workday | 0 | cache |
 | ExxonMobil | ✅ ok | successfactors | 2 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
 | Shell USA | ✅ ok | workday | 0 | config |
-| ConocoPhillips | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://conocophillips.wd1.myworkd |
+| ConocoPhillips | ✅ ok | workday | 0 | cache |
 | Phillips 66 | ✅ ok | successfactors | 1 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
 | SLB | ❌ unresolved |  |  | no job system found on careers page |
@@ -373,69 +493,69 @@ Working: 251 of 421 companies
 | TAE Technologies | ✅ ok | ashby | 0 | cache |
 | Form Energy | ✅ ok | ashby | 0 | cache |
 | Fervo Energy | ✅ ok | greenhouse | 0 | cache |
-| X-energy | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://xenergy.wd5.myworkdayjobs. |
+| X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
 | Trane Technologies | ✅ ok | phenom | 13 | cache |
-| Carrier | ✅ ok | radancy | 3 | cache |
+| Carrier | ✅ ok | workday | 19 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
-| 3M | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Dow | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| 3M | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Dow | ✅ ok | workday | 0 | config |
 | Samsung (US) | ✅ ok | workday | 2 | config |
-| Intel | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Micron | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://micron.wd1.myworkdayjobs.c |
-| Johnson Controls | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Intel | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Micron | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://micron.wd1.mywor |
+| Johnson Controls | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Otis | ✅ ok | workday | 1 | cache |
-| Kohler | ❌ error |  |  | careers page: URLError |
-| Generac | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| Bloom Energy | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Kohler | ❌ unresolved |  |  | careers page: URLError |
+| Generac | ✅ ok | workday | 8 | config |
+| Bloom Energy | ✅ ok | workday | 9 | config |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
-| Rheem | ❌ error |  |  | no job system found on careers page |
-| Siemens Energy | ❌ error |  |  | no job system found on careers page |
+| Rheem | ❌ unresolved |  |  | no job system found on careers page |
+| Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Mitsubishi Power Americas | ✅ ok | successfactors | 3 | cache |
-| Toro | ❌ error |  |  | careers page: HTTPError |
-| Lincoln Electric | ❌ error |  |  | careers page: HTTPError |
-| Kennametal | ❌ error |  |  | no job system found on careers page |
-| Nordson | ❌ error |  |  | careers page: HTTPError |
+| Toro | ❌ unresolved |  |  | careers page: HTTPError |
+| Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
+| Kennametal | ❌ unresolved |  |  | no job system found on careers page |
+| Nordson | ❌ unresolved |  |  | careers page: HTTPError |
 | Graco | ✅ ok | workday | 26 | cache |
-| Dover | ❌ error |  |  | no job system found on careers page |
-| IDEX | ❌ error |  |  | no job system found on careers page |
+| Dover | ❌ unresolved |  |  | no job system found on careers page |
+| IDEX | ❌ unresolved |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
 | Pentair | ✅ ok | phenom | 1 | cache |
-| Regal Rexnord | ❌ error |  |  | careers page: HTTPError |
+| Regal Rexnord | ❌ unresolved |  |  | careers page: HTTPError |
 | Chart Industries | ✅ ok | successfactors | 0 | cache |
-| Plug Power | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://plugpower.wd5.myworkdayjob |
-| Enphase | ❌ error |  |  | no job system found on careers page |
+| Plug Power | ✅ ok | workday | 0 | cache |
+| Enphase | ❌ unresolved |  |  | no job system found on careers page |
 | First Solar | ✅ ok | oracle | 14 | cache |
-| Fluence | ❌ error |  |  | careers page: HTTPError |
+| Fluence | ❌ unresolved |  |  | careers page: HTTPError |
 | Oklo | ✅ ok | greenhouse | 0 | cache |
-| NuScale | ❌ error |  |  | careers page: HTTPError |
+| NuScale | ❌ unresolved |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
 | Westinghouse | ✅ ok | successfactors | 5 | cache |
 | BWX Technologies | ✅ ok | successfactors | 3 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
-| Type One Energy | ❌ error |  |  | no job system found on careers page |
+| Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
 | Bechtel | ✅ ok | phenom | 0 | cache |
-| Fluor | ❌ error |  |  | no job system found on careers page |
-| Burns & McDonnell | ❌ error |  |  | no job system found on careers page |
-| Quanta Services | ❌ error |  |  | no job system found on careers page |
-| Vistra | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://vst.wd5.myworkdayjobs.com/ |
-| NRG | ❌ error |  |  | careers page: HTTPError |
+| Fluor | ❌ unresolved |  |  | no job system found on careers page |
+| Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
+| Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
+| Vistra | ✅ ok | workday | 1 | cache |
+| NRG | ❌ unresolved |  |  | careers page: HTTPError |
 | Oncor | ✅ ok | ukg | 2 | config |
 | CenterPoint Energy | ✅ ok | successfactors | 0 | cache |
 | NextEra Energy | ✅ ok | successfactors | 2 | cache |
-| Solar Turbines | ❌ error |  |  | careers page: HTTPError |
-| Hexcel | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday:https://hexcel.wd5.myworkdayjobs.c |
-| Sandia National Labs | ❌ error |  |  | no job system found on careers page |
-| Los Alamos National Lab | ❌ error |  |  | careers page: HTTPError |
+| Solar Turbines | ❌ unresolved |  |  | careers page: HTTPError |
+| Hexcel | ✅ ok | workday | 2 | cache |
+| Sandia National Labs | ❌ unresolved |  |  | no job system found on careers page |
+| Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
 | NASA JPL | ✅ ok | phenom | 1 | cache |
-| Southwest Research Institute | ❌ error |  |  | no job system found on careers page |
+| Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
 | MIT Lincoln Laboratory | ✅ ok | successfactors | 5 | cache |
 
@@ -445,6 +565,6 @@ Working: 251 of 421 companies
 |---|---|---|---|---|
 | Applied Materials | ✅ ok | radancy | 0 | config |
 | ASML | ❌ unresolved |  |  | no job system found on careers page |
-| Entegris | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
-| KLA | ❌ error |  |  | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) / workday failed (JSONDecodeError: Expecting |
+| Entegris | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (URLError: <urlop |
+| KLA | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Lam Research | ✅ ok | eightfold | 9 | config |
