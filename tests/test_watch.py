@@ -49,6 +49,10 @@ class Dates(unittest.TestCase):
             self.assertIsNone(d["when"], raw)
             self.assertEqual(d["day"].isoformat(), "2026-11-10")
 
+    def test_successfactors_meta_date_format(self):
+        d = triage.parse_posted("Thu Nov 05 08:00:00 UTC 2026", NOW)
+        self.assertEqual((d["day"].isoformat(), d["precision"]), ("2026-11-05", "date"))
+
     def test_date_only_in_48_hour_mode_means_today_or_yesterday(self):
         self.assertEqual(triage.recency("2026-11-09", "last_48_hours", NOW), "recent")
         self.assertEqual(triage.recency("2026-11-08", "last_48_hours", NOW), "old")

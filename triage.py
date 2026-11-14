@@ -67,6 +67,9 @@ def parse_posted(raw, now=None):
     m = re.search(r"(\d+)\+?\s*days?", low)                         # "Posted 5 Days Ago", "30+ Days"
     if m:
         return {"when": None, "day": today - timedelta(days=int(m[1])), "precision": "relative"}
+    m = re.search(r"([a-z]{3})\s+(\d{1,2})\s+\d{2}:\d{2}:\d{2}\s+[a-z]{2,5}\s+(\d{4})", low)
+    if m and m[1] in MONTHS:                                        # "Thu Nov 05 08:00:00 UTC 2026"
+        return {"when": None, "day": date(int(m[3]), MONTHS[m[1]], int(m[2])), "precision": "date"}
     m = re.search(r"([a-z]{3})[a-z]*\.?\s+(\d{1,2}),?\s+(\d{4})", low)   # "Nov 3, 2026"
     if m and m[1] in MONTHS:
         return {"when": None, "day": date(int(m[3]), MONTHS[m[1]], int(m[2])), "precision": "date"}

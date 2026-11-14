@@ -835,6 +835,12 @@ def _from_page(p, page):
              or re.search(r'itemprop="datePosted"[^>]*>\s*([^<]{4,40})<', page))
         if m:
             p["posted"] = clean(m.group(1))
+    micro = {k: clean(v) for k, v in re.findall(
+        r'itemprop="(addressLocality|addressRegion|addressCountry)"\s+content="([^"]*)"', page)}
+    if micro.get("addressCountry") and not p.get("country"):
+        p["country"] = micro["addressCountry"]
+    if not p.get("location") and (micro.get("addressLocality") or micro.get("addressRegion")):
+        p["location"] = ", ".join(x for x in (micro.get("addressLocality"), micro.get("addressRegion")) if x)
     if not p.get("country"):
         m = re.search(r'"addressCountry"\s*:\s*(?:\{[^}]*?"name"\s*:\s*)?"([^"]+)"', page)
         if m:
