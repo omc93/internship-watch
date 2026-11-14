@@ -167,16 +167,14 @@ def _workday_post(api, payload):
     host = urllib.parse.urlparse(api).netloc.split(".", 1)[-1]        # e.g. wd5.myworkdayjobs.com
     with _WD_GUARD:
         lock = _WD_LOCKS.setdefault(host, threading.Semaphore(2))
-    snippet = ""
     for wait in (0, 3, 8, 20):
         time.sleep(wait)
         with lock:
-            text, _ = http(api, payload, as_json=False)
-        try:
-            return json.loads(text)
-        except ValueError:
-            snippet = clean(text)[:70] or "empty reply"
-    raise ValueError(f"Workday did not return job data ({snippet})")
+            try:
+                return http(api, payload)
+            except json.JSONDecodeError:
+                continue
+    raise ValueError("Workday did not return job data (busy or in maintenance)")
 
 
 def fetch_workday(url):

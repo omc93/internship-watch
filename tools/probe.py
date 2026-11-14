@@ -168,7 +168,8 @@ def main():
     for url in json.loads(os.environ.get("PEEK", "[]") or "[]"):
         try:
             page, final = watch.http(url, as_json=False)
-            i = page.lower().find("intern")
+            m = re.search(r"datePosted|Date Posted|Posted Date|Posting Date|Posted on|jobdate|Date:", page, re.I)
+            i = m.start() if m else page.lower().find("intern")
             print("PEEK", url, "->", final, "len", len(page), "| head:", page[:300].replace("\n", " "),
                   "| around intern:", page[max(0, i - 300):i + 300].replace("\n", " ") if i >= 0 else "none")
         except Exception as e:

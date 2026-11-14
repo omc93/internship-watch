@@ -73,10 +73,12 @@ def parse_posted(raw, now=None):
     m = re.search(r"(\d{1,2})\s+([a-z]{3})[a-z]*\.?,?\s+(\d{4})", low)   # "3 Nov 2026"
     if m and m[2] in MONTHS:
         return {"when": None, "day": date(int(m[3]), MONTHS[m[2]], int(m[1])), "precision": "date"}
-    m = re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", low)              # US style 11/10/2026
+    m = re.fullmatch(r"(\d{1,2})/(\d{1,2})/(\d{4}|\d{2})", low) or \
+        re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", low)              # US style 11/10/2026 or 11/10/26
     if m:
         try:
-            return {"when": None, "day": date(int(m[3]), int(m[1]), int(m[2])), "precision": "date"}
+            year = int(m[3]) + (2000 if len(m[3]) == 2 else 0)
+            return {"when": None, "day": date(year, int(m[1]), int(m[2])), "precision": "date"}
         except ValueError:
             return none
     return none
@@ -194,7 +196,7 @@ EXCLUDE_RULES = [
     ("civil engineering", r"\bcivil\b|construction management"),
     ("project controls or planning role", r"cost and schedule|schedule control|project controls?|"
                                           r"materials management|master schedul|compliance|warranty|"
-                                          r"supplier (quality|engineering)|lean challenge"),
+                                          r"lean challenge"),
     ("software or data role", r"software|\bit\b|information technology|information systems|\bdata\b|"
                               r"analytics|cyber|security|machine learning|\bml\b|\bai\b|"
                               r"artificial intelligence|computer science|developer|devops|\bweb\b|"

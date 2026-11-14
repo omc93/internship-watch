@@ -1,0 +1,51 @@
+name: Internship watch (continuous)
+
+# GitHub's scheduler only fired a few times a day, so this job keeps itself going:
+# it checks, waits 45 minutes, checks again, and starts a fresh copy of itself
+# before GitHub's 6-hour job limit. The scheduled "Internship watch" workflow
+# restarts it if it ever stops.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: internship-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every 45 minutes
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
+          ALERT_MODE: ${{ vars.ALERT_MODE }}
+        run: |
+          git config user.name "internship-watch"
+          git config user.email "internship-watch@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git pull -q --rebase origin main || true
+            python3 watch.py || echo "This check failed; continuing."
+            date +%s > state/last_run
+            git add state STATUS.md
+            git add ALERTS.md REVIEW.md 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Update seen postings"
+              git push -q || (git pull -q --rebase origin main && git push -q) || echo "Push failed; will retry next round."
+            fi
+            if [ "$i" -lt 6 ]; then sleep 2700; fi
+          done
+
+      - name: Start the next cycle
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run loop.yml --ref main

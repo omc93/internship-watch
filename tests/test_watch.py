@@ -44,7 +44,7 @@ class Dates(unittest.TestCase):
         d = triage.parse_posted("2026-11-10T15:46:00-06:00", NOW)
         self.assertEqual(d["precision"], "timestamp")
         self.assertEqual(d["when"].astimezone(timezone.utc).hour, 21)
-        for raw in ("2026-11-10", "2026-11-10T00:00:00.000+0000", "Nov 10, 2026"):
+        for raw in ("2026-11-10", "2026-11-10T00:00:00.000+0000", "Nov 10, 2026", "11/10/26", "11/10/2026"):
             d = triage.parse_posted(raw, NOW)
             self.assertIsNone(d["when"], raw)
             self.assertEqual(d["day"].isoformat(), "2026-11-10")
