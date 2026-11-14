@@ -3,10 +3,6 @@
 Working: 358 of 535 companies
 
 
-## New this run
-
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Composite Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Composite-Engineering-Intern--Summer-2027--Onsite-_01887784) US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140
-
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -160,7 +156,7 @@ Working: 358 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 31 | cache |
+| ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
