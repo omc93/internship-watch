@@ -14,8 +14,8 @@
    "workday",
    "https://3m.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 3,
-  "last_discovery": 1794669809.6416483,
+  "fails": 4,
+  "last_discovery": 1794673071.9641554,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | careers page: HTTPError",
   "status": "error"
  },
@@ -58,7 +58,7 @@
   "status": "ok"
  },
  "ASML": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4558356,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -70,7 +70,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.506914,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "ATI": {
@@ -80,24 +80,24 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5092785,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Abbott": {
   "ats": [
-   "phenom",
-   "https://www.jobs.abbott/us/en"
+   "workday",
+   "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
   ],
   "fails": 0,
   "last_discovery": 1794613930.3557003,
-  "note": "cache",
+  "note": "config",
   "status": "ok"
  },
  "Accelera by Cummins": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5991697,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Adient": {
   "ats": [
@@ -106,7 +106,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5974853,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "AeroVironment": {
@@ -120,10 +120,10 @@
   "status": "ok"
  },
  "Aerospace Corporation": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5027912,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Aeva": {
   "ats": [
@@ -136,7 +136,7 @@
   "status": "ok"
  },
  "Agile Space Industries": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1012385,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -158,7 +158,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5431557,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Airbus": {
@@ -171,10 +171,10 @@
   "status": "ok"
  },
  "Aisin": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5971644,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Albedo": {
   "ats": [
@@ -246,7 +246,7 @@
   "status": "ok"
  },
  "American Airlines": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.328712,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -262,10 +262,10 @@
   "status": "ok"
  },
  "Amphenol": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5974789,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Amprius": {
   "ats": [
@@ -274,7 +274,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5978377,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Anduril": {
@@ -350,28 +350,28 @@
    "greenhouse",
    "archer"
   ],
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794326242.10856,
   "note": "job site not supported yet",
   "status": "skipped"
  },
  "Arconic": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5125518,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Argo Space": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.105245,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Ascend Elements": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597861,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Astra": {
   "ats": [
@@ -404,10 +404,10 @@
   "status": "ok"
  },
  "AstroForge": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.50742,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Astrobotic": {
   "ats": [
@@ -420,7 +420,7 @@
   "status": "ok"
  },
  "Astrolab": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1006625,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -432,7 +432,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5091245,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Astroscale US": {
@@ -442,7 +442,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5073297,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Atomos Space": {
@@ -456,13 +456,13 @@
   "status": "ok"
  },
  "Aurora": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.3366132,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Autoliv": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1772304,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -488,16 +488,16 @@
  },
  "BD": {
   "ats": [
-   "radancy",
-   "https://jobs.bd.com"
+   "workday",
+   "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
   ],
   "fails": 0,
   "last_discovery": 1794627981.7731063,
-  "note": "cache",
+  "note": "config",
   "status": "ok"
  },
  "BETA Technologies": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794613930.3227336,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -544,12 +544,12 @@
  },
  "Baxter": {
   "ats": [
-   "radancy",
-   "https://jobs.baxter.com"
+   "workday",
+   "https://baxter.wd1.myworkdayjobs.com/baxter"
   ],
   "fails": 0,
   "last_discovery": 1794627981.7732234,
-  "note": "cache",
+  "note": "config",
   "status": "ok"
  },
  "Bechtel": {
@@ -569,7 +569,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.541411,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Bell Flight": {
@@ -584,7 +584,7 @@
   "status": "ok"
  },
  "Benchmark Electronics": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.401293,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -616,7 +616,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5072093,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Bloom Energy": {
@@ -656,14 +656,14 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.541392,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "BlueOval SK": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5978153,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Boeing": {
   "ats": [
@@ -676,7 +676,7 @@
   "status": "ok"
  },
  "Bollinger Motors": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.182338,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -692,7 +692,7 @@
   "status": "ok"
  },
  "Boom Supersonic": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794327236.415642,
   "note": "job board isn't publicly readable",
   "status": "skipped"
@@ -717,7 +717,7 @@
   "status": "ok"
  },
  "Bose": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.131828,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -793,16 +793,16 @@
   "status": "ok"
  },
  "Burns & McDonnell": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2352257,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Burro": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5431662,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "CNH": {
   "ats": [
@@ -815,16 +815,16 @@
   "status": "ok"
  },
  "Canvas": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5431685,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Capella Space": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5072043,
   "note": "greenhouse:capellaspace HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Carbon Robotics": {
   "ats": [
@@ -843,7 +843,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5121462,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Carrier": {
@@ -872,8 +872,8 @@
    "workday",
    "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.5480168,
+  "fails": 5,
+  "last_discovery": 1794673071.8830678,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | no job system found on careers page",
   "status": "error"
  },
@@ -928,10 +928,10 @@
   "status": "ok"
  },
  "Chef Robotics": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5430057,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Chevron": {
   "ats": [
@@ -944,22 +944,22 @@
   "status": "ok"
  },
  "Cirrus Aircraft": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794327236.4166949,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
  },
  "Cirrus Logic": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1286297,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Club Car": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.598586,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Cognex": {
   "ats": [
@@ -1001,7 +1001,7 @@
   "status": "ok"
  },
  "Continental": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3857288,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1011,10 +1011,10 @@
    "workday",
    "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.5947812,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | careers page: HTTPError",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Corning": {
   "ats": [
@@ -1027,10 +1027,10 @@
   "status": "ok"
  },
  "Covariant": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.543099,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Crane Aerospace & Electronics": {
   "ats": [
@@ -1043,13 +1043,13 @@
   "status": "ok"
  },
  "Cubic": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.512675,
   "note": "workday:https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers ValueError; workday:https://cubic.wd1.myworkdayjobs.com/cubic_global_careers ValueError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Cummins": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.131589,
   "note": "job site not found",
   "status": "skipped"
@@ -1059,10 +1059,10 @@
    "workday",
    "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.4625726,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site ValueError",
-  "status": "error"
+  "note": "cache",
+  "status": "ok"
  },
  "Daikin Comfort Technologies": {
   "ats": [
@@ -1095,7 +1095,7 @@
   "status": "ok"
  },
  "Danfoss": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4024327,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1121,13 +1121,13 @@
   "status": "ok"
  },
  "Delta Air Lines": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3287153,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Denso": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3857312,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1163,13 +1163,13 @@
   "status": "ok"
  },
  "Doosan Bobcat": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3894439,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Dover": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2263234,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1194,13 +1194,13 @@
   "status": "ok"
  },
  "Ducommun": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034212,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Dusty Robotics": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3497443,
   "note": "greenhouse:dustyrobotics HTTPError",
   "status": "unresolved"
@@ -1216,10 +1216,10 @@
   "status": "ok"
  },
  "EVgo": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597863,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Eaton": {
   "ats": [
@@ -1243,10 +1243,10 @@
   "status": "ok"
  },
  "Elbit America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126731,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Electra.aero": {
   "ats": [
@@ -1269,7 +1269,7 @@
   "status": "ok"
  },
  "Embraer": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1143343,
   "note": "no US job site found",
   "status": "skipped"
@@ -1285,7 +1285,7 @@
   "status": "ok"
  },
  "Enphase": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.227751,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1295,16 +1295,16 @@
    "workday",
    "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.6653185,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>) | no job system found on careers page",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Eve Air Mobility": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.509046,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Exotec": {
   "ats": [
@@ -1326,7 +1326,7 @@
   "status": "ok"
  },
  "FANUC": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.3369703,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1338,7 +1338,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.597818,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Faraday Future": {
@@ -1348,7 +1348,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5968938,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Fervo Energy": {
@@ -1378,7 +1378,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5423832,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Figure": {
@@ -1441,22 +1441,22 @@
   "status": "ok"
  },
  "Fluence": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2302172,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Fluor": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2352204,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Flytrex": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126793,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Ford": {
   "ats": [
@@ -1499,10 +1499,10 @@
   "status": "ok"
  },
  "Forterra": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.54238,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Fortive": {
   "ats": [
@@ -1515,7 +1515,7 @@
   "status": "ok"
  },
  "Forvia": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1807795,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1525,10 +1525,10 @@
    "workday",
    "https://foxfactory.wd1.myworkdayjobs.com/FOX"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.5380168,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://foxfactory.wd1.myworkdayjobs.com/FOX ValueError",
-  "status": "error"
+  "note": "cache",
+  "status": "ok"
  },
  "GE Aerospace": {
   "ats": [
@@ -1571,13 +1571,13 @@
   "status": "ok"
  },
  "GKN Aerospace": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034322,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Garmin": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034374,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1603,7 +1603,7 @@
   "status": "ok"
  },
  "Gatik": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1225247,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1633,7 +1633,7 @@
    "greenhouse",
    "general"
   ],
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794326242.1156275,
   "note": "defense; uses BrassRing, dropped",
   "status": "skipped"
@@ -1645,7 +1645,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5040753,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "General Motors": {
@@ -1653,8 +1653,8 @@
    "workday",
    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.5508673,
+  "fails": 5,
+  "last_discovery": 1794673071.8854585,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | no job system found on careers page",
   "status": "error"
  },
@@ -1675,14 +1675,14 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5971966,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Ghost Robotics": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5431514,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Gillig": {
   "ats": [
@@ -1691,7 +1691,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5991645,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Globus Medical": {
@@ -1705,7 +1705,7 @@
   "status": "ok"
  },
  "GoPro": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.128698,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1715,10 +1715,10 @@
    "workday",
    "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.581706,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers ValueError",
-  "status": "error"
+  "note": "cache",
+  "status": "ok"
  },
  "Graco": {
   "ats": [
@@ -1737,7 +1737,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5073378,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Group14": {
@@ -1751,7 +1751,7 @@
   "status": "ok"
  },
  "Grundfos": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4102738,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -1768,7 +1768,7 @@
   "status": "ok"
  },
  "HEICO": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034243,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1784,7 +1784,7 @@
   "status": "ok"
  },
  "Haas Automation": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3894386,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1810,10 +1810,10 @@
   "status": "ok"
  },
  "Hankook Tire America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5991735,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Harbinger Motors": {
   "ats": [
@@ -1836,10 +1836,10 @@
   "status": "ok"
  },
  "Hartzell Propeller": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126684,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "HawkEye 360": {
   "ats": [
@@ -1848,7 +1848,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.507261,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Heart Aerospace": {
@@ -1858,7 +1858,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.50904,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Helion Energy": {
@@ -1872,10 +1872,10 @@
   "status": "ok"
  },
  "Hendrick Motorsports": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5980582,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Hermeus": {
   "ats": [
@@ -1898,13 +1898,13 @@
   "status": "ok"
  },
  "Hitachi Astemo Americas": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5971706,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Hitachi Construction Machinery": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.3666666,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -1920,22 +1920,22 @@
   "status": "ok"
  },
  "Honda Aircraft": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3270788,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Honda Research Institute": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.543527,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Honeybee Robotics": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.507202,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Honeywell": {
   "ats": [
@@ -1978,19 +1978,19 @@
   "status": "ok"
  },
  "Hyundai Mobis": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5971947,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Hyundai Motor Group (US)": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3838332,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "IDEX": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.226328,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2010,10 +2010,10 @@
    "workday",
    "https://illumina.wd1.myworkdayjobs.com/illumina-careers"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.534259,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://illumina.wd1.myworkdayjobs.com/illumina-careers ValueError; workday:https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting ValueError",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Impulse Space": {
   "ats": [
@@ -2026,7 +2026,7 @@
   "status": "ok"
  },
  "Infineon": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1286325,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2056,8 +2056,8 @@
    "workday",
    "https://intel.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 3,
-  "last_discovery": 1794669809.6443605,
+  "fails": 4,
+  "last_discovery": 1794673071.966608,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | careers page: HTTPError",
   "status": "error"
  },
@@ -2068,11 +2068,11 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5074117,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Intuitive Machines": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794613930.3246658,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2098,29 +2098,29 @@
   "status": "ok"
  },
  "Iridium": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.509122,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "JTEKT North America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597169,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Jabil": {
   "ats": [
    "workday",
    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.6227467,
+  "fails": 5,
+  "last_discovery": 1794673071.9478164,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Careers ValueError",
   "status": "error"
  },
  "Jacobs": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1049976,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2132,7 +2132,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5968537,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "JetZero": {
@@ -2146,16 +2146,16 @@
   "status": "ok"
  },
  "Joby Aviation": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.116524,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
  },
  "Joe Gibbs Racing": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.598062,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "John Deere": {
   "ats": [
@@ -2182,8 +2182,8 @@
    "workday",
    "https://jj.wd5.myworkdayjobs.com/JJ"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.5296428,
+  "fails": 5,
+  "last_discovery": 1794673071.864742,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://jj.wd5.myworkdayjobs.com/JJ ValueError",
   "status": "error"
  },
@@ -2192,10 +2192,10 @@
    "workday",
    "https://jci.wd5.myworkdayjobs.com/JCI"
   ],
-  "fails": 4,
+  "fails": 0,
   "last_discovery": 1794669809.6443675,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | no job system found on careers page",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "K2 Space": {
   "ats": [
@@ -2222,13 +2222,13 @@
    "workday",
    "https://kla.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.6653218,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | no job system found on careers page",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "KUKA": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.3381393,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2244,7 +2244,7 @@
   "status": "ok"
  },
  "Kaman": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034265,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2256,17 +2256,17 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5074224,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Kawasaki Motors Manufacturing": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5968907,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Kennametal": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2241673,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2278,11 +2278,11 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.543489,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Kia Georgia": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3838363,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2298,7 +2298,7 @@
   "status": "ok"
  },
  "Kohler": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2234952,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -2314,13 +2314,13 @@
   "status": "ok"
  },
  "Kratos": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034296,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Kubota": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3894417,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2335,10 +2335,10 @@
   "status": "ok"
  },
  "LG Energy Solution Michigan": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5978107,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Lam Research": {
   "ats": [
@@ -2352,7 +2352,7 @@
   "status": "ok"
  },
  "Lanteris Space Systems": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.100625,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2378,37 +2378,37 @@
   "status": "ok"
  },
  "Lennox": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.426827,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Linamar": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5974815,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Lincoln Electric": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.224165,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Littelfuse": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5974774,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "LiveWire": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.596888,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Lockheed Martin": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1166177,
   "note": "defense; site blocks automated checks",
   "status": "skipped"
@@ -2444,7 +2444,7 @@
   "status": "ok"
  },
  "Los Alamos National Lab": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2359493,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2470,16 +2470,16 @@
   "status": "ok"
  },
  "Lyten": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5978355,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "MAHLE": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5971928,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "MIT Lincoln Laboratory": {
   "ats": [
@@ -2492,10 +2492,10 @@
   "status": "ok"
  },
  "MTU Aero Engines North America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.512671,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Machina Labs": {
   "ats": [
@@ -2508,7 +2508,7 @@
   "status": "ok"
  },
  "Mack Trucks": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1821046,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2539,20 +2539,20 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5971727,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Martinrea": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5974832,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Matternet": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126774,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "May Mobility": {
   "ats": [
@@ -2565,7 +2565,7 @@
   "status": "ok"
  },
  "Mazda Toyota Manufacturing": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3838418,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2575,22 +2575,22 @@
    "workday",
    "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.5206845,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | careers page: URLError",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Mercedes-Benz": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1351204,
   "note": "global site; US co-ops not separately listed",
   "status": "skipped"
  },
  "Mercury Systems": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.509275,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Merlin Labs": {
   "ats": [
@@ -2617,8 +2617,8 @@
    "workday",
    "https://micron.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 3,
-  "last_discovery": 1794669809.6443646,
+  "fails": 4,
+  "last_discovery": 1794673071.9666119,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://micron.wd1.myworkdayjobs.com/External ValueError; radancy?:https://careers.micron.com/careers ValueError",
   "status": "error"
  },
@@ -2643,7 +2643,7 @@
   "status": "ok"
  },
  "Molex": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4145086,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -2659,10 +2659,10 @@
   "status": "ok"
  },
  "Monarch Tractor": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5431535,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Moog": {
   "ats": [
@@ -2675,7 +2675,7 @@
   "status": "ok"
  },
  "Moon Surgical": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1237912,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2697,7 +2697,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5978673,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Muon Space": {
@@ -2717,7 +2717,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5429146,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "NASA JPL": {
@@ -2741,7 +2741,7 @@
   "status": "ok"
  },
  "NRG": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.235236,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2751,13 +2751,13 @@
    "workday",
    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.5284681,
+  "fails": 5,
+  "last_discovery": 1794673071.8636343,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite ValueError",
   "status": "error"
  },
  "NXP": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1282225,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2793,10 +2793,10 @@
   "status": "ok"
  },
  "New Flyer / NFI": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5991676,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "NextEra Energy": {
   "ats": [
@@ -2825,7 +2825,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.543101,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Nissan": {
@@ -2839,7 +2839,7 @@
   "status": "ok"
  },
  "Nordson": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2241702,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2849,10 +2849,10 @@
    "workday",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.472644,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | no job system found on careers page",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Northwood Space": {
   "ats": [
@@ -2865,7 +2865,7 @@
   "status": "ok"
  },
  "NuScale": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2303576,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2901,10 +2901,10 @@
   "status": "ok"
  },
  "Omron": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.543484,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Oncor": {
   "ats": [
@@ -2923,7 +2923,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5074034,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Oshkosh": {
@@ -2993,7 +2993,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5422795,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "PACCAR / Peterbilt / Kenworth": {
@@ -3037,7 +3037,7 @@
   "status": "ok"
  },
  "Parker Hannifin": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794327236.4346004,
   "note": "job site blocks automated checks",
   "status": "skipped"
@@ -3073,19 +3073,19 @@
   "status": "ok"
  },
  "Persona AI": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.542888,
   "note": "careers page: URLError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Phantom Space": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5077193,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Phase Four": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.105001,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -3121,16 +3121,16 @@
   "status": "ok"
  },
  "Piper Aircraft": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1034348,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Pirelli North America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5991714,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Planet Labs": {
   "ats": [
@@ -3173,22 +3173,22 @@
   "status": "ok"
  },
  "Polaris": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794613930.3831515,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Polestar": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.596848,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Porsche Cars North America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.596851,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Portal Space Systems": {
   "ats": [
@@ -3207,7 +3207,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5433543,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Pyka": {
@@ -3221,7 +3221,7 @@
   "status": "ok"
  },
  "Quanta Services": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.235229,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3233,7 +3233,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.507648,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "QuantumScape": {
@@ -3253,7 +3253,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5412257,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "REV Group": {
@@ -3263,7 +3263,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5985904,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "RTX (Collins, Pratt & Whitney, Raytheon)": {
@@ -3271,13 +3271,13 @@
    "workday",
    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
   ],
-  "fails": 4,
-  "last_discovery": 1794669809.476208,
+  "fails": 5,
+  "last_discovery": 1794673071.80732,
   "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | careers page: HTTPError",
   "status": "error"
  },
  "Radian Aerospace": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3285685,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3303,7 +3303,7 @@
   "status": "ok"
  },
  "Redwire": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1182232,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -3329,7 +3329,7 @@
   "status": "ok"
  },
  "Regal Rexnord": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2277243,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3341,7 +3341,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5077221,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Relativity Space": {
@@ -3365,7 +3365,7 @@
   "status": "ok"
  },
  "Rheem": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2237527,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3377,7 +3377,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5431435,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Rivian": {
@@ -3401,7 +3401,7 @@
   "status": "ok"
  },
  "Rockwell Automation": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1295981,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -3417,25 +3417,25 @@
   "status": "ok"
  },
  "Roush": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597865,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "SLB": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.422923,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "SRAM": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1318178,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Safran": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1222994,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -3466,22 +3466,22 @@
   "status": "ok"
  },
  "Sandia National Labs": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.235946,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sanmina": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4150853,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sarcos / Palladyne AI": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.543529,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Saronic": {
   "ats": [
@@ -3524,16 +3524,16 @@
   "status": "ok"
  },
  "Seegrid": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1235776,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sensata": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597475,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Serve Robotics": {
   "ats": [
@@ -3576,13 +3576,13 @@
   "status": "ok"
  },
  "Siemens": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.418754,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Siemens Energy": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2237558,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3592,10 +3592,10 @@
    "workday",
    "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.4763298,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site ValueError",
-  "status": "error"
+  "note": "cache",
+  "status": "ok"
  },
  "Sierra Space": {
   "ats": [
@@ -3628,7 +3628,7 @@
   "status": "ok"
  },
  "Skild AI": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3498044,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3674,7 +3674,7 @@
   "status": "ok"
  },
  "Solar Turbines": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2359395,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3710,7 +3710,7 @@
   "status": "ok"
  },
  "Southwest Research Institute": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2366624,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3771,7 +3771,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5430083,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Stanley Black & Decker": {
@@ -3795,19 +3795,19 @@
   "status": "ok"
  },
  "Starlab Space": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5073354,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Starpath": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126815,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Starship Technologies": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3497803,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3827,7 +3827,7 @@
    "ashby",
    "stellar"
   ],
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794326242.1358125,
   "note": "uses Paylocity, not supported yet",
   "status": "skipped"
@@ -3849,7 +3849,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5974061,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Stratolaunch": {
@@ -3867,25 +3867,25 @@
    "workday",
    "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.5206807,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://stryker.wd1.myworkdayjobs.com/StrykerCareers ValueError",
-  "status": "error"
+  "note": "config",
+  "status": "ok"
  },
  "Subaru of Indiana": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3838387,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Sulzer": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4203136,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Supernal": {
-  "fails": 24,
+  "fails": 25,
   "last_discovery": 1794613930.3262177,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3902,10 +3902,10 @@
   "status": "ok"
  },
  "Synchron": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5433924,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "TAE Technologies": {
   "ats": [
@@ -3928,10 +3928,10 @@
   "status": "ok"
  },
  "Team Penske": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5980604,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "TechnipFMC": {
   "ats": [
@@ -3944,7 +3944,7 @@
   "status": "ok"
  },
  "Teledyne": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.127607,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -4000,7 +4000,7 @@
   "status": "ok"
  },
  "Tesla": {
-  "fails": 25,
+  "fails": 26,
   "note": "Tesla's site blocks automated checks",
   "status": "skipped"
  },
@@ -4047,7 +4047,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5428905,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Thea Energy": {
@@ -4071,13 +4071,13 @@
   "status": "ok"
  },
  "ThinkOrbital": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5126836,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Thor Industries": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1770973,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4112,7 +4112,7 @@
   "status": "ok"
  },
  "Toro": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2241616,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4128,10 +4128,10 @@
   "status": "ok"
  },
  "Toyota Boshoku America": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5971665,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Toyota Research Institute": {
   "ats": [
@@ -4157,10 +4157,10 @@
    "workday",
    "https://trekbikes.wd1.myworkdayjobs.com/TREK"
   ],
-  "fails": 3,
+  "fails": 0,
   "last_discovery": 1794669809.5380116,
-  "note": "workday failed (ValueError: Workday did not return job data (busy or in maintenance)) | workday:https://trekbikes.wd1.myworkdayjobs.com/TREK ValueError",
-  "status": "error"
+  "note": "cache",
+  "status": "ok"
  },
  "Triumph Group": {
   "ats": [
@@ -4193,22 +4193,22 @@
   "status": "ok"
  },
  "Type One Energy": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.2321675,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Ultium Cells": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5978131,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Umbra": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.507207,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "United Airlines": {
   "ats": [
@@ -4281,7 +4281,7 @@
   "status": "ok"
  },
  "Vecna Robotics": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1235807,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4303,7 +4303,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5980644,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Viam": {
@@ -4313,7 +4313,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5430572,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Viasat": {
@@ -4323,29 +4323,29 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5090485,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Vicarious Surgical": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1237884,
   "note": "greenhouse:vicarioussurgical HTTPError",
   "status": "unresolved"
  },
  "VinFast US": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.597162,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Virgin Galactic": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3271813,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Visteon": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1813612,
   "note": "ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError",
   "status": "unresolved"
@@ -4361,7 +4361,7 @@
   "status": "ok"
  },
  "Volkswagen": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.381051,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -4407,10 +4407,10 @@
   "status": "ok"
  },
  "Wabash": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5985882,
   "note": "no job system found on careers page",
-  "status": "error"
+  "status": "unresolved"
  },
  "Wabtec": {
   "ats": [
@@ -4429,11 +4429,11 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5431705,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Weatherford": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794613930.4216585,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4466,7 +4466,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5090232,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Whoop": {
@@ -4486,7 +4486,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794669809.5125551,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Wing": {
@@ -4500,7 +4500,7 @@
   "status": "ok"
  },
  "Winnebago Industries": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1771011,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4526,7 +4526,7 @@
   "status": "ok"
  },
  "X-Bow Systems": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1015255,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4562,19 +4562,19 @@
   "status": "ok"
  },
  "Yamaha Motor USA": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1771312,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Yaskawa Motoman": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5434864,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "York Space Systems": {
-  "fails": 25,
+  "fails": 26,
   "last_discovery": 1794326242.1282907,
   "note": "defense; uses Paycor, dropped",
   "status": "skipped"
@@ -4600,19 +4600,19 @@
   "status": "ok"
  },
  "Zebra Technologies": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5434823,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "Zero Motorcycles": {
-  "fails": 1,
+  "fails": 2,
   "last_discovery": 1794669809.5968854,
   "note": "careers page: HTTPError",
-  "status": "error"
+  "status": "unresolved"
  },
  "ZeroAvia": {
-  "fails": 15,
+  "fails": 16,
   "last_discovery": 1794654356.1016026,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4648,7 +4648,7 @@
   "status": "ok"
  },
  "iRobot": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3498163,
   "note": "careers page: HTTPError",
   "status": "unresolved"
