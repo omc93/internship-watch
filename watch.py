@@ -806,6 +806,11 @@ def save(path, obj):
         f.write("\n")
 
 
+def terms(title):
+    """Season/year terms named in a title, e.g. {"summer 2027"}."""
+    return set(re.findall(r"(spring|summer|fall|autumn|winter)\s*(?:/\s*\w+\s*)?(20\d{2})", title.lower()))
+
+
 def is_internship(p):
     t = p["title"]
     if not INTERN_RE.search(t) or EXCLUDE_RE.search(t):
@@ -1021,6 +1026,9 @@ def main():
                 rec.setdefault("first_seen", now)          # discovery time; preserved across runs
                 if rec.get("title") and rec["title"] != p["title"]:
                     rec["updated_seen"] = today           # same requisition, edited: not a new role
+                    # ...unless the term changed (e.g. Spring 2027 -> Summer 2027): that is news.
+                    if terms(p["title"]) and terms(p["title"]) != terms(rec["title"]) and state["seeded"]:
+                        candidates.append((name, kind, dict(p, retitled_from=rec["title"])))
                 rec["title"] = p["title"]
                 rec["last_seen"] = today
                 if p["posted"]:
@@ -1039,9 +1047,12 @@ def main():
                      sum(1 for p in interns if is_engineering(p["title"])), r.get("note", "")))
 
     # Cheap filters first, then open the official job page for what is left.
+    def mode_for(p):      # a re-termed requisition is news whatever its original posting date
+        return "newly_discovered" if p.get("retitled_from") else ALERT_MODE
+
     todo, audit = [], []
     for name, kind, p in candidates:
-        bucket, reasons = triage.classify(p, ALERT_MODE, now_dt, HANDLED)
+        bucket, reasons = triage.classify(p, mode_for(p), now_dt, HANDLED)
         if bucket == "skip":
             audit.append((name, kind, p, bucket, reasons))
         else:
@@ -1052,7 +1063,7 @@ def main():
     for i, (name, kind, p) in enumerate(todo):
         if i < len(enriched):
             p = enriched[i]
-            bucket, reasons = triage.classify(p, ALERT_MODE, now_dt, HANDLED)
+            bucket, reasons = triage.classify(p, mode_for(p), now_dt, HANDLED)
         else:
             bucket, reasons = "review", ["not verified this run (too many new postings)"]
         audit.append((name, kind, p, bucket, reasons))
@@ -1073,6 +1084,8 @@ def main():
     for name, p in alerts[:MAX_ALERTS_PER_RUN]:
         flags = [f for f in p.get("flags", []) if "unstated" not in f]
         body = summary_line(p).replace(" | ", "\n") + ("\nNote: " + "; ".join(flags) if flags else "")
+        if p.get("retitled_from"):
+            body = f"Same posting, new term. Was: {p['retitled_from']}\n" + body
         notify(f"{name}: {p['title']}", body, click=p["url"])
         print(f"NEW  {name}: {p['title']}  {p['url']}")
     if len(alerts) > MAX_ALERTS_PER_RUN:

@@ -207,7 +207,7 @@ class Flow(unittest.TestCase):
 
     def test_same_requisition_with_new_path_title_and_date_is_not_new(self):
         a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
-        a2 = self.job("JR1001", "Internship - Mechanical Engineering - Summer 2027", "/job/TX/Mech-Summer_JR1001-1",
+        a2 = self.job("JR1001", "Internship - Mechanical Design Engineering - Spring 2027", "/job/TX/MechDes_JR1001-1",
                       "Posted Today", "2026-11-10")
         sent, work = run_flow(self, self.workday([[a], [a2]]), [WD], mode="newly_discovered")
         watch.main(); self.round = 1; watch.main()
@@ -216,6 +216,16 @@ class Flow(unittest.TestCase):
         self.assertEqual(list(ids), ["JR1001"])
         self.assertIn("/job/TX/Mech_JR1001", ids["JR1001"]["aliases"])
         self.assertIn("updated_seen", ids["JR1001"])
+
+    def test_requisition_moved_from_spring_to_summer_alerts_once(self):
+        a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
+        a2 = self.job("JR1001", "Internship - Mechanical Engineering - Summer 2027", "/job/TX/Mech_JR1001")
+        sent, _ = run_flow(self, self.workday([[a], [a2], [a2]]), [WD])
+        watch.main(); self.round = 1; watch.main()
+        self.assertEqual(len(sent), 1)
+        self.assertIn("Same posting, new term", sent[0][1])
+        self.round = 2; watch.main()
+        self.assertEqual(len(sent), 1)                          # not repeated
 
     def test_old_state_keyed_by_path_is_recognised_after_upgrade(self):
         a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
