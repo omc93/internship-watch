@@ -47,3 +47,12 @@ skipped (comma separated). They are never alerted again. Keep this in the
 secret, not in the repo.
 
 Tests: `python3 -m unittest discover -s tests`
+
+## How it runs
+
+`Internship watch (continuous)` (`.github/workflows/loop.yml`) checks every company,
+waits 45 minutes, and repeats. Before GitHub's 6-hour job limit it starts a fresh
+copy of itself. GitHub's own scheduler proved unreliable (3 to 4 runs a day), so the
+scheduled `Internship watch` workflow is now only a watchdog that restarts the
+continuous one if it stops. To stop everything: Actions tab, cancel the running
+continuous workflow, then disable both workflows.

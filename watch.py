@@ -206,7 +206,7 @@ def fetch_workday(url):
                 path = j.get("externalPath", "")
                 # The requisition number is stable; the path changes when a title is edited.
                 req = next((b for b in (j.get("bulletFields") or [])
-                            if re.fullmatch(r"[A-Za-z_-]{0,8}\d{3,}(-\d+)?", str(b).strip())), None)
+                            if re.fullmatch(r"[A-Za-z]{0,8}[-_]?\d[\d_-]{2,}", str(b).strip())), None)
                 out[path] = posting(req or path, j.get("title", ""), f"{link_base}{path}",
                                     j.get("locationsText", ""), j.get("postedOn", ""),
                                     aliases=[path], detail=api[:-len("/jobs")] + path)
