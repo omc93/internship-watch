@@ -1027,7 +1027,8 @@ def main():
                 if rec.get("title") and rec["title"] != p["title"]:
                     rec["updated_seen"] = today           # same requisition, edited: not a new role
                     # ...unless the term changed (e.g. Spring 2027 -> Summer 2027): that is news.
-                    if terms(p["title"]) and terms(p["title"]) != terms(rec["title"]) and state["seeded"]:
+                    if terms(p["title"]) and terms(rec["title"]) and state["seeded"] \
+                            and terms(p["title"]) != terms(rec["title"]):
                         candidates.append((name, kind, dict(p, retitled_from=rec["title"])))
                 rec["title"] = p["title"]
                 rec["last_seen"] = today
