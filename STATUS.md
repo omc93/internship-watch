@@ -156,7 +156,7 @@ Working: 358 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 32 | cache |
+| ATI | ✅ ok | phenom | 31 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -308,12 +308,12 @@ Working: 358 of 535 companies
 | General Motors | ✅ ok | workday | 25 | config |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 3 | config |
+| John Deere | ✅ ok | successfactors | 2 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 35 | cache |
+| Oshkosh | ✅ ok | phenom | 39 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
