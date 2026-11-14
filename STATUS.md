@@ -1,11 +1,7 @@
 # Internship watch status
 
-Working: 353 of 535 companies
+Working: 355 of 535 companies
 
-
-## New this run
-
-- **Jabil**: [Industrial Engineering Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894) St. Petersburg/Tampa, FL
 
 ## Aerospace, space & defense
 
@@ -18,10 +14,10 @@ Working: 353 of 535 companies
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 4 | config |
+| BAE Systems | ✅ ok | phenom | 3 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 34 | config |
-| Boeing | ✅ ok | radancy | 0 | cache |
+| Boeing | ✅ ok | workday | 1 | config |
 | Bombardier | ✅ ok | successfactors | 12 | config |
 | Castelion | ✅ ok | html | 3 | config |
 | CesiumAstro | ✅ ok | lever | 14 | cache |
@@ -219,7 +215,7 @@ Working: 353 of 535 companies
 | Dyson | ✅ ok | workday | 0 | config |
 | Dell Technologies | ✅ ok | oracle | 1 | config |
 | Texas Instruments | ✅ ok | oracle | 28 | config |
-| NVIDIA | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| NVIDIA | ✅ ok | workday | 20 | config |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
 | Plus One Robotics | ✅ ok | bamboohr | 0 | config |
@@ -304,7 +300,7 @@ Working: 353 of 535 companies
 | AGCO | ✅ ok | successfactors | 6 | config |
 | BMW | ✅ ok | successfactors | 5 | config |
 | Bosch | ✅ ok | smartrecruiters | 17 | config |
-| Caterpillar | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (HTTPError: HTTP  |
+| Caterpillar | ✅ ok | workday | 6 | config |
 | CNH | ✅ ok | successfactors | 18 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
 | Daimler Truck | ✅ ok | workday | 2 | cache |
