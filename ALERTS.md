@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-14 17:11 UTC · **Jabil** · [Industrial Engineering Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894) · fit (manufacturing) | St. Petersburg/Tampa, FL [US] | employer-reported Nov 13 | found Nov 14 11:11 AM CT | ID J2470894 | open
 - 2026-11-14 15:23 UTC · **Moog** · [Intern, Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Engineering_R-26-21444) · fit (general engineering) | Torrance, CA [US] | employer-reported Nov 13 | found Nov 14 09:23 AM CT | ID R-26-21444 | open
 - 2026-11-14 15:23 UTC · **GE Vernova** · [Assembly Associate Co-op](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Assembly-Associate-Co-op_R5058298-2) · fit (manufacturing) | Findlay Township [US] | employer-reported Nov 13 | found Nov 14 09:23 AM CT | ID R5058298 | open
 - 2026-11-14 15:23 UTC · **Bloom Energy** · [Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Engineering-Intern_JR-25266) · fit (general engineering) | San Jose, California [US] | employer-reported Nov 13 | found Nov 14 09:23 AM CT | ID JR-25266 | open

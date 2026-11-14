@@ -1,7 +1,11 @@
 # Internship watch status
 
-Working: 349 of 535 companies
+Working: 353 of 535 companies
 
+
+## New this run
+
+- **Jabil**: [Industrial Engineering Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894) St. Petersburg/Tampa, FL
 
 ## Aerospace, space & defense
 
@@ -156,7 +160,7 @@ Working: 349 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 30 | cache |
+| ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -232,13 +236,13 @@ Working: 349 of 535 companies
 | Flock Safety | ✅ ok | ashby | 0 | cache |
 | Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
 | Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
-| Johnson & Johnson | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Johnson & Johnson | ✅ ok | workday | 3 | config |
 | Abbott | ✅ ok | workday | 3 | config |
 | Edwards Lifesciences | ✅ ok | workday | 0 | config |
 | BD | ✅ ok | workday | 3 | config |
 | Baxter | ✅ ok | workday | 1 | config |
 | GE HealthCare | ✅ ok | workday | 3 | config |
-| Thermo Fisher | ✅ ok | phenom | 0 | cache |
+| Thermo Fisher | ✅ ok | workday | 10 | config |
 | Illumina | ✅ ok | workday | 0 | config |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | NXP | ❌ unresolved |  |  | careers page: HTTPError |
@@ -300,7 +304,7 @@ Working: 349 of 535 companies
 | AGCO | ✅ ok | successfactors | 6 | config |
 | BMW | ✅ ok | successfactors | 5 | config |
 | Bosch | ✅ ok | smartrecruiters | 17 | config |
-| Caterpillar | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Caterpillar | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (HTTPError: HTTP  |
 | CNH | ✅ ok | successfactors | 18 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
 | Daimler Truck | ✅ ok | workday | 2 | cache |
@@ -313,7 +317,7 @@ Working: 349 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 37 | cache |
+| Oshkosh | ✅ ok | phenom | 40 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -462,7 +466,7 @@ Working: 349 of 535 companies
 | Hubbell | ✅ ok | successfactors | 14 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
-| Jabil | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://jabil.wd5.mywork |
+| Jabil | ✅ ok | workday | 9 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
@@ -495,11 +499,11 @@ Working: 349 of 535 companies
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
-| 3M | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| 3M | ✅ ok | workday | 0 | config |
 | Dow | ✅ ok | workday | 0 | config |
 | Samsung (US) | ✅ ok | workday | 2 | config |
 | Intel | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Micron | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://micron.wd1.mywor |
+| Micron | ✅ ok | workday | 29 | cache |
 | Johnson Controls | ✅ ok | workday | 2 | config |
 | Otis | ✅ ok | workday | 1 | cache |
 | Kohler | ❌ unresolved |  |  | careers page: URLError |
