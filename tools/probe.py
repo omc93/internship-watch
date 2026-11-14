@@ -173,6 +173,16 @@ def main():
                   "| around intern:", page[max(0, i - 300):i + 300].replace("\n", " ") if i >= 0 else "none")
         except Exception as e:
             print("PEEK FAIL", url, type(e).__name__, str(e)[:100])
+    for base in json.loads(os.environ.get("SF_DUMP", "[]") or "[]"):
+        try:
+            d = watch.http(f"{base}/services/recruiting/v1/jobs",
+                           {"locale": "en_US", "pageNumber": 0, "sortBy": "date", "keywords": "intern",
+                            "location": "", "facetFilters": {}, "brand": "", "skills": [], "categoryId": 0,
+                            "alertId": "", "rcmCandidateId": ""})
+            item = (d.get("jobSearchResult") or [{}])[0]
+            print("SFDUMP", base, "top keys", list(d)[:8], "| first:", json.dumps(item)[:1500])
+        except Exception as e:
+            print("SFDUMP FAIL", base, type(e).__name__, str(e)[:100])
     specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
 
     def test(spec):

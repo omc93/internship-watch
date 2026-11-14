@@ -156,6 +156,29 @@ def posting(pid, title, url, location="", posted="", **extra):
 
 # ---------------------------------------------------------------- job systems
 
+import threading
+_WD_LOCKS = {}
+_WD_GUARD = threading.Lock()
+
+
+def _workday_post(api, payload):
+    """POST to a Workday job search. Workday hosts answer with a non-JSON page when they are
+    busy or in maintenance, so requests to one host go one at a time, with retries."""
+    host = urllib.parse.urlparse(api).netloc.split(".", 1)[-1]        # e.g. wd5.myworkdayjobs.com
+    with _WD_GUARD:
+        lock = _WD_LOCKS.setdefault(host, threading.Semaphore(2))
+    snippet = ""
+    for wait in (0, 3, 8, 20):
+        time.sleep(wait)
+        with lock:
+            text, _ = http(api, payload, as_json=False)
+        try:
+            return json.loads(text)
+        except ValueError:
+            snippet = clean(text)[:70] or "empty reply"
+    raise ValueError(f"Workday did not return job data ({snippet})")
+
+
 def fetch_workday(url):
     p = urllib.parse.urlparse(url)
     segs = [s for s in p.path.split("/") if s and not re.fullmatch(r"[a-z]{2}-[A-Z]{2}", s)]
@@ -171,7 +194,13 @@ def fetch_workday(url):
     for text in ("intern", "internship", "co-op"):
         offset, total = 0, None
         while offset < 400:
-            d = http(api, {"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": text})
+            try:
+                d = _workday_post(api, {"appliedFacets": {}, "limit": 20, "offset": offset,
+                                        "searchText": text})
+            except ValueError:
+                if not out:
+                    raise                  # nothing at all: report the company as failing
+                break                      # keep what was read; the rest is picked up next run
             if total is None:
                 total = d.get("total", 0)
             jobs = d.get("jobPostings", [])

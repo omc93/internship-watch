@@ -192,6 +192,9 @@ EXCLUDE_RULES = [
                                           r"operator|\bwelder\b"),
     ("graduate-level only", r"\b(ph\.?d|doctoral|mba|masters|master's|ms/phd|graduate)\b"),
     ("civil engineering", r"\bcivil\b|construction management"),
+    ("project controls or planning role", r"cost and schedule|schedule control|project controls?|"
+                                          r"materials management|master schedul|compliance|warranty|"
+                                          r"supplier (quality|engineering)|lean challenge"),
     ("software or data role", r"software|\bit\b|information technology|information systems|\bdata\b|"
                               r"analytics|cyber|security|machine learning|\bml\b|\bai\b|"
                               r"artificial intelligence|computer science|developer|devops|\bweb\b|"

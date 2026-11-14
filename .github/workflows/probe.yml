@@ -21,6 +21,9 @@ on:
       peek:
         description: "JSON list of URLs to peek at"
         default: "[]"
+      sf:
+        description: "JSON list of SuccessFactors sites to dump"
+        default: "[]"
 
 jobs:
   probe:
@@ -36,3 +39,4 @@ jobs:
           ATS_TESTS: ${{ inputs.ats }}
           WD_FIND: ${{ inputs.wd }}
           PEEK: ${{ inputs.peek }}
+          SF_DUMP: ${{ inputs.sf }}
