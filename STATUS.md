@@ -16,7 +16,7 @@ Working: 358 of 535 companies
 | Axiom Space | ✅ ok | workday | 4 | cache |
 | BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
-| Blue Origin | ✅ ok | workday | 34 | config |
+| Blue Origin | ✅ ok | workday | 33 | config |
 | Boeing | ✅ ok | workday | 1 | config |
 | Bombardier | ✅ ok | successfactors | 12 | config |
 | Castelion | ✅ ok | html | 3 | config |
@@ -41,7 +41,7 @@ Working: 358 of 535 companies
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 108 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 109 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 15 | cache |
@@ -313,7 +313,7 @@ Working: 358 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 38 | cache |
+| Oshkosh | ✅ ok | phenom | 35 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
