@@ -313,7 +313,7 @@ Working: 358 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 36 | cache |
+| Oshkosh | ✅ ok | phenom | 38 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
