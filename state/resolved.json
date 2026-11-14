@@ -14,9 +14,9 @@
    "workday",
    "https://3m.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8411307,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.2204208,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "ABB": {
@@ -58,7 +58,7 @@
   "status": "ok"
  },
  "ASML": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4558356,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -78,9 +78,9 @@
    "workday",
    "https://avav.wd1.myworkdayjobs.com/AVAV"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.709837,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://avav.wd1.myworkdayjobs.com/AVAV HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.0395234,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://avav.wd1.myworkdayjobs.com/AVAV JSONDecodeError",
   "status": "error"
  },
  "Aeva": {
@@ -94,10 +94,10 @@
   "status": "ok"
  },
  "Agile Space Industries": {
-  "fails": 13,
-  "last_discovery": 1794567484.5388408,
+  "fails": 14,
+  "last_discovery": 1794654356.1012385,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Agility Robotics": {
   "ats": [
@@ -133,9 +133,9 @@
    "workday",
    "https://allegion.wd5.myworkdayjobs.com/careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.815945,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://allegion.wd5.myworkdayjobs.com/careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1845987,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://allegion.wd5.myworkdayjobs.com/careers JSONDecodeError",
   "status": "error"
  },
  "Allison Transmission": {
@@ -143,9 +143,9 @@
    "workday",
    "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8051398,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://allisontransmission.wd1.myworkdayjobs.com/ATI-External HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1696606,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://allisontransmission.wd1.myworkdayjobs.com/ATI-External JSONDecodeError",
   "status": "error"
  },
  "Amazon Lab126": {
@@ -188,7 +188,7 @@
   "status": "ok"
  },
  "American Airlines": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.328712,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -266,9 +266,9 @@
    "workday",
    "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.803316,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.1673143,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Archer Aviation": {
@@ -276,16 +276,16 @@
    "greenhouse",
    "archer"
   ],
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794326242.10856,
   "note": "job site not supported yet",
   "status": "skipped"
  },
  "Argo Space": {
-  "fails": 13,
-  "last_discovery": 1794567484.543018,
+  "fails": 14,
+  "last_discovery": 1794654356.105245,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Astra": {
   "ats": [
@@ -328,10 +328,10 @@
   "status": "ok"
  },
  "Astrolab": {
-  "fails": 13,
-  "last_discovery": 1794567484.5382285,
+  "fails": 14,
+  "last_discovery": 1794654356.1006625,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Atomos Space": {
   "ats": [
@@ -344,25 +344,25 @@
   "status": "ok"
  },
  "Aurora": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.3366132,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Autoliv": {
-  "fails": 13,
-  "last_discovery": 1794567484.6698148,
+  "fails": 14,
+  "last_discovery": 1794654356.1772304,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Axiom Space": {
   "ats": [
    "workday",
    "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7195394,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.05256,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "BAE Systems": {
@@ -381,11 +381,11 @@
   ],
   "fails": 0,
   "last_discovery": 1794627981.7731063,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "BETA Technologies": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3227336,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -437,7 +437,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794627981.7732234,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Bechtel": {
@@ -462,7 +462,7 @@
   "status": "ok"
  },
  "Benchmark Electronics": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.401293,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -492,9 +492,9 @@
    "workday",
    "https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8434753,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.2235024,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers JSONDecodeError",
   "status": "error"
  },
  "Blue Bird": {
@@ -512,9 +512,9 @@
    "workday",
    "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.721188,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.0546575,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Boeing": {
@@ -524,14 +524,14 @@
   ],
   "fails": 0,
   "last_discovery": 1794627981.721192,
-  "note": "found on careers page",
+  "note": "cache",
   "status": "ok"
  },
  "Bollinger Motors": {
-  "fails": 13,
-  "last_discovery": 1794567484.6749437,
+  "fails": 14,
+  "last_discovery": 1794654356.182338,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Bombardier": {
   "ats": [
@@ -544,7 +544,7 @@
   "status": "ok"
  },
  "Boom Supersonic": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794327236.415642,
   "note": "job board isn't publicly readable",
   "status": "skipped"
@@ -554,9 +554,9 @@
    "workday",
    "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8033133,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.167311,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Bosch": {
@@ -569,19 +569,19 @@
   "status": "ok"
  },
  "Bose": {
-  "fails": 13,
-  "last_discovery": 1794567484.6035113,
+  "fails": 14,
+  "last_discovery": 1794654356.131828,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Boston Dynamics": {
   "ats": [
    "workday",
    "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7610483,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1100953,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics JSONDecodeError",
   "status": "error"
  },
  "Boston Scientific": {
@@ -599,9 +599,9 @@
    "workday",
    "https://bridgestone.wd5.myworkdayjobs.com/external"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.805744,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://bridgestone.wd5.myworkdayjobs.com/external HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1704736,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://bridgestone.wd5.myworkdayjobs.com/external JSONDecodeError",
   "status": "error"
  },
  "Bright Machines": {
@@ -631,7 +631,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794627981.810472,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Built Robotics": {
@@ -645,10 +645,10 @@
   "status": "ok"
  },
  "Burns & McDonnell": {
-  "fails": 13,
-  "last_discovery": 1794567484.7652214,
+  "fails": 14,
+  "last_discovery": 1794654356.2352257,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "CNH": {
   "ats": [
@@ -696,9 +696,9 @@
    "workday",
    "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7815862,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.1370125,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Celestica": {
@@ -762,16 +762,16 @@
   "status": "ok"
  },
  "Cirrus Aircraft": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794327236.4166949,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
  },
  "Cirrus Logic": {
-  "fails": 13,
-  "last_discovery": 1794567484.5950286,
+  "fails": 14,
+  "last_discovery": 1794654356.1286297,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Collaborative Robotics": {
   "ats": [
@@ -798,13 +798,13 @@
    "workday",
    "https://conocophillips.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.836367,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://conocophillips.wd1.myworkdayjobs.com/External HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.2131472,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://conocophillips.wd1.myworkdayjobs.com/External JSONDecodeError",
   "status": "error"
  },
  "Continental": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3857288,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -814,9 +814,9 @@
    "workday",
    "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8141668,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.182101,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Corning": {
@@ -834,13 +834,13 @@
    "workday",
    "https://cranecompany.wd5.myworkdayjobs.com/Careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7236886,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://cranecompany.wd5.myworkdayjobs.com/Careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.0612493,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://cranecompany.wd5.myworkdayjobs.com/Careers JSONDecodeError",
   "status": "error"
  },
  "Cummins": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.131589,
   "note": "job site not found",
   "status": "skipped"
@@ -850,9 +850,9 @@
    "workday",
    "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7236934,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.0612543,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "Daikin Comfort Technologies": {
@@ -870,9 +870,9 @@
    "workday",
    "https://dtna.wd5.myworkdayjobs.com/DTNA_external"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7833545,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://dtna.wd5.myworkdayjobs.com/DTNA_external HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.139567,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://dtna.wd5.myworkdayjobs.com/DTNA_external JSONDecodeError",
   "status": "error"
  },
  "Dana": {
@@ -886,7 +886,7 @@
   "status": "ok"
  },
  "Danfoss": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4024327,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -912,13 +912,13 @@
   "status": "ok"
  },
  "Delta Air Lines": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3287153,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Denso": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3857312,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -954,35 +954,35 @@
   "status": "ok"
  },
  "Doosan Bobcat": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3894439,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Dover": {
-  "fails": 13,
-  "last_discovery": 1794567484.7545774,
+  "fails": 14,
+  "last_discovery": 1794654356.2263234,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Dow": {
   "ats": [
    "workday",
    "https://dow.wd1.myworkdayjobs.com/ExternalCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8411334,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.220425,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Ducommun": {
-  "fails": 13,
-  "last_discovery": 1794567484.5411987,
+  "fails": 14,
+  "last_discovery": 1794654356.1034212,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Dusty Robotics": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3497443,
   "note": "greenhouse:dustyrobotics HTTPError",
   "status": "unresolved"
@@ -1013,9 +1013,9 @@
    "workday",
    "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7731028,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.125542,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Electra.aero": {
@@ -1039,7 +1039,7 @@
   "status": "ok"
  },
  "Embraer": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1143343,
   "note": "no US job site found",
   "status": "skipped"
@@ -1055,19 +1055,19 @@
   "status": "ok"
  },
  "Enphase": {
-  "fails": 13,
-  "last_discovery": 1794567484.756151,
+  "fails": 14,
+  "last_discovery": 1794654356.227751,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Entegris": {
   "ats": [
    "workday",
    "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8594956,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 2,
+  "last_discovery": 1794654356.2443986,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Exotec": {
@@ -1090,7 +1090,7 @@
   "status": "ok"
  },
  "FANUC": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.3369703,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1151,7 +1151,7 @@
   ],
   "fails": 0,
   "last_discovery": 1794627981.823611,
-  "note": "guessed from company name - verify",
+  "note": "cache",
   "status": "ok"
  },
  "Flock Safety": {
@@ -1169,22 +1169,22 @@
    "workday",
    "https://flowserve.wd1.myworkdayjobs.com/applied"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8236597,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://flowserve.wd1.myworkdayjobs.com/applied HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.195222,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://flowserve.wd1.myworkdayjobs.com/applied JSONDecodeError",
   "status": "error"
  },
  "Fluence": {
-  "fails": 13,
-  "last_discovery": 1794567484.7586768,
+  "fails": 14,
+  "last_discovery": 1794654356.2302172,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Fluor": {
-  "fails": 13,
-  "last_discovery": 1794567484.7652175,
+  "fails": 14,
+  "last_discovery": 1794654356.2352204,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Ford": {
   "ats": [
@@ -1237,19 +1237,19 @@
   "status": "ok"
  },
  "Forvia": {
-  "fails": 13,
-  "last_discovery": 1794567484.673329,
+  "fails": 14,
+  "last_discovery": 1794654356.1807795,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Fox Factory": {
   "ats": [
    "workday",
    "https://foxfactory.wd1.myworkdayjobs.com/FOX"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7777634,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://foxfactory.wd1.myworkdayjobs.com/FOX HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.13182,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://foxfactory.wd1.myworkdayjobs.com/FOX JSONDecodeError",
   "status": "error"
  },
  "GE Aerospace": {
@@ -1287,22 +1287,22 @@
    "workday",
    "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8254144,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1977227,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite JSONDecodeError",
   "status": "error"
  },
  "GKN Aerospace": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412104,
+  "fails": 14,
+  "last_discovery": 1794654356.1034322,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Garmin": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412147,
+  "fails": 14,
+  "last_discovery": 1794654356.1034374,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Garrett Motion": {
   "ats": [
@@ -1325,10 +1325,10 @@
   "status": "ok"
  },
  "Gatik": {
-  "fails": 13,
-  "last_discovery": 1794567484.582871,
+  "fails": 14,
+  "last_discovery": 1794654356.1225247,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Gecko Robotics": {
   "ats": [
@@ -1345,9 +1345,9 @@
    "workday",
    "https://generac.wd5.myworkdayjobs.com/External"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8434732,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.223499,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "General Atomics": {
@@ -1355,7 +1355,7 @@
    "greenhouse",
    "general"
   ],
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794326242.1156275,
   "note": "defense; uses BrassRing, dropped",
   "status": "skipped"
@@ -1365,9 +1365,9 @@
    "workday",
    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7834427,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.1396747,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Gentex": {
@@ -1375,9 +1375,9 @@
    "workday",
    "https://gentex.wd5.myworkdayjobs.com/Gentex"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8105814,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://gentex.wd5.myworkdayjobs.com/Gentex HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1772275,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://gentex.wd5.myworkdayjobs.com/Gentex JSONDecodeError",
   "status": "error"
  },
  "Globus Medical": {
@@ -1385,25 +1385,25 @@
    "workday",
    "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.765459,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1156766,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers JSONDecodeError",
   "status": "error"
  },
  "GoPro": {
-  "fails": 13,
-  "last_discovery": 1794567484.5990815,
+  "fails": 14,
+  "last_discovery": 1794654356.128698,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Goodyear": {
   "ats": [
    "workday",
    "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8057408,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.17047,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers JSONDecodeError",
   "status": "error"
  },
  "Graco": {
@@ -1427,7 +1427,7 @@
   "status": "ok"
  },
  "Grundfos": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4102738,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -1444,10 +1444,10 @@
   "status": "ok"
  },
  "HEICO": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412018,
+  "fails": 14,
+  "last_discovery": 1794654356.1034243,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "HP": {
   "ats": [
@@ -1460,7 +1460,7 @@
   "status": "ok"
  },
  "Haas Automation": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3894386,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1530,13 +1530,13 @@
    "workday",
    "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8534908,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://hexcel.wd5.myworkdayjobs.com/HexcelCareers HTTPError; workday:https://hexcel.wd5.myworkdayjobs.com/EarlyHexcelCareers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.2359426,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://hexcel.wd5.myworkdayjobs.com/HexcelCareers JSONDecodeError; workday:https://hexcel.wd5.myworkdayjobs.com/EarlyHexcelCareers JSONDecodeError",
   "status": "error"
  },
  "Hitachi Construction Machinery": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.3666666,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -1552,7 +1552,7 @@
   "status": "ok"
  },
  "Honda Aircraft": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3270788,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1598,16 +1598,16 @@
   "status": "ok"
  },
  "Hyundai Motor Group (US)": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3838332,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "IDEX": {
-  "fails": 13,
-  "last_discovery": 1794567484.7545815,
+  "fails": 14,
+  "last_discovery": 1794654356.226328,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "ITW": {
   "ats": [
@@ -1624,9 +1624,9 @@
    "workday",
    "https://illumina.wd1.myworkdayjobs.com/illumina-careers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7751586,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://illumina.wd1.myworkdayjobs.com/illumina-careers HTTPError; workday:https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1282141,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://illumina.wd1.myworkdayjobs.com/illumina-careers JSONDecodeError; workday:https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting JSONDecodeError",
   "status": "error"
  },
  "Impulse Space": {
@@ -1640,10 +1640,10 @@
   "status": "ok"
  },
  "Infineon": {
-  "fails": 13,
-  "last_discovery": 1794567484.595032,
+  "fails": 14,
+  "last_discovery": 1794654356.1286325,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Infinitum": {
   "ats": [
@@ -1670,13 +1670,13 @@
    "workday",
    "https://intel.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8424187,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.2221437,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Intuitive Machines": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3246658,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1706,16 +1706,16 @@
    "workday",
    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.829804,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.2041757,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Careers JSONDecodeError",
   "status": "error"
  },
  "Jacobs": {
-  "fails": 13,
-  "last_discovery": 1794567484.5424922,
+  "fails": 14,
+  "last_discovery": 1794654356.1049976,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "JetZero": {
   "ats": [
@@ -1728,7 +1728,7 @@
   "status": "ok"
  },
  "Joby Aviation": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.116524,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
@@ -1758,9 +1758,9 @@
    "workday",
    "https://jj.wd5.myworkdayjobs.com/JJ"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7719946,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://jj.wd5.myworkdayjobs.com/JJ HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.123794,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://jj.wd5.myworkdayjobs.com/JJ JSONDecodeError",
   "status": "error"
  },
  "Johnson Controls": {
@@ -1768,9 +1768,9 @@
    "workday",
    "https://jci.wd5.myworkdayjobs.com/JCI"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.842424,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 3,
+  "last_discovery": 1794654356.2221513,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "K2 Space": {
@@ -1798,13 +1798,13 @@
    "workday",
    "https://kla.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.859498,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 2,
+  "last_discovery": 1794654356.2444026,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "KUKA": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.3381393,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1820,19 +1820,19 @@
   "status": "ok"
  },
  "Kaman": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412047,
+  "fails": 14,
+  "last_discovery": 1794654356.1034265,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Kennametal": {
-  "fails": 13,
-  "last_discovery": 1794567484.7522926,
+  "fails": 14,
+  "last_discovery": 1794654356.2241673,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Kia Georgia": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3838363,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1848,10 +1848,10 @@
   "status": "ok"
  },
  "Kohler": {
-  "fails": 13,
-  "last_discovery": 1794567484.7495549,
+  "fails": 14,
+  "last_discovery": 1794654356.2234952,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Komatsu": {
   "ats": [
@@ -1864,13 +1864,13 @@
   "status": "ok"
  },
  "Kratos": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412078,
+  "fails": 14,
+  "last_discovery": 1794654356.1034296,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Kubota": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3894417,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1896,10 +1896,10 @@
   "status": "ok"
  },
  "Lanteris Space Systems": {
-  "fails": 13,
-  "last_discovery": 1794567484.5381882,
+  "fails": 14,
+  "last_discovery": 1794654356.100625,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lear": {
   "ats": [
@@ -1916,25 +1916,25 @@
    "workday",
    "https://leidos.wd5.myworkdayjobs.com/External"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7557719,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1034396,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Lennox": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.426827,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Lincoln Electric": {
-  "fails": 13,
-  "last_discovery": 1794567484.7522902,
+  "fails": 14,
+  "last_discovery": 1794654356.224165,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lockheed Martin": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1166177,
   "note": "defense; site blocks automated checks",
   "status": "skipped"
@@ -1964,16 +1964,16 @@
    "workday",
    "https://logitech.wd5.myworkdayjobs.com/Logitech"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7777672,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://logitech.wd5.myworkdayjobs.com/Logitech HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1318252,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://logitech.wd5.myworkdayjobs.com/Logitech JSONDecodeError",
   "status": "error"
  },
  "Los Alamos National Lab": {
-  "fails": 13,
-  "last_discovery": 1794567484.7665765,
+  "fails": 14,
+  "last_discovery": 1794654356.2359493,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lucid Motors": {
   "ats": [
@@ -2016,10 +2016,10 @@
   "status": "ok"
  },
  "Mack Trucks": {
-  "fails": 13,
-  "last_discovery": 1794567484.6747313,
+  "fails": 14,
+  "last_discovery": 1794654356.1821046,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Magna": {
   "ats": [
@@ -2051,7 +2051,7 @@
   "status": "ok"
  },
  "Mazda Toyota Manufacturing": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3838418,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2061,13 +2061,13 @@
    "workday",
    "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7640767,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: URLError",
+  "fails": 2,
+  "last_discovery": 1794654356.113891,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: URLError",
   "status": "error"
  },
  "Mercedes-Benz": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1351204,
   "note": "global site; US co-ops not separately listed",
   "status": "skipped"
@@ -2097,9 +2097,9 @@
    "workday",
    "https://micron.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8424215,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://micron.wd1.myworkdayjobs.com/External HTTPError; radancy?:https://careers.micron.com/careers ValueError",
+  "fails": 2,
+  "last_discovery": 1794654356.2221477,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://micron.wd1.myworkdayjobs.com/External JSONDecodeError; radancy?:https://careers.micron.com/careers ValueError",
   "status": "error"
  },
  "Mitsubishi Power Americas": {
@@ -2123,7 +2123,7 @@
   "status": "ok"
  },
  "Molex": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4145086,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -2143,16 +2143,16 @@
    "workday",
    "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7323298,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.0725927,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "Moon Surgical": {
-  "fails": 13,
-  "last_discovery": 1794567484.584172,
+  "fails": 14,
+  "last_discovery": 1794654356.1237912,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Motional": {
   "ats": [
@@ -2195,26 +2195,26 @@
   "status": "ok"
  },
  "NRG": {
-  "fails": 13,
-  "last_discovery": 1794567484.7655861,
+  "fails": 14,
+  "last_discovery": 1794654356.235236,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "NVIDIA": {
   "ats": [
    "workday",
    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7709446,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.122418,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite JSONDecodeError",
   "status": "error"
  },
  "NXP": {
-  "fails": 13,
-  "last_discovery": 1794567484.5942616,
+  "fails": 14,
+  "last_discovery": 1794654356.1282225,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Natilus": {
   "ats": [
@@ -2277,19 +2277,19 @@
   "status": "ok"
  },
  "Nordson": {
-  "fails": 13,
-  "last_discovery": 1794567484.7522953,
+  "fails": 14,
+  "last_discovery": 1794654356.2241702,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Northrop Grumman": {
   "ats": [
    "workday",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7323337,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | no job system found on careers page",
+  "fails": 2,
+  "last_discovery": 1794654356.0725965,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | no job system found on careers page",
   "status": "error"
  },
  "Northwood Space": {
@@ -2303,10 +2303,10 @@
   "status": "ok"
  },
  "NuScale": {
-  "fails": 13,
-  "last_discovery": 1794567484.758817,
+  "fails": 14,
+  "last_discovery": 1794654356.2303576,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Nuro": {
   "ats": [
@@ -2449,7 +2449,7 @@
   "status": "ok"
  },
  "Parker Hannifin": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794327236.4346004,
   "note": "job site blocks automated checks",
   "status": "skipped"
@@ -2485,10 +2485,10 @@
   "status": "ok"
  },
  "Phase Four": {
-  "fails": 13,
-  "last_discovery": 1794567484.5424955,
+  "fails": 14,
+  "last_discovery": 1794654356.105001,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Phillips 66": {
   "ats": [
@@ -2521,10 +2521,10 @@
   "status": "ok"
  },
  "Piper Aircraft": {
-  "fails": 13,
-  "last_discovery": 1794567484.5412126,
+  "fails": 14,
+  "last_discovery": 1794654356.1034348,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Planet Labs": {
   "ats": [
@@ -2541,9 +2541,9 @@
    "workday",
    "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8465712,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.2277467,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc JSONDecodeError",
   "status": "error"
  },
  "Plus": {
@@ -2567,7 +2567,7 @@
   "status": "ok"
  },
  "Polaris": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3831515,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2593,10 +2593,10 @@
   "status": "ok"
  },
  "Quanta Services": {
-  "fails": 13,
-  "last_discovery": 1794567484.765224,
+  "fails": 14,
+  "last_discovery": 1794654356.235229,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "QuantumScape": {
   "ats": [
@@ -2613,13 +2613,13 @@
    "workday",
    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.735452,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.0767832,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Radian Aerospace": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3285685,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2645,7 +2645,7 @@
   "status": "ok"
  },
  "Redwire": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1182232,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -2671,10 +2671,10 @@
   "status": "ok"
  },
  "Regal Rexnord": {
-  "fails": 13,
-  "last_discovery": 1794567484.755981,
+  "fails": 14,
+  "last_discovery": 1794654356.2277243,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Relativity Space": {
   "ats": [
@@ -2697,10 +2697,10 @@
   "status": "ok"
  },
  "Rheem": {
-  "fails": 13,
-  "last_discovery": 1794567484.7518926,
+  "fails": 14,
+  "last_discovery": 1794654356.2237527,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Rivian": {
   "ats": [
@@ -2723,7 +2723,7 @@
   "status": "ok"
  },
  "Rockwell Automation": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1295981,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -2739,19 +2739,19 @@
   "status": "ok"
  },
  "SLB": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.422923,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "SRAM": {
-  "fails": 13,
-  "last_discovery": 1794567484.6024787,
+  "fails": 14,
+  "last_discovery": 1794654356.1318178,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Safran": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1222994,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -2782,13 +2782,13 @@
   "status": "ok"
  },
  "Sandia National Labs": {
-  "fails": 13,
-  "last_discovery": 1794567484.7665737,
+  "fails": 14,
+  "last_discovery": 1794654356.235946,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Sanmina": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4150853,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2834,10 +2834,10 @@
   "status": "ok"
  },
  "Seegrid": {
-  "fails": 13,
-  "last_discovery": 1794567484.5839696,
+  "fails": 14,
+  "last_discovery": 1794654356.1235776,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Serve Robotics": {
   "ats": [
@@ -2880,25 +2880,25 @@
   "status": "ok"
  },
  "Siemens": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.418754,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Siemens Energy": {
-  "fails": 13,
-  "last_discovery": 1794567484.7518964,
+  "fails": 14,
+  "last_discovery": 1794654356.2237558,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Sierra Nevada Corporation": {
   "ats": [
    "workday",
    "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7355638,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.0769196,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "Sierra Space": {
@@ -2906,9 +2906,9 @@
    "workday",
    "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7355669,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site HTTPError; workday:https://snc.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.076923,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site JSONDecodeError; workday:https://snc.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "Sila Nanotechnologies": {
@@ -2926,13 +2926,13 @@
    "workday",
    "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.77547,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1286263,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Skild AI": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3498044,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2978,10 +2978,10 @@
   "status": "ok"
  },
  "Solar Turbines": {
-  "fails": 13,
-  "last_discovery": 1794567484.7662308,
+  "fails": 14,
+  "last_discovery": 1794654356.2359395,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Solid Power": {
   "ats": [
@@ -2998,9 +2998,9 @@
    "workday",
    "https://sonos.wd1.myworkdayjobs.com/Sonos"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7755356,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1286955,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: HTTPError",
   "status": "error"
  },
  "Southwest Airlines": {
@@ -3014,10 +3014,10 @@
   "status": "ok"
  },
  "Southwest Research Institute": {
-  "fails": 13,
-  "last_discovery": 1794567484.7672355,
+  "fails": 14,
+  "last_discovery": 1794654356.2366624,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "SpaceX": {
   "ats": [
@@ -3033,9 +3033,9 @@
    "workday",
    "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7777648,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1318223,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site JSONDecodeError",
   "status": "error"
  },
  "Spire Global": {
@@ -3073,9 +3073,9 @@
    "workday",
    "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.834082,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: TimeoutError",
+  "fails": 2,
+  "last_discovery": 1794654356.2100585,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | careers page: TimeoutError",
   "status": "error"
  },
  "Starfish Space": {
@@ -3089,7 +3089,7 @@
   "status": "ok"
  },
  "Starship Technologies": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3497803,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3109,7 +3109,7 @@
    "ashby",
    "stellar"
   ],
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794326242.1358125,
   "note": "uses Paylocity, not supported yet",
   "status": "skipped"
@@ -3139,25 +3139,25 @@
    "workday",
    "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7640734,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://stryker.wd1.myworkdayjobs.com/StrykerCareers HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1138868,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://stryker.wd1.myworkdayjobs.com/StrykerCareers JSONDecodeError",
   "status": "error"
  },
  "Subaru of Indiana": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3838387,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Sulzer": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4203136,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Supernal": {
-  "fails": 22,
+  "fails": 23,
   "last_discovery": 1794613930.3262177,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3204,7 +3204,7 @@
   "status": "ok"
  },
  "Teledyne": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.127607,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -3234,9 +3234,9 @@
    "workday",
    "https://terex.wd1.myworkdayjobs.com/terexcareers"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.8078754,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://terex.wd1.myworkdayjobs.com/terexcareers HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1734223,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://terex.wd1.myworkdayjobs.com/terexcareers JSONDecodeError",
   "status": "error"
  },
  "TerraPower": {
@@ -3260,7 +3260,7 @@
   "status": "ok"
  },
  "Tesla": {
-  "fails": 23,
+  "fails": 24,
   "note": "Tesla's site blocks automated checks",
   "status": "skipped"
  },
@@ -3321,10 +3321,10 @@
   "status": "ok"
  },
  "Thor Industries": {
-  "fails": 13,
-  "last_discovery": 1794567484.6668832,
+  "fails": 14,
+  "last_discovery": 1794654356.1770973,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Timken": {
   "ats": [
@@ -3356,10 +3356,10 @@
   "status": "ok"
  },
  "Toro": {
-  "fails": 13,
-  "last_discovery": 1794567484.7522864,
+  "fails": 14,
+  "last_discovery": 1794654356.2241616,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Toyota": {
   "ats": [
@@ -3386,9 +3386,9 @@
    "workday",
    "https://trekbikes.wd1.myworkdayjobs.com/TREK"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.777759,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://trekbikes.wd1.myworkdayjobs.com/TREK HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.131815,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://trekbikes.wd1.myworkdayjobs.com/TREK JSONDecodeError",
   "status": "error"
  },
  "Triumph Group": {
@@ -3422,10 +3422,10 @@
   "status": "ok"
  },
  "Type One Energy": {
-  "fails": 13,
-  "last_discovery": 1794567484.7606313,
+  "fails": 14,
+  "last_discovery": 1794654356.2321675,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "United Airlines": {
   "ats": [
@@ -3472,9 +3472,9 @@
    "workday",
    "https://maxar.wd1.myworkdayjobs.com/Vantor"
   ],
-  "fails": 1,
-  "last_discovery": 1794627981.7571416,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://maxar.wd1.myworkdayjobs.com/Vantor HTTPError",
+  "fails": 2,
+  "last_discovery": 1794654356.1050482,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://maxar.wd1.myworkdayjobs.com/Vantor JSONDecodeError",
   "status": "error"
  },
  "Varda Space": {
@@ -3498,10 +3498,10 @@
   "status": "ok"
  },
  "Vecna Robotics": {
-  "fails": 13,
-  "last_discovery": 1794567484.5839727,
+  "fails": 14,
+  "last_discovery": 1794654356.1235807,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Venus Aerospace": {
   "ats": [
@@ -3514,35 +3514,35 @@
   "status": "ok"
  },
  "Vicarious Surgical": {
-  "fails": 13,
-  "last_discovery": 1794567484.5841696,
+  "fails": 14,
+  "last_discovery": 1794654356.1237884,
   "note": "greenhouse:vicarioussurgical HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Virgin Galactic": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3271813,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Visteon": {
-  "fails": 13,
-  "last_discovery": 1794567484.6739383,
+  "fails": 14,
+  "last_discovery": 1794654356.1813612,
   "note": "ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Vistra": {
   "ats": [
    "workday",
    "https://vst.wd5.myworkdayjobs.com/vistra_careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8529758,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://vst.wd5.myworkdayjobs.com/vistra_careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.2352324,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://vst.wd5.myworkdayjobs.com/vistra_careers JSONDecodeError",
   "status": "error"
  },
  "Volkswagen": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.381051,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -3598,7 +3598,7 @@
   "status": "ok"
  },
  "Weatherford": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794613930.4216585,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3645,10 +3645,10 @@
   "status": "ok"
  },
  "Winnebago Industries": {
-  "fails": 13,
-  "last_discovery": 1794567484.666888,
+  "fails": 14,
+  "last_discovery": 1794654356.1771011,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Wisk Aero": {
   "ats": [
@@ -3665,25 +3665,25 @@
    "workday",
    "https://woodward.wd5.myworkdayjobs.com/woodward"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7444506,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://woodward.wd5.myworkdayjobs.com/woodward HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.0887218,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://woodward.wd5.myworkdayjobs.com/woodward JSONDecodeError",
   "status": "error"
  },
  "X-Bow Systems": {
-  "fails": 13,
-  "last_discovery": 1794567484.539152,
+  "fails": 14,
+  "last_discovery": 1794654356.1015255,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "X-energy": {
   "ats": [
    "workday",
    "https://xenergy.wd5.myworkdayjobs.com/X-energyUS"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8371985,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.2142391,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS JSONDecodeError",
   "status": "error"
  },
  "Xylem": {
@@ -3691,9 +3691,9 @@
    "workday",
    "https://xylem.wd5.myworkdayjobs.com/xylem-careers"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.8354568,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday:https://xylem.wd5.myworkdayjobs.com/xylem-careers HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.21195,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://xylem.wd5.myworkdayjobs.com/xylem-careers JSONDecodeError",
   "status": "error"
  },
  "YETI": {
@@ -3701,19 +3701,19 @@
    "workday",
    "https://yeticoolers.wd5.myworkdayjobs.com/YETI"
   ],
-  "fails": 2,
-  "last_discovery": 1794627981.7777557,
-  "note": "workday failed (HTTPError: HTTP Error 521: <none>) | workday failed (HTTPError: HTTP Error 521: <none>) | careers page: HTTPError",
+  "fails": 3,
+  "last_discovery": 1794654356.1318116,
+  "note": "workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday failed (JSONDecodeError: Expecting value: line 1 column 1 (char 0)) | workday:https://yeticoolers.wd5.myworkdayjobs.com/YETI JSONDecodeError",
   "status": "error"
  },
  "Yamaha Motor USA": {
-  "fails": 13,
-  "last_discovery": 1794567484.6695645,
+  "fails": 14,
+  "last_discovery": 1794654356.1771312,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "York Space Systems": {
-  "fails": 23,
+  "fails": 24,
   "last_discovery": 1794326242.1282907,
   "note": "defense; uses Paycor, dropped",
   "status": "skipped"
@@ -3739,10 +3739,10 @@
   "status": "ok"
  },
  "ZeroAvia": {
-  "fails": 13,
-  "last_discovery": 1794567484.53923,
+  "fails": 14,
+  "last_discovery": 1794654356.1016026,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Zimmer Biomet": {
   "ats": [
@@ -3775,7 +3775,7 @@
   "status": "ok"
  },
  "iRobot": {
-  "fails": 20,
+  "fails": 21,
   "last_discovery": 1794613930.3498163,
   "note": "careers page: HTTPError",
   "status": "unresolved"
