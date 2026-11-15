@@ -313,7 +313,7 @@ Working: 357 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 39 | cache |
+| Oshkosh | ✅ ok | phenom | 38 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -461,7 +461,7 @@ Working: 357 of 535 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 14 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 25 | cache |
+| ITW | ✅ ok | phenom | 27 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
