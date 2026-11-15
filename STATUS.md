@@ -1,7 +1,11 @@
 # Internship watch status
 
-Working: 356 of 535 companies
+Working: 357 of 535 companies
 
+
+## New this run
+
+- **Applied Materials**: [2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)](https://jobs.appliedmaterials.com/job/gloucester/2027-spring-process-engineer-co-op-doctorate-gloucester-ma/95/103020056176) Gloucester, MA
 
 ## Aerospace, space & defense
 
@@ -213,7 +217,7 @@ Working: 356 of 535 companies
 | Built Robotics | ✅ ok | ashby | 0 | cache |
 | iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ✅ ok | workday | 0 | config |
-| Dell Technologies | ❌ error |  |  | oracle failed (HTTPError: HTTP Error 503: Service Unavailable) / oracle failed (HTTPError: HTTP Error 503: Service Unava |
+| Dell Technologies | ✅ ok | oracle | 1 | config |
 | Texas Instruments | ✅ ok | oracle | 28 | config |
 | NVIDIA | ✅ ok | workday | 20 | config |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -308,12 +312,12 @@ Working: 356 of 535 companies
 | General Motors | ✅ ok | workday | 25 | config |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 1 | config |
+| John Deere | ✅ ok | successfactors | 2 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 38 | cache |
+| Oshkosh | ✅ ok | phenom | 39 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
