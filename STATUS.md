@@ -3,6 +3,11 @@
 Working: 357 of 535 companies
 
 
+## New this run
+
+- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251) US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200
+- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Industrial Engineering Co-Op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963) US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200
+
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -41,7 +46,7 @@ Working: 357 of 535 companies
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 109 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 111 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 15 | cache |
@@ -308,7 +313,7 @@ Working: 357 of 535 companies
 | General Motors | ✅ ok | workday | 25 | config |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 2 | config |
+| John Deere | ✅ ok | successfactors | 3 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
@@ -443,7 +448,7 @@ Working: 357 of 535 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Allegion | ✅ ok | workday | 21 | cache |
-| AMETEK | ✅ ok | successfactors | 10 | config |
+| AMETEK | ✅ ok | successfactors | 9 | config |
 | Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 0 | config |
