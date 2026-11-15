@@ -461,7 +461,7 @@ Working: 359 of 535 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 20 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 29 | cache |
+| ITW | ✅ ok | phenom | 27 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
