@@ -3,11 +3,6 @@
 Working: 357 of 535 companies
 
 
-## New this run
-
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251) US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200
-- **RTX (Collins, Pratt & Whitney, Raytheon)**: [Industrial Engineering Co-Op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963) US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200
-
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -466,7 +461,7 @@ Working: 357 of 535 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 14 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 27 | cache |
+| ITW | ✅ ok | phenom | 25 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
