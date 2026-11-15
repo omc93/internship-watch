@@ -1,16 +1,7 @@
 # Internship watch status
 
-Working: 358 of 535 companies
+Working: 357 of 535 companies
 
-
-## New this run
-
-- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421652200/) Solon, OH
-- **Hubbell**: [2027 Summer Intern: Operations - Continuous Improvement](https://careers.hubbell.com/job/Corona-2027-Summer-Intern-Operations-Continuous-Improvement-CA-92882/1421653100/) Corona, CA
-- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421651400/) Solon, OH
-- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421651800/) Solon, OH
-- **Hubbell**: [2027 Summer Intern: Test Engineering](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Test-Engineering-OH-44139/1421652900/) Solon, OH
-- **Hubbell**: [2027 Summer Intern: Test Engineering](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Test-Engineering-MO-63146/1421652500/) St. Louis, MO
 
 ## Aerospace, space & defense
 
@@ -222,7 +213,7 @@ Working: 358 of 535 companies
 | Built Robotics | ✅ ok | ashby | 0 | cache |
 | iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ✅ ok | workday | 0 | config |
-| Dell Technologies | ✅ ok | oracle | 1 | config |
+| Dell Technologies | ❌ error |  |  | oracle failed (HTTPError: HTTP Error 503: Service Unavailable) / oracle failed (HTTPError: HTTP Error 503: Service Unava |
 | Texas Instruments | ✅ ok | oracle | 28 | config |
 | NVIDIA | ✅ ok | workday | 20 | config |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -499,7 +490,7 @@ Working: 358 of 535 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 9 | cache |
+| Trane Technologies | ✅ ok | phenom | 8 | cache |
 | Carrier | ✅ ok | workday | 19 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
