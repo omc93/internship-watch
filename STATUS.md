@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 359 of 535 companies
+Working: 358 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -14,7 +14,7 @@ Working: 359 of 535 companies
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 4 | config |
+| BAE Systems | ✅ ok | phenom | 3 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 33 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -156,7 +156,7 @@ Working: 359 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 32 | cache |
+| ATI | ✅ ok | phenom | 30 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -174,7 +174,7 @@ Working: 359 of 535 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 19 | config |
+| ABB | ✅ ok | phenom | 20 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -328,7 +328,7 @@ Working: 359 of 535 companies
 | Divergent | ✅ ok | greenhouse | 2 | cache |
 | Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
-| Stellantis | ✅ ok | cws | 3 | config |
+| Stellantis | ❌ error |  |  | cws failed (HTTPError: HTTP Error 403: Forbidden) / cws failed (HTTPError: HTTP Error 403: Forbidden) / careers page: HT |
 | Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
 | Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
 | Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
@@ -490,7 +490,7 @@ Working: 359 of 535 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 13 | cache |
+| Trane Technologies | ✅ ok | phenom | 9 | cache |
 | Carrier | ✅ ok | workday | 19 | config |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
@@ -535,7 +535,7 @@ Working: 359 of 535 companies
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
-| Bechtel | ✅ ok | phenom | 0 | cache |
+| Bechtel | ✅ ok | phenom | 14 | cache |
 | Fluor | ❌ unresolved |  |  | no job system found on careers page |
 | Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
 | Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
