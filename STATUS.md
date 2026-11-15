@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 357 of 535 companies
+Working: 358 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -37,11 +37,11 @@ Working: 357 of 535 companies
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
 | Moog | ✅ ok | workday | 8 | cache |
-| Northrop Grumman | ✅ ok | workday | 18 | config |
+| Northrop Grumman | ✅ ok | workday | 12 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 111 | config |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ✅ ok | workday | 110 | config |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
 | Sierra Nevada Corporation | ✅ ok | workday | 15 | cache |
@@ -174,7 +174,7 @@ Working: 357 of 535 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 19 | config |
+| ABB | ✅ ok | phenom | 14 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 6 | config |
@@ -232,7 +232,7 @@ Working: 357 of 535 companies
 | Flock Safety | ✅ ok | ashby | 0 | cache |
 | Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
 | Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
-| Johnson & Johnson | ✅ ok | workday | 3 | config |
+| Johnson & Johnson | ✅ ok | workday | 2 | config |
 | Abbott | ✅ ok | workday | 3 | config |
 | Edwards Lifesciences | ✅ ok | workday | 0 | config |
 | BD | ✅ ok | workday | 3 | config |
@@ -328,7 +328,7 @@ Working: 357 of 535 companies
 | Divergent | ✅ ok | greenhouse | 2 | cache |
 | Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
-| Stellantis | ❌ error |  |  | cws failed (HTTPError: HTTP Error 403: Forbidden) / cws failed (HTTPError: HTTP Error 403: Forbidden) / careers page: HT |
+| Stellantis | ✅ ok | cws | 3 | config |
 | Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
 | Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
 | Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
@@ -461,7 +461,7 @@ Working: 357 of 535 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 14 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 27 | cache |
+| ITW | ✅ ok | phenom | 21 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
@@ -535,7 +535,7 @@ Working: 357 of 535 companies
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
-| Bechtel | ✅ ok | phenom | 14 | cache |
+| Bechtel | ✅ ok | phenom | 12 | cache |
 | Fluor | ❌ unresolved |  |  | no job system found on careers page |
 | Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
 | Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
