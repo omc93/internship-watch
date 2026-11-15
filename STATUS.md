@@ -3,6 +3,15 @@
 Working: 358 of 535 companies
 
 
+## New this run
+
+- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421652200/) Solon, OH
+- **Hubbell**: [2027 Summer Intern: Operations - Continuous Improvement](https://careers.hubbell.com/job/Corona-2027-Summer-Intern-Operations-Continuous-Improvement-CA-92882/1421653100/) Corona, CA
+- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421651400/) Solon, OH
+- **Hubbell**: [2027 Summer Intern: Engineering - Product Development](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Engineering-Product-Development-OH-44139/1421651800/) Solon, OH
+- **Hubbell**: [2027 Summer Intern: Test Engineering](https://careers.hubbell.com/job/Solon-2027-Summer-Intern-Test-Engineering-OH-44139/1421652900/) Solon, OH
+- **Hubbell**: [2027 Summer Intern: Test Engineering](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Test-Engineering-MO-63146/1421652500/) St. Louis, MO
+
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -37,7 +46,7 @@ Working: 358 of 535 companies
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
 | Moog | ✅ ok | workday | 8 | cache |
-| Northrop Grumman | ✅ ok | workday | 12 | config |
+| Northrop Grumman | ✅ ok | workday | 11 | config |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
 | Rocket Lab | ✅ ok | greenhouse | 34 | cache |
@@ -308,12 +317,12 @@ Working: 358 of 535 companies
 | General Motors | ✅ ok | workday | 25 | config |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 2 | config |
+| John Deere | ✅ ok | successfactors | 1 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 37 | cache |
+| Oshkosh | ✅ ok | phenom | 39 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -459,7 +468,7 @@ Working: 358 of 535 companies
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ✅ ok | workday | 31 | config |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
-| Hubbell | ✅ ok | successfactors | 14 | config |
+| Hubbell | ✅ ok | successfactors | 21 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 23 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
@@ -480,7 +489,7 @@ Working: 358 of 535 companies
 | Chevron | ✅ ok | radancy | 0 | cache |
 | Shell USA | ✅ ok | workday | 0 | config |
 | ConocoPhillips | ✅ ok | workday | 0 | cache |
-| Phillips 66 | ✅ ok | successfactors | 1 | cache |
+| Phillips 66 | ✅ ok | successfactors | 2 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
 | SLB | ❌ unresolved |  |  | no job system found on careers page |
 | Helion Energy | ✅ ok | ashby | 2 | cache |
@@ -551,7 +560,7 @@ Working: 358 of 535 companies
 | NASA JPL | ✅ ok | phenom | 1 | cache |
 | Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
-| MIT Lincoln Laboratory | ✅ ok | successfactors | 5 | cache |
+| MIT Lincoln Laboratory | ✅ ok | successfactors | 4 | cache |
 
 ## Semiconductor equipment
 
