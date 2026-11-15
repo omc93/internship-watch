@@ -14,7 +14,7 @@ Working: 359 of 535 companies
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 3 | config |
+| BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 33 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -130,44 +130,44 @@ Working: 359 of 535 companies
 | Vantor | ✅ ok | workday | 0 | cache |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
 | Argo Space | ❌ unresolved |  |  | no job system found on careers page |
-| Aerospace Corporation | ❌ error |  |  | careers page: HTTPError |
+| Aerospace Corporation | ❌ unresolved |  |  | careers page: HTTPError |
 | Draper | ✅ ok | workday | 14 | config |
 | General Dynamics Mission Systems | ✅ ok | jibe | 48 | cache |
 | AST SpaceMobile | ✅ ok | greenhouse | 0 | cache |
-| Honeybee Robotics | ❌ error |  |  | careers page: HTTPError |
-| Capella Space | ❌ error |  |  | greenhouse:capellaspace HTTPError |
-| Umbra | ❌ error |  |  | no job system found on careers page |
+| Honeybee Robotics | ❌ unresolved |  |  | careers page: HTTPError |
+| Capella Space | ❌ unresolved |  |  | greenhouse:capellaspace HTTPError |
+| Umbra | ❌ unresolved |  |  | no job system found on careers page |
 | BlackSky | ✅ ok | greenhouse | 0 | cache |
 | HawkEye 360 | ✅ ok | greenhouse | 0 | cache |
 | Astroscale US | ✅ ok | ashby | 0 | cache |
-| Starlab Space | ❌ error |  |  | careers page: HTTPError |
+| Starlab Space | ❌ unresolved |  |  | careers page: HTTPError |
 | Gravitics | ✅ ok | greenhouse | 1 | cache |
 | Orbit Fab | ✅ ok | rippling | 0 | cache |
 | Interlune | ✅ ok | breezy | 0 | cache |
-| AstroForge | ❌ error |  |  | no job system found on careers page |
+| AstroForge | ❌ unresolved |  |  | no job system found on careers page |
 | Karman Space & Defense | ✅ ok | greenhouse | 0 | cache |
 | Quantum Space | ✅ ok | greenhouse | 0 | cache |
-| Phantom Space | ❌ error |  |  | careers page: HTTPError |
+| Phantom Space | ❌ unresolved |  |  | careers page: HTTPError |
 | Regent Craft | ✅ ok | ashby | 11 | cache |
 | Whisper Aero | ✅ ok | greenhouse | 0 | cache |
 | Heart Aerospace | ✅ ok | greenhouse | 0 | cache |
-| Eve Air Mobility | ❌ error |  |  | no job system found on careers page |
+| Eve Air Mobility | ❌ unresolved |  |  | no job system found on careers page |
 | Viasat | ✅ ok | jibe | 2 | cache |
-| Iridium | ❌ error |  |  | no job system found on careers page |
+| Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
-| Mercury Systems | ❌ error |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 30 | cache |
+| Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
+| ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
-| Arconic | ❌ error |  |  | careers page: HTTPError |
+| Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
-| Hartzell Propeller | ❌ error |  |  | no job system found on careers page |
-| MTU Aero Engines North America | ❌ error |  |  | no job system found on careers page |
-| Elbit America | ❌ error |  |  | no job system found on careers page |
-| Cubic | ✅ ok | workday | 1 | found on careers page |
-| Matternet | ❌ error |  |  | careers page: HTTPError |
-| Flytrex | ❌ error |  |  | no job system found on careers page |
-| Starpath | ❌ error |  |  | no job system found on careers page |
-| ThinkOrbital | ❌ error |  |  | no job system found on careers page |
+| Hartzell Propeller | ❌ unresolved |  |  | no job system found on careers page |
+| MTU Aero Engines North America | ❌ unresolved |  |  | no job system found on careers page |
+| Elbit America | ❌ unresolved |  |  | no job system found on careers page |
+| Cubic | ✅ ok | workday | 1 | cache |
+| Matternet | ❌ unresolved |  |  | careers page: HTTPError |
+| Flytrex | ❌ unresolved |  |  | no job system found on careers page |
+| Starpath | ❌ unresolved |  |  | no job system found on careers page |
+| ThinkOrbital | ❌ unresolved |  |  | no job system found on careers page |
 
 ## Robotics & autonomous vehicles
 
@@ -266,32 +266,32 @@ Working: 359 of 535 companies
 | Blue River Technology | ✅ ok | greenhouse | 0 | cache |
 | Bedrock Robotics | ✅ ok | ashby | 6 | cache |
 | Overland AI | ✅ ok | rippling | 0 | cache |
-| Forterra | ❌ error |  |  | no job system found on careers page |
+| Forterra | ❌ unresolved |  |  | no job system found on careers page |
 | Field AI | ✅ ok | lever | 1 | cache |
-| Persona AI | ❌ error |  |  | careers page: URLError |
+| Persona AI | ❌ unresolved |  |  | careers page: URLError |
 | The Bot Company | ✅ ok | ashby | 0 | cache |
 | Mytra | ✅ ok | rippling | 1 | cache |
-| Chef Robotics | ❌ error |  |  | no job system found on careers page |
+| Chef Robotics | ❌ unresolved |  |  | no job system found on careers page |
 | Standard Bots | ✅ ok | ashby | 0 | cache |
 | Viam | ✅ ok | greenhouse | 0 | cache |
-| Covariant | ❌ error |  |  | careers page: HTTPError |
+| Covariant | ❌ unresolved |  |  | careers page: HTTPError |
 | Nimble Robotics | ✅ ok | greenhouse | 0 | cache |
 | RightHand Robotics | ✅ ok | breezy | 0 | cache |
-| Ghost Robotics | ❌ error |  |  | no job system found on careers page |
-| Monarch Tractor | ❌ error |  |  | careers page: HTTPError |
+| Ghost Robotics | ❌ unresolved |  |  | no job system found on careers page |
+| Monarch Tractor | ❌ unresolved |  |  | careers page: HTTPError |
 | Agtonomy | ✅ ok | lever | 0 | cache |
-| Burro | ❌ error |  |  | careers page: HTTPError |
-| Canvas | ❌ error |  |  | careers page: URLError |
+| Burro | ❌ unresolved |  |  | careers page: HTTPError |
+| Canvas | ❌ unresolved |  |  | careers page: URLError |
 | Wayve | ✅ ok | ashby | 0 | cache |
 | Pronto | ✅ ok | greenhouse | 0 | cache |
-| Synchron | ❌ error |  |  | no job system found on careers page |
+| Synchron | ❌ unresolved |  |  | no job system found on careers page |
 | Cognex | ✅ ok | workday | 0 | config |
-| Zebra Technologies | ❌ error |  |  | careers page: HTTPError |
-| Omron | ❌ error |  |  | careers page: HTTPError |
-| Yaskawa Motoman | ❌ error |  |  | careers page: HTTPError |
+| Zebra Technologies | ❌ unresolved |  |  | careers page: HTTPError |
+| Omron | ❌ unresolved |  |  | careers page: HTTPError |
+| Yaskawa Motoman | ❌ unresolved |  |  | careers page: HTTPError |
 | Keyence | ✅ ok | successfactors | 0 | cache |
-| Honda Research Institute | ❌ error |  |  | no job system found on careers page |
-| Sarcos / Palladyne AI | ❌ error |  |  | no job system found on careers page |
+| Honda Research Institute | ❌ unresolved |  |  | no job system found on careers page |
+| Sarcos / Palladyne AI | ❌ unresolved |  |  | no job system found on careers page |
 
 ## Automotive, trucks & heavy equipment
 
@@ -392,51 +392,51 @@ Working: 359 of 535 companies
 | Plus | ✅ ok | lever | 0 | cache |
 | Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
 | Textron Specialized Vehicles | ✅ ok | taleo | 14 | config |
-| Polestar | ❌ error |  |  | careers page: HTTPError |
-| Porsche Cars North America | ❌ error |  |  | careers page: HTTPError |
+| Polestar | ❌ unresolved |  |  | careers page: HTTPError |
+| Porsche Cars North America | ❌ unresolved |  |  | careers page: HTTPError |
 | Jaguar Land Rover North America | ✅ ok | successfactors | 0 | cache |
-| Zero Motorcycles | ❌ error |  |  | careers page: HTTPError |
-| LiveWire | ❌ error |  |  | no job system found on careers page |
-| Kawasaki Motors Manufacturing | ❌ error |  |  | careers page: URLError |
+| Zero Motorcycles | ❌ unresolved |  |  | careers page: HTTPError |
+| LiveWire | ❌ unresolved |  |  | no job system found on careers page |
+| Kawasaki Motors Manufacturing | ❌ unresolved |  |  | careers page: URLError |
 | Faraday Future | ✅ ok | greenhouse | 0 | cache |
-| VinFast US | ❌ error |  |  | no job system found on careers page |
-| Aisin | ❌ error |  |  | no job system found on careers page |
-| Toyota Boshoku America | ❌ error |  |  | careers page: HTTPError |
-| JTEKT North America | ❌ error |  |  | no job system found on careers page |
-| Hitachi Astemo Americas | ❌ error |  |  | careers page: HTTPError |
+| VinFast US | ❌ unresolved |  |  | no job system found on careers page |
+| Aisin | ❌ unresolved |  |  | no job system found on careers page |
+| Toyota Boshoku America | ❌ unresolved |  |  | careers page: HTTPError |
+| JTEKT North America | ❌ unresolved |  |  | no job system found on careers page |
+| Hitachi Astemo Americas | ❌ unresolved |  |  | careers page: HTTPError |
 | Marelli | ✅ ok | successfactors | 0 | cache |
-| MAHLE | ❌ error |  |  | careers page: HTTPError |
-| Hyundai Mobis | ❌ error |  |  | careers page: URLError |
+| MAHLE | ❌ unresolved |  |  | careers page: HTTPError |
+| Hyundai Mobis | ❌ unresolved |  |  | careers page: URLError |
 | Gentherm | ✅ ok | successfactors | 1 | cache |
 | Stoneridge | ✅ ok | workday | 0 | cache |
-| Sensata | ❌ error |  |  | careers page: HTTPError |
-| Littelfuse | ❌ error |  |  | careers page: HTTPError |
-| Amphenol | ❌ error |  |  | careers page: HTTPError |
-| Linamar | ❌ error |  |  | careers page: HTTPError |
-| Martinrea | ❌ error |  |  | careers page: HTTPError |
+| Sensata | ❌ unresolved |  |  | careers page: HTTPError |
+| Littelfuse | ❌ unresolved |  |  | careers page: HTTPError |
+| Amphenol | ❌ unresolved |  |  | careers page: HTTPError |
+| Linamar | ❌ unresolved |  |  | careers page: HTTPError |
+| Martinrea | ❌ unresolved |  |  | careers page: HTTPError |
 | Adient | ✅ ok | workday | 3 | cache |
-| LG Energy Solution Michigan | ❌ error |  |  | careers page: URLError |
-| Ultium Cells | ❌ error |  |  | no job system found on careers page |
-| BlueOval SK | ❌ error |  |  | careers page: URLError |
+| LG Energy Solution Michigan | ❌ unresolved |  |  | careers page: URLError |
+| Ultium Cells | ❌ unresolved |  |  | no job system found on careers page |
+| BlueOval SK | ❌ unresolved |  |  | careers page: URLError |
 | Factorial Energy | ✅ ok | greenhouse | 0 | cache |
-| Lyten | ❌ error |  |  | careers page: HTTPError |
+| Lyten | ❌ unresolved |  |  | careers page: HTTPError |
 | Amprius | ✅ ok | workable | 0 | cache |
-| Ascend Elements | ❌ error |  |  | careers page: HTTPError |
-| EVgo | ❌ error |  |  | careers page: HTTPError |
-| Roush | ❌ error |  |  | careers page: HTTPError |
+| Ascend Elements | ❌ unresolved |  |  | careers page: HTTPError |
+| EVgo | ❌ unresolved |  |  | careers page: HTTPError |
+| Roush | ❌ unresolved |  |  | careers page: HTTPError |
 | Multimatic | ✅ ok | workday | 1 | cache |
-| Hendrick Motorsports | ❌ error |  |  | careers page: HTTPError |
-| Team Penske | ❌ error |  |  | no job system found on careers page |
-| Joe Gibbs Racing | ❌ error |  |  | careers page: HTTPError |
+| Hendrick Motorsports | ❌ unresolved |  |  | careers page: HTTPError |
+| Team Penske | ❌ unresolved |  |  | no job system found on careers page |
+| Joe Gibbs Racing | ❌ unresolved |  |  | careers page: HTTPError |
 | Vermeer | ✅ ok | workday | 6 | cache |
-| Club Car | ❌ error |  |  | careers page: HTTPError |
-| Wabash | ❌ error |  |  | no job system found on careers page |
+| Club Car | ❌ unresolved |  |  | careers page: HTTPError |
+| Wabash | ❌ unresolved |  |  | no job system found on careers page |
 | REV Group | ✅ ok | workday | 2 | cache |
 | Gillig | ✅ ok | greenhouse | 0 | cache |
-| New Flyer / NFI | ❌ error |  |  | careers page: HTTPError |
-| Accelera by Cummins | ❌ error |  |  | careers page: HTTPError |
-| Pirelli North America | ❌ error |  |  | careers page: HTTPError |
-| Hankook Tire America | ❌ error |  |  | careers page: HTTPError |
+| New Flyer / NFI | ❌ unresolved |  |  | careers page: HTTPError |
+| Accelera by Cummins | ❌ unresolved |  |  | careers page: HTTPError |
+| Pirelli North America | ❌ unresolved |  |  | careers page: HTTPError |
+| Hankook Tire America | ❌ unresolved |  |  | careers page: HTTPError |
 
 ## Industrial equipment & manufacturing
 
