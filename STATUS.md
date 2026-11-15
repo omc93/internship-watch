@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 358 of 535 companies
+Working: 354 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -24,7 +24,7 @@ Working: 358 of 535 companies
 | Crane Aerospace & Electronics | ✅ ok | workday | 11 | cache |
 | Curtiss-Wright | ✅ ok | workday | 1 | cache |
 | Embraer | ⏭️ skipped |  |  | no US job site found |
-| Firefly Aerospace | ✅ ok | workday | 9 | config |
+| Firefly Aerospace | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | GE Aerospace | ✅ ok | workday | 6 | config |
 | General Atomics | ⏭️ skipped |  |  | defense; uses BrassRing, dropped |
 | Gulfstream Aerospace | ✅ ok | sfxml | 1 | config |
@@ -156,7 +156,7 @@ Working: 358 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 32 | cache |
+| ATI | ✅ ok | phenom | 27 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -201,7 +201,7 @@ Working: 358 of 535 companies
 | Boston Scientific | ✅ ok | successfactors | 2 | cache |
 | Zimmer Biomet | ✅ ok | phenom | 4 | cache |
 | Globus Medical | ✅ ok | workday | 1 | cache |
-| PROCEPT BioRobotics | ✅ ok | workday | 0 | cache |
+| PROCEPT BioRobotics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://proceptbiorobotics.wd108.myworkdayjobs.c |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
 | Formic | ✅ ok | greenhouse | 0 | cache |
 | Bright Machines | ✅ ok | lever | 0 | cache |
@@ -308,7 +308,7 @@ Working: 358 of 535 companies
 | General Motors | ✅ ok | workday | 25 | config |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 2 | config |
+| John Deere | ✅ ok | successfactors | 1 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
@@ -324,7 +324,7 @@ Working: 358 of 535 companies
 | Zoox | ✅ ok | lever | 6 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
-| Slate Auto | ✅ ok | workday | 0 | cache |
+| Slate Auto | ✅ ok | ashby | 0 | guessed from company name - verify |
 | Divergent | ✅ ok | greenhouse | 2 | cache |
 | Polaris | ❌ unresolved |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
@@ -501,7 +501,7 @@ Working: 358 of 535 companies
 | Intel | ✅ ok | workday | 4 | config |
 | Micron | ✅ ok | workday | 29 | cache |
 | Johnson Controls | ✅ ok | workday | 2 | config |
-| Otis | ✅ ok | workday | 1 | cache |
+| Otis | ❌ error |  |  | workday failed (HTTPError: HTTP Error 422: Unprocessable Entity) / workday failed (HTTPError: HTTP Error 429: Too Many R |
 | Kohler | ❌ unresolved |  |  | careers page: URLError |
 | Generac | ✅ ok | workday | 8 | config |
 | Bloom Energy | ✅ ok | workday | 9 | config |
@@ -513,7 +513,7 @@ Working: 358 of 535 companies
 | Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
 | Kennametal | ❌ unresolved |  |  | no job system found on careers page |
 | Nordson | ❌ unresolved |  |  | careers page: HTTPError |
-| Graco | ✅ ok | workday | 26 | cache |
+| Graco | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://graco.wd501.myworkdayjobs.com/Graco_Care |
 | Dover | ❌ unresolved |  |  | no job system found on careers page |
 | IDEX | ❌ unresolved |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
@@ -535,7 +535,7 @@ Working: 358 of 535 companies
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
-| Bechtel | ✅ ok | phenom | 13 | cache |
+| Bechtel | ✅ ok | phenom | 14 | cache |
 | Fluor | ❌ unresolved |  |  | no job system found on careers page |
 | Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
 | Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
