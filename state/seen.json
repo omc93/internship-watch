@@ -9750,8 +9750,32 @@
   "seeded": true
  },
  "Cubic": {
-  "ids": {},
-  "seeded": false
+  "fp": [
+   3,
+   "workday",
+   "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers"
+  ],
+  "ids": {
+   "REQ_50178": {
+    "aliases": [
+     "/job/San-Diego-California/Systems-Engineering-Execution-Intern_REQ_50178"
+    ],
+    "first_seen": "2026-11-15 16:10 UTC",
+    "last_seen": "2026-11-15",
+    "posted_raw": "Posted 30+ Days Ago",
+    "title": "Systems Engineering Execution Intern"
+   },
+   "REQ_50508": {
+    "aliases": [
+     "/job/San-Diego-California/Program-Admininstartor-Intern_REQ_50508"
+    ],
+    "first_seen": "2026-11-15 16:10 UTC",
+    "last_seen": "2026-11-15",
+    "posted_raw": "Posted 2 Days Ago",
+    "title": "Program Administrator Intern"
+   }
+  },
+  "seeded": true
  },
  "Cummins": {
   "ids": {},
@@ -16878,7 +16902,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-15",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -20633,12 +20657,12 @@
    },
    "https://careers.l3harris.com/en/job/canoga-park/structural-engineer-internship/4832/103186662384": {
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "title": "Structural Engineer Internship"
    },
    "https://careers.l3harris.com/en/job/cincinnati/electrical-engineering-intern/4832/103194434608": {
     "first_seen": "2026-11-13 03:10 UTC",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-15",
     "title": "Electrical Engineering Intern"
    },
    "https://careers.l3harris.com/en/job/lynchburg/product-management-intern-lynchburg-va/4832/101356263472": {
@@ -30450,7 +30474,7 @@
     "last_seen": "2026-11-15",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-15T10:02:18-05:00"
+    "updated_raw": "2026-11-15T11:02:10-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
