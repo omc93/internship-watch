@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 357 of 535 companies
+Working: 358 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -14,7 +14,7 @@ Working: 357 of 535 companies
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 3 | config |
+| BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 33 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -313,7 +313,7 @@ Working: 357 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 37 | cache |
+| Oshkosh | ✅ ok | phenom | 39 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -444,7 +444,7 @@ Working: 357 of 535 companies
 |---|---|---|---|---|
 | Allegion | ✅ ok | workday | 21 | cache |
 | AMETEK | ✅ ok | successfactors | 9 | config |
-| Baker Hughes | ❌ error |  |  | phenom failed (ValueError: no Phenom job data on page) / no job system found on careers page |
+| Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 0 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
