@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-16 17:52 UTC · **Carrier** · [Systems Engineering Intern - Summer](https://jobs.carrier.com/en/job/indianapolis/systems-engineering-intern-summer/29289/102221882352) · fit (systems / controls) | Indianapolis, Indiana [US] | employer-reported Nov 16 | found Nov 16 11:52 AM CT | ID https://jobs.carrier.com/en/job/indianap | open
 - 2026-11-16 16:59 UTC · **Intuitive Surgical** · [Clinical Research Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161861679) · fit (general engineering) | Sunnyvale, CA, us [US] | employer-reported Nov 16 10:32 AM CT | found Nov 16 10:59 AM CT | ID 744000161861679 | open
 - 2026-11-16 16:59 UTC · **Johns Hopkins APL** · [2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems](https://careers.jhuapl.edu/jobs/60918) · strong fit (aerospace hardware) | Laurel, Maryland, United States [US] | employer-reported Nov 16 10:06 AM CT | found Nov 16 10:59 AM CT | ID 60918 | listed
 - 2026-11-16 16:06 UTC · **Reliable Robotics** · [Displays Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9) · fit (general engineering) | Mountain View, CA [US] | employer-reported Nov 16 09:52 AM CT | found Nov 16 10:06 AM CT | ID 6112c488-7072-4ce3-8c0f-645faa0e7cf9 | listed
