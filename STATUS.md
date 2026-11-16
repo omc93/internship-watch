@@ -156,7 +156,7 @@ Working: 353 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 32 | cache |
+| ATI | ✅ ok | phenom | 31 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -237,7 +237,7 @@ Working: 353 of 535 companies
 | Edwards Lifesciences | ✅ ok | workday | 0 | config |
 | BD | ✅ ok | workday | 3 | config |
 | Baxter | ✅ ok | workday | 1 | config |
-| GE HealthCare | ✅ ok | workday | 3 | config |
+| GE HealthCare | ✅ ok | workday | 2 | config |
 | Thermo Fisher | ✅ ok | workday | 10 | config |
 | Illumina | ✅ ok | workday | 0 | config |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
@@ -444,7 +444,7 @@ Working: 353 of 535 companies
 |---|---|---|---|---|
 | Allegion | ✅ ok | workday | 21 | cache |
 | AMETEK | ✅ ok | successfactors | 9 | config |
-| Baker Hughes | ✅ ok | phenom | 10 | cache |
+| Baker Hughes | ✅ ok | phenom | 8 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 0 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
