@@ -127,7 +127,7 @@ def http(url, data=None, headers=None, method=None, as_json=True):
                     return json.loads(text)
                 return text, r.geturl()
         except urllib.error.HTTPError as e:
-            if e.code in (400, 401, 403, 404, 410, 422):
+            if e.code in (400, 401, 403, 404, 410, 422, 429):
                 raise
             last = e
         except Exception as e:  # timeouts, resets
@@ -165,46 +165,49 @@ class WorkdayBlocked(Exception):
     """Workday is rate-limiting this machine (HTTP 429). Not a fault of any one company."""
 
 
-_WD = {"blocked": False, "strikes": 0, "requests": 0}
+_WD = {"blocked": False, "requests": 0, "limited": 0, "deadline": None}
 WD_GAP_SECONDS = 0.4          # pause after every Workday request, per Workday data centre
 WD_FULL_SCAN_EVERY_HOURS = 24  # full keyword scan per company; other passes read only the newest jobs
 WD_RECENT_PAGES = 15
+WD_TIME_BUDGET = 25 * 60       # stop retrying Workday after this many seconds in one run
 
 
 def _workday_call(url, payload=None):
     """One request to a Workday site: one at a time per data centre, paced, with back-off.
 
-    Workday answers 429 when an address sends too much, and a non-JSON page during
-    maintenance. After repeated 429s the rest of this run skips Workday entirely.
+    Workday sits behind a shared rate limit: from GitHub's machines roughly every other
+    request is refused with 429 no matter how little this checker asks, and the same
+    request succeeds a few seconds later. So a refused request is retried with growing
+    pauses. A company that is still refused after that is marked "blocked" for this
+    run (not broken), and after WD_TIME_BUDGET the rest of the run skips Workday.
     """
-    if _WD["blocked"]:
-        raise WorkdayBlocked()
+    import random
+    if _WD["deadline"] is None:
+        _WD["deadline"] = time.time() + WD_TIME_BUDGET
     host = urllib.parse.urlparse(url).netloc.split(".", 1)[-1]        # e.g. wd5.myworkdayjobs.com
     with _WD_GUARD:
         lock = _WD_LOCKS.setdefault(host, threading.Semaphore(1))
-    for wait in (0, 6, 20):
+    maintenance = False
+    for wait in (0, 4, 9, 18, 30, 45):
+        if _WD["blocked"] or time.time() > _WD["deadline"]:
+            _WD["blocked"] = True
+            raise WorkdayBlocked()
+        time.sleep(wait + (random.uniform(0, wait / 3) if wait else 0))
         with lock:
-            if _WD["blocked"]:
-                raise WorkdayBlocked()
-            time.sleep(wait)
             try:
                 _WD["requests"] += 1
                 result = http(url, payload)
-                _WD["strikes"] = 0
                 time.sleep(WD_GAP_SECONDS)
                 return result
             except json.JSONDecodeError:
-                continue                                   # maintenance page: retry, then give up
+                maintenance = True                         # maintenance page: retry, then give up
             except urllib.error.HTTPError as e:
                 if e.code != 429:
                     raise
-                _WD["strikes"] += 1
-                if _WD["strikes"] >= 6:
-                    _WD["blocked"] = True
-                    raise WorkdayBlocked()
-    if _WD["strikes"]:
-        raise WorkdayBlocked()
-    raise ValueError("Workday did not return job data (busy or in maintenance)")
+                _WD["limited"] += 1
+    if maintenance:
+        raise ValueError("Workday did not return job data (busy or in maintenance)")
+    raise WorkdayBlocked()
 
 
 def _workday_age(posted_on):
@@ -1184,12 +1187,16 @@ def main():
         notify(f"{len(broken)} company check(s) failing for about a day",
                ", ".join(broken[:12]) + (f" and {len(broken) - 12} more" if len(broken) > 12 else "")
                + ". Details are in STATUS.md. Ask Claude to look at it.", tags="warning", priority="low")
+    # If Workday refused a large share of companies, ask the workflow for an early re-run.
+    wd_total = sum(1 for _, r in results if (r.get("ats") or [""])[0] == "workday")
+    wd_blocked = sum(1 for _, r in results if r["status"] == "blocked")
     blocked_file = os.path.join(ROOT, ".workday_blocked")
-    if _WD["blocked"]:
+    if wd_total and wd_blocked > 0.3 * wd_total:
         open(blocked_file, "w").write(now)
     elif os.path.exists(blocked_file):
         os.remove(blocked_file)
-    print(f"Workday requests this run: {_WD['requests']}" + (" (rate-limited; stopped early)" if _WD["blocked"] else ""))
+    print(f"Workday: {_WD['requests']} requests, {_WD['limited']} refused (429), "
+          f"{wd_blocked} of {wd_total} companies left for the next run.")
 
     def prepend(path, header, lines):
         try:

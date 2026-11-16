@@ -235,13 +235,32 @@ class Flow(unittest.TestCase):
         sent, work = run_flow(self, limited, many)
         real_sleep, watch.time.sleep = watch.time.sleep, lambda s: None
         self.addCleanup(setattr, watch.time, "sleep", real_sleep)
-        self.addCleanup(watch._WD.update, {"blocked": False, "strikes": 0, "requests": 0})
+        self.addCleanup(watch._WD.update, {"blocked": False, "requests": 0, "limited": 0, "deadline": None})
         watch.main()
         self.assertEqual(sent, [])                               # no "check broken" spam
         with open(os.path.join(work, "state", "resolved.json")) as f:
             res = json.load(f)
         self.assertTrue(all(v["status"] == "blocked" and v.get("fails", 0) == 0 for v in res.values()))
         self.assertTrue(os.path.exists(os.path.join(work, ".workday_blocked")))
+
+    def test_workday_refusal_is_retried_and_then_succeeds(self):
+        n = {"calls": 0}
+        job = self.job("JR3001", "Mechanical Engineering Intern", "/job/TX/M_JR3001", "Posted Today")
+
+        def flaky(url, data=None, headers=None, method=None, as_json=True):
+            n["calls"] += 1
+            if n["calls"] % 2:                                   # every other request is refused
+                raise urllib.error.HTTPError(url, 429, "Too Many Requests", {}, None)
+            return {"total": 1, "jobPostings": [job]}
+        real_sleep, watch.time.sleep = watch.time.sleep, lambda s: None
+        self.addCleanup(setattr, watch.time, "sleep", real_sleep)
+        self.addCleanup(watch._WD.update, {"blocked": False, "requests": 0, "limited": 0, "deadline": None})
+        real, watch._workday_full_scan_due = watch._workday_full_scan_due, lambda t: False
+        self.addCleanup(setattr, watch, "_workday_full_scan_due", real)
+        saved = watch.http
+        watch.http = flaky
+        self.addCleanup(setattr, watch, "http", saved)
+        self.assertEqual([p["id"] for p in watch.fetch_workday(WD["ats"][1])], ["JR3001"])
 
     def test_workday_recent_scan_stops_at_old_postings(self):
         calls = []
