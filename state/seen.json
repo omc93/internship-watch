@@ -5339,7 +5339,7 @@
    "/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-211010-2": {
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "posted_raw": "Posted 20 Days Ago",
     "title": "Co-op Engineering R&D"
    },
    "JR-213219": {
@@ -5348,7 +5348,7 @@
     ],
     "first_seen": "2026-11-11 04:51 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Accounting Intern"
    },
    "JR-213316": {
@@ -5357,7 +5357,7 @@
     ],
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Finance Intern"
    }
   },
@@ -6952,8 +6952,8 @@
      "/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "Mechanical Engineering Co-op – Engine Solenoids"
    },
    "R2026-3646": {
@@ -7016,7 +7016,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Component Engineering Intern"
    },
    "R2026-3941": {
@@ -7295,8 +7295,8 @@
      "/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "Software Test Intern"
    },
    "R2026-4400": {
@@ -7324,7 +7324,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Enterprise Learning & Development Intern"
    }
   },
@@ -10597,7 +10597,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Local College Co-op - Tax Operations"
    },
    "R2067967": {
@@ -10732,7 +10732,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Local College Co-op: Infrastructure Mapping & Data Quality (Michigan Operations)"
    },
    "R2069457": {
@@ -17241,7 +17241,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18048,6 +18048,11 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
     "title": "2027 Summer Intern: Engineering (Firmware) - Farmington, CT"
+   },
+   "1451158000": {
+    "first_seen": "2026-11-16 22:33 UTC",
+    "last_seen": "2026-11-16",
+    "title": "2027 Summer Intern: Engineering - AI Software"
    }
   },
   "seeded": true
@@ -31035,7 +31040,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T16:17:15-05:00"
+    "updated_raw": "2026-11-16T17:17:07-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35743,6 +35748,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "11/10/2026",
     "title": "Spring Co-Op - Customer Accounts (Independence, KS)"
+   },
+   "346348": {
+    "first_seen": "2026-11-16 22:33 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "11/16/2026",
+    "title": "Spring Co-Op - Customer Support Engineer (Quality Assurance)"
    }
   },
   "seeded": true
@@ -39549,7 +39560,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-04T15:04:08-04:00",
     "title": "Aircraft Software Integration Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:11:24-05:00"
    },
    "7988626003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39591,7 +39602,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-30T12:58:42-04:00",
     "title": "Zip Motion Planning Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:17:08-05:00"
    },
    "7999499003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39605,7 +39616,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-21T13:12:41-04:00",
     "title": "Flight Test Engineer Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:17:39-05:00"
    },
    "8002829003": {
     "first_seen": "2026-11-10 18:53 UTC",
