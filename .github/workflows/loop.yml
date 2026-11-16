@@ -1,7 +1,7 @@
 name: Internship watch (continuous)
 
 # GitHub's scheduler only fired a few times a day, so this workflow keeps itself going:
-# each run does one full check, waits 45 minutes, then starts the next run. Every run
+# each run does one full check, waits 35 minutes, then starts the next run. Every run
 # gets a fresh machine and network address, which matters because Workday limits how
 # much one address may ask. If Workday limited this run, the next one starts after
 # 5 minutes instead (at most 3 quick retries in a row). The scheduled "Internship
@@ -57,7 +57,7 @@ jobs:
             echo "Workday limited this run; retrying from a fresh machine in 5 minutes."
             wait=300; next=$((streak + 1))
           else
-            wait=2700; next=0
+            wait=2100; next=0
           fi
           sleep "$wait"
           gh workflow run loop.yml --ref main -f streak="$next"
