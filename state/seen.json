@@ -7750,6 +7750,11 @@
     "first_seen": "2026-11-14 03:46 UTC",
     "last_seen": "2026-11-16",
     "title": "R&D Engineering Associate, Co-op"
+   },
+   "1450844800": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Internship Assignment (students only)- Business Analysis Intern TAC"
    }
   },
   "seeded": true
@@ -9157,6 +9162,21 @@
    "https://careers.celestica.com"
   ],
   "ids": {
+   "1439146033": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Student Intern, Materials Engineering Lab"
+   },
+   "1439151233": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Student Intern, Test Development"
+   },
+   "1439155533": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Student Intern, Power Infrastructure - Pricing Management and Product Data Analysis"
+   },
    "1445851433": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Student Intern, IT Application Associate"
@@ -22994,7 +23014,7 @@
      "/job/Jackson-Michigan/Manufacturing-Engineer-Co-op_JR103391-4"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Co-op"
    }
@@ -30548,7 +30568,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T04:32:14-05:00"
+    "updated_raw": "2026-11-16T05:32:19-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -30858,10 +30878,20 @@
     "last_seen": "2026-11-16",
     "title": "Scouting & Sourcing Intern"
    },
+   "1418106933": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Accounts Payable Intern (All Genders)"
+   },
    "1435085433": {
     "first_seen": "2026-11-11 04:51 UTC",
     "last_seen": "2026-11-16",
     "title": "IT Intern"
+   },
+   "1437829633": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Internship - Servant Pompier"
    },
    "1442038133": {
     "first_seen": "2026-11-14 03:46 UTC",
@@ -30892,6 +30922,11 @@
     "first_seen": "2026-11-13 03:10 UTC",
     "last_seen": "2026-11-16",
     "title": "R&D Torque Converter - TCC Design Intern"
+   },
+   "1448635933": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Accounts Payable Intern"
    },
    "1451429033": {
     "first_seen": "2026-11-11 04:51 UTC",
@@ -35605,7 +35640,7 @@
   "fp": [
    3,
    "workday",
-   "https://tel.wd3.myworkdayjobs.com/TET_Career"
+   "https://tel.wd3.myworkdayjobs.com/TES_Career"
   ],
   "ids": {
    "R26-01590": {
@@ -38445,6 +38480,11 @@
     "last_seen": "2026-11-12",
     "title": "Environmental, Health, & Safety Intern"
    },
+   "1438271633": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Customer Engineering Intern"
+   },
    "1447746233": {
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-16",
@@ -38518,6 +38558,11 @@
     "first_seen": "2026-11-14 03:46 UTC",
     "last_seen": "2026-11-16",
     "title": "Commodity Buyer - Intern"
+   },
+   "1457427533": {
+    "first_seen": "2026-11-16 10:40 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Intern SCNI ELSA Support"
    }
   },
   "seeded": true
