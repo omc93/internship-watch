@@ -56,7 +56,7 @@ Working: 277 of 535 companies
 | True Anomaly | ✅ ok | greenhouse | 0 | config |
 | United Launch Alliance | ✅ ok | successfactors | 9 | config |
 | Vast Space | ✅ ok | greenhouse | 0 | cache |
-| Wisk Aero | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://wisk.wd108.myworkdayjobs.com/Wisk_Career |
+| Wisk Aero | ✅ ok | workday | 0 | cache |
 | Woodward | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://woodward.wd5.myworkdayjobs.com/woodward  |
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 20 | config |
@@ -199,7 +199,7 @@ Working: 277 of 535 companies
 | Stryker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Medtronic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Boston Scientific | ✅ ok | successfactors | 1 | cache |
-| Zimmer Biomet | ✅ ok | phenom | 4 | cache |
+| Zimmer Biomet | ✅ ok | phenom | 3 | cache |
 | Globus Medical | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://globusmedical.wd5.myworkdayjobs.com/GMED |
 | PROCEPT BioRobotics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://proceptbiorobotics.wd108.myworkdayjobs.c |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
@@ -243,7 +243,7 @@ Working: 277 of 535 companies
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
-| Tokyo Electron | ✅ ok | workday | 0 | found on careers page |
+| Tokyo Electron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Silicon Labs | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
 | Infineon | ❌ unresolved |  |  | no job system found on careers page |
