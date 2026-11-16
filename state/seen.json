@@ -964,8 +964,8 @@
  "Abbott": {
   "fp": [
    3,
-   "phenom",
-   "https://www.jobs.abbott/us/en"
+   "workday",
+   "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
   ],
   "ids": {
    "31155780": {
@@ -4317,6 +4317,13 @@
     "posted_raw": "2026-10-19T22:27:44-04:00",
     "title": "Supply Chain Internship - Summer 2027",
     "updated_raw": "2026-11-16T08:53:14-05:00"
+   },
+   "4508864009": {
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T15:40:28-05:00",
+    "title": "Manufacturing Engineering Intern - Summer 2027",
+    "updated_raw": "2026-11-16T15:40:28-05:00"
    }
   },
   "seeded": true
@@ -7062,8 +7069,8 @@
      "/job/Auburn-Hills---Michigan---USA/Supply-Chain-Intern_R2026-3970"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "Supply Chain Intern"
    },
    "R2026-3983": {
@@ -7110,6 +7117,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Intern – PowerDrive Systems (Year-Round)"
+   },
+   "R2026-4015": {
+    "aliases": [
+     "/job/Auburn-Hills---Michigan---USA/Legal-Intern_R2026-4015"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Legal Intern"
    },
    "R2026-4024": {
     "aliases": [
@@ -7198,8 +7214,9 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
-    "title": "HR Intern"
+    "posted_raw": "Posted Today",
+    "title": "HR Intern - Bilingual (English & Spanish)",
+    "updated_seen": "2026-11-16"
    },
    "R2026-4096": {
     "aliases": [
@@ -7209,6 +7226,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 18 Days Ago",
     "title": "Sales Intern - May 2027 Year-Round Internship"
+   },
+   "R2026-4129": {
+    "aliases": [
+     "/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "EPM Support Intern (Year-Round)"
    },
    "R2026-4146": {
     "aliases": [
@@ -7288,7 +7314,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Human Resources Internship (Jan 2027 start)",
     "updated_seen": "2026-11-12"
    },
@@ -8620,7 +8646,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Metallurgy Intern"
    },
    "26970": {
@@ -8674,8 +8700,8 @@
  "Carrier": {
   "fp": [
    3,
-   "radancy",
-   "https://jobs.carrier.com"
+   "workday",
+   "https://carrier.wd5.myworkdayjobs.com/jobs"
   ],
   "ids": {
    "30217242": {
@@ -8702,7 +8728,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Data Analytics Intern - Summer"
    },
    "30220093": {
@@ -8720,7 +8746,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Systems Engineering Intern - Summer"
    },
    "30220218": {
@@ -8756,7 +8782,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Mechanical Engineering Intern - Summer"
    },
    "30220255": {
@@ -8774,7 +8800,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Quality Engineering Intern - Summer"
    },
    "30220341": {
@@ -8792,7 +8818,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "General Engineering Intern - Summer"
    },
    "30220432": {
@@ -10582,6 +10608,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 6 Days Ago",
     "title": "Local College Co-op: Michigan Operations OSS Administrative Support"
+   },
+   "R2068017": {
+    "aliases": [
+     "/job/Auburn-MI-USA/Local-College-Co-op---Consumer-Solutions--Administration-_R2068017-1"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Local College Co-op - Consumer Solutions (Administration)"
    },
    "R2068310": {
     "aliases": [
@@ -13350,6 +13385,13 @@
     "title": "FP&A Intern (Summer 2027)",
     "updated_raw": "2026-11-13T09:38:51-05:00",
     "updated_seen": "2026-11-13"
+   },
+   "8385574": {
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T15:48:45-05:00",
+    "title": "Customer Strategy & Analytics MBA Intern (Summer 2027)",
+    "updated_raw": "2026-11-16T15:48:45-05:00"
    }
   },
   "seeded": true
@@ -13695,7 +13737,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "University Relations Intern"
    }
   },
@@ -15608,6 +15650,15 @@
     "posted_raw": "Posted 26 Days Ago",
     "title": "2027 Summer Intern - GM OneOps Deploy Engineer"
    },
+   "JR-202621977": {
+    "aliases": [
+     "/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Summer-Finance-Treasury-MBA-Intern_JR-202621977"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Summer Finance Treasury MBA Intern"
+   },
    "JR-202621989": {
     "aliases": [
      "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989"
@@ -15842,6 +15893,15 @@
     "posted_raw": "Posted 17 Days Ago",
     "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles"
    },
+   "JR-202623880": {
+    "aliases": [
+     "/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Manufacturing Intern - University of Buffalo"
+   },
    "JR-202624034": {
     "aliases": [
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034"
@@ -15885,7 +15945,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Business Systems Summer Intern 2027"
    }
   },
@@ -17211,7 +17271,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -24789,7 +24849,8 @@
    "1449794600": {
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "title": "Legal Intern- 1L"
+    "title": "Legal Intern- 2L",
+    "updated_seen": "2026-11-16"
    },
    "1450749000": {
     "first_seen": "2026-11-13 23:52 UTC",
@@ -26146,6 +26207,12 @@
    "NorthwoodSpace"
   ],
   "ids": {
+   "1bc230b1-5ad2-44b8-ad61-e80a730e5026": {
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T21:08:18.087+00:00",
+    "title": "Electrical Engineering Intern (2027 Summer Internship)"
+   },
    "69f99cd7-3ce7-413a-8cfe-29b7ccbc1490": {
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
@@ -30968,7 +31035,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T15:17:15-05:00"
+    "updated_raw": "2026-11-16T16:17:15-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -31166,6 +31233,15 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 2 Days Ago",
+    "title": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams"
+   },
+   "R122278": {
+    "aliases": [
+     "/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1"
+    ],
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams"
    }
   },
@@ -36310,6 +36386,12 @@
     "posted_raw": "1794336210435",
     "title": "Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)"
    },
+   "c6569529-4b6b-4229-b2c9-f97467c26cd3": {
+    "first_seen": "2026-11-16 21:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794864419823",
+    "title": "Robotics Intern, World Models, Multimodal Sensing"
+   },
    "d4184c04-b963-489a-9a0b-91bc57d6267e": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
@@ -37542,7 +37624,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Warranty / Process Co-Op (Spring 2027)"
    },
    "REQ2026080099": {
@@ -37551,7 +37633,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Quality Engineer Co-Op (Spring 2027)"
    },
    "REQ2026080106": {
@@ -37560,7 +37642,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "VPS/Process Co-Op (Spring 2027)"
    },
    "REQ2026080168": {
@@ -37641,7 +37723,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Software Engineer Intern (Year-Round)"
    },
    "REQ2026082014": {
@@ -39241,7 +39323,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-18T14:33:37-04:00",
     "title": "Accounting Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:56:54-05:00"
    },
    "7893946003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39276,7 +39358,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-19T21:47:18-04:00",
     "title": "Accounting Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:57:43-05:00"
    },
    "7894561003": {
     "first_seen": "2026-11-10 18:53 UTC",
