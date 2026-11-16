@@ -3135,6 +3135,13 @@
     "title": "Fall 2027 Manufacturing Engineer Co-op",
     "updated_raw": "2026-11-02T16:27:19-05:00"
    },
+   "5289632007": {
+    "first_seen": "2026-11-16 18:53 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T13:39:22-05:00",
+    "title": "2027 Industrial Equipment Maintenance Intern",
+    "updated_raw": "2026-11-16T13:39:22-05:00"
+   },
    "5291546007": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-16",
@@ -29765,7 +29772,8 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-03T20:34:56.167+00:00",
-    "title": "Mechanical Engineering (Spring Co-Op/Summer Intern)"
+    "title": "Mechanical Engineering (Spring Co-Op or Summer Intern)",
+    "updated_seen": "2026-11-16"
    },
    "7c8fd767-dbac-41d8-a9f8-a364741d6c2a": {
     "first_seen": "2026-11-14 15:23 UTC",
@@ -30686,7 +30694,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T12:47:11-05:00"
+    "updated_raw": "2026-11-16T13:33:02-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35888,6 +35896,12 @@
     "posted_raw": "1793300901343",
     "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits"
    },
+   "3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476": {
+    "first_seen": "2026-11-16 18:53 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794853827198",
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)"
+   },
    "3e69a8d4-6286-4d00-8677-7597e98fdb56": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
@@ -35916,7 +35930,8 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "1762230574994",
-    "title": "Automated Driving Advanced Development Intern, Machine Learning Research"
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
+    "updated_seen": "2026-11-16"
    },
    "63d61db3-ac43-4c0d-8b9b-5006e3b92149": {
     "first_seen": "2026-11-14 15:23 UTC",
@@ -36030,7 +36045,8 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "1793820671262",
-    "title": "Automated Driving Advanced Development Intern, Machine Learning Research"
+    "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
+    "updated_seen": "2026-11-16"
    },
    "f6541d1f-b72f-456f-829f-bf118ac10c43": {
     "first_seen": "2026-11-14 15:23 UTC",
@@ -39313,6 +39329,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "1793401565895",
     "title": "Software Engineer Intern, Software Systems [Summer 2027]"
+   },
+   "9fdd6600-099c-45e3-beab-f0ec7dbc296a": {
+    "first_seen": "2026-11-16 18:53 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794509934443",
+    "title": "Service Designer Intern [Summer 2027]"
    },
    "affbfa7d-30c5-4639-aa56-2ba138200bd8": {
     "first_seen": "2026-11-10 16:13 UTC",

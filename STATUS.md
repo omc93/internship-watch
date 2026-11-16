@@ -9,7 +9,7 @@ Working: 276 of 535 companies
 |---|---|---|---|---|
 | AeroVironment | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://avav.wd1.myworkdayjobs.com/AVAV HTTPErro |
 | Airbus | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Anduril | ✅ ok | greenhouse | 24 | config |
+| Anduril | ✅ ok | greenhouse | 25 | config |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
@@ -156,7 +156,7 @@ Working: 276 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | careers page: HTTPError |
-| ATI | ✅ ok | phenom | 32 | cache |
+| ATI | ✅ ok | phenom | 29 | cache |
 | Carpenter Technology | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://cartech.wd5.myworkdayjobs.com/CTCExterna |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 1 | cache |
@@ -235,7 +235,7 @@ Working: 276 of 535 companies
 | Johnson & Johnson | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Abbott | ✅ ok | phenom | 0 | cache |
 | Edwards Lifesciences | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| BD | ✅ ok | radancy | 1 | cache |
+| BD | ✅ ok | radancy | 0 | cache |
 | Baxter | ✅ ok | radancy | 0 | cache |
 | GE HealthCare | ✅ ok | phenom | 2 | cache |
 | Thermo Fisher | ✅ ok | phenom | 0 | cache |
@@ -307,7 +307,7 @@ Working: 276 of 535 companies
 | Ford | ✅ ok | radancy | 0 | config |
 | General Motors | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
-| Honda | ✅ ok | phenom | 4 | cache |
+| Honda | ✅ ok | phenom | 1 | cache |
 | John Deere | ✅ ok | successfactors | 2 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
@@ -321,7 +321,7 @@ Working: 276 of 535 companies
 | Toyota | ✅ ok | phenom | 0 | cache |
 | Volkswagen | ❌ unresolved |  |  | careers page: URLError |
 | Volvo Group | ✅ ok | successfactors | 9 | config |
-| Zoox | ✅ ok | lever | 6 | cache |
+| Zoox | ✅ ok | lever | 7 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
 | Slate Auto | ✅ ok | ashby | 0 | cache |
@@ -354,7 +354,7 @@ Working: 276 of 535 companies
 | Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
 | QuantumScape | ✅ ok | successfactors | 0 | cache |
-| Panasonic Energy of North America | ✅ ok | jibe | 2 | cache |
+| Panasonic Energy of North America | ✅ ok | jibe | 1 | cache |
 | Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
 | Kubota | ❌ unresolved |  |  | no job system found on careers page |
 | Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
@@ -472,7 +472,7 @@ Working: 276 of 535 companies
 | Siemens | ❌ unresolved |  |  | no job system found on careers page |
 | Stanley Black & Decker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
-| TE Connectivity | ✅ ok | successfactors | 15 | config |
+| TE Connectivity | ✅ ok | successfactors | 13 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
 | Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
 | Xylem | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://xylem.wd5.myworkdayjobs.com/xylem-career |
@@ -490,7 +490,7 @@ Working: 276 of 535 companies
 | X-energy | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 12 | cache |
+| Trane Technologies | ✅ ok | phenom | 13 | cache |
 | Carrier | ✅ ok | radancy | 1 | cache |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
