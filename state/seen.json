@@ -4637,8 +4637,8 @@
  "BD": {
   "fp": [
    3,
-   "radancy",
-   "https://jobs.bd.com"
+   "workday",
+   "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
   ],
   "ids": {
    "R-553921": {
@@ -4674,7 +4674,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Controls Tech Intern"
    },
    "R-559082": {
@@ -4953,7 +4953,8 @@
    "1427430700": {
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "title": "Welding Engineer Intern"
+    "title": "Intern, Welding Engineer",
+    "updated_seen": "2026-11-16"
    },
    "1428619000": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -5018,7 +5019,8 @@
    "1451051300": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-16",
-    "title": "Electrical Engineering Intern"
+    "title": "Intern, Electrical Engineer",
+    "updated_seen": "2026-11-16"
    }
   },
   "seeded": true
@@ -5323,8 +5325,8 @@
  "Baxter": {
   "fp": [
    3,
-   "radancy",
-   "https://jobs.baxter.com"
+   "workday",
+   "https://baxter.wd1.myworkdayjobs.com/baxter"
   ],
   "ids": {
    "/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-211010-2": {
@@ -5770,7 +5772,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Automation Engineering Intern"
    },
    "JR-25266": {
@@ -5779,7 +5781,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Engineering Intern"
    },
    "JR-25271": {
@@ -5788,7 +5790,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "JR-25272": {
@@ -5797,7 +5799,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Sales Development Analyst Intern"
    },
    "JR-25333": {
@@ -5806,7 +5808,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Process Development Engineering Intern"
    },
    "JR-25334": {
@@ -5815,7 +5817,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "NPI Engineering Development Intern"
    },
    "JR-25348": {
@@ -5824,7 +5826,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Utilities Analyst Intern"
    },
    "JR-25354": {
@@ -5833,7 +5835,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Commercial Operations Intern"
    },
    "JR-25356": {
@@ -5842,7 +5844,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Commercial Operations Intern (MBA)"
    },
    "JR-25357": {
@@ -5851,7 +5853,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Energy Transition Solutions Intern"
    },
    "JR-25360": {
@@ -5860,7 +5862,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Data Science Intern"
    },
    "JR-25361": {
@@ -5869,7 +5871,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "AI Solutions Engineer Intern"
    },
    "JR-25362": {
@@ -5878,7 +5880,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "RMCC Data Science Intern"
    },
    "JR-25363": {
@@ -5887,7 +5889,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "RMCC Systems Engineering Intern"
    },
    "JR-25367": {
@@ -5896,7 +5898,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Structured Finance Summer Associate (MBA Intern)"
    },
    "JR-25368": {
@@ -5905,8 +5907,17 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Service Operations Intern"
+   },
+   "JR-25369": {
+    "aliases": [
+     "/job/San-Jose-California/Structured-Finance-Summer-Associate--MBA-Intern-_JR-25369"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Structured Finance Summer Associate (MBA Intern)"
    },
    "JR-25370": {
     "aliases": [
@@ -5914,7 +5925,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Customer Success Intern"
    },
    "JR-25385": {
@@ -5923,7 +5934,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Electrical Engineering Intern (Masters)"
    },
    "JR-25394": {
@@ -5932,7 +5943,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Microgrid Commissioning Support Intern (MSEE)"
    }
   },
@@ -6523,8 +6534,8 @@
  "Boeing": {
   "fp": [
    3,
-   "radancy",
-   "https://jobs.boeing.com"
+   "workday",
+   "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS"
   ],
   "ids": {
    "JR2026521717": {
@@ -7924,8 +7935,8 @@
  "Brunswick": {
   "fp": [
    3,
-   "ashby",
-   "brunswick"
+   "workday",
+   "https://brunswick.wd1.myworkdayjobs.com/search"
   ],
   "ids": {
    "JR-050979": {
@@ -8114,7 +8125,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Mercury Marine: Quality Engineering Co-op"
    },
    "JR-051436": {
@@ -8132,7 +8143,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Mercury Marine: Manufacturing Engineering Co-op"
    },
    "JR-051456": {
@@ -8600,7 +8611,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "R&D Materials Characterization Intern"
    },
    "26967": {
@@ -8618,7 +8629,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Corporate Accounting Intern"
    },
    "26976": {
@@ -8627,7 +8638,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Reliability Engineering Intern"
    },
    "26977": {
@@ -8636,7 +8647,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Technical Writing Intern"
    },
    "26978": {
@@ -8645,7 +8656,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Process Engineering Intern"
    },
    "26982": {
@@ -8654,7 +8665,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Maintenance Intern - Bricklayer/Masonry"
    }
   },
@@ -9168,8 +9179,8 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Corporate Intern – Product Support Engineering"
    },
    "R0000391405": {
@@ -9177,8 +9188,8 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Business-Operations_R0000391405-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Corporate Intern - Business Operations"
    },
    "R0000391407": {
@@ -9186,8 +9197,8 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Corporate Intern - Marketing"
    },
    "R0000399906": {
@@ -10572,6 +10583,15 @@
     "posted_raw": "Posted 6 Days Ago",
     "title": "Local College Co-op: Michigan Operations OSS Administrative Support"
    },
+   "R2068310": {
+    "aliases": [
+     "/job/Freeport-TX-USA/XMLNAME-2026-2027-US-Operations-Intern-Co-op---Fall-Posting_R2068310"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2026-2027 U.S. Operations Intern/Co-op – Fall Posting"
+   },
    "R2068408": {
     "aliases": [
      "/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Accounting---Finance_R2068408"
@@ -10625,6 +10645,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2026-2027 Campus Internship - Research & Development (PhD)"
+   },
+   "R2068948": {
+    "aliases": [
+     "/job/Midland-MI-USA/Local-College-Co-op---Packaging---Specialty-Plastics-Corporate-Affairs_R2068948"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Local College Co-op - Packaging & Specialty Plastics Corporate Affairs"
    },
    "R2068953": {
     "aliases": [
@@ -10714,7 +10743,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Systems Engineering Co-Op (Spring 2027)"
    },
    "JR002884": {
@@ -10723,7 +10752,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Optics-Physics Sensor Engineering Co-op (Spring 2027)"
    },
    "JR002885": {
@@ -10732,7 +10761,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Sensor Electrical Engineering Co-op (Spring 2027)"
    },
    "JR002940": {
@@ -10750,7 +10779,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Electrical Engineering Co-Op (Spring 2027)"
    },
    "JR002944": {
@@ -10759,7 +10788,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Digital Engineering – Requirements Engineering Co-Op (Spring 2027)"
    },
    "JR002973": {
@@ -10777,7 +10806,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Operating Systems and Embedded Software Development Co-Op (Spring 2027)"
    },
    "JR003002": {
@@ -10786,7 +10815,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Microsystems Integration Intern"
    },
    "JR003003": {
@@ -10795,7 +10824,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Acoustic and Vibration Technologies Intern (Summer 2027)"
    },
    "JR003085": {
@@ -10804,7 +10833,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Analog ASIC Design Intern (Summer 2027)"
    },
    "JR003093": {
@@ -10813,7 +10842,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Electro-Mechanical Instrument Intern (Summer 2027)"
    },
    "JR003094": {
@@ -10822,7 +10851,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Optics-Physics Sensor Engineering Intern (Summer 2027)"
    },
    "JR003095": {
@@ -10831,7 +10860,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Sensor Electrical Engineering Intern (Summer 2027)"
    },
    "JR003129": {
@@ -10840,7 +10869,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "GNC Systems Engineering Intern (Summer 2027)"
    },
    "JR003131": {
@@ -10849,8 +10878,17 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "GNC Systems Engineering Co-Op (Spring 2027)"
+   },
+   "JR003137": {
+    "aliases": [
+     "/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Space & Strategic Navigation Intern (Summer 2027)"
    }
   },
   "seeded": true
@@ -11446,7 +11484,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Human Resources Co-Op"
    },
    "REQ-14406": {
@@ -11563,7 +11601,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Environmental Health & Safety Co-Op"
    },
    "REQ-14449": {
@@ -11719,6 +11757,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Co-Op"
    },
+   "REQ-14485": {
+    "aliases": [
+     "/job/Rockrimmon-Colorado-Springs-CO/Process-Engineering-Co-Op_REQ-14485"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Process Engineering Co-Op"
+   },
    "REQ-14487": {
     "aliases": [
      "/job/Rockrimmon-Colorado-Springs-CO/NPI-Engineering-Co-Op_REQ-14487"
@@ -11779,7 +11826,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Mechanical Engineer Co-Op"
    },
    "REQ-15071": {
@@ -11817,6 +11864,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Manufacturing Engineering Intern - Summer 2027"
+   },
+   "REQ-15836": {
+    "aliases": [
+     "/job/Aurora-IL/Research-Scientist-Intern---Summer-2027_REQ-15836"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Research Scientist Intern - Summer 2027"
    },
    "REQ-15837": {
     "aliases": [
@@ -11878,7 +11934,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Technical Marketing Intern"
    },
    "REQ-15844": {
@@ -11887,7 +11943,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Associate Product Manager Intern"
    },
    "REQ-15846": {
@@ -11905,7 +11961,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Mechanical Engineering Intern"
    },
    "REQ-15848": {
@@ -11914,7 +11970,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Product Engineering Intern"
    },
    "REQ-15849": {
@@ -11950,7 +12006,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Continuous Improvement Intern"
    },
    "REQ-15853": {
@@ -11995,7 +12051,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Automation and Controls Interns"
    },
    "REQ-15859": {
@@ -12148,7 +12204,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Development Engineering Intern"
    },
    "REQ-15876": {
@@ -12177,6 +12233,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Quality Engineering Intern"
+   },
+   "REQ-15879": {
+    "aliases": [
+     "/job/Aurora-IL/Manufacturing-Engineer-Intern---Summer-2027_REQ-15879"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Manufacturing Engineer Intern - Summer 2027"
    },
    "REQ-15880": {
     "aliases": [
@@ -12907,6 +12972,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Undergraduate Summer Internship | May–August"
    },
+   "R-21052": {
+    "aliases": [
+     "/job/Rancho-Dominguez-California-US/Project-Engineer-Co-op_R-21052"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Project Engineer Co-op"
+   },
    "R-21092": {
     "aliases": [
      "/job/Houston-Texas/Engineering-Co-op_R-21092"
@@ -12922,7 +12996,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Engineering Co-op"
    },
    "R-21410": {
@@ -12940,7 +13014,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Engineering Co-op"
    },
    "R-21743": {
@@ -12985,7 +13059,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Engineering Co-op"
    }
   },
@@ -13630,8 +13704,8 @@
  "GE HealthCare": {
   "fp": [
    3,
-   "phenom",
-   "https://careers.gehealthcare.com/global/en"
+   "workday",
+   "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite"
   ],
   "ids": {
    "R4040613": {
@@ -13682,7 +13756,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Digital Programs & Training Project Intern"
    },
    "R4046982": {
@@ -13926,8 +14000,8 @@
      "/job/Atlanta/GE-Vernova-Commercial-Internship---US---Summer-2027-1_R5050686-2"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "GE Vernova Commercial Internship – US – Summer 2027-1"
    },
    "R5050721": {
@@ -13972,7 +14046,7 @@
     ],
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "Posted Today",
     "title": "GE Vernova Electrical Intern - Summer 2027"
    },
    "R5051974": {
@@ -14025,8 +14099,8 @@
      "/job/Greenville/GE-Vernova-Gas-Power-Engineering---Fall-2027-Intern_R5052774-2"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "GE Vernova Gas Power Engineering - Fall 2027 Intern"
    },
    "R5052922": {
@@ -14064,6 +14138,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "GE Vernova GEN VS Quality and Lean Digitalization Intern - Fall/Spring"
+   },
+   "R5053982": {
+    "aliases": [
+     "/job/Schenectady/GEN-VS-Quality-and-Lean-Digitalization-Intern-2_R5053982-2"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "GEN VS Quality and Lean Digitalization Intern-2"
    },
    "R5054112": {
     "aliases": [
@@ -14413,7 +14496,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Assembly Associate Co-op"
    },
    "R5058374": {
@@ -14449,7 +14532,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "GE Vernova Materials Management Internship - Summer 2027"
    },
    "R5058654": {
@@ -14460,6 +14543,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Intern Consulting Application Engineer"
+   },
+   "R5059079": {
+    "aliases": [
+     "/job/Clearwater/GE-Vernova-Internship---2027-Project-Management-Office_R5059079-2"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Internship – 2027 Project Management Office"
    }
   },
   "seeded": true
@@ -14655,7 +14747,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "EHS Intern"
    },
    "JR18062": {
@@ -15879,7 +15971,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Software COOP"
    },
    "JR108109": {
@@ -16130,14 +16222,24 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineering Intern"
    },
+   "R0023570": {
+    "aliases": [
+     "/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0023570-1"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Manufacturing Engineering Intern"
+   },
    "R0023573": {
     "aliases": [
      "/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
-    "title": "Quality Engineering Co-op (January - August 2027)"
+    "posted_raw": "Posted Today",
+    "title": "Quality Engineering Co-op",
+    "updated_seen": "2026-11-16"
    },
    "R0023574": {
     "aliases": [
@@ -16145,7 +16247,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Manufacturing Engineering (Operational Technology) Co-op (January - August 2027)"
    },
    "R0023586": {
@@ -16271,7 +16373,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Engineering Technician Intern"
    }
   },
@@ -16331,8 +16433,8 @@
  "HP": {
   "fp": [
    3,
-   "greenhouse",
-   "hp"
+   "workday",
+   "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
   ],
   "ids": {
    "3166958": {
@@ -18255,7 +18357,7 @@
   "fp": [
    3,
    "workday",
-   "https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting"
+   "https://illumina.wd1.myworkdayjobs.com/illumina-careers"
   ],
   "ids": {},
   "seeded": true
@@ -19321,7 +19423,7 @@
     ],
     "first_seen": "2026-11-14 17:11 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Industrial Engineering Intern"
    },
    "J2471062": {
@@ -20087,7 +20189,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Process Engineering Co-Op"
    },
    "WD30278457": {
@@ -20141,7 +20243,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Controls Tech Intern"
    },
    "WD30283959": {
@@ -20150,7 +20252,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Legal Intern"
    },
    "WD30285034": {
@@ -20159,7 +20261,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Best Sales Intern - Fire Systems"
    },
    "WD30285046": {
@@ -20168,7 +20270,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Computer Science/CAD Intern"
    }
   },
@@ -20222,8 +20324,8 @@
  "KBR": {
   "fp": [
    3,
-   "phenom",
-   "https://careers.trinzic.com/us/en"
+   "workday",
+   "https://kbr.wd5.myworkdayjobs.com/KBR_Careers"
   ],
   "ids": {
    "R2129380": {
@@ -22498,7 +22600,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern - Enterprise SSD Architecture"
    },
    "JR114109": {
@@ -22507,7 +22609,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern - DRAM Device Engineer"
    },
    "JR114189": {
@@ -22786,7 +22888,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern - AI Engineer Platform"
    },
    "JR115941": {
@@ -22878,6 +22980,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Intern - Revenue Operations"
+   },
+   "JR117444": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern---Data-Science--SMAI_JR117444"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Intern - Data Science, SMAI"
    }
   },
   "seeded": true
@@ -23102,7 +23213,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern, Business"
    },
    "R-26-21228": {
@@ -23120,7 +23231,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "AOS Intern, Facilities"
    },
    "R-26-21312": {
@@ -23129,7 +23240,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Intern Engineering, Product Engineering"
    },
    "R-26-21409": {
@@ -23138,7 +23249,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern, Electrical Engineering"
    },
    "R-26-21444": {
@@ -23147,7 +23258,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern, Engineering"
    }
   },
@@ -25656,6 +25767,24 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Chandler Manufacturing Technician Intern (2nd Shift) - Fall"
    },
+   "R10251088": {
+    "aliases": [
+     "/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Mechanical Engineer Intern - Baltimore MD"
+   },
+   "R10251094": {
+    "aliases": [
+     "/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Systems Engineer Intern - Baltimore MD"
+   },
    "R10251849": {
     "aliases": [
      "/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849"
@@ -25682,6 +25811,15 @@
     "last_seen": "2026-11-13",
     "posted_raw": "Posted 10 Days Ago",
     "title": "2027 Software Engineering Intern - Colorado Springs"
+   },
+   "R10257311": {
+    "aliases": [
+     "/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Cyber Software Engineer Intern - San Antonio TX"
    },
    "R10257803": {
     "aliases": [
@@ -25961,6 +26099,42 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 2 Days Ago",
     "title": "2027 Materials & Process Engineering Intern - Northridge CA"
+   },
+   "R10260837": {
+    "aliases": [
+     "/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Manufacturing Engineer Intern - Salt Lake City UT"
+   },
+   "R10260856": {
+    "aliases": [
+     "/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Environmental-Safety-Fire-Protection-Intern---Rolling-Meadows-IL_R10260856"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Environmental Safety Fire Protection Intern - Rolling Meadows IL"
+   },
+   "R10260895": {
+    "aliases": [
+     "/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Engineering Intern - Warner Robins GA"
+   },
+   "R10260897": {
+    "aliases": [
+     "/job/United-States-California-Sunnyvale/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op---Sunnyvale-CA_R10260897"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Spring Mechanical Engineer Co-op - Sunnyvale CA"
    }
   },
   "seeded": true
@@ -26825,8 +26999,8 @@
      "/job/OT423-TD---DALLAS-TX-2421-State-Highway-161-Frontage-Road-Irving-TX-75062-USA/Field-Project-Management-Interns_20168823"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-15",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Field Project Management Interns"
    },
    "20170498": {
@@ -30794,7 +30968,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T15:02:16-05:00"
+    "updated_raw": "2026-11-16T15:17:15-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -32106,7 +32280,7 @@
     ],
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "posted_raw": "Posted 20 Days Ago",
     "title": "IT Service Desk Intern (Summer 2027)"
    },
    "R0030765": {
@@ -32133,7 +32307,7 @@
     ],
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 27 Days Ago",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Project Coordinator Intern (Summer 2027)"
    },
    "R0030775": {
@@ -32485,7 +32659,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Validation Engineering Summer Internship 2027"
    },
    "21193": {
@@ -32494,8 +32668,17 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "RF Validation Engineering Internship"
+   },
+   "21229": {
+    "aliases": [
+     "/job/RF-Validation-Internship_21229-3"
+    ],
+    "first_seen": "2026-11-16 20:40 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "RF Validation Internship"
    }
   },
   "seeded": true
@@ -32714,7 +32897,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 12 Days Ago",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "User Experience Intern"
    },
    "R2888": {
@@ -32723,7 +32906,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Software Product Management Intern (Seattle)"
    },
    "R2906": {
@@ -32732,7 +32915,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Compliance Engineering Intern"
    }
   },
@@ -32984,7 +33167,7 @@
     ],
     "first_seen": "2026-11-13 03:10 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Intern, Data Analyst & BI, Summer 2027"
    },
    "REQ-1000052535": {
@@ -33092,7 +33275,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Engineering Intern, Prototyping - Summer 2027"
    },
    "REQ-1000052988": {
@@ -35704,8 +35887,8 @@
  "Thermo Fisher": {
   "fp": [
    3,
-   "phenom",
-   "https://jobs.thermofisher.com/global/en"
+   "workday",
+   "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"
   ],
   "ids": {
    "R-01361452": {
@@ -35713,8 +35896,8 @@
      "/job/Waltham-Massachusetts-USA/FLDP-Finance-Intern_R-01361452"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 4 Days Ago",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
     "title": "2027 FLDP Finance Intern"
    },
    "R-01363914": {
@@ -35732,7 +35915,7 @@
     ],
     "first_seen": "2026-11-14 17:11 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 IT & Digital Internship"
    },
    "R-01366580": {
@@ -35813,7 +35996,7 @@
     ],
     "first_seen": "2026-11-14 17:11 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Quality Intern"
    },
    "R-01367380": {
@@ -35900,7 +36083,7 @@
   "fp": [
    3,
    "workday",
-   "https://tel.wd3.myworkdayjobs.com/TET_Career"
+   "https://tel.wd3.myworkdayjobs.com/TEL-Careers"
   ],
   "ids": {
    "R26-01590": {
@@ -35909,7 +36092,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Manufacturing Engineer 2027 Summer Intern"
    },
    "R26-01596": {
@@ -35927,7 +36110,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Research Scientist - ATG Optical Sensor Development Intern (Summer 2027)"
    }
   },
@@ -37952,7 +38135,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Spring Co-op Undergrad — Engineering, Operations & Chemistry"
    }
   },
@@ -38981,14 +39164,14 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-14T00:47:29-04:00",
     "title": "Community Engagement Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:09:14-05:00"
    },
    "7868195003": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-18T14:33:28-04:00",
     "title": "Community Engagement Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:09:31-05:00"
    },
    "7886320003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39199,7 +39382,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-20T19:39:33-04:00",
     "title": "Operations Experience Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:18:10-05:00"
    },
    "7929354003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39220,7 +39403,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-27T13:24:15-04:00",
     "title": "Marketing Operations & Project Management Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:17:47-05:00"
    },
    "7978791003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39291,7 +39474,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-08T11:31:47-04:00",
     "title": "Real Estate Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T15:19:45-05:00"
    },
    "7990420003": {
     "first_seen": "2026-11-10 18:53 UTC",
