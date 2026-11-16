@@ -220,8 +220,11 @@ def main():
                                  **{"Accept-Language": "en-US"}), "C cookies+referer"))
         out.append(post(plain, {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
                                 "Content-Type": "application/json", "Accept": "application/json", "Accept-Language": "en-US"}, "D other UA"))
-        _t.sleep(20)
-        out.append(post(plain, dict(base, Accept="application/json"), "E after 20s"))
+        for w in (20, 45, 90):
+            _t.sleep(w)
+            out.append(post(plain, dict(base, Accept="application/json"), f"E plain after +{w}s"))
+            out.append(post(op, dict(base, Accept="application/json", Origin=f"https://{pu.netloc}", Referer=url),
+                            f"F cookies after +{w}s"))
         return f"WDDIAG {url}\n   " + "\n   ".join(out)
     for u in json.loads(os.environ.get("WD_DIAG", "[]") or "[]"):
         if os.environ.get("WD_ORDER"):
