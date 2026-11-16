@@ -3,6 +3,11 @@
 Working: 275 of 535 companies
 
 
+## New this run
+
+- **Reliable Robotics**: [Displays Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9) Mountain View, CA
+- **Toyota Research Institute**: [Research Intern, Spatial Intelligence for Robotics](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e) Cambridge, MA
+
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
@@ -69,7 +74,7 @@ Working: 275 of 535 companies
 | Venus Aerospace | ✅ ok | lever | 0 | cache |
 | Ursa Major | ✅ ok | greenhouse | 2 | cache |
 | Astrobotic | ✅ ok | greenhouse | 3 | cache |
-| Reliable Robotics | ✅ ok | ashby | 13 | cache |
+| Reliable Robotics | ✅ ok | ashby | 14 | cache |
 | Supernal | ❌ unresolved |  |  | careers page: HTTPError |
 | Cirrus Aircraft | ⏭️ skipped |  |  | uses iCIMS, which blocks automated checks |
 | Rolls-Royce | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
@@ -121,7 +126,7 @@ Working: 275 of 535 companies
 | Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
 | Garmin | ❌ unresolved |  |  | no job system found on careers page |
 | Leidos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| KBR | ✅ ok | phenom | 3 | cache |
+| KBR | ✅ ok | phenom | 4 | cache |
 | Jacobs | ❌ unresolved |  |  | no job system found on careers page |
 | Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
@@ -214,7 +219,7 @@ Working: 275 of 535 companies
 | iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Dyson | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Dell Technologies | ✅ ok | oracle | 1 | config |
-| Texas Instruments | ✅ ok | oracle | 28 | config |
+| Texas Instruments | ✅ ok | oracle | 29 | config |
 | NVIDIA | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
@@ -261,7 +266,7 @@ Working: 275 of 535 companies
 | Specialized | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://specialized.wd5.myworkdayjobs.com/Specia |
 | Logitech | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://logitech.wd5.myworkdayjobs.com/Logitech  |
 | Bose | ❌ unresolved |  |  | careers page: HTTPError |
-| Toyota Research Institute | ✅ ok | lever | 16 | config |
+| Toyota Research Institute | ✅ ok | lever | 17 | config |
 | RAI Institute | ✅ ok | lever | 2 | cache |
 | Blue River Technology | ✅ ok | greenhouse | 0 | cache |
 | Bedrock Robotics | ✅ ok | ashby | 6 | cache |
@@ -443,7 +448,7 @@ Working: 275 of 535 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Allegion | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://allegion.wd5.myworkdayjobs.com/careers H |
-| AMETEK | ✅ ok | successfactors | 9 | config |
+| AMETEK | ✅ ok | successfactors | 8 | config |
 | Baker Hughes | ❌ error |  |  | phenom failed (ValueError: no Phenom job data on page) / no job system found on careers page |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 2 | config |
@@ -459,7 +464,7 @@ Working: 275 of 535 companies
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
-| Hubbell | ✅ ok | successfactors | 20 | config |
+| Hubbell | ✅ ok | successfactors | 19 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
 | Jabil | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Career |

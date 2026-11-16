@@ -7586,6 +7586,18 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-12T16:12:36.849Z",
     "title": "AI Research Intern – Time Series Foundation Models"
+   },
+   "744000161841434": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T15:28:53.371Z",
+    "title": "Research Intern: Multimodal Sensor Foundation Models"
+   },
+   "744000161844052": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T15:29:09.642Z",
+    "title": "Research Intern: Multimodal Foundation Models for Healthcare"
    }
   },
   "seeded": true
@@ -17015,7 +17027,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17625,12 +17637,12 @@
    },
    "1427558500": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "title": "2027 Summer Intern: Finance - Analyst"
    },
    "1427559100": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "title": "2027 Summer Intern: Finance - FP&A Analyst"
    },
    "1427560300": {
@@ -17680,7 +17692,7 @@
    },
    "1427567900": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "title": "2027 Summer Intern: Engineering - Product Development"
    },
    "1427568600": {
@@ -29888,6 +29900,12 @@
     "posted_raw": "2026-11-13T18:33:00.050+00:00",
     "title": "Flight Control Law Intern (Summer 2027)"
    },
+   "6112c488-7072-4ce3-8c0f-645faa0e7cf9": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T15:52:55.923+00:00",
+    "title": "Displays Engineer Intern (Summer 2027)"
+   },
    "9e609f4f-cf1c-4171-9140-54e05c5195de": {
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-16",
@@ -30644,7 +30662,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T10:02:51-05:00"
+    "updated_raw": "2026-11-16T10:47:35-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34718,6 +34736,12 @@
     "posted_raw": "2026-11-13",
     "title": "Analog Design Eng Intern - High-speed/RF/mm-wave"
    },
+   "25016351": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16",
+    "title": "Kilby Labs RF Analog Design Intern - RF Modeling"
+   },
    "25016352": {
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
@@ -35827,6 +35851,12 @@
     "posted_raw": "1793827641149",
     "title": "Robotics Research Intern, Manipulation"
    },
+   "2d65fd58-00bb-49bc-b4db-e381df1ebd1e": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794843511990",
+    "title": "Research Intern, Spatial Intelligence for Robotics"
+   },
    "33c33641-756d-4cd1-8238-0100af2224b8": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-16",
@@ -36695,6 +36725,12 @@
     "last_seen": "2026-11-13",
     "posted_raw": "2026-11-06T00:00:00.000+0000",
     "title": "2027 Marketing Intern"
+   },
+   "JR-7603": {
+    "first_seen": "2026-11-16 16:06 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
+    "title": "2027 Accounting and Finance Intern"
    },
    "JR-8542": {
     "first_seen": "2026-11-10 18:53 UTC",
