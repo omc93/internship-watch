@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 353 of 535 companies
+Working: 352 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -14,7 +14,7 @@ Working: 353 of 535 companies
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | Axiom Space | ✅ ok | workday | 4 | cache |
-| BAE Systems | ✅ ok | phenom | 3 | config |
+| BAE Systems | ✅ ok | phenom | 4 | config |
 | Bell Flight | ✅ ok | taleo | 2 | config |
 | Blue Origin | ✅ ok | workday | 33 | config |
 | Boeing | ✅ ok | workday | 1 | config |
@@ -27,7 +27,7 @@ Working: 353 of 535 companies
 | Firefly Aerospace | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | GE Aerospace | ✅ ok | workday | 6 | config |
 | General Atomics | ⏭️ skipped |  |  | defense; uses BrassRing, dropped |
-| Gulfstream Aerospace | ✅ ok | sfxml | 1 | config |
+| Gulfstream Aerospace | ❌ error |  |  | sfxml failed (TimeoutError: The read operation timed out) / sfxml failed (TimeoutError: The read operation timed out) /  |
 | Hermeus | ✅ ok | lever | 15 | cache |
 | Honeywell | ✅ ok | oracle | 13 | config |
 | Howmet Aerospace | ✅ ok | oracle | 11 | cache |
@@ -318,21 +318,21 @@ Working: 353 of 535 companies
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
-| Toyota | ✅ ok | phenom | 0 | found on careers page |
-| Volkswagen | ❌ unresolved |  |  | careers page: URLError |
+| Toyota | ✅ ok | phenom | 0 | cache |
+| Volkswagen | ❌ error |  |  | careers page: URLError |
 | Volvo Group | ✅ ok | successfactors | 9 | config |
 | Zoox | ✅ ok | lever | 6 | cache |
 | Kodiak Robotics | ✅ ok | greenhouse | 0 | cache |
 | Scout Motors | ✅ ok | greenhouse | 3 | cache |
 | Slate Auto | ✅ ok | ashby | 0 | cache |
 | Divergent | ✅ ok | greenhouse | 2 | cache |
-| Polaris | ❌ unresolved |  |  | no job system found on careers page |
+| Polaris | ❌ error |  |  | no job system found on careers page |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
 | Stellantis | ✅ ok | cws | 3 | config |
-| Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
-| Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
-| Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
-| Mazda Toyota Manufacturing | ❌ unresolved |  |  | careers page: HTTPError |
+| Hyundai Motor Group (US) | ❌ error |  |  | no job system found on careers page |
+| Kia Georgia | ❌ error |  |  | careers page: HTTPError |
+| Subaru of Indiana | ❌ error |  |  | careers page: HTTPError |
+| Mazda Toyota Manufacturing | ❌ error |  |  | careers page: HTTPError |
 | Motional | ✅ ok | greenhouse | 0 | cache |
 | May Mobility | ✅ ok | greenhouse | 0 | cache |
 | Torc Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -343,8 +343,8 @@ Working: 353 of 535 companies
 | Magna | ✅ ok | workday | 11 | config |
 | Lear | ✅ ok | successfactors | 0 | cache |
 | ZF | ✅ ok | successfactors | 3 | cache |
-| Continental | ❌ unresolved |  |  | no job system found on careers page |
-| Denso | ❌ unresolved |  |  | careers page: HTTPError |
+| Continental | ❌ error |  |  | no job system found on careers page |
+| Denso | ❌ error |  |  | careers page: HTTPError |
 | Allison Transmission | ✅ ok | workday | 10 | cache |
 | Dana | ✅ ok | successfactors | 7 | config |
 | American Axle | ✅ ok | radancy | 5 | cache |
@@ -355,9 +355,9 @@ Working: 353 of 535 companies
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
 | QuantumScape | ✅ ok | successfactors | 0 | cache |
 | Panasonic Energy of North America | ✅ ok | jibe | 2 | cache |
-| Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
-| Kubota | ❌ unresolved |  |  | no job system found on careers page |
-| Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
+| Haas Automation | ❌ error |  |  | no job system found on careers page |
+| Kubota | ❌ error |  |  | no job system found on careers page |
+| Doosan Bobcat | ❌ error |  |  | no job system found on careers page |
 | Terex | ✅ ok | workday | 2 | cache |
 | Manitowoc | ✅ ok | oracle | 5 | cache |
 | Wabtec | ✅ ok | smartrecruiters | 6 | config |
@@ -445,11 +445,11 @@ Working: 353 of 535 companies
 | Allegion | ✅ ok | workday | 21 | cache |
 | AMETEK | ✅ ok | successfactors | 9 | config |
 | Baker Hughes | ✅ ok | phenom | 10 | cache |
-| Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
+| Benchmark Electronics | ❌ error |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 0 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 0 | config |
-| Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
+| Danfoss | ❌ error |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
 | Eaton | ✅ ok | eightfold | 27 | config |
 | Emerson / National Instruments | ✅ ok | oracle | 13 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
@@ -458,23 +458,23 @@ Working: 353 of 535 companies
 | Formlabs | ✅ ok | greenhouse | 17 | cache |
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ✅ ok | workday | 31 | config |
-| Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
+| Grundfos | ❌ error |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 20 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
 | Jabil | ✅ ok | workday | 9 | cache |
-| Molex | ❌ unresolved |  |  | careers page: TimeoutError |
+| Molex | ❌ error |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
 | Re:Build Manufacturing | ✅ ok | greenhouse | 2 | cache |
-| Sanmina | ❌ unresolved |  |  | no job system found on careers page |
+| Sanmina | ❌ error |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 28 | config |
-| Siemens | ❌ unresolved |  |  | no job system found on careers page |
+| Siemens | ❌ error |  |  | no job system found on careers page |
 | Stanley Black & Decker | ✅ ok | workday | 12 | config |
-| Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
+| Sulzer | ❌ error |  |  | careers page: HTTPError |
 | TE Connectivity | ✅ ok | successfactors | 15 | config |
 | TechnipFMC | ✅ ok | successfactors | 2 | config |
-| Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
+| Weatherford | ❌ error |  |  | careers page: HTTPError |
 | Xylem | ✅ ok | workday | 0 | cache |
 | ExxonMobil | ✅ ok | successfactors | 2 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
@@ -482,7 +482,7 @@ Working: 353 of 535 companies
 | ConocoPhillips | ✅ ok | workday | 0 | cache |
 | Phillips 66 | ✅ ok | successfactors | 2 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
-| SLB | ❌ unresolved |  |  | no job system found on careers page |
+| SLB | ❌ error |  |  | no job system found on careers page |
 | Helion Energy | ✅ ok | ashby | 2 | cache |
 | TAE Technologies | ✅ ok | ashby | 0 | cache |
 | Form Energy | ✅ ok | ashby | 0 | cache |
@@ -490,9 +490,9 @@ Working: 353 of 535 companies
 | X-energy | ✅ ok | workday | 7 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 12 | cache |
+| Trane Technologies | ✅ ok | phenom | 13 | cache |
 | Carrier | ✅ ok | workday | 19 | config |
-| Lennox | ❌ unresolved |  |  | no job system found on careers page |
+| Lennox | ❌ error |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
 | 3M | ✅ ok | workday | 0 | config |
@@ -558,7 +558,7 @@ Working: 353 of 535 companies
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Applied Materials | ✅ ok | radancy | 0 | config |
-| ASML | ❌ unresolved |  |  | no job system found on careers page |
+| ASML | ❌ error |  |  | no job system found on careers page |
 | Entegris | ✅ ok | workday | 49 | config |
 | KLA | ✅ ok | workday | 26 | config |
 | Lam Research | ✅ ok | eightfold | 9 | config |
