@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 280 of 535 companies
+Working: 277 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -199,7 +199,7 @@ Working: 280 of 535 companies
 | Stryker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Medtronic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Boston Scientific | ✅ ok | successfactors | 1 | cache |
-| Zimmer Biomet | ✅ ok | phenom | 3 | cache |
+| Zimmer Biomet | ✅ ok | phenom | 4 | cache |
 | Globus Medical | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://globusmedical.wd5.myworkdayjobs.com/GMED |
 | PROCEPT BioRobotics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://proceptbiorobotics.wd108.myworkdayjobs.c |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
@@ -237,13 +237,13 @@ Working: 280 of 535 companies
 | Edwards Lifesciences | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | BD | ✅ ok | radancy | 1 | cache |
 | Baxter | ✅ ok | radancy | 0 | cache |
-| GE HealthCare | ✅ ok | phenom | 1 | cache |
+| GE HealthCare | ✅ ok | phenom | 2 | cache |
 | Thermo Fisher | ✅ ok | phenom | 0 | cache |
 | Illumina | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
-| Tokyo Electron | ✅ ok | workday | 0 | found on careers page |
+| Tokyo Electron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Silicon Labs | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
 | Infineon | ❌ unresolved |  |  | no job system found on careers page |
@@ -408,7 +408,7 @@ Working: 280 of 535 companies
 | MAHLE | ❌ unresolved |  |  | careers page: HTTPError |
 | Hyundai Mobis | ❌ unresolved |  |  | careers page: URLError |
 | Gentherm | ✅ ok | successfactors | 1 | cache |
-| Stoneridge | ✅ ok | workday | 0 | cache |
+| Stoneridge | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://stoneridge.wd5.myworkdayjobs.com/Careers |
 | Sensata | ❌ unresolved |  |  | careers page: HTTPError |
 | Littelfuse | ❌ unresolved |  |  | careers page: HTTPError |
 | Amphenol | ❌ unresolved |  |  | careers page: HTTPError |
@@ -424,7 +424,7 @@ Working: 280 of 535 companies
 | Ascend Elements | ❌ unresolved |  |  | careers page: HTTPError |
 | EVgo | ❌ unresolved |  |  | careers page: HTTPError |
 | Roush | ❌ unresolved |  |  | careers page: HTTPError |
-| Multimatic | ✅ ok | workday | 1 | found on careers page |
+| Multimatic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://multimatic.wd10.myworkdayjobs.com/MMEC H |
 | Hendrick Motorsports | ❌ unresolved |  |  | careers page: HTTPError |
 | Team Penske | ❌ unresolved |  |  | no job system found on careers page |
 | Joe Gibbs Racing | ❌ unresolved |  |  | careers page: HTTPError |
@@ -491,7 +491,7 @@ Working: 280 of 535 companies
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
 | Trane Technologies | ✅ ok | phenom | 13 | cache |
-| Carrier | ✅ ok | radancy | 3 | cache |
+| Carrier | ✅ ok | radancy | 0 | cache |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
 | GE Appliances | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://haier.wd3.myworkdayjobs.com/GE_Appliance |
