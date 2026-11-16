@@ -16904,7 +16904,7 @@
   "fp": [
    3,
    "workday",
-   "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers"
+   "https://hexcel.wd5.myworkdayjobs.com/EarlyHexcelCareers"
   ],
   "ids": {
    "R020612": {
@@ -16994,7 +16994,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17024,7 +17024,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -30623,7 +30623,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T06:17:10-05:00"
+    "updated_raw": "2026-11-16T07:17:21-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -31561,6 +31561,11 @@
    "https://careers.sharkninja.com"
   ],
   "ids": {
+   "https://careers.sharkninja.com/job/london/electronical-engineer-intern/47204/103375091904": {
+    "first_seen": "2026-11-16 12:26 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Electronical Engineer Intern"
+   },
    "https://careers.sharkninja.com/job/needham/spring-2027-ai-sharks-applied-ai-and-analytics-co-op-january-to-june/47204/103193502560": {
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-16",
