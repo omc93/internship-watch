@@ -5374,7 +5374,7 @@
    },
    "297299": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "posted_raw": "2026-11-10T18:15:48.031+0000",
     "title": "27 Intern | US | Human Resources"
    },
@@ -5500,7 +5500,7 @@
    },
    "297674": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "posted_raw": "2026-11-10T18:15:48.031+0000",
     "title": "27 Intern | US | Quality/Six Sigma"
    }
@@ -16872,7 +16872,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -16902,7 +16902,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -28237,6 +28237,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Safety and Reliability Intern (Onsite)"
    },
+   "01873971": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971"
+    ],
+    "first_seen": "2026-11-16 05:10 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineering - Summer Intern 2027 - Onsite"
+   },
    "01873973": {
     "aliases": [
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973"
@@ -28831,6 +28840,15 @@
     "posted_raw": "Posted 10 Days Ago",
     "title": "Enterprise Services Engineering Co-Op (Spring/Summer 2027)"
    },
+   "01885225": {
+    "aliases": [
+     "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225"
+    ],
+    "first_seen": "2026-11-16 05:10 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "2027 Summer Intern - Software Engineering - Onsite"
+   },
    "01885502": {
     "aliases": [
      "/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502"
@@ -29388,6 +29406,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite"
+   },
+   "01889105": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027----Onsite_01889105"
+    ],
+    "first_seen": "2026-11-16 05:10 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineering Intern (Summer 2027) - Onsite"
    },
    "01889376": {
     "aliases": [
@@ -30474,7 +30501,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-15T23:02:07-05:00"
+    "updated_raw": "2026-11-15T23:46:56-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
