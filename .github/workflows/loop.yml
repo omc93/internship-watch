@@ -1,11 +1,17 @@
 name: Internship watch (continuous)
 
-# GitHub's scheduler only fired a few times a day, so this job keeps itself going:
-# it checks, waits 45 minutes, checks again, and starts a fresh copy of itself
-# before GitHub's 6-hour job limit. The scheduled "Internship watch" workflow
-# restarts it if it ever stops.
+# GitHub's scheduler only fired a few times a day, so this workflow keeps itself going:
+# each run does one full check, waits 45 minutes, then starts the next run. Every run
+# gets a fresh machine and network address, which matters because Workday limits how
+# much one address may ask. If Workday limited this run, the next one starts after
+# 5 minutes instead (at most 3 quick retries in a row). The scheduled "Internship
+# watch" workflow restarts this one if it ever stops.
 on:
   workflow_dispatch:
+    inputs:
+      streak:
+        description: "Quick retries already used (set automatically)"
+        default: "0"
 
 permissions:
   contents: write
@@ -18,11 +24,11 @@ concurrency:
 jobs:
   loop:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check every 45 minutes
+      - name: Check companies
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
@@ -30,22 +36,28 @@ jobs:
         run: |
           git config user.name "internship-watch"
           git config user.email "internship-watch@users.noreply.github.com"
-          for i in 1 2 3 4 5 6; do
-            git pull -q --rebase origin main || true
-            python3 watch.py || echo "This check failed; continuing."
-            date +%s > state/last_run
-            git add state STATUS.md
-            git add ALERTS.md REVIEW.md 2>/dev/null || true
-            if ! git diff --cached --quiet; then
-              git commit -q -m "Update seen postings"
-              git push -q || (git pull -q --rebase origin main && git push -q) || echo "Push failed; will retry next round."
-            fi
-            if [ "$i" -lt 6 ]; then sleep 2700; fi
-          done
+          python3 watch.py || echo "This check failed."
+          date +%s > state/last_run
+          git add state STATUS.md
+          git add ALERTS.md REVIEW.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Update seen postings"
+            git push -q || (git pull -q --rebase origin main && git push -q) || echo "Push failed; next run will retry."
+          fi
 
-      - name: Start the next cycle
+      - name: Wait, then start the next check
         if: ${{ !cancelled() }}
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-        run: gh workflow run loop.yml --ref main
+          STREAK: ${{ inputs.streak }}
+        run: |
+          streak=${STREAK:-0}
+          if [ -f .workday_blocked ] && [ "$streak" -lt 3 ]; then
+            echo "Workday limited this run; retrying from a fresh machine in 5 minutes."
+            wait=300; next=$((streak + 1))
+          else
+            wait=2700; next=0
+          fi
+          sleep "$wait"
+          gh workflow run loop.yml --ref main -f streak="$next"

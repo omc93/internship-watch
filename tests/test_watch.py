@@ -227,6 +227,37 @@ class Flow(unittest.TestCase):
         self.round = 2; watch.main()
         self.assertEqual(len(sent), 1)                          # not repeated
 
+    def test_workday_rate_limit_is_not_a_company_failure(self):
+        def limited(url, data=None, headers=None, method=None, as_json=True):
+            raise urllib.error.HTTPError(url, 429, "Too Many Requests", {}, None)
+        many = [dict(WD, name=f"Co {i}", ats=("workday", f"https://co{i}.wd1.myworkdayjobs.com/Ext"))
+                for i in range(5)]
+        sent, work = run_flow(self, limited, many)
+        real_sleep, watch.time.sleep = watch.time.sleep, lambda s: None
+        self.addCleanup(setattr, watch.time, "sleep", real_sleep)
+        self.addCleanup(watch._WD.update, {"blocked": False, "strikes": 0, "requests": 0})
+        watch.main()
+        self.assertEqual(sent, [])                               # no "check broken" spam
+        with open(os.path.join(work, "state", "resolved.json")) as f:
+            res = json.load(f)
+        self.assertTrue(all(v["status"] == "blocked" and v.get("fails", 0) == 0 for v in res.values()))
+        self.assertTrue(os.path.exists(os.path.join(work, ".workday_blocked")))
+
+    def test_workday_recent_scan_stops_at_old_postings(self):
+        calls = []
+        old_jobs = [self.job(f"JR{2000 + i}", f"Engineer {i}", f"/job/TX/E_{i}", "Posted 9 Days Ago") for i in range(20)]
+
+        def fake(url, data=None, headers=None, method=None, as_json=True):
+            calls.append((data or {}).get("searchText"))
+            return {"total": 500, "jobPostings": old_jobs}
+        real, watch._workday_full_scan_due = watch._workday_full_scan_due, lambda t: False
+        self.addCleanup(setattr, watch, "_workday_full_scan_due", real)
+        saved = watch.http
+        watch.http = fake
+        self.addCleanup(setattr, watch, "http", saved)
+        watch.fetch_workday(WD["ats"][1])
+        self.assertEqual(calls, [""])                            # one request, no keyword scan
+
     def test_old_state_keyed_by_path_is_recognised_after_upgrade(self):
         a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
         sent, work = run_flow(self, self.workday([[a]]), [WD], mode="newly_discovered")

@@ -161,23 +161,75 @@ _WD_LOCKS = {}
 _WD_GUARD = threading.Lock()
 
 
-def _workday_post(api, payload):
-    """POST to a Workday job search. Workday hosts answer with a non-JSON page when they are
-    busy or in maintenance, so requests to one host go one at a time, with retries."""
-    host = urllib.parse.urlparse(api).netloc.split(".", 1)[-1]        # e.g. wd5.myworkdayjobs.com
+class WorkdayBlocked(Exception):
+    """Workday is rate-limiting this machine (HTTP 429). Not a fault of any one company."""
+
+
+_WD = {"blocked": False, "strikes": 0, "requests": 0}
+WD_GAP_SECONDS = 0.4          # pause after every Workday request, per Workday data centre
+WD_FULL_SCAN_EVERY_HOURS = 24  # full keyword scan per company; other passes read only the newest jobs
+WD_RECENT_PAGES = 15
+
+
+def _workday_call(url, payload=None):
+    """One request to a Workday site: one at a time per data centre, paced, with back-off.
+
+    Workday answers 429 when an address sends too much, and a non-JSON page during
+    maintenance. After repeated 429s the rest of this run skips Workday entirely.
+    """
+    if _WD["blocked"]:
+        raise WorkdayBlocked()
+    host = urllib.parse.urlparse(url).netloc.split(".", 1)[-1]        # e.g. wd5.myworkdayjobs.com
     with _WD_GUARD:
-        lock = _WD_LOCKS.setdefault(host, threading.Semaphore(2))
-    for wait in (0, 3, 8, 20):
-        time.sleep(wait)
+        lock = _WD_LOCKS.setdefault(host, threading.Semaphore(1))
+    for wait in (0, 6, 20):
         with lock:
+            if _WD["blocked"]:
+                raise WorkdayBlocked()
+            time.sleep(wait)
             try:
-                return http(api, payload)
+                _WD["requests"] += 1
+                result = http(url, payload)
+                _WD["strikes"] = 0
+                time.sleep(WD_GAP_SECONDS)
+                return result
             except json.JSONDecodeError:
-                continue
+                continue                                   # maintenance page: retry, then give up
+            except urllib.error.HTTPError as e:
+                if e.code != 429:
+                    raise
+                _WD["strikes"] += 1
+                if _WD["strikes"] >= 6:
+                    _WD["blocked"] = True
+                    raise WorkdayBlocked()
+    if _WD["strikes"]:
+        raise WorkdayBlocked()
     raise ValueError("Workday did not return job data (busy or in maintenance)")
 
 
+def _workday_age(posted_on):
+    """Days since posting from Workday's "Posted 3 Days Ago" text, or None."""
+    t = (posted_on or "").lower()
+    if "today" in t:
+        return 0
+    if "yesterday" in t:
+        return 1
+    m = re.search(r"(\d+)\+?\s*days?", t)
+    return int(m.group(1)) if m else None
+
+
+def _workday_full_scan_due(tenant):
+    """Spread each company's daily full scan over the day."""
+    import zlib
+    if os.environ.get("WD_FULL_SCAN"):
+        return True
+    return (zlib.crc32(tenant.encode()) + int(time.time() // 3600)) % WD_FULL_SCAN_EVERY_HOURS == 0
+
+
 def fetch_workday(url):
+    """Workday lists jobs newest first when no search word is given, so most passes
+    read only the newest pages (a few requests). Once a day each company also gets
+    a full keyword scan, which keeps the record of open internships complete."""
     p = urllib.parse.urlparse(url)
     segs = [s for s in p.path.split("/") if s and not re.fullmatch(r"[a-z]{2}-[A-Z]{2}", s)]
     if "myworkdaysite.com" in p.netloc:          # wdN.myworkdaysite.com/recruiting/TENANT/SITE
@@ -189,30 +241,42 @@ def fetch_workday(url):
         api = f"https://{p.netloc}/wday/cxs/{tenant}/{site}/jobs"
         link_base = f"https://{p.netloc}/{site}"
     out = {}
-    for text in ("intern", "internship", "co-op"):
+
+    def add(jobs):
+        for j in jobs:
+            path = j.get("externalPath", "")
+            # The requisition number is stable; the path changes when a title is edited.
+            req = next((b for b in (j.get("bulletFields") or [])
+                        if re.fullmatch(r"[A-Za-z]{0,8}[-_]?\d[\d_-]{2,}", str(b).strip())), None)
+            out[path] = posting(req or path, j.get("title", ""), f"{link_base}{path}",
+                                j.get("locationsText", ""), j.get("postedOn", ""),
+                                aliases=[path], detail=api[:-len("/jobs")] + path)
+
+    def pages(text, max_pages, stop_when_old):
         offset, total = 0, None
-        while offset < 400:
+        while offset < max_pages * 20:
             try:
-                d = _workday_post(api, {"appliedFacets": {}, "limit": 20, "offset": offset,
+                d = _workday_call(api, {"appliedFacets": {}, "limit": 20, "offset": offset,
                                         "searchText": text})
             except ValueError:
                 if not out:
                     raise                  # nothing at all: report the company as failing
-                break                      # keep what was read; the rest is picked up next run
+                return                     # keep what was read; the rest is picked up next run
             if total is None:
                 total = d.get("total", 0)
             jobs = d.get("jobPostings", [])
-            for j in jobs:
-                path = j.get("externalPath", "")
-                # The requisition number is stable; the path changes when a title is edited.
-                req = next((b for b in (j.get("bulletFields") or [])
-                            if re.fullmatch(r"[A-Za-z]{0,8}[-_]?\d[\d_-]{2,}", str(b).strip())), None)
-                out[path] = posting(req or path, j.get("title", ""), f"{link_base}{path}",
-                                    j.get("locationsText", ""), j.get("postedOn", ""),
-                                    aliases=[path], detail=api[:-len("/jobs")] + path)
+            add(jobs)
             offset += 20
+            ages = [_workday_age(j.get("postedOn")) for j in jobs]
             if not jobs or offset >= total:
-                break
+                return
+            if stop_when_old and all(a is not None and a >= 3 for a in ages):
+                return                     # everything from here on is older than the alert window
+
+    pages("", WD_RECENT_PAGES, True)                       # newest jobs, every pass
+    if _workday_full_scan_due(tenant):
+        for text in ("intern", "internship", "co-op"):
+            pages(text, 20, False)
     # If a "requisition number" is shared by several postings it is not an identity
     # (some sites put other values in that field): fall back to the path for those.
     counts = {}
@@ -876,7 +940,7 @@ def enrich(kind, p):
     text = ""
     try:
         if kind == "workday" and p.get("detail"):
-            info = http(p["detail"]).get("jobPostingInfo") or {}
+            info = _workday_call(p["detail"]).get("jobPostingInfo") or {}
             text = clean(info.get("jobDescription", ""))
             if info.get("jobReqId"):
                 p["req"] = info["jobReqId"]
@@ -918,6 +982,8 @@ def enrich(kind, p):
                     _from_page(p, page)
                     text = _page_text(page)
                     break
+    except WorkdayBlocked:
+        p["status"] = "listed"             # it was in the employer's live feed moments ago
     except urllib.error.HTTPError as e:
         p["status"] = "closed" if e.code in (404, 410) else "unverified"   # 403 = blocked, not closed
     except Exception:
@@ -941,6 +1007,9 @@ def check(company, resolved):
         cand = tuple(cand)
         try:
             return {"status": "ok", "ats": list(cand), "jobs": run_ats(cand), "note": source}
+        except WorkdayBlocked:
+            return {"status": "blocked", "ats": list(cand), "jobs": [],
+                    "note": "Workday is rate-limiting this run; will retry next run"}
         except Exception as e:
             errors.append(f"{cand[0]} failed ({type(e).__name__}: {str(e)[:80]})")
     last = resolved.get(name, {}).get("last_discovery", 0)
@@ -1004,7 +1073,10 @@ def main():
             entry["last_discovery"] = time.time()
         entry["note"] = r.get("note", "")
         entry["status"] = r["status"]
-        entry["fails"] = 0 if r["status"] == "ok" else entry.get("fails", 0) + 1
+        if r["status"] == "ok":
+            entry["fails"] = 0
+        elif r["status"] != "blocked":         # a rate-limited run says nothing about the company
+            entry["fails"] = entry.get("fails", 0) + 1
 
         interns = list({p["id"]: p for p in r["jobs"] if is_internship(p)}.values())
         state = seen.setdefault(name, {"seeded": False, "ids": {}})
@@ -1104,13 +1176,20 @@ def main():
         for n, p, why in review:
             print(f"REVIEW  {n}: {p['title']}  [{'; '.join(why)}]  {p['url']}")
 
-    # Warn once when a company that used to work has failed for 12 checks in a row.
-    for company, r in results:
-        e = resolved[company["name"]]
-        if e["fails"] == 12 and seen.get(company["name"], {}).get("seeded"):
-            notify(f"Check broken: {company['name']}",
-                   "This company's job site has failed for about 12 hours. "
-                   "Ask Claude to look at it.", tags="warning")
+    # One summary (never one alert per company) when companies that used to work have
+    # failed 24 checks in a row, i.e. for roughly a day.
+    broken = [c["name"] for c, r in results
+              if resolved[c["name"]].get("fails") == 24 and seen.get(c["name"], {}).get("seeded")]
+    if broken:
+        notify(f"{len(broken)} company check(s) failing for about a day",
+               ", ".join(broken[:12]) + (f" and {len(broken) - 12} more" if len(broken) > 12 else "")
+               + ". Details are in STATUS.md. Ask Claude to look at it.", tags="warning", priority="low")
+    blocked_file = os.path.join(ROOT, ".workday_blocked")
+    if _WD["blocked"]:
+        open(blocked_file, "w").write(now)
+    elif os.path.exists(blocked_file):
+        os.remove(blocked_file)
+    print(f"Workday requests this run: {_WD['requests']}" + (" (rate-limited; stopped early)" if _WD["blocked"] else ""))
 
     def prepend(path, header, lines):
         try:
@@ -1158,8 +1237,10 @@ def main():
 
 
 def write_status(rows, alerts, now):
+    waiting = sum(1 for r in rows if r[2] == "blocked")
     lines = ["# Internship watch status\n",
-             f"Working: {sum(1 for r in rows if r[2] == 'ok')} of {len(rows)} companies\n"]
+             f"Working: {sum(1 for r in rows if r[2] == 'ok')} of {len(rows)} companies"
+             + (f" ({waiting} more waiting out a Workday rate limit)" if waiting else "") + "\n"]
     if alerts:
         lines.append("\n## New this run\n")
         for name, p in alerts:
@@ -1170,7 +1251,7 @@ def write_status(rows, alerts, now):
             group = g
             lines += [f"\n## {g}\n", "| Company | Status | System | Open engineering internships | Note |",
                       "|---|---|---|---|---|"]
-        icon = {"ok": "✅", "skipped": "⏭️"}.get(status, "❌")
+        icon = {"ok": "✅", "skipped": "⏭️", "blocked": "⏳"}.get(status, "❌")
         lines.append(f"| {name} | {icon} {status} | {kind} | {interns if status == 'ok' else ''} "
                      f"| {note.replace('|', '/')[:120]} |")
     with open(STATUS_FILE, "w") as f:
