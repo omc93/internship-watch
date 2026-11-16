@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-16 20:03 UTC · **Intuitive Surgical** · [Clinical Research Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161896920) · fit (general engineering) | Sunnyvale, CA, us [US] | employer-reported Nov 16 01:41 PM CT | found Nov 16 02:03 PM CT | ID 744000161896920 | open
 - 2026-11-16 19:46 UTC · **Textron (Textron Aviation, Bell, university hiring)** · [2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=342956&lang=en) · strong fit (mechanical) | US-Maryland-Hunt Valley [US] | employer-reported Nov 16 | found Nov 16 01:46 PM CT | ID 342956 | listed
 - 2026-11-16 19:46 UTC · **Viasat** · [Manufacturing Engineering Intern](https://careers.viasat.com/jobs/7004) · fit (manufacturing) | Tempe, Arizona, United States [US] | employer-reported Nov 16 01:37 PM CT | found Nov 16 01:46 PM CT | ID 7004 | listed
 - 2026-11-16 19:46 UTC · **Intuitive Surgical** · [Mechanical Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161896235) · strong fit (mechanical) | Blacksburg, VA, us [US] | employer-reported Nov 16 01:37 PM CT | found Nov 16 01:46 PM CT | ID 744000161896235 | listed
