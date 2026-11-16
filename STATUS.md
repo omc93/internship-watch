@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 353 of 535 companies
+Working: 352 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -156,7 +156,7 @@ Working: 353 of 535 companies
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 31 | cache |
+| ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ✅ ok | workday | 9 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 0 | cache |
@@ -313,7 +313,7 @@ Working: 353 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ✅ ok | workday | 27 | config |
-| Oshkosh | ✅ ok | phenom | 38 | cache |
+| Oshkosh | ✅ ok | phenom | 37 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 21 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -444,13 +444,13 @@ Working: 353 of 535 companies
 |---|---|---|---|---|
 | Allegion | ✅ ok | workday | 21 | cache |
 | AMETEK | ✅ ok | successfactors | 9 | config |
-| Baker Hughes | ✅ ok | phenom | 8 | cache |
+| Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 0 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 0 | config |
 | Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
-| Eaton | ✅ ok | eightfold | 27 | config |
+| Eaton | ❌ error |  |  | eightfold failed (HTTPError: HTTP Error 429: TOO MANY REQUESTS) / eightfold failed (HTTPError: HTTP Error 429: TOO MANY  |
 | Emerson / National Instruments | ✅ ok | oracle | 13 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | greenhouse | 0 | cache |
