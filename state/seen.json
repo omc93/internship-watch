@@ -6584,7 +6584,7 @@
    },
    "15537": {
     "first_seen": "2026-11-12 01:48 UTC",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "posted_raw": "9/21/26",
     "title": "Intern, Research & Technology: EcoJet Project Management (Winter 2027)"
    },
@@ -7755,6 +7755,21 @@
     "first_seen": "2026-11-16 10:40 UTC",
     "last_seen": "2026-11-16",
     "title": "Internship Assignment (students only)- Business Analysis Intern TAC"
+   },
+   "1450894800": {
+    "first_seen": "2026-11-16 15:13 UTC",
+    "last_seen": "2026-11-16",
+    "title": "AI Engineering Intern (Generative & Agentic AI)"
+   },
+   "1450895300": {
+    "first_seen": "2026-11-16 15:13 UTC",
+    "last_seen": "2026-11-16",
+    "title": "AI Acceleration Intern"
+   },
+   "1450907700": {
+    "first_seen": "2026-11-16 15:13 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Product Data Analyst Intern"
    }
   },
   "seeded": true
@@ -10380,6 +10395,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-12",
     "title": "User Experience (UX) Research Intern"
+   },
+   "302688": {
+    "first_seen": "2026-11-16 15:13 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16",
+    "title": "User Research Graduate Intern"
    }
   },
   "seeded": true
@@ -30623,7 +30644,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T09:02:34-05:00"
+    "updated_raw": "2026-11-16T10:02:51-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -38225,7 +38246,14 @@
    "ukg",
    "https://recruiting.ultipro.com/WIL1006WI/JobBoard/b5d9d0d6-a149-4636-95d5-8dfede315cab"
   ],
-  "ids": {},
+  "ids": {
+   "c76a70ef-3ba2-4b57-83fd-0823951a17d6": {
+    "first_seen": "2026-11-16 15:13 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:41:50.636Z",
+    "title": "Intern (Engineering) (Summer 2027)"
+   }
+  },
   "seeded": true
  },
  "Wing": {

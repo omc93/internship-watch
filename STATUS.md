@@ -103,7 +103,7 @@ Working: 275 of 535 companies
 | Lunar Outpost | ✅ ok | bamboohr | 1 | cache |
 | Voyager Technologies | ✅ ok | greenhouse | 3 | cache |
 | Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
-| Benchmark Space Systems | ✅ ok | breezy | 6 | config |
+| Benchmark Space Systems | ✅ ok | breezy | 5 | config |
 | X-Bow Systems | ❌ unresolved |  |  | no job system found on careers page |
 | Astra | ✅ ok | ashby | 0 | cache |
 | Skyryse | ✅ ok | greenhouse | 0 | cache |
@@ -121,7 +121,7 @@ Working: 275 of 535 companies
 | Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
 | Garmin | ❌ unresolved |  |  | no job system found on careers page |
 | Leidos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| KBR | ✅ ok | phenom | 4 | cache |
+| KBR | ✅ ok | phenom | 3 | cache |
 | Jacobs | ❌ unresolved |  |  | no job system found on careers page |
 | Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
@@ -159,7 +159,7 @@ Working: 275 of 535 companies
 | ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://cartech.wd5.myworkdayjobs.com/CTCExterna |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
-| Williams International | ✅ ok | ukg | 0 | cache |
+| Williams International | ✅ ok | ukg | 1 | cache |
 | Hartzell Propeller | ❌ unresolved |  |  | no job system found on careers page |
 | MTU Aero Engines North America | ❌ unresolved |  |  | no job system found on careers page |
 | Elbit America | ❌ unresolved |  |  | no job system found on careers page |
@@ -251,7 +251,7 @@ Working: 275 of 535 companies
 | Sonos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
-| SharkNinja | ✅ ok | radancy | 16 | cache |
+| SharkNinja | ✅ ok | radancy | 15 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
 | YETI | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
@@ -308,12 +308,12 @@ Working: 275 of 535 companies
 | General Motors | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
 | Honda | ✅ ok | phenom | 4 | cache |
-| John Deere | ✅ ok | successfactors | 1 | config |
+| John Deere | ✅ ok | successfactors | 2 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Oshkosh | ✅ ok | phenom | 36 | cache |
+| Oshkosh | ✅ ok | phenom | 38 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 17 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -461,7 +461,7 @@ Working: 275 of 535 companies
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 20 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 28 | cache |
+| ITW | ✅ ok | phenom | 29 | cache |
 | Jabil | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Career |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
