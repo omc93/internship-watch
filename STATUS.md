@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 278 of 535 companies
+Working: 277 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -56,7 +56,7 @@ Working: 278 of 535 companies
 | True Anomaly | ✅ ok | greenhouse | 0 | config |
 | United Launch Alliance | ✅ ok | successfactors | 9 | config |
 | Vast Space | ✅ ok | greenhouse | 0 | cache |
-| Wisk Aero | ✅ ok | workday | 0 | cache |
+| Wisk Aero | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://wisk.wd108.myworkdayjobs.com/Wisk_Career |
 | Woodward | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://woodward.wd5.myworkdayjobs.com/woodward  |
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 20 | config |
@@ -97,39 +97,39 @@ Working: 278 of 535 companies
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
-| Lanteris Space Systems | ❌ error |  |  | careers page: HTTPError |
+| Lanteris Space Systems | ❌ unresolved |  |  | careers page: HTTPError |
 | Terran Orbital | ✅ ok | greenhouse | 0 | cache |
-| Astrolab | ❌ error |  |  | careers page: HTTPError |
+| Astrolab | ❌ unresolved |  |  | careers page: HTTPError |
 | Lunar Outpost | ✅ ok | bamboohr | 1 | cache |
 | Voyager Technologies | ✅ ok | greenhouse | 3 | cache |
-| Agile Space Industries | ❌ error |  |  | no job system found on careers page |
+| Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Benchmark Space Systems | ✅ ok | breezy | 6 | config |
-| X-Bow Systems | ❌ error |  |  | no job system found on careers page |
+| X-Bow Systems | ❌ unresolved |  |  | no job system found on careers page |
 | Astra | ✅ ok | ashby | 0 | cache |
 | Skyryse | ✅ ok | greenhouse | 0 | cache |
 | Merlin Labs | ✅ ok | lever | 0 | cache |
-| ZeroAvia | ❌ error |  |  | careers page: HTTPError |
+| ZeroAvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Pyka | ✅ ok | lever | 2 | cache |
 | Elroy Air | ✅ ok | lever | 0 | cache |
 | Wing | ✅ ok | greenhouse | 7 | cache |
 | Saronic | ✅ ok | ashby | 4 | cache |
-| Ducommun | ❌ error |  |  | no job system found on careers page |
-| HEICO | ❌ error |  |  | no job system found on careers page |
-| Kaman | ❌ error |  |  | no job system found on careers page |
-| Kratos | ❌ error |  |  | no job system found on careers page |
-| GKN Aerospace | ❌ error |  |  | careers page: HTTPError |
-| Piper Aircraft | ❌ error |  |  | no job system found on careers page |
-| Garmin | ❌ error |  |  | no job system found on careers page |
+| Ducommun | ❌ unresolved |  |  | no job system found on careers page |
+| HEICO | ❌ unresolved |  |  | no job system found on careers page |
+| Kaman | ❌ unresolved |  |  | no job system found on careers page |
+| Kratos | ❌ unresolved |  |  | no job system found on careers page |
+| GKN Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
+| Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
+| Garmin | ❌ unresolved |  |  | no job system found on careers page |
 | Leidos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | KBR | ✅ ok | phenom | 4 | cache |
-| Jacobs | ❌ error |  |  | no job system found on careers page |
-| Phase Four | ❌ error |  |  | careers page: URLError |
+| Jacobs | ❌ unresolved |  |  | no job system found on careers page |
+| Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
 | Vantor | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://maxar.wd1.myworkdayjobs.com/Vantor HTTPE |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
-| Argo Space | ❌ error |  |  | no job system found on careers page |
+| Argo Space | ❌ unresolved |  |  | no job system found on careers page |
 | Aerospace Corporation | ❌ unresolved |  |  | careers page: HTTPError |
 | Draper | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | General Dynamics Mission Systems | ✅ ok | jibe | 48 | cache |
@@ -199,7 +199,7 @@ Working: 278 of 535 companies
 | Stryker | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Medtronic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Boston Scientific | ✅ ok | successfactors | 1 | cache |
-| Zimmer Biomet | ✅ ok | phenom | 4 | cache |
+| Zimmer Biomet | ✅ ok | phenom | 3 | cache |
 | Globus Medical | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://globusmedical.wd5.myworkdayjobs.com/GMED |
 | PROCEPT BioRobotics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://proceptbiorobotics.wd108.myworkdayjobs.c |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
@@ -220,18 +220,18 @@ Working: 278 of 535 companies
 | Pickle Robot | ✅ ok | lever | 0 | cache |
 | Plus One Robotics | ✅ ok | bamboohr | 0 | config |
 | Outrider | ✅ ok | greenhouse | 0 | cache |
-| Gatik | ❌ error |  |  | no job system found on careers page |
+| Gatik | ❌ unresolved |  |  | no job system found on careers page |
 | Applied Intuition | ✅ ok | ashby | 2 | cache |
 | Physical Intelligence | ✅ ok | ashby | 1 | cache |
 | Sanctuary AI | ✅ ok | ashby | 0 | cache |
 | Berkshire Grey | ✅ ok | bamboohr | 1 | config |
-| Seegrid | ❌ error |  |  | no job system found on careers page |
-| Vecna Robotics | ❌ error |  |  | no job system found on careers page |
+| Seegrid | ❌ unresolved |  |  | no job system found on careers page |
+| Vecna Robotics | ❌ unresolved |  |  | no job system found on careers page |
 | Exotec | ✅ ok | workable | 0 | config |
 | Brinc | ✅ ok | ashby | 0 | cache |
 | Flock Safety | ✅ ok | ashby | 0 | cache |
-| Vicarious Surgical | ❌ error |  |  | greenhouse:vicarioussurgical HTTPError |
-| Moon Surgical | ❌ error |  |  | careers page: HTTPError |
+| Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
+| Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
 | Johnson & Johnson | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Abbott | ✅ ok | phenom | 2 | cache |
 | Edwards Lifesciences | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
@@ -241,26 +241,26 @@ Working: 278 of 535 companies
 | Thermo Fisher | ✅ ok | phenom | 0 | cache |
 | Illumina | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
-| NXP | ❌ error |  |  | careers page: HTTPError |
+| NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
 | Tokyo Electron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Silicon Labs | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Cirrus Logic | ❌ error |  |  | no job system found on careers page |
-| Infineon | ❌ error |  |  | no job system found on careers page |
+| Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
+| Infineon | ❌ unresolved |  |  | no job system found on careers page |
 | HP | ✅ ok | greenhouse | 0 | cache |
 | Sonos | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| GoPro | ❌ error |  |  | careers page: HTTPError |
+| GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 16 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
 | YETI | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Trek Bicycle | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://trekbikes.wd1.myworkdayjobs.com/TREK HTT |
-| SRAM | ❌ error |  |  | no job system found on careers page |
+| SRAM | ❌ unresolved |  |  | no job system found on careers page |
 | Fox Factory | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://foxfactory.wd1.myworkdayjobs.com/FOX HTT |
 | Specialized | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://specialized.wd5.myworkdayjobs.com/Specia |
 | Logitech | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://logitech.wd5.myworkdayjobs.com/Logitech  |
-| Bose | ❌ error |  |  | careers page: HTTPError |
+| Bose | ❌ unresolved |  |  | careers page: HTTPError |
 | Toyota Research Institute | ✅ ok | lever | 16 | config |
 | RAI Institute | ✅ ok | lever | 2 | cache |
 | Blue River Technology | ✅ ok | greenhouse | 0 | cache |
@@ -313,7 +313,7 @@ Working: 278 of 535 companies
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Oshkosh | ✅ ok | phenom | 38 | cache |
+| Oshkosh | ✅ ok | phenom | 34 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 17 | config |
 | Rivian | ✅ ok | jibe | 18 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -369,28 +369,28 @@ Working: 278 of 535 companies
 | Group14 | ✅ ok | greenhouse | 0 | cache |
 | ChargePoint | ✅ ok | greenhouse | 2 | cache |
 | Blue Bird | ✅ ok | ukg | 10 | config |
-| Thor Industries | ❌ error |  |  | no job system found on careers page |
-| Winnebago Industries | ❌ error |  |  | no job system found on careers page |
+| Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Brunswick | ✅ ok | ashby | 0 | cache |
-| Yamaha Motor USA | ❌ error |  |  | no job system found on careers page |
+| Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
 | BRP | ✅ ok | phenom | 0 | cache |
 | Gentex | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://gentex.wd5.myworkdayjobs.com/Gentex HTTP |
-| Autoliv | ❌ error |  |  | no job system found on careers page |
+| Autoliv | ❌ unresolved |  |  | no job system found on careers page |
 | Tenneco | ✅ ok | successfactors | 0 | cache |
 | Schaeffler | ✅ ok | successfactors | 3 | config |
 | Valeo | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://valeo.wd3.myworkdayjobs.com/valeo_jobs H |
-| Forvia | ❌ error |  |  | careers page: HTTPError |
+| Forvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Nexteer | ✅ ok | successfactors | 6 | cache |
-| Visteon | ❌ error |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
+| Visteon | ❌ unresolved |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
 | Garrett Motion | ✅ ok | oracle | 0 | cache |
 | Modine | ✅ ok | successfactors | 1 | cache |
 | Timken | ✅ ok | successfactors | 1 | cache |
 | Gates | ✅ ok | successfactors | 0 | cache |
 | Cooper Standard | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Mack Trucks | ❌ error |  |  | careers page: HTTPError |
+| Mack Trucks | ❌ unresolved |  |  | careers page: HTTPError |
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
-| Bollinger Motors | ❌ error |  |  | careers page: HTTPError |
+| Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
 | Textron Specialized Vehicles | ✅ ok | taleo | 14 | config |
 | Polestar | ❌ unresolved |  |  | careers page: HTTPError |
 | Porsche Cars North America | ❌ unresolved |  |  | careers page: HTTPError |
@@ -444,7 +444,7 @@ Working: 278 of 535 companies
 |---|---|---|---|---|
 | Allegion | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://allegion.wd5.myworkdayjobs.com/careers H |
 | AMETEK | ✅ ok | successfactors | 9 | config |
-| Baker Hughes | ✅ ok | phenom | 10 | cache |
+| Baker Hughes | ✅ ok | phenom | 9 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 2 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
@@ -479,7 +479,7 @@ Working: 278 of 535 companies
 | ExxonMobil | ✅ ok | successfactors | 2 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
 | Shell USA | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| ConocoPhillips | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://conocophillips.wd1.myworkdayjobs.com/Ext |
+| ConocoPhillips | ✅ ok | workday | 0 | cache |
 | Phillips 66 | ✅ ok | successfactors | 2 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
 | SLB | ❌ unresolved |  |  | no job system found on careers page |
@@ -502,54 +502,54 @@ Working: 278 of 535 companies
 | Micron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://micron.wd1.myworkdayjobs.com/External HT |
 | Johnson Controls | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Otis | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Kohler | ❌ error |  |  | careers page: URLError |
+| Kohler | ❌ unresolved |  |  | careers page: URLError |
 | Generac | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Bloom Energy | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
-| Rheem | ❌ error |  |  | no job system found on careers page |
-| Siemens Energy | ❌ error |  |  | no job system found on careers page |
+| Rheem | ❌ unresolved |  |  | no job system found on careers page |
+| Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Mitsubishi Power Americas | ✅ ok | successfactors | 3 | cache |
-| Toro | ❌ error |  |  | careers page: HTTPError |
-| Lincoln Electric | ❌ error |  |  | careers page: HTTPError |
-| Kennametal | ❌ error |  |  | no job system found on careers page |
-| Nordson | ❌ error |  |  | careers page: HTTPError |
+| Toro | ❌ unresolved |  |  | careers page: HTTPError |
+| Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
+| Kennametal | ❌ unresolved |  |  | no job system found on careers page |
+| Nordson | ❌ unresolved |  |  | careers page: HTTPError |
 | Graco | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://graco.wd501.myworkdayjobs.com/Graco_Care |
-| Dover | ❌ error |  |  | careers page: HTTPError |
-| IDEX | ❌ error |  |  | no job system found on careers page |
+| Dover | ❌ unresolved |  |  | careers page: HTTPError |
+| IDEX | ❌ unresolved |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
-| Pentair | ✅ ok | phenom | 0 | cache |
-| Regal Rexnord | ❌ error |  |  | careers page: HTTPError |
+| Pentair | ✅ ok | phenom | 1 | cache |
+| Regal Rexnord | ❌ unresolved |  |  | careers page: HTTPError |
 | Chart Industries | ✅ ok | successfactors | 0 | cache |
 | Plug Power | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://plugpower.wd5.myworkdayjobs.com/Plug_Pow |
-| Enphase | ❌ error |  |  | no job system found on careers page |
+| Enphase | ❌ unresolved |  |  | no job system found on careers page |
 | First Solar | ✅ ok | oracle | 14 | cache |
-| Fluence | ❌ error |  |  | careers page: HTTPError |
+| Fluence | ❌ unresolved |  |  | careers page: HTTPError |
 | Oklo | ✅ ok | greenhouse | 0 | cache |
-| NuScale | ❌ error |  |  | careers page: HTTPError |
+| NuScale | ❌ unresolved |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
 | Westinghouse | ✅ ok | successfactors | 4 | cache |
 | BWX Technologies | ✅ ok | successfactors | 2 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
-| Type One Energy | ❌ error |  |  | no job system found on careers page |
+| Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
 | Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
 | Bechtel | ✅ ok | phenom | 14 | cache |
-| Fluor | ❌ error |  |  | no job system found on careers page |
-| Burns & McDonnell | ❌ error |  |  | no job system found on careers page |
-| Quanta Services | ❌ error |  |  | no job system found on careers page |
+| Fluor | ❌ unresolved |  |  | no job system found on careers page |
+| Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
+| Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
 | Vistra | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://vst.wd5.myworkdayjobs.com/vistra_careers |
-| NRG | ❌ error |  |  | careers page: HTTPError |
+| NRG | ❌ unresolved |  |  | careers page: HTTPError |
 | Oncor | ✅ ok | ukg | 2 | config |
 | CenterPoint Energy | ✅ ok | successfactors | 0 | cache |
 | NextEra Energy | ✅ ok | successfactors | 1 | cache |
-| Solar Turbines | ❌ error |  |  | careers page: HTTPError |
-| Hexcel | ✅ ok | workday | 0 | found on careers page |
-| Sandia National Labs | ❌ error |  |  | no job system found on careers page |
-| Los Alamos National Lab | ❌ error |  |  | careers page: HTTPError |
+| Solar Turbines | ❌ unresolved |  |  | careers page: HTTPError |
+| Hexcel | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://hexcel.wd5.myworkdayjobs.com/HexcelCaree |
+| Sandia National Labs | ❌ unresolved |  |  | no job system found on careers page |
+| Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
 | NASA JPL | ✅ ok | phenom | 1 | cache |
-| Southwest Research Institute | ❌ error |  |  | no job system found on careers page |
+| Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
 | MIT Lincoln Laboratory | ✅ ok | successfactors | 3 | cache |
 
