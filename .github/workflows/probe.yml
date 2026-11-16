@@ -44,3 +44,4 @@ jobs:
           PEEK: ${{ inputs.peek }}
           SF_DUMP: ${{ inputs.sf }}
           WD_DIAG: ${{ inputs.wddiag }}
+          WD_ORDER: ${{ inputs.companies == 'wdorder' && '1' || '' }}

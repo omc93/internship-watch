@@ -224,7 +224,20 @@ def main():
         out.append(post(plain, dict(base, Accept="application/json"), "E after 20s"))
         return f"WDDIAG {url}\n   " + "\n   ".join(out)
     for u in json.loads(os.environ.get("WD_DIAG", "[]") or "[]"):
-        print(wd_diag(u))
+        if os.environ.get("WD_ORDER"):
+            pu = urllib.parse.urlparse(u)
+            tenant, site = pu.netloc.split(".")[0], pu.path.strip("/").split("/")[0]
+            api = f"https://{pu.netloc}/wday/cxs/{tenant}/{site}/jobs"
+            for off in (0, 20, 60, 200):
+                try:
+                    d = watch.http(api, {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": ""})
+                    print("WDORDER", tenant, off, "total", d.get("total"),
+                          [j.get("postedOn", "").replace("Posted ", "") for j in d.get("jobPostings", [])])
+                except Exception as e:
+                    print("WDORDER", tenant, off, "FAIL", type(e).__name__, str(e)[:60])
+                _t.sleep(1)
+        else:
+            print(wd_diag(u))
     specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
 
     def test(spec):
