@@ -184,6 +184,47 @@ def main():
             print("SFDUMP", base, "top keys", list(d)[:8], "| first:", json.dumps(item)[:1500])
         except Exception as e:
             print("SFDUMP FAIL", base, type(e).__name__, str(e)[:100])
+    import http.cookiejar, urllib.request, urllib.error, time as _t
+
+    def wd_diag(url):
+        pu = urllib.parse.urlparse(url)
+        tenant, site = pu.netloc.split(".")[0], pu.path.strip("/").split("/")[0]
+        api = f"https://{pu.netloc}/wday/cxs/{tenant}/{site}/jobs"
+        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "intern"}).encode()
+
+        def post(opener, headers, label):
+            req = urllib.request.Request(api, data=body, headers=headers, method="POST")
+            try:
+                with opener.open(req, timeout=20) as r:
+                    txt = r.read().decode("utf-8", "replace")
+                    return f"{label}: {r.status} len={len(txt)} total={json.loads(txt).get('total') if txt[:1]=='{' else txt[:60]!r}"
+            except urllib.error.HTTPError as e:
+                hdrs = {k: v for k, v in e.headers.items() if k.lower() in ("retry-after", "server", "x-ratelimit-remaining", "cf-ray", "set-cookie")}
+                return f"{label}: HTTP {e.code} {hdrs} body={e.read()[:120]!r}"
+            except Exception as e:
+                return f"{label}: {type(e).__name__} {str(e)[:80]}"
+        plain = urllib.request.build_opener()
+        base = {"User-Agent": watch.UA, "Content-Type": "application/json"}
+        out = [post(plain, dict(base, Accept="application/json, text/html;q=0.9, */*;q=0.8"), "A current")]
+        out.append(post(plain, dict(base, Accept="application/json"), "B accept-json"))
+        jar = http.cookiejar.CookieJar()
+        op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+        try:
+            with op.open(urllib.request.Request(url, headers={"User-Agent": watch.UA, "Accept": "text/html"}), timeout=20) as r:
+                r.read()
+            got = f"GET {r.status} cookies={[c.name for c in jar]}"
+        except Exception as e:
+            got = f"GET failed {getattr(e, 'code', type(e).__name__)} cookies={[c.name for c in jar]}"
+        out.append(got)
+        out.append(post(op, dict(base, Accept="application/json", Origin=f"https://{pu.netloc}", Referer=url,
+                                 **{"Accept-Language": "en-US"}), "C cookies+referer"))
+        out.append(post(plain, {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",
+                                "Content-Type": "application/json", "Accept": "application/json", "Accept-Language": "en-US"}, "D other UA"))
+        _t.sleep(20)
+        out.append(post(plain, dict(base, Accept="application/json"), "E after 20s"))
+        return f"WDDIAG {url}\n   " + "\n   ".join(out)
+    for u in json.loads(os.environ.get("WD_DIAG", "[]") or "[]"):
+        print(wd_diag(u))
     specs = json.loads(os.environ.get("ATS_TESTS", "[]") or "[]")
 
     def test(spec):

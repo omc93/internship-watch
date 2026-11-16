@@ -24,6 +24,9 @@ on:
       sf:
         description: "JSON list of SuccessFactors sites to dump"
         default: "[]"
+      wddiag:
+        description: "JSON list of Workday site URLs to diagnose"
+        default: "[]"
 
 jobs:
   probe:
@@ -40,3 +43,4 @@ jobs:
           WD_FIND: ${{ inputs.wd }}
           PEEK: ${{ inputs.peek }}
           SF_DUMP: ${{ inputs.sf }}
+          WD_DIAG: ${{ inputs.wddiag }}
