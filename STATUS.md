@@ -1,11 +1,7 @@
 # Internship watch status
 
-Working: 275 of 535 companies
+Working: 276 of 535 companies
 
-
-## New this run
-
-- **Carrier**: [Systems Engineering Intern - Summer](https://jobs.carrier.com/en/job/indianapolis/systems-engineering-intern-summer/29289/102221882352) Indianapolis, Indiana
 
 ## Aerospace, space & defense
 
@@ -167,7 +163,7 @@ Working: 275 of 535 companies
 | Hartzell Propeller | ❌ unresolved |  |  | no job system found on careers page |
 | MTU Aero Engines North America | ❌ unresolved |  |  | no job system found on careers page |
 | Elbit America | ❌ unresolved |  |  | no job system found on careers page |
-| Cubic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / no job system found on careers page |
+| Cubic | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://cubic.wd1.myworkdayjobs.com/cubic_USA_ca |
 | Matternet | ❌ unresolved |  |  | careers page: HTTPError |
 | Flytrex | ❌ unresolved |  |  | no job system found on careers page |
 | Starpath | ❌ unresolved |  |  | no job system found on careers page |
@@ -448,7 +444,7 @@ Working: 275 of 535 companies
 |---|---|---|---|---|
 | Allegion | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://allegion.wd5.myworkdayjobs.com/careers H |
 | AMETEK | ✅ ok | successfactors | 8 | config |
-| Baker Hughes | ❌ error |  |  | phenom failed (ValueError: no Phenom job data on page) / no job system found on careers page |
+| Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
 | Celestica | ✅ ok | successfactors | 2 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
@@ -463,7 +459,7 @@ Working: 275 of 535 companies
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
-| Hubbell | ✅ ok | successfactors | 19 | config |
+| Hubbell | ✅ ok | successfactors | 18 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
 | ITW | ✅ ok | phenom | 29 | cache |
 | Jabil | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Career |
@@ -494,7 +490,7 @@ Working: 275 of 535 companies
 | X-energy | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 13 | cache |
+| Trane Technologies | ✅ ok | phenom | 12 | cache |
 | Carrier | ✅ ok | radancy | 1 | cache |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 3 | config |
