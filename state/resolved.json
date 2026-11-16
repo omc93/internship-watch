@@ -14,8 +14,8 @@
    "workday",
    "https://3m.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061085,
+  "fails": 13,
+  "last_discovery": 1794848372.9004304,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -58,7 +58,7 @@
   "status": "ok"
  },
  "ASML": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7948487,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -94,18 +94,18 @@
   "status": "ok"
  },
  "Accelera by Cummins": {
-  "fails": 64,
-  "last_discovery": 1794759038.155889,
+  "fails": 65,
+  "last_discovery": 1794848372.8801534,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Adient": {
   "ats": [
    "workday",
    "https://adient.wd3.myworkdayjobs.com/External"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7861056,
+  "fails": 13,
+  "last_discovery": 1794848372.8800683,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://adient.wd3.myworkdayjobs.com/External HTTPError",
   "status": "error"
  },
@@ -114,16 +114,16 @@
    "workday",
    "https://avav.wd1.myworkdayjobs.com/AVAV"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.6956553,
+  "fails": 13,
+  "last_discovery": 1794848372.7895756,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://avav.wd1.myworkdayjobs.com/AVAV HTTPError",
   "status": "error"
  },
  "Aerospace Corporation": {
-  "fails": 64,
-  "last_discovery": 1794759038.038804,
+  "fails": 65,
+  "last_discovery": 1794848372.8285265,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Aeva": {
   "ats": [
@@ -136,7 +136,7 @@
   "status": "ok"
  },
  "Agile Space Industries": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1366136,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -166,16 +166,16 @@
    "workday",
    "https://ag.wd3.myworkdayjobs.com/Airbus"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.6956723,
+  "fails": 13,
+  "last_discovery": 1794848372.7895925,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "Aisin": {
-  "fails": 64,
-  "last_discovery": 1794759038.1540174,
+  "fails": 65,
+  "last_discovery": 1794848372.8798501,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Albedo": {
   "ats": [
@@ -192,8 +192,8 @@
    "workday",
    "https://allegion.wd5.myworkdayjobs.com/careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.786175,
+  "fails": 13,
+  "last_discovery": 1794848372.8801577,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://allegion.wd5.myworkdayjobs.com/careers HTTPError",
   "status": "error"
  },
@@ -202,8 +202,8 @@
    "workday",
    "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External"
   ],
-  "fails": 10,
-  "last_discovery": 1794845168.7790728,
+  "fails": 11,
+  "last_discovery": 1794848372.8730276,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://allisontransmission.wd1.myworkdayjobs.com/ATI-External HTTPError",
   "status": "error"
  },
@@ -247,7 +247,7 @@
   "status": "ok"
  },
  "American Airlines": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.930436,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -263,10 +263,10 @@
   "status": "ok"
  },
  "Amphenol": {
-  "fails": 64,
-  "last_discovery": 1794759038.1543193,
+  "fails": 65,
+  "last_discovery": 1794848372.880063,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Amprius": {
   "ats": [
@@ -341,8 +341,8 @@
    "workday",
    "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.777575,
+  "fails": 13,
+  "last_discovery": 1794848372.8715682,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -351,28 +351,28 @@
    "greenhouse",
    "archer"
   ],
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794326242.10856,
   "note": "job site not supported yet",
   "status": "skipped"
  },
  "Arconic": {
-  "fails": 64,
-  "last_discovery": 1794759038.0472589,
+  "fails": 65,
+  "last_discovery": 1794848372.8340223,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Argo Space": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1407723,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Ascend Elements": {
-  "fails": 64,
-  "last_discovery": 1794759038.154696,
+  "fails": 65,
+  "last_discovery": 1794848372.8801258,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Astra": {
   "ats": [
@@ -405,10 +405,10 @@
   "status": "ok"
  },
  "AstroForge": {
-  "fails": 64,
-  "last_discovery": 1794759038.0429776,
+  "fails": 65,
+  "last_discovery": 1794848372.8310175,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Astrobotic": {
   "ats": [
@@ -421,7 +421,7 @@
   "status": "ok"
  },
  "Astrolab": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1360288,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -457,13 +457,13 @@
   "status": "ok"
  },
  "Aurora": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794792356.9557803,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Autoliv": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.215478,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -473,8 +473,8 @@
    "workday",
    "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7015839,
+  "fails": 13,
+  "last_discovery": 1794848372.7954502,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site HTTPError",
   "status": "error"
  },
@@ -498,7 +498,7 @@
   "status": "ok"
  },
  "BETA Technologies": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794792356.922206,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -538,8 +538,8 @@
    "phenom",
    "https://careers.bakerhughes.com/global/en"
   ],
-  "fails": 4,
-  "last_discovery": 1794845168.7865844,
+  "fails": 5,
+  "last_discovery": 1794848372.880571,
   "note": "phenom failed (ValueError: no Phenom job data on page) | no job system found on careers page",
   "status": "error"
  },
@@ -585,7 +585,7 @@
   "status": "ok"
  },
  "Benchmark Electronics": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7057562,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -625,8 +625,8 @@
    "workday",
    "https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061273,
+  "fails": 13,
+  "last_discovery": 1794848372.9004548,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers HTTPError",
   "status": "error"
  },
@@ -645,8 +645,8 @@
    "workday",
    "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7029748,
+  "fails": 13,
+  "last_discovery": 1794848372.7968256,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -661,10 +661,10 @@
   "status": "ok"
  },
  "BlueOval SK": {
-  "fails": 64,
-  "last_discovery": 1794759038.1546476,
+  "fails": 65,
+  "last_discovery": 1794848372.8800745,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Boeing": {
   "ats": [
@@ -677,7 +677,7 @@
   "status": "ok"
  },
  "Bollinger Motors": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2180061,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -693,7 +693,7 @@
   "status": "ok"
  },
  "Boom Supersonic": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794327236.415642,
   "note": "job board isn't publicly readable",
   "status": "skipped"
@@ -703,8 +703,8 @@
    "workday",
    "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7775724,
+  "fails": 13,
+  "last_discovery": 1794848372.8715656,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: TimeoutError",
   "status": "error"
  },
@@ -718,7 +718,7 @@
   "status": "ok"
  },
  "Bose": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1752303,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -728,9 +728,9 @@
    "workday",
    "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7438247,
-  "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
+  "fails": 13,
+  "last_discovery": 1794848372.837587,
+  "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics HTTPError",
   "status": "error"
  },
  "Boston Scientific": {
@@ -748,8 +748,8 @@
    "workday",
    "https://bridgestone.wd5.myworkdayjobs.com/external"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7796028,
+  "fails": 13,
+  "last_discovery": 1794848372.8735662,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://bridgestone.wd5.myworkdayjobs.com/external HTTPError",
   "status": "error"
  },
@@ -794,16 +794,16 @@
   "status": "ok"
  },
  "Burns & McDonnell": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2653313,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Burro": {
-  "fails": 64,
-  "last_discovery": 1794759038.0981245,
+  "fails": 65,
+  "last_discovery": 1794848372.854494,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "CNH": {
   "ats": [
@@ -816,16 +816,16 @@
   "status": "ok"
  },
  "Canvas": {
-  "fails": 64,
-  "last_discovery": 1794759038.0981283,
+  "fails": 65,
+  "last_discovery": 1794848372.854497,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Capella Space": {
-  "fails": 64,
-  "last_discovery": 1794759038.0427718,
+  "fails": 65,
+  "last_discovery": 1794848372.8308485,
   "note": "greenhouse:capellaspace HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Carbon Robotics": {
   "ats": [
@@ -842,8 +842,8 @@
    "workday",
    "https://cartech.wd5.myworkdayjobs.com/CTCExternal"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.74038,
+  "fails": 13,
+  "last_discovery": 1794848372.8340185,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://cartech.wd5.myworkdayjobs.com/CTCExternal HTTPError",
   "status": "error"
  },
@@ -873,8 +873,8 @@
    "workday",
    "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.764262,
+  "fails": 13,
+  "last_discovery": 1794848372.858033,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -929,10 +929,10 @@
   "status": "ok"
  },
  "Chef Robotics": {
-  "fails": 64,
-  "last_discovery": 1794759038.0979643,
+  "fails": 65,
+  "last_discovery": 1794848372.8543584,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Chevron": {
   "ats": [
@@ -945,30 +945,30 @@
   "status": "ok"
  },
  "Cirrus Aircraft": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794327236.4166949,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
  },
  "Cirrus Logic": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1720438,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Club Car": {
-  "fails": 64,
-  "last_discovery": 1794759038.155348,
+  "fails": 65,
+  "last_discovery": 1794848372.8801434,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Cognex": {
   "ats": [
    "workday",
    "https://cognex.wd1.myworkdayjobs.com/External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7609165,
+  "fails": 13,
+  "last_discovery": 1794848372.8546736,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -997,13 +997,13 @@
    "workday",
    "https://conocophillips.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 4,
-  "last_discovery": 1794845168.8020742,
+  "fails": 5,
+  "last_discovery": 1794848372.8963463,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://conocophillips.wd1.myworkdayjobs.com/External HTTPError",
   "status": "error"
  },
  "Continental": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6758122,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1013,8 +1013,8 @@
    "workday",
    "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7841322,
+  "fails": 13,
+  "last_discovery": 1794848372.8780947,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -1029,18 +1029,18 @@
   "status": "ok"
  },
  "Covariant": {
-  "fails": 64,
-  "last_discovery": 1794759038.0980546,
+  "fails": 65,
+  "last_discovery": 1794848372.8544326,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Crane Aerospace & Electronics": {
   "ats": [
    "workday",
    "https://cranecompany.wd5.myworkdayjobs.com/Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7073123,
+  "fails": 13,
+  "last_discovery": 1794848372.8011367,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://cranecompany.wd5.myworkdayjobs.com/Careers HTTPError",
   "status": "error"
  },
@@ -1049,13 +1049,13 @@
    "workday",
    "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers"
   ],
-  "fails": 10,
-  "last_discovery": 1794845168.7405207,
+  "fails": 11,
+  "last_discovery": 1794848372.8341684,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "Cummins": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.131589,
   "note": "job site not found",
   "status": "skipped"
@@ -1065,8 +1065,8 @@
    "workday",
    "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7073164,
+  "fails": 13,
+  "last_discovery": 1794848372.8011408,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site HTTPError",
   "status": "error"
  },
@@ -1085,8 +1085,8 @@
    "workday",
    "https://dtna.wd5.myworkdayjobs.com/DTNA_external"
   ],
-  "fails": 10,
-  "last_discovery": 1794845168.7657993,
+  "fails": 11,
+  "last_discovery": 1794848372.8595707,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://dtna.wd5.myworkdayjobs.com/DTNA_external HTTPError",
   "status": "error"
  },
@@ -1101,7 +1101,7 @@
   "status": "ok"
  },
  "Danfoss": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7076504,
   "note": "phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError",
   "status": "unresolved"
@@ -1127,13 +1127,13 @@
   "status": "ok"
  },
  "Delta Air Lines": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9304388,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Denso": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6758158,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1169,13 +1169,13 @@
   "status": "ok"
  },
  "Doosan Bobcat": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6820695,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Dover": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.25552,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1185,8 +1185,8 @@
    "workday",
    "https://dow.wd1.myworkdayjobs.com/ExternalCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061104,
+  "fails": 13,
+  "last_discovery": 1794848372.9004333,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -1195,19 +1195,19 @@
    "workday",
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7343645,
+  "fails": 13,
+  "last_discovery": 1794848372.828529,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://draper.wd5.myworkdayjobs.com/Draper_Careers HTTPError",
   "status": "error"
  },
  "Ducommun": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388347,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Dusty Robotics": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9742517,
   "note": "greenhouse:dustyrobotics HTTPError",
   "status": "unresolved"
@@ -1217,16 +1217,16 @@
    "workday",
    "https://dyson.wd3.myworkdayjobs.com/dyson_careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7479062,
+  "fails": 13,
+  "last_discovery": 1794848372.84155,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "EVgo": {
-  "fails": 64,
-  "last_discovery": 1794759038.1546988,
+  "fails": 65,
+  "last_discovery": 1794848372.8801274,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Eaton": {
   "ats": [
@@ -1244,16 +1244,16 @@
    "workday",
    "https://edwards.wd5.myworkdayjobs.com/EdwardsCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7536287,
+  "fails": 13,
+  "last_discovery": 1794848372.8472784,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "Elbit America": {
-  "fails": 64,
-  "last_discovery": 1794759038.0473793,
+  "fails": 65,
+  "last_discovery": 1794848372.8341663,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Electra.aero": {
   "ats": [
@@ -1276,7 +1276,7 @@
   "status": "ok"
  },
  "Embraer": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1143343,
   "note": "no US job site found",
   "status": "skipped"
@@ -1292,7 +1292,7 @@
   "status": "ok"
  },
  "Enphase": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2567003,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1302,16 +1302,16 @@
    "workday",
    "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8174002,
+  "fails": 13,
+  "last_discovery": 1794848372.911749,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "Eve Air Mobility": {
-  "fails": 64,
-  "last_discovery": 1794759038.0443523,
+  "fails": 65,
+  "last_discovery": 1794848372.8321571,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Exotec": {
   "ats": [
@@ -1333,7 +1333,7 @@
   "status": "ok"
  },
  "FANUC": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794792356.9563022,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1403,8 +1403,8 @@
    "workday",
    "https://fireflyspace.wd115.myworkdayjobs.com/Firefly"
   ],
-  "fails": 23,
-  "last_discovery": 1794845168.7073228,
+  "fails": 24,
+  "last_discovery": 1794848372.801147,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://fireflyspace.wd115.myworkdayjobs.com/Firefly HTTPError",
   "status": "error"
  },
@@ -1443,28 +1443,28 @@
    "workday",
    "https://flowserve.wd1.myworkdayjobs.com/applied"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7914417,
+  "fails": 13,
+  "last_discovery": 1794848372.8854563,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://flowserve.wd1.myworkdayjobs.com/applied HTTPError",
   "status": "error"
  },
  "Fluence": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2592092,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Fluor": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2653282,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Flytrex": {
-  "fails": 64,
-  "last_discovery": 1794759038.0475175,
+  "fails": 65,
+  "last_discovery": 1794848372.8341725,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Ford": {
   "ats": [
@@ -1507,10 +1507,10 @@
   "status": "ok"
  },
  "Forterra": {
-  "fails": 64,
-  "last_discovery": 1794759038.0974028,
+  "fails": 65,
+  "last_discovery": 1794848372.853892,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Fortive": {
   "ats": [
@@ -1523,7 +1523,7 @@
   "status": "ok"
  },
  "Forvia": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2164838,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1533,8 +1533,8 @@
    "workday",
    "https://foxfactory.wd1.myworkdayjobs.com/FOX"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7573938,
+  "fails": 13,
+  "last_discovery": 1794848372.8511596,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://foxfactory.wd1.myworkdayjobs.com/FOX HTTPError",
   "status": "error"
  },
@@ -1553,8 +1553,8 @@
    "workday",
    "https://haier.wd3.myworkdayjobs.com/GE_Appliances"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061051,
+  "fails": 13,
+  "last_discovery": 1794848372.9004269,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://haier.wd3.myworkdayjobs.com/GE_Appliances HTTPError; workday:https://haier.wd3.myworkdayjobs.com/GEAppliances_Hourly_Production HTTPError",
   "status": "error"
  },
@@ -1573,19 +1573,19 @@
    "workday",
    "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7929122,
+  "fails": 13,
+  "last_discovery": 1794848372.8870103,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite HTTPError",
   "status": "error"
  },
  "GKN Aerospace": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388454,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Garmin": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388505,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1611,7 +1611,7 @@
   "status": "ok"
  },
  "Gatik": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1663601,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1631,8 +1631,8 @@
    "workday",
    "https://generac.wd5.myworkdayjobs.com/External"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061252,
+  "fails": 13,
+  "last_discovery": 1794848372.9004524,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -1641,7 +1641,7 @@
    "greenhouse",
    "general"
   ],
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794326242.1156275,
   "note": "defense; uses BrassRing, dropped",
   "status": "skipped"
@@ -1661,8 +1661,8 @@
    "workday",
    "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.765869,
+  "fails": 13,
+  "last_discovery": 1794848372.859639,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -1671,8 +1671,8 @@
    "workday",
    "https://gentex.wd5.myworkdayjobs.com/Gentex"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.782625,
+  "fails": 13,
+  "last_discovery": 1794848372.8766294,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://gentex.wd5.myworkdayjobs.com/Gentex HTTPError",
   "status": "error"
  },
@@ -1687,10 +1687,10 @@
   "status": "ok"
  },
  "Ghost Robotics": {
-  "fails": 64,
-  "last_discovery": 1794759038.0981088,
+  "fails": 65,
+  "last_discovery": 1794848372.854478,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Gillig": {
   "ats": [
@@ -1707,13 +1707,13 @@
    "workday",
    "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.747584,
+  "fails": 13,
+  "last_discovery": 1794848372.8412273,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers HTTPError",
   "status": "error"
  },
  "GoPro": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.172116,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -1723,8 +1723,8 @@
    "workday",
    "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
   ],
-  "fails": 11,
-  "last_discovery": 1794845168.7796004,
+  "fails": 12,
+  "last_discovery": 1794848372.8735633,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers HTTPError",
   "status": "error"
  },
@@ -1733,8 +1733,8 @@
    "workday",
    "https://graco.wd501.myworkdayjobs.com/Graco_Careers"
   ],
-  "fails": 11,
-  "last_discovery": 1794845168.8065403,
+  "fails": 12,
+  "last_discovery": 1794848372.9009106,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://graco.wd501.myworkdayjobs.com/Graco_Careers HTTPError",
   "status": "error"
  },
@@ -1759,7 +1759,7 @@
   "status": "ok"
  },
  "Grundfos": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7226126,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -1776,7 +1776,7 @@
   "status": "ok"
  },
  "HEICO": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388378,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1792,7 +1792,7 @@
   "status": "ok"
  },
  "Haas Automation": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.682062,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -1818,10 +1818,10 @@
   "status": "ok"
  },
  "Hankook Tire America": {
-  "fails": 64,
-  "last_discovery": 1794759038.1558943,
+  "fails": 65,
+  "last_discovery": 1794848372.8801556,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Harbinger Motors": {
   "ats": [
@@ -1844,10 +1844,10 @@
   "status": "ok"
  },
  "Hartzell Propeller": {
-  "fails": 64,
-  "last_discovery": 1794759038.0473733,
+  "fails": 65,
+  "last_discovery": 1794848372.8341615,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "HawkEye 360": {
   "ats": [
@@ -1880,10 +1880,10 @@
   "status": "ok"
  },
  "Hendrick Motorsports": {
-  "fails": 64,
-  "last_discovery": 1794759038.1548715,
+  "fails": 65,
+  "last_discovery": 1794848372.880135,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Hermeus": {
   "ats": [
@@ -1900,19 +1900,19 @@
    "workday",
    "https://hexcel.wd5.myworkdayjobs.com/EarlyHexcelCareers"
   ],
-  "fails": 5,
-  "last_discovery": 1794845168.8123178,
+  "fails": 6,
+  "last_discovery": 1794848372.9066231,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://hexcel.wd5.myworkdayjobs.com/HexcelCareers HTTPError; workday:https://hexcel.wd5.myworkdayjobs.com/EarlyHexcelCareers HTTPError",
   "status": "error"
  },
  "Hitachi Astemo Americas": {
-  "fails": 64,
-  "last_discovery": 1794759038.1540258,
+  "fails": 65,
+  "last_discovery": 1794848372.8798566,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Hitachi Construction Machinery": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794792357.0336716,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -1928,22 +1928,22 @@
   "status": "ok"
  },
  "Honda Aircraft": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9282217,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Honda Research Institute": {
-  "fails": 64,
-  "last_discovery": 1794759038.0984812,
+  "fails": 65,
+  "last_discovery": 1794848372.8547137,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Honeybee Robotics": {
-  "fails": 64,
-  "last_discovery": 1794759038.0427682,
+  "fails": 65,
+  "last_discovery": 1794848372.8308458,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Honeywell": {
   "ats": [
@@ -1986,19 +1986,19 @@
   "status": "ok"
  },
  "Hyundai Mobis": {
-  "fails": 64,
-  "last_discovery": 1794759038.154052,
+  "fails": 65,
+  "last_discovery": 1794848372.8798797,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Hyundai Motor Group (US)": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.667416,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "IDEX": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2555223,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2018,8 +2018,8 @@
    "workday",
    "https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting"
   ],
-  "fails": 10,
-  "last_discovery": 1794845168.7553413,
+  "fails": 11,
+  "last_discovery": 1794848372.8491054,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://illumina.wd1.myworkdayjobs.com/illumina-careers HTTPError; workday:https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting HTTPError",
   "status": "error"
  },
@@ -2034,7 +2034,7 @@
   "status": "ok"
  },
  "Infineon": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1720488,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2064,8 +2064,8 @@
    "workday",
    "https://intel.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061147,
+  "fails": 13,
+  "last_discovery": 1794848372.9004388,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -2080,7 +2080,7 @@
   "status": "ok"
  },
  "Intuitive Machines": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794792356.9249609,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2106,29 +2106,29 @@
   "status": "ok"
  },
  "Iridium": {
-  "fails": 64,
-  "last_discovery": 1794759038.0444214,
+  "fails": 65,
+  "last_discovery": 1794848372.8322191,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "JTEKT North America": {
-  "fails": 64,
-  "last_discovery": 1794759038.1540234,
+  "fails": 65,
+  "last_discovery": 1794848372.8798544,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Jabil": {
   "ats": [
    "workday",
    "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7969344,
+  "fails": 13,
+  "last_discovery": 1794848372.8910625,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://jabil.wd5.myworkdayjobs.com/Jabil_Careers HTTPError",
   "status": "error"
  },
  "Jacobs": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.140513,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2154,16 +2154,16 @@
   "status": "ok"
  },
  "Joby Aviation": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.116524,
   "note": "uses iCIMS, which blocks automated checks",
   "status": "skipped"
  },
  "Joe Gibbs Racing": {
-  "fails": 64,
-  "last_discovery": 1794759038.154877,
+  "fails": 65,
+  "last_discovery": 1794848372.8801396,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "John Deere": {
   "ats": [
@@ -2190,8 +2190,8 @@
    "workday",
    "https://jj.wd5.myworkdayjobs.com/JJ"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7524848,
+  "fails": 13,
+  "last_discovery": 1794848372.8461645,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://jj.wd5.myworkdayjobs.com/JJ HTTPError",
   "status": "error"
  },
@@ -2200,8 +2200,8 @@
    "workday",
    "https://jci.wd5.myworkdayjobs.com/JCI"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061187,
+  "fails": 13,
+  "last_discovery": 1794848372.900445,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://jci.wd5.myworkdayjobs.com/JCI HTTPError",
   "status": "error"
  },
@@ -2230,13 +2230,13 @@
    "workday",
    "https://kla.wd1.myworkdayjobs.com/Search"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8174024,
+  "fails": 13,
+  "last_discovery": 1794848372.9117522,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "KUKA": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794792356.9579954,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2252,7 +2252,7 @@
   "status": "ok"
  },
  "Kaman": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.13884,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2268,13 +2268,13 @@
   "status": "ok"
  },
  "Kawasaki Motors Manufacturing": {
-  "fails": 64,
-  "last_discovery": 1794759038.1537776,
+  "fails": 65,
+  "last_discovery": 1794848372.879646,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Kennametal": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2555122,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2290,7 +2290,7 @@
   "status": "ok"
  },
  "Kia Georgia": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6674197,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2306,7 +2306,7 @@
   "status": "ok"
  },
  "Kohler": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2548761,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -2322,13 +2322,13 @@
   "status": "ok"
  },
  "Kratos": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388428,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Kubota": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6820662,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -2343,10 +2343,10 @@
   "status": "ok"
  },
  "LG Energy Solution Michigan": {
-  "fails": 64,
-  "last_discovery": 1794759038.1546423,
+  "fails": 65,
+  "last_discovery": 1794848372.8800702,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lam Research": {
   "ats": [
@@ -2360,7 +2360,7 @@
   "status": "ok"
  },
  "Lanteris Space Systems": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1359928,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2380,43 +2380,43 @@
    "workday",
    "https://leidos.wd5.myworkdayjobs.com/External"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7331529,
+  "fails": 13,
+  "last_discovery": 1794848372.8272443,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
  "Lennox": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.7547917,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Linamar": {
-  "fails": 64,
-  "last_discovery": 1794759038.1543214,
+  "fails": 65,
+  "last_discovery": 1794848372.8800647,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lincoln Electric": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.25551,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Littelfuse": {
-  "fails": 64,
-  "last_discovery": 1794759038.1543174,
+  "fails": 65,
+  "last_discovery": 1794848372.8800611,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "LiveWire": {
-  "fails": 64,
-  "last_discovery": 1794759038.1537747,
+  "fails": 65,
+  "last_discovery": 1794848372.8796437,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Lockheed Martin": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1166177,
   "note": "defense; site blocks automated checks",
   "status": "skipped"
@@ -2446,13 +2446,13 @@
    "workday",
    "https://logitech.wd5.myworkdayjobs.com/Logitech"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7573984,
+  "fails": 13,
+  "last_discovery": 1794848372.8511643,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://logitech.wd5.myworkdayjobs.com/Logitech HTTPError",
   "status": "error"
  },
  "Los Alamos National Lab": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.266003,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2478,16 +2478,16 @@
   "status": "ok"
  },
  "Lyten": {
-  "fails": 64,
-  "last_discovery": 1794759038.1546698,
+  "fails": 65,
+  "last_discovery": 1794848372.8801026,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "MAHLE": {
-  "fails": 64,
-  "last_discovery": 1794759038.1540494,
+  "fails": 65,
+  "last_discovery": 1794848372.879877,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "MIT Lincoln Laboratory": {
   "ats": [
@@ -2500,10 +2500,10 @@
   "status": "ok"
  },
  "MTU Aero Engines North America": {
-  "fails": 64,
-  "last_discovery": 1794759038.0473766,
+  "fails": 65,
+  "last_discovery": 1794848372.8341641,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Machina Labs": {
   "ats": [
@@ -2516,7 +2516,7 @@
   "status": "ok"
  },
  "Mack Trucks": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2177787,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2551,16 +2551,16 @@
   "status": "ok"
  },
  "Martinrea": {
-  "fails": 64,
-  "last_discovery": 1794759038.1543238,
+  "fails": 65,
+  "last_discovery": 1794848372.8800666,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Matternet": {
-  "fails": 64,
-  "last_discovery": 1794759038.0475135,
+  "fails": 65,
+  "last_discovery": 1794848372.8341706,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "May Mobility": {
   "ats": [
@@ -2573,7 +2573,7 @@
   "status": "ok"
  },
  "Mazda Toyota Manufacturing": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.667425,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2583,22 +2583,22 @@
    "workday",
    "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7463174,
+  "fails": 13,
+  "last_discovery": 1794848372.8400064,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: URLError",
   "status": "error"
  },
  "Mercedes-Benz": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1351204,
   "note": "global site; US co-ops not separately listed",
   "status": "skipped"
  },
  "Mercury Systems": {
-  "fails": 64,
-  "last_discovery": 1794759038.044564,
-  "note": "no job system found on careers page",
-  "status": "unresolved"
+  "fails": 65,
+  "last_discovery": 1794848372.8323364,
+  "note": "careers page: HTTPError",
+  "status": "error"
  },
  "Merlin Labs": {
   "ats": [
@@ -2615,8 +2615,8 @@
    "workday",
    "https://michelinhr.wd3.myworkdayjobs.com/Michelin"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7796054,
+  "fails": 13,
+  "last_discovery": 1794848372.8735683,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: URLError",
   "status": "error"
  },
@@ -2625,8 +2625,8 @@
    "workday",
    "https://micron.wd1.myworkdayjobs.com/External"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061163,
+  "fails": 13,
+  "last_discovery": 1794848372.9004416,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://micron.wd1.myworkdayjobs.com/External HTTPError; radancy?:https://careers.micron.com/careers ValueError",
   "status": "error"
  },
@@ -2651,7 +2651,7 @@
   "status": "ok"
  },
  "Molex": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7323406,
   "note": "careers page: TimeoutError",
   "status": "unresolved"
@@ -2667,23 +2667,23 @@
   "status": "ok"
  },
  "Monarch Tractor": {
-  "fails": 64,
-  "last_discovery": 1794759038.0981112,
+  "fails": 65,
+  "last_discovery": 1794848372.85448,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Moog": {
   "ats": [
    "workday",
    "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7138157,
+  "fails": 13,
+  "last_discovery": 1794848372.8078554,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site HTTPError",
   "status": "error"
  },
  "Moon Surgical": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.167643,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2703,8 +2703,8 @@
    "workday",
    "https://multimatic.wd10.myworkdayjobs.com/MMEC"
   ],
-  "fails": 7,
-  "last_discovery": 1794845168.7861533,
+  "fails": 8,
+  "last_discovery": 1794848372.8801317,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://multimatic.wd10.myworkdayjobs.com/MMEC HTTPError",
   "status": "error"
  },
@@ -2749,7 +2749,7 @@
   "status": "ok"
  },
  "NRG": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2653394,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2759,13 +2759,13 @@
    "workday",
    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7515724,
+  "fails": 13,
+  "last_discovery": 1794848372.8452654,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite HTTPError",
   "status": "error"
  },
  "NXP": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1718323,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2801,10 +2801,10 @@
   "status": "ok"
  },
  "New Flyer / NFI": {
-  "fails": 64,
-  "last_discovery": 1794759038.1558864,
+  "fails": 65,
+  "last_discovery": 1794848372.880151,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "NextEra Energy": {
   "ats": [
@@ -2841,13 +2841,13 @@
    "workday",
    "https://alliance.wd3.myworkdayjobs.com/nissanjobs"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7676857,
+  "fails": 13,
+  "last_discovery": 1794848372.8615084,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
  "Nordson": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2555149,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2857,8 +2857,8 @@
    "workday",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.713819,
+  "fails": 13,
+  "last_discovery": 1794848372.8078594,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -2873,7 +2873,7 @@
   "status": "ok"
  },
  "NuScale": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2593427,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -2909,10 +2909,10 @@
   "status": "ok"
  },
  "Omron": {
-  "fails": 64,
-  "last_discovery": 1794759038.0984397,
+  "fails": 65,
+  "last_discovery": 1794848372.854677,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Oncor": {
   "ats": [
@@ -2949,8 +2949,8 @@
    "workday",
    "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway"
   ],
-  "fails": 23,
-  "last_discovery": 1794845168.8061209,
+  "fails": 24,
+  "last_discovery": 1794848372.9004476,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway HTTPError; workday:https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway HTTPError",
   "status": "error"
  },
@@ -3019,8 +3019,8 @@
    "workday",
    "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT"
   ],
-  "fails": 23,
-  "last_discovery": 1794845168.7475877,
+  "fails": 24,
+  "last_discovery": 1794848372.8412306,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT HTTPError",
   "status": "error"
  },
@@ -3045,7 +3045,7 @@
   "status": "ok"
  },
  "Parker Hannifin": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794327236.4346004,
   "note": "job site blocks automated checks",
   "status": "skipped"
@@ -3081,19 +3081,19 @@
   "status": "ok"
  },
  "Persona AI": {
-  "fails": 64,
-  "last_discovery": 1794759038.0978646,
+  "fails": 65,
+  "last_discovery": 1794848372.854276,
   "note": "careers page: URLError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Phantom Space": {
-  "fails": 64,
-  "last_discovery": 1794759038.0432081,
+  "fails": 65,
+  "last_discovery": 1794848372.8312242,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Phase Four": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.140516,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -3129,16 +3129,16 @@
   "status": "ok"
  },
  "Piper Aircraft": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1388483,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Pirelli North America": {
-  "fails": 64,
-  "last_discovery": 1794759038.1558917,
+  "fails": 65,
+  "last_discovery": 1794848372.8801546,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Planet Labs": {
   "ats": [
@@ -3155,8 +3155,8 @@
    "workday",
    "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8073547,
+  "fails": 13,
+  "last_discovery": 1794848372.9017446,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc HTTPError",
   "status": "error"
  },
@@ -3181,22 +3181,22 @@
   "status": "ok"
  },
  "Polaris": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794789149.6664405,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Polestar": {
-  "fails": 64,
-  "last_discovery": 1794759038.1537325,
+  "fails": 65,
+  "last_discovery": 1794848372.8796096,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Porsche Cars North America": {
-  "fails": 64,
-  "last_discovery": 1794759038.1537373,
+  "fails": 65,
+  "last_discovery": 1794848372.8796127,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Portal Space Systems": {
   "ats": [
@@ -3229,7 +3229,7 @@
   "status": "ok"
  },
  "Quanta Services": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2653341,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3269,8 +3269,8 @@
    "workday",
    "https://terex.wd1.myworkdayjobs.com/terexcareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.786165,
+  "fails": 13,
+  "last_discovery": 1794848372.8801463,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://terex.wd1.myworkdayjobs.com/terexcareers HTTPError",
   "status": "error"
  },
@@ -3279,13 +3279,13 @@
    "workday",
    "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7164443,
+  "fails": 13,
+  "last_discovery": 1794848372.810439,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
  "Radian Aerospace": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9303045,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3311,7 +3311,7 @@
   "status": "ok"
  },
  "Redwire": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1182232,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -3337,7 +3337,7 @@
   "status": "ok"
  },
  "Regal Rexnord": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2566786,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3373,7 +3373,7 @@
   "status": "ok"
  },
  "Rheem": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.255122,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3409,7 +3409,7 @@
   "status": "ok"
  },
  "Rockwell Automation": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1295981,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -3419,31 +3419,31 @@
    "workday",
    "https://rollsroyce.wd3.myworkdayjobs.com/professional"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7296085,
+  "fails": 13,
+  "last_discovery": 1794848372.8236635,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
  "Roush": {
-  "fails": 64,
-  "last_discovery": 1794759038.154701,
+  "fails": 65,
+  "last_discovery": 1794848372.8801293,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "SLB": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.7450597,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "SRAM": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1752207,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Safran": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1222994,
   "note": "site blocks automated checks",
   "status": "skipped"
@@ -3453,8 +3453,8 @@
    "workday",
    "https://sec.wd3.myworkdayjobs.com/Samsung_Careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8061125,
+  "fails": 13,
+  "last_discovery": 1794848372.9004362,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -3475,22 +3475,22 @@
   "status": "ok"
  },
  "Sandia National Labs": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.266,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sanmina": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.733082,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sarcos / Palladyne AI": {
-  "fails": 64,
-  "last_discovery": 1794759038.0984836,
+  "fails": 65,
+  "last_discovery": 1794848372.8547158,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Saronic": {
   "ats": [
@@ -3533,16 +3533,16 @@
   "status": "ok"
  },
  "Seegrid": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1674266,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Sensata": {
-  "fails": 64,
-  "last_discovery": 1794759038.1543145,
+  "fails": 65,
+  "last_discovery": 1794848372.8800588,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Serve Robotics": {
   "ats": [
@@ -3569,8 +3569,8 @@
    "workday",
    "https://shell.wd3.myworkdayjobs.com/ShellCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.802071,
+  "fails": 13,
+  "last_discovery": 1794848372.8963425,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | no job system found on careers page",
   "status": "error"
  },
@@ -3585,13 +3585,13 @@
   "status": "ok"
  },
  "Siemens": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7384489,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Siemens Energy": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.255125,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3601,8 +3601,8 @@
    "workday",
    "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7165422,
+  "fails": 13,
+  "last_discovery": 1794848372.810534,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site HTTPError",
   "status": "error"
  },
@@ -3611,8 +3611,8 @@
    "workday",
    "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7165449,
+  "fails": 13,
+  "last_discovery": 1794848372.8105361,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site HTTPError; workday:https://snc.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site HTTPError",
   "status": "error"
  },
@@ -3631,13 +3631,13 @@
    "workday",
    "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7554543,
+  "fails": 13,
+  "last_discovery": 1794848372.849218,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
  "Skild AI": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.974328,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3683,7 +3683,7 @@
   "status": "ok"
  },
  "Solar Turbines": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.26598,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3703,8 +3703,8 @@
    "workday",
    "https://sonos.wd1.myworkdayjobs.com/Sonos"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.755502,
+  "fails": 13,
+  "last_discovery": 1794848372.8492672,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
@@ -3719,7 +3719,7 @@
   "status": "ok"
  },
  "Southwest Research Institute": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.26672,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3738,8 +3738,8 @@
    "workday",
    "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7573962,
+  "fails": 13,
+  "last_discovery": 1794848372.8511622,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site HTTPError",
   "status": "error"
  },
@@ -3788,8 +3788,8 @@
    "workday",
    "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8005164,
+  "fails": 13,
+  "last_discovery": 1794848372.8947566,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: TimeoutError",
   "status": "error"
  },
@@ -3804,19 +3804,19 @@
   "status": "ok"
  },
  "Starlab Space": {
-  "fails": 64,
-  "last_discovery": 1794759038.0428944,
+  "fails": 65,
+  "last_discovery": 1794848372.8309486,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Starpath": {
-  "fails": 64,
-  "last_discovery": 1794759038.0475194,
+  "fails": 65,
+  "last_discovery": 1794848372.8341749,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Starship Technologies": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9742966,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -3836,7 +3836,7 @@
    "ashby",
    "stellar"
   ],
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794326242.1358125,
   "note": "uses Paylocity, not supported yet",
   "status": "skipped"
@@ -3856,8 +3856,8 @@
    "workday",
    "https://stoneridge.wd5.myworkdayjobs.com/Careers"
   ],
-  "fails": 7,
-  "last_discovery": 1794845168.7860954,
+  "fails": 8,
+  "last_discovery": 1794848372.880056,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://stoneridge.wd5.myworkdayjobs.com/Careers HTTPError",
   "status": "error"
  },
@@ -3876,25 +3876,25 @@
    "workday",
    "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7463133,
+  "fails": 13,
+  "last_discovery": 1794848372.8400028,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://stryker.wd1.myworkdayjobs.com/StrykerCareers HTTPError",
   "status": "error"
  },
  "Subaru of Indiana": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794789149.6674225,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Sulzer": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7406414,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Supernal": {
-  "fails": 87,
+  "fails": 88,
   "last_discovery": 1794792356.9271376,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -3911,10 +3911,10 @@
   "status": "ok"
  },
  "Synchron": {
-  "fails": 64,
-  "last_discovery": 1794759038.0983458,
+  "fails": 65,
+  "last_discovery": 1794848372.8546715,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "TAE Technologies": {
   "ats": [
@@ -3937,10 +3937,10 @@
   "status": "ok"
  },
  "Team Penske": {
-  "fails": 64,
-  "last_discovery": 1794759038.154874,
+  "fails": 65,
+  "last_discovery": 1794848372.8801372,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "TechnipFMC": {
   "ats": [
@@ -3953,7 +3953,7 @@
   "status": "ok"
  },
  "Teledyne": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.127607,
   "note": "defense; job site not found, dropped",
   "status": "skipped"
@@ -3983,8 +3983,8 @@
    "workday",
    "https://terex.wd1.myworkdayjobs.com/terexcareers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7802725,
+  "fails": 13,
+  "last_discovery": 1794848372.8742473,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://terex.wd1.myworkdayjobs.com/terexcareers HTTPError",
   "status": "error"
  },
@@ -4009,7 +4009,7 @@
   "status": "ok"
  },
  "Tesla": {
-  "fails": 88,
+  "fails": 89,
   "note": "Tesla's site blocks automated checks",
   "status": "skipped"
  },
@@ -4080,13 +4080,13 @@
   "status": "ok"
  },
  "ThinkOrbital": {
-  "fails": 64,
-  "last_discovery": 1794759038.0475223,
+  "fails": 65,
+  "last_discovery": 1794848372.834177,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Thor Industries": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2153497,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4106,8 +4106,8 @@
    "workday",
    "https://tel.wd3.myworkdayjobs.com/TES_Career"
   ],
-  "fails": 7,
-  "last_discovery": 1794845168.7554512,
+  "fails": 8,
+  "last_discovery": 1794848372.849215,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://tel.wd3.myworkdayjobs.com/TET_Career HTTPError; workday:https://tel.wd3.myworkdayjobs.com/TES_Career HTTPError; workday:https://tel.wd3.myworkdayjobs.com/TEE_Careers HTTPError; workday",
   "status": "error"
  },
@@ -4122,7 +4122,7 @@
   "status": "ok"
  },
  "Toro": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2555068,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4138,10 +4138,10 @@
   "status": "ok"
  },
  "Toyota Boshoku America": {
-  "fails": 64,
-  "last_discovery": 1794759038.1540203,
+  "fails": 65,
+  "last_discovery": 1794848372.8798523,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Toyota Research Institute": {
   "ats": [
@@ -4167,8 +4167,8 @@
    "workday",
    "https://trekbikes.wd1.myworkdayjobs.com/TREK"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7573895,
+  "fails": 13,
+  "last_discovery": 1794848372.851154,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://trekbikes.wd1.myworkdayjobs.com/TREK HTTPError",
   "status": "error"
  },
@@ -4203,22 +4203,22 @@
   "status": "ok"
  },
  "Type One Energy": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.260821,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Ultium Cells": {
-  "fails": 64,
-  "last_discovery": 1794759038.154645,
+  "fails": 65,
+  "last_discovery": 1794848372.8800724,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Umbra": {
-  "fails": 64,
-  "last_discovery": 1794759038.0427756,
+  "fails": 65,
+  "last_discovery": 1794848372.8308516,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "United Airlines": {
   "ats": [
@@ -4255,8 +4255,8 @@
    "workday",
    "https://valeo.wd3.myworkdayjobs.com/valeo_jobs"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7832756,
+  "fails": 13,
+  "last_discovery": 1794848372.877269,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://valeo.wd3.myworkdayjobs.com/valeo_jobs HTTPError",
   "status": "error"
  },
@@ -4265,8 +4265,8 @@
    "workday",
    "https://maxar.wd1.myworkdayjobs.com/Vantor"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7342215,
+  "fails": 13,
+  "last_discovery": 1794848372.8283863,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://maxar.wd1.myworkdayjobs.com/Vantor HTTPError",
   "status": "error"
  },
@@ -4291,7 +4291,7 @@
   "status": "ok"
  },
  "Vecna Robotics": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1674304,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4311,8 +4311,8 @@
    "workday",
    "https://vermeer.wd5.myworkdayjobs.com/externalcareersite"
   ],
-  "fails": 10,
-  "last_discovery": 1794845168.7861598,
+  "fails": 11,
+  "last_discovery": 1794848372.8801413,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://vermeer.wd5.myworkdayjobs.com/externalcareersite HTTPError",
   "status": "error"
  },
@@ -4337,25 +4337,25 @@
   "status": "ok"
  },
  "Vicarious Surgical": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1676407,
   "note": "greenhouse:vicarioussurgical HTTPError",
   "status": "unresolved"
  },
  "VinFast US": {
-  "fails": 64,
-  "last_discovery": 1794759038.154014,
+  "fails": 65,
+  "last_discovery": 1794848372.879847,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Virgin Galactic": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9283512,
   "note": "careers page: HTTPError",
   "status": "unresolved"
  },
  "Visteon": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.217066,
   "note": "ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError",
   "status": "unresolved"
@@ -4365,13 +4365,13 @@
    "workday",
    "https://vst.wd5.myworkdayjobs.com/vistra_careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8118818,
+  "fails": 13,
+  "last_discovery": 1794848372.9062042,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://vst.wd5.myworkdayjobs.com/vistra_careers HTTPError",
   "status": "error"
  },
  "Volkswagen": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.662364,
   "note": "careers page: URLError",
   "status": "unresolved"
@@ -4417,10 +4417,10 @@
   "status": "ok"
  },
  "Wabash": {
-  "fails": 64,
-  "last_discovery": 1794759038.1553504,
+  "fails": 65,
+  "last_discovery": 1794848372.8801448,
   "note": "no job system found on careers page",
-  "status": "unresolved"
+  "status": "error"
  },
  "Wabtec": {
   "ats": [
@@ -4443,7 +4443,7 @@
   "status": "ok"
  },
  "Weatherford": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794789149.7426105,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4510,7 +4510,7 @@
   "status": "ok"
  },
  "Winnebago Industries": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2153535,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4520,8 +4520,8 @@
    "workday",
    "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers"
   ],
-  "fails": 5,
-  "last_discovery": 1794845168.7240791,
+  "fails": 6,
+  "last_discovery": 1794848372.8180807,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://wisk.wd108.myworkdayjobs.com/Wisk_Careers HTTPError",
   "status": "error"
  },
@@ -4530,13 +4530,13 @@
    "workday",
    "https://woodward.wd5.myworkdayjobs.com/woodward"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7240822,
+  "fails": 13,
+  "last_discovery": 1794848372.818097,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://woodward.wd5.myworkdayjobs.com/woodward HTTPError",
   "status": "error"
  },
  "X-Bow Systems": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.136906,
   "note": "no job system found on careers page",
   "status": "unresolved"
@@ -4546,8 +4546,8 @@
    "workday",
    "https://xenergy.wd5.myworkdayjobs.com/X-energyUS"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8027637,
+  "fails": 13,
+  "last_discovery": 1794848372.8970578,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://xenergy.wd5.myworkdayjobs.com/X-energyUS HTTPError",
   "status": "error"
  },
@@ -4556,8 +4556,8 @@
    "workday",
    "https://xylem.wd5.myworkdayjobs.com/xylem-careers"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.8017032,
+  "fails": 13,
+  "last_discovery": 1794848372.8959513,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday:https://xylem.wd5.myworkdayjobs.com/xylem-careers HTTPError",
   "status": "error"
  },
@@ -4566,25 +4566,25 @@
    "workday",
    "https://yeticoolers.wd5.myworkdayjobs.com/YETI"
   ],
-  "fails": 12,
-  "last_discovery": 1794845168.7573864,
+  "fails": 13,
+  "last_discovery": 1794848372.8511515,
   "note": "workday failed (HTTPError: HTTP Error 429: Too Many Requests) | workday failed (HTTPError: HTTP Error 429: Too Many Requests) | careers page: HTTPError",
   "status": "error"
  },
  "Yamaha Motor USA": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.2153816,
   "note": "no job system found on careers page",
   "status": "unresolved"
  },
  "Yaskawa Motoman": {
-  "fails": 64,
-  "last_discovery": 1794759038.0984423,
+  "fails": 65,
+  "last_discovery": 1794848372.8546793,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "York Space Systems": {
-  "fails": 88,
+  "fails": 89,
   "last_discovery": 1794326242.1282907,
   "note": "defense; uses Paycor, dropped",
   "status": "skipped"
@@ -4610,19 +4610,19 @@
   "status": "ok"
  },
  "Zebra Technologies": {
-  "fails": 64,
-  "last_discovery": 1794759038.098437,
+  "fails": 65,
+  "last_discovery": 1794848372.8546753,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "Zero Motorcycles": {
-  "fails": 64,
-  "last_discovery": 1794759038.153772,
+  "fails": 65,
+  "last_discovery": 1794848372.8796415,
   "note": "careers page: HTTPError",
-  "status": "unresolved"
+  "status": "error"
  },
  "ZeroAvia": {
-  "fails": 78,
+  "fails": 79,
   "last_discovery": 1794832011.1369843,
   "note": "careers page: HTTPError",
   "status": "unresolved"
@@ -4658,7 +4658,7 @@
   "status": "ok"
  },
  "iRobot": {
-  "fails": 85,
+  "fails": 86,
   "last_discovery": 1794792356.9743443,
   "note": "careers page: HTTPError",
   "status": "unresolved"

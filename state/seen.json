@@ -472,7 +472,7 @@
    "JR00050987": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-10-22T00:00:00.000+0000",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Sales Excellence Data Analytics Intern - Summer 2027"
    },
    "JR00051089": {
@@ -490,7 +490,7 @@
    "JR00051359": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-11-03T00:00:00.000+0000",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Engineering Sales Intern - Summer 2027"
    },
    "JR00051490": {
@@ -16856,7 +16856,8 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "1788311076096",
-    "title": "Structures/Mechanical Engineering Intern - Spring/Summer 2027"
+    "title": "Structures/Mechanical Engineering Intern - Spring/Fall 2027",
+    "updated_seen": "2026-11-16"
    },
    "643fd7b7-9015-43a1-aa2b-a54f117b403c": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -18856,6 +18857,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-13T16:26:29.583Z",
     "title": "Clinical Research Intern"
+   },
+   "744000161861679": {
+    "first_seen": "2026-11-16 16:59 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T16:32:30.380Z",
+    "title": "Clinical Research Engineering Intern"
    }
   },
   "seeded": true
@@ -19795,6 +19802,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-12T13:42:00+0000",
     "title": "2027 Internship - Oceanic, Atmospheric, and Remote Sensing Sciences"
+   },
+   "60918": {
+    "first_seen": "2026-11-16 16:59 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T16:06:00+0000",
+    "title": "2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems"
    }
   },
   "seeded": true
@@ -26709,6 +26722,12 @@
     "last_seen": "2026-11-12",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Engineer Intern - Controls (Summer 2027)"
+   },
+   "R52031": {
+    "first_seen": "2026-11-16 16:59 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
+    "title": "Autonomy Intern"
    }
   },
   "seeded": true
@@ -30662,7 +30681,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T10:47:35-05:00"
+    "updated_raw": "2026-11-16T11:47:32-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
