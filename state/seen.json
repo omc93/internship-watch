@@ -7838,6 +7838,11 @@
     "first_seen": "2026-11-16 15:13 UTC",
     "last_seen": "2026-11-16",
     "title": "Product Data Analyst Intern"
+   },
+   "1451173500": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Process Development Engineering Co-op"
    }
   },
   "seeded": true
@@ -10949,7 +10954,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "2027 Internship Intake"
    }
   },
@@ -18385,6 +18390,18 @@
     "posted_raw": "2026-11-11T00:00:00.000+0000",
     "title": "Quality Engineering Intern"
    },
+   "JR11144": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
+    "title": "Engineering - Co-Op Intern"
+   },
+   "JR11188": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T00:00:00.000+0000",
+    "title": "Marketing Specialist Intern"
+   },
    "JR9516": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
@@ -21153,6 +21170,12 @@
     "title": "Intern - Quality Engineering",
     "updated_seen": "2026-11-12"
    },
+   "1099555447630": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794867293",
+    "title": "Summer 2027 - Electrical Engineering Intern - BS"
+   },
    "1099555449613": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
@@ -21206,6 +21229,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "1794560143",
     "title": "Intern-Business Function"
+   },
+   "1099555980496": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "1794868315",
+    "title": "2027 Process Engineering Intern - PhD (6 months)"
    },
    "1099556088102": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -31040,7 +31069,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T17:17:07-05:00"
+    "updated_raw": "2026-11-16T17:32:23-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -32797,7 +32826,8 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-09T19:53:20.602+00:00",
-    "title": "Systems Engineering Intern - Summer 2027"
+    "title": "Systems Engineering Intern",
+    "updated_seen": "2026-11-16"
    },
    "36d75e36-eeb2-4399-8887-37c4a5ff5800": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35465,6 +35495,12 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-13",
+    "title": "Test Engineering intern - PhD"
+   },
+   "25019537": {
+    "first_seen": "2026-11-16 22:58 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16",
     "title": "Test Engineering intern - PhD"
    },
    "25019924": {
@@ -39271,7 +39307,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-18T14:26:52-04:00",
     "title": "System Test Automation Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:20:46-05:00"
    },
    "7891019003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39341,21 +39377,21 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-18T14:23:27-04:00",
     "title": "System Test Automation Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:20:20-05:00"
    },
    "7893955003": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-19T21:46:06-04:00",
     "title": "Software Systems Validation Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:18:54-05:00"
    },
    "7894335003": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-19T21:46:01-04:00",
     "title": "Software Systems Validation Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:19:44-05:00"
    },
    "7894349003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39482,7 +39518,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-28T16:36:12-04:00",
     "title": "Maps Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:18:11-05:00"
    },
    "7929801003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39517,7 +39553,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-28T18:19:16-04:00",
     "title": "Maps Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T17:18:32-05:00"
    },
    "7982296003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39622,8 +39658,9 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-23T09:44:04-04:00",
-    "title": "Droid Autonomy Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "title": "Droid Autonomy Intern (Summer 2027) - Master's Required",
+    "updated_raw": "2026-11-16T17:22:14-05:00",
+    "updated_seen": "2026-11-16"
    },
    "8017301003": {
     "first_seen": "2026-11-10 18:53 UTC",
