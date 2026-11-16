@@ -3029,6 +3029,13 @@
     "title": "2027 Brand Marketing Intern",
     "updated_raw": "2026-11-13T15:41:55-05:00"
    },
+   "5261735007": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:39:24-05:00",
+    "title": "2027 Product Marketing Intern",
+    "updated_raw": "2026-11-16T14:39:24-05:00"
+   },
    "5265097007": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
@@ -5007,6 +5014,11 @@
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
     "title": "Electromechanical Engineering Intern"
+   },
+   "1451051300": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Electrical Engineering Intern"
    }
   },
   "seeded": true
@@ -17040,7 +17052,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-16",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18875,6 +18887,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-16T16:32:30.380Z",
     "title": "Clinical Research Engineering Intern"
+   },
+   "744000161896235": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T19:37:32.394Z",
+    "title": "Mechanical Engineering Intern"
    }
   },
   "seeded": true
@@ -27232,6 +27250,55 @@
     "posted_raw": "2026-09-09T16:49:40-04:00",
     "title": "Summer 2027 Internship- Supply Chain",
     "updated_raw": "2026-10-01T15:56:53-04:00"
+   },
+   "4505488009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:32:40-05:00",
+    "title": "Summer 2027 Materials Science Internship",
+    "updated_raw": "2026-11-16T14:32:40-05:00"
+   },
+   "4505556009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:41:38-05:00",
+    "title": "Summer 2027 Vacuum Systems Engineering Internship",
+    "updated_raw": "2026-11-16T14:41:38-05:00"
+   },
+   "4505604009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:39:48-05:00",
+    "title": "Summer 2027 Experimental Physics, X-Ray Diagnostics Internship",
+    "updated_raw": "2026-11-16T14:39:48-05:00"
+   },
+   "4505668009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:40:27-05:00",
+    "title": "Summer 2027 HPC/DevOps Engineering Intern",
+    "updated_raw": "2026-11-16T14:40:27-05:00"
+   },
+   "4505730009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:40:57-05:00",
+    "title": "Summer 2027 Modeling and Simulation Intern",
+    "updated_raw": "2026-11-16T14:40:57-05:00"
+   },
+   "4505884009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:41:16-05:00",
+    "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship",
+    "updated_raw": "2026-11-16T14:41:16-05:00"
+   },
+   "4505980009": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T14:42:48-05:00",
+    "title": "Summer 2027 Structural Analysis Engineer Internship",
+    "updated_raw": "2026-11-16T14:42:48-05:00"
    }
   },
   "seeded": true
@@ -30694,7 +30761,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T13:33:02-05:00"
+    "updated_raw": "2026-11-16T14:32:11-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -31758,6 +31825,11 @@
     "last_seen": "2026-11-16",
     "title": "Spring 2027: Quality Engineering Co-op, Shark (January through June)"
    },
+   "https://careers.sharkninja.com/job/needham/spring-2027-service-desk-co-op-january-to-june/47204/103390055856": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Spring 2027: Service Desk Co-op (January to June)"
+   },
    "https://careers.sharkninja.com/job/needham/spring-2027-talent-acceleration-co-op-january-to-june/47204/103272116192": {
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
@@ -31797,6 +31869,11 @@
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-16",
     "title": "Summer 2027: ESG Strategy Intern (May to August)"
+   },
+   "https://careers.sharkninja.com/job/needham/summer-2027-hw-ux-ui-design-intern-may-through-august/47204/103390056896": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "title": "Summer 2027: HW UX/UI Design Intern (May through August)"
    },
    "https://careers.sharkninja.com/job/needham/summer-2027-industrial-design-intern-may-through-august/47204/102871167072": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -35302,6 +35379,12 @@
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD"
    },
+   "342956": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "11/16/2026",
+    "title": "2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
+   },
    "343057": {
     "first_seen": "2026-11-10 16:19 UTC",
     "last_seen": "2026-11-16",
@@ -35521,6 +35604,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD"
+   },
+   "342956": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "11/16/2026",
+    "title": "2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD"
    },
    "343804": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -35778,7 +35867,7 @@
   "fp": [
    3,
    "workday",
-   "https://tel.wd3.myworkdayjobs.com/TES_Career"
+   "https://tel.wd3.myworkdayjobs.com/TET_Career"
   ],
   "ids": {
    "R26-01590": {
@@ -37791,6 +37880,12 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-11-06T21:22:00+0000",
     "title": "Industrial Engineer Intern"
+   },
+   "7004": {
+    "first_seen": "2026-11-16 19:46 UTC",
+    "last_seen": "2026-11-16",
+    "posted_raw": "2026-11-16T19:37:00+0000",
+    "title": "Manufacturing Engineering Intern"
    }
   },
   "seeded": true
@@ -39064,7 +39159,7 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-08-20T19:20:04-04:00",
     "title": "Civil and Structural Engineer Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T14:31:31-05:00"
    },
    "7920615003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39126,8 +39221,9 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-02T20:15:18-04:00",
-    "title": "Commercial Marketplace Strategy and Operations Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "title": "Commercial Marketplace Strategy and Operations Intern MBA (Spring 2027)",
+    "updated_raw": "2026-11-16T14:33:22-05:00",
+    "updated_seen": "2026-11-16"
    },
    "7984998003": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -39169,14 +39265,14 @@
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-10T11:54:14-04:00",
     "title": "Data Analytics Intern (Spring 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T14:31:06-05:00"
    },
    "7990632003": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-16",
     "posted_raw": "2026-09-10T11:54:02-04:00",
     "title": "Data Analytics Intern (Summer 2027)",
-    "updated_raw": "2026-10-29T18:01:14-04:00"
+    "updated_raw": "2026-11-16T14:31:35-05:00"
    },
    "7990677003": {
     "first_seen": "2026-11-10 18:53 UTC",

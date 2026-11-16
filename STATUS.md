@@ -1,7 +1,17 @@
 # Internship watch status
 
-Working: 276 of 535 companies
+Working: 277 of 535 companies
 
+
+## New this run
+
+- **Textron (Textron Aviation, Bell, university hiring)**: [2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=342956&lang=en) US-Maryland-Hunt Valley
+- **Viasat**: [Manufacturing Engineering Intern](https://careers.viasat.com/jobs/7004) Tempe, Arizona, United States
+- **Intuitive Surgical**: [Mechanical Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000161896235) Blacksburg, VA, us
+- **Textron Specialized Vehicles**: [2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342956&lang=en) US-Maryland-Hunt Valley
+- **Pacific Fusion**: [Summer 2027 Materials Science Internship](https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009) San Leandro, CA
+- **Pacific Fusion**: [Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship](https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009) San Leandro, CA
+- **Pacific Fusion**: [Summer 2027 Vacuum Systems Engineering Internship](https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009) San Leandro, CA
 
 ## Aerospace, space & defense
 
@@ -9,7 +19,7 @@ Working: 276 of 535 companies
 |---|---|---|---|---|
 | AeroVironment | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://avav.wd1.myworkdayjobs.com/AVAV HTTPErro |
 | Airbus | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
-| Anduril | ✅ ok | greenhouse | 25 | config |
+| Anduril | ✅ ok | greenhouse | 25 | cache |
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 32 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
@@ -51,7 +61,7 @@ Working: 276 of 535 companies
 | Stoke Space | ✅ ok | greenhouse | 1 | config |
 | Stratolaunch | ✅ ok | greenhouse | 3 | cache |
 | Teledyne | ⏭️ skipped |  |  | defense; job site not found, dropped |
-| Textron (Textron Aviation, Bell, university hiring) | ✅ ok | taleo | 13 | config |
+| Textron (Textron Aviation, Bell, university hiring) | ✅ ok | taleo | 14 | config |
 | Triumph Group | ✅ ok | successfactors | 1 | cache |
 | True Anomaly | ✅ ok | greenhouse | 0 | config |
 | United Launch Alliance | ✅ ok | successfactors | 9 | config |
@@ -59,7 +69,7 @@ Working: 276 of 535 companies
 | Wisk Aero | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://wisk.wd108.myworkdayjobs.com/Wisk_Career |
 | Woodward | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://woodward.wd5.myworkdayjobs.com/woodward  |
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
-| Zipline | ✅ ok | greenhouse | 20 | config |
+| Zipline | ✅ ok | greenhouse | 15 | config |
 | Boom Supersonic | ⏭️ skipped |  |  | job board isn't publicly readable |
 | BETA Technologies | ❌ unresolved |  |  | no job system found on careers page |
 | Varda Space | ✅ ok | greenhouse | 17 | cache |
@@ -152,11 +162,11 @@ Working: 276 of 535 companies
 | Whisper Aero | ✅ ok | greenhouse | 0 | cache |
 | Heart Aerospace | ✅ ok | greenhouse | 0 | cache |
 | Eve Air Mobility | ❌ unresolved |  |  | no job system found on careers page |
-| Viasat | ✅ ok | jibe | 2 | cache |
+| Viasat | ✅ ok | jibe | 3 | cache |
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 0 | cache |
 | Mercury Systems | ❌ unresolved |  |  | careers page: HTTPError |
-| ATI | ✅ ok | phenom | 29 | cache |
+| ATI | ✅ ok | phenom | 32 | cache |
 | Carpenter Technology | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://cartech.wd5.myworkdayjobs.com/CTCExterna |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 1 | cache |
@@ -183,7 +193,7 @@ Working: 276 of 535 companies
 | Boston Dynamics | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday:https://bostondynamics.wd1.myworkdayjobs.com/Bos |
 | FANUC | ❌ unresolved |  |  | no job system found on careers page |
 | Figure | ✅ ok | greenhouse | 6 | config |
-| Intuitive Surgical | ✅ ok | smartrecruiters | 4 | config |
+| Intuitive Surgical | ✅ ok | smartrecruiters | 5 | config |
 | KUKA | ❌ unresolved |  |  | careers page: HTTPError |
 | Nuro | ✅ ok | greenhouse | 0 | cache |
 | Rockwell Automation | ⏭️ skipped |  |  | site blocks automated checks |
@@ -243,7 +253,7 @@ Working: 276 of 535 companies
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
-| Tokyo Electron | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
+| Tokyo Electron | ✅ ok | workday | 0 | found on careers page |
 | Silicon Labs | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
 | Infineon | ❌ unresolved |  |  | no job system found on careers page |
@@ -307,7 +317,7 @@ Working: 276 of 535 companies
 | Ford | ✅ ok | radancy | 0 | config |
 | General Motors | ❌ error |  |  | workday failed (HTTPError: HTTP Error 429: Too Many Requests) / workday failed (HTTPError: HTTP Error 429: Too Many Requ |
 | Hitachi Construction Machinery | ❌ unresolved |  |  | careers page: URLError |
-| Honda | ✅ ok | phenom | 1 | cache |
+| Honda | ✅ ok | phenom | 4 | cache |
 | John Deere | ✅ ok | successfactors | 2 | config |
 | Komatsu | ✅ ok | successfactors | 2 | config |
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
@@ -391,7 +401,7 @@ Working: 276 of 535 companies
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
 | Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
-| Textron Specialized Vehicles | ✅ ok | taleo | 14 | config |
+| Textron Specialized Vehicles | ✅ ok | taleo | 15 | config |
 | Polestar | ❌ unresolved |  |  | careers page: HTTPError |
 | Porsche Cars North America | ❌ unresolved |  |  | careers page: HTTPError |
 | Jaguar Land Rover North America | ✅ ok | successfactors | 0 | cache |
@@ -528,11 +538,11 @@ Working: 276 of 535 companies
 | NuScale | ❌ unresolved |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
 | Westinghouse | ✅ ok | successfactors | 4 | cache |
-| BWX Technologies | ✅ ok | successfactors | 2 | cache |
+| BWX Technologies | ✅ ok | successfactors | 3 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
 | Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
-| Pacific Fusion | ✅ ok | greenhouse | 3 | cache |
+| Pacific Fusion | ✅ ok | greenhouse | 4 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 4 | config |
 | Bechtel | ✅ ok | phenom | 0 | cache |
