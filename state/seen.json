@@ -2833,6 +2833,24 @@
     "posted_raw": "September 4, 2026",
     "title": "Software Development Engineer Intern/Co-Op, ROBOTICS - 2027"
    },
+   "10532293": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "September 8, 2026",
+    "title": "Construction Manager Intern Spring and Summer 2027 (Bellevue, WA)"
+   },
+   "10532296": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "September 8, 2026",
+    "title": "Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA)"
+   },
+   "10532299": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "September 8, 2026",
+    "title": "Pre-Construction Manager Lifecycle Intern Spring and Summer 2027 (Bellevue, WA)"
+   },
    "10535281": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
@@ -2934,6 +2952,11 @@
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-17",
     "title": "Engineering College Co-Op"
+   },
+   "https://careers.dauch.com/en/job/ridgway/mechanical-engineering-intern/44944/100762220800": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Mechanical Engineering Intern"
    },
    "https://careers.dauch.com/en/job/royal-oak/engineering-college-co-op/44944/102823990576": {
     "first_seen": "2026-11-10 16:34 UTC",
@@ -4996,6 +5019,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "11/8/26",
     "title": "Sales Operations Intern"
+   },
+   "198066": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "11/17/26",
+    "title": "Intern, E-Systems & Total Vehicle Validation Spring 2027 - Summer 2027"
    },
    "198374": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -17648,7 +17677,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17678,7 +17707,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -26474,6 +26503,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 17 Days Ago",
     "title": "Generative AI & Software Engineering Intern"
+   },
+   "R00216727": {
+    "aliases": [
+     "/job/Santa-Clara-California---United-States-of-America/Battery-Modeling-Intern---Santa-Clara--CA---Spring-2027_R00216727"
+    ],
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Battery Modeling Intern - Santa Clara, CA - Spring 2027"
    }
   },
   "seeded": true
@@ -31964,7 +32002,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T15:32:15-05:00"
+    "updated_raw": "2026-11-17T16:17:33-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -36615,6 +36653,12 @@
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Production Planner (Marine) - New Orleans, LA"
    },
+   "342688": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "11/17/2026",
+    "title": "2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD"
+   },
    "342704": {
     "first_seen": "2026-11-10 16:19 UTC",
     "last_seen": "2026-11-12",
@@ -36846,6 +36890,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Production Planner (Marine) - New Orleans, LA"
+   },
+   "342688": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "11/17/2026",
+    "title": "2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD"
    },
    "342704": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -37484,6 +37534,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Product Management Engineering Co-op"
+   },
+   "JR-10975": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
+    "title": "HVAC Product Development Technician Intern"
    },
    "JR-11431": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -38147,6 +38203,12 @@
     "last_seen": "2026-11-12",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Technician Intern-1"
+   },
+   "JR-19717": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
+    "title": "Acoustic Engineer (Intern)"
    },
    "JR-19889": {
     "first_seen": "2026-11-14 11:05 UTC",
@@ -40259,6 +40321,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "2027 Spring Intern, Connected Health Clinical Content"
+   },
+   "13668": {
+    "first_seen": "2026-11-17 21:44 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
+    "title": "2027 Spring Co-Op, Process Engineer"
    }
   },
   "seeded": true
