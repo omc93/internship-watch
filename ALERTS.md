@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-17 23:38 UTC · **Texas Instruments** · [Systems Engineering Intern - Power](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016343) · fit (systems / controls) | Dallas, TX, United States [US] | employer-reported Nov 17 | found Nov 17 05:38 PM CT | ID 25016343 | listed
 - 2026-11-17 21:44 UTC · **Zimmer Biomet** · [2027 Spring Co-Op, Process Engineer](https://careers.zimmerbiomet.com/us/en/job/13668/2027-Spring-Co-Op-Process-Engineer) · fit (process / quality / materials) | Parsippany, New Jersey, United States [US] | employer-reported Nov 17 | found Nov 17 03:44 PM CT | ID 13668 | open
 - 2026-11-17 21:44 UTC · **BMW** · [Intern, E-Systems & Total Vehicle Validation Spring 2027 - Summer 2027](https://jobs.bmwgroup.com/job/Intern%2C-E-Systems-&-Total-Vehicle-Validation-Spring-2027-Summer-2027/198066-en_US/) · strong fit (design / product development) | Oxnard, USA, [US] | employer-reported Nov 17 | found Nov 17 03:44 PM CT | ID 198066 | open
 - 2026-11-17 20:54 UTC · **GE Aerospace** · [US Engineering Intern – Muskegon, MI – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Muskegon/US-Engineering-Intern---Muskegon--MI---Summer-2027_R5041531-1) · fit (general engineering) | Muskegon [US] | employer-reported Nov 17 | found Nov 17 02:54 PM CT | ID R5041531 | open
