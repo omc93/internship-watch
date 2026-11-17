@@ -9222,6 +9222,11 @@
    "/job"
   ],
   "ids": {
+   "https://www.castelion.com/careers/job/4386032009/": {
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Mechanical Engineer Intern (Winter/Spring 2027) Torrance, CA Mechanical Engineering View Details"
+   },
    "https://www.castelion.com/careers/job/4386047009/": {
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-17",
@@ -10521,6 +10526,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Customer Experience Intern"
+   },
+   "DT-20712": {
+    "aliases": [
+     "/job/High-Point-NC-US/Mechanical-Design-Engineering-Intern_DT-20712-1"
+    ],
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Mechanical Design Engineering Intern"
    }
   },
   "seeded": true
@@ -14837,6 +14851,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted Yesterday",
     "title": "GE Vernova Internship – 2027 Project Management Office"
+   },
+   "R5059107": {
+    "aliases": [
+     "/job/Schenectady/GEV-Cores-and-Castings-Materials-Internship---2027_R5059107-2"
+    ],
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "GEV Cores and Castings Materials Internship – 2027"
    }
   },
   "seeded": true
@@ -20601,6 +20624,33 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Computer Science/CAD Intern"
+   },
+   "WD30285102": {
+    "aliases": [
+     "/job/Milwaukee-Wisconsin-United-States-of-America/Materials-Engineering-Intern_WD30285102"
+    ],
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Materials Engineering Intern"
+   },
+   "WD30285226": {
+    "aliases": [
+     "/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226"
+    ],
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Mechanical Engineering Intern / Compressor Team"
+   },
+   "WD30285272": {
+    "aliases": [
+     "/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272"
+    ],
+    "first_seen": "2026-11-17 15:05 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Electrical Engineering Intern"
    }
   },
   "seeded": true
@@ -31613,7 +31663,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T09:03:01-05:00"
+    "updated_raw": "2026-11-17T09:47:22-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
