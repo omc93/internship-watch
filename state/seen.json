@@ -1165,8 +1165,8 @@
      "/job/Plymouth-MI/Purchasing-Intern_R-28958"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Purchasing Intern"
    },
    "R-29354": {
@@ -1228,8 +1228,8 @@
      "/job/Plymouth-MI/Manufacturing-Intern_R-29532"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Manufacturing Intern"
    }
   },
@@ -4653,11 +4653,23 @@
    "https://jobs.baesystems.com/global/en"
   ],
   "ids": {
+   "127774BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-10T13:02:28.417+0000",
+    "title": "Electrical Engineering Coop (Spring/Summer 2027), Onsite"
+   },
    "127778BR": {
     "first_seen": "2026-11-17 19:22 UTC",
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-10T13:02:28.417+0000",
     "title": "Mechanical Engineering Coop (Summer/Fall 2027), Onsite"
+   },
+   "128054BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Software Engineering Intern II, (Summer 2027) Onsite"
    },
    "129132BR": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -4705,10 +4717,14 @@
    },
    "129771BR": {
     "first_seen": "2026-11-10 15:57 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.531+0000",
     "title": "Embedded Software Engineering Co-Op II (Summer/Fall 2027) , Navigation and Sensor Systems"
    },
    "129772BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.531+0000",
     "title": "Embedded Software Engineering Co-Op III (Summer/Fall 2027) , Navigation and Sensor Systems"
    },
    "129774BR": {
@@ -4777,9 +4793,21 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Software Engineering Intern III, Summer 2027 (Onsite)"
    },
+   "131239BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
+    "title": "Intellectual Property Legal Intern IV, Spring 2027 (Hybrid)"
+   },
    "131309BR": {
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "M&S Engineering Intern, Summer 2027"
+   },
+   "131346BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
+    "title": "Mechanical Engineering Internship Summer 2027"
    },
    "131375BR": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -4787,14 +4815,20 @@
    },
    "131389BR": {
     "first_seen": "2026-11-10 15:57 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
     "title": "Research Engineering Intern III, Summer 2027 (Onsite)"
    },
    "131390BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
     "title": "Research Engineering Intern IV, Summer 2027 (Onsite)"
    },
    "131487BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
     "title": "Contracts Intern, Summer 2027 (Cedar Rapids, IA)"
    },
    "131580BR": {
@@ -4805,9 +4839,59 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "title": "Contracts Intern, Summer 2027 - Greenlawn, NY (Hybrid)"
    },
+   "131590BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
+    "title": "Contracts Intern, Summer 2027 - Fort Wayne, IN"
+   },
+   "131671BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
+    "title": "Industrial Engineering Intern II, Summer 2027 - Austin, TX"
+   },
+   "131674BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
+    "title": "Industrial Engineering Intern II, Summer 2027 - Nashua, NH"
+   },
+   "131676BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
+    "title": "Supply Chain Intern II, Summer 2027"
+   },
+   "131749BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.531+0000",
+    "title": "Contracts Intern, Summer 2027 - New Hampshire"
+   },
    "131759BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
     "title": "System Modeling Engineer Intern, Summer 2027"
+   },
+   "131949BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Manufacturing Engineering Intern III (Summer 2027), Greenlawn, NY"
+   },
+   "132094BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Electrical Engineering Internship Summer 2027"
+   },
+   "132319BR": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-11T05:02:31.529+0000",
+    "title": "AI/ML Engineer Intern, Summer 2027"
    }
   },
   "seeded": true
@@ -17716,7 +17800,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -28634,6 +28718,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-09T16:19:00+0000",
     "title": "Intern – Ranken Lab Technician"
+   },
+   "53001": {
+    "first_seen": "2026-11-17 22:26 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T22:16:00+0000",
+    "title": "PMO Intern"
    }
   },
   "seeded": true
@@ -32011,7 +32101,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T16:47:11-05:00"
+    "updated_raw": "2026-11-17T17:02:20-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
