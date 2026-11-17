@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-17 19:04 UTC · **Micron** · [Intern - Process Integration, Advanced Packaging](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Integration--Advanced-Packaging_JR115380) · fit (process / quality / materials) | Boise, ID - Main Site [US] | employer-reported Nov 17 | found Nov 17 01:04 PM CT | ID JR115380 | open
 - 2026-11-17 17:46 UTC · **Toyota Research Institute** · [Robotics Intern, Agentic Robotics](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49) · strong fit (robotics hardware) | Cambridge, MA [US] | employer-reported Nov 17 11:28 AM CT | found Nov 17 11:46 AM CT | ID 7f676d3c-6a86-4b00-a9fd-c1009035fe49 | open
 - 2026-11-17 17:46 UTC · **Micron** · [Intern - DRAM Customer Enablement Engineering](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR117268) · fit (general engineering) | Boise, ID - Main Site [US] | employer-reported Nov 17 | found Nov 17 11:46 AM CT | ID JR117268 | listed
 - 2026-11-17 17:20 UTC · **Intuitive Surgical** · [Clinical Development Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000162128885) · fit (general engineering) | Sunnyvale, CA, us [US] | employer-reported Nov 17 10:58 AM CT | found Nov 17 11:20 AM CT | ID 744000162128885 | listed
