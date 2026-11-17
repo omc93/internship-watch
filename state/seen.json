@@ -2352,8 +2352,8 @@
      "/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Summer Intern - Engineering - OpEx Distribution"
    },
    "JR37418": {
@@ -8452,6 +8452,18 @@
     "posted_raw": "9/16/26",
     "title": "Electrical Engineering Intern"
    },
+   "5749": {
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "9/11/26",
+    "title": "Agricultural Technical Training Intern"
+   },
+   "5751": {
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "9/11/26",
+    "title": "Marketing Analytics Intern"
+   },
    "5752": {
     "first_seen": "2026-11-14 03:46 UTC",
     "last_seen": "2026-11-17",
@@ -9437,6 +9449,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 9 Days Ago",
     "title": "Sales Support & Marketing Intern"
+   },
+   "R0000405498": {
+    "aliases": [
+     "/job/Santiago-Region-Metropolitana-de-Santiago/Customer-Services-Intern_R0000405498"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Customer Services Intern"
    },
    "R0000405582": {
     "aliases": [
@@ -10833,6 +10854,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 11 Days Ago",
     "title": "2026-2027 Campus Internship – Accounting / Finance"
+   },
+   "R2068632": {
+    "aliases": [
+     "/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Sales_R2068632"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2026-2027 Campus Internship - Sales"
    },
    "R2068713": {
     "aliases": [
@@ -13886,7 +13916,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027"
    },
    "R5043004": {
@@ -17454,7 +17484,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -20381,6 +20411,15 @@
     "last_seen": "2026-11-15",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Aviation Maintenance Technician Summer Intern"
+   },
+   "R-102739": {
+    "aliases": [
+     "/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Emerging Technologies CoOp"
    },
    "R-103411": {
     "aliases": [
@@ -23519,6 +23558,15 @@
     "posted_raw": "Posted 6 Days Ago",
     "title": "Intern, Electrical Engineering"
    },
+   "R-26-19822": {
+    "aliases": [
+     "/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Intern, Quality Engineering"
+   },
    "R-26-19984": {
     "aliases": [
      "/job/Torrance-CA/Intern--Product-Engineering_R-26-19984"
@@ -26530,6 +26578,24 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Mechanical Engineer Intern- Redondo beach CA"
+   },
+   "R10261033": {
+    "aliases": [
+     "/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA"
+   },
+   "R10261045": {
+    "aliases": [
+     "/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045"
+    ],
+    "first_seen": "2026-11-17 14:15 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Manufacturing Engineer Intern - Baltimore MD"
    }
   },
   "seeded": true
@@ -31547,7 +31613,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T08:32:05-05:00"
+    "updated_raw": "2026-11-17T09:03:01-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
