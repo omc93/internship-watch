@@ -3242,6 +3242,13 @@
     "title": "Winter 2027 Robotics Engineer Co-op",
     "updated_raw": "2026-11-16T21:23:01-05:00"
    },
+   "5273039007": {
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T14:04:29-05:00",
+    "title": "2027 Product Data Quality Co-op",
+    "updated_raw": "2026-11-17T14:04:29-05:00"
+   },
    "5278662007": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
@@ -4616,6 +4623,12 @@
    "https://jobs.baesystems.com/global/en"
   ],
   "ids": {
+   "127778BR": {
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-10T13:02:28.417+0000",
+    "title": "Mechanical Engineering Coop (Summer/Fall 2027), Onsite"
+   },
    "129132BR": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-17",
@@ -9507,6 +9520,24 @@
     "posted_raw": "Posted 9 Days Ago",
     "title": "Sales Support & Marketing Intern"
    },
+   "R0000405470": {
+    "aliases": [
+     "/job/Minerbio-Bologna/Supply-Chain-Internship-1_R0000405470"
+    ],
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Supply Chain Internship-1"
+   },
+   "R0000405471": {
+    "aliases": [
+     "/job/Minerbio-Bologna/Supply-Chain-Internship-2_R0000405471"
+    ],
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Supply Chain Internship-2"
+   },
    "R0000405498": {
     "aliases": [
      "/job/Santiago-Region-Metropolitana-de-Santiago/Customer-Services-Intern_R0000405498"
@@ -12729,21 +12760,21 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-07-09T12:11:41-04:00",
     "title": "Finance & AI Automation Intern",
-    "updated_raw": "2026-08-13T09:13:16-04:00"
+    "updated_raw": "2026-11-17T14:12:53-05:00"
    },
    "7828531003": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-17",
     "posted_raw": "2026-08-05T13:17:01-04:00",
     "title": "Robotics Data Operator Intern",
-    "updated_raw": "2026-08-13T09:13:16-04:00"
+    "updated_raw": "2026-11-17T14:12:53-05:00"
    },
    "8040377003": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-17",
     "posted_raw": "2026-10-21T14:03:41-04:00",
     "title": "Intern, Aftersales Customer Relations & Voice of Customer",
-    "updated_raw": "2026-10-21T14:03:41-04:00"
+    "updated_raw": "2026-11-17T14:12:53-05:00"
    }
   },
   "seeded": true
@@ -15609,7 +15640,7 @@
      "/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling"
    },
@@ -15627,7 +15658,7 @@
      "/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-Op – Manufacturing Controls Engineer"
    },
@@ -15636,8 +15667,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Workplace-Safety_JR-202619201"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Global Workplace Safety"
    },
    "JR-202619286": {
@@ -15645,7 +15676,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Digital Sculpting"
    },
@@ -15654,7 +15685,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Clay Sculpting"
    },
@@ -15663,7 +15694,7 @@
      "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Co-op---Mechanical-Engineer_JR-202619290"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-op – Mechanical Engineer"
    },
@@ -15672,7 +15703,7 @@
      "/job/Bay-City-Michigan-United-States-of-America/XMLNAME-2027-Co-Op-Student---Manufacturing-Quality-Engineer_JR-202619309"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-Op Student – Manufacturing Quality Engineer"
    },
@@ -15681,7 +15712,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Creative-Design--Interior-Exterior-_JR-202619314"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Creative Design (Interior/Exterior)"
    },
@@ -15690,7 +15721,7 @@
      "/job/Flint-Michigan-United-States-of-America/XMLNAME-2027-Co-op---Manufacturing-Industrial-Engineering_JR-202619464"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-op – Manufacturing Industrial Engineering"
    },
@@ -15699,7 +15730,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Field-Sales-Operations-Internship---District-Manager--Parts---Service_JR-202619666"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Field Sales Operations Internship – District Manager, Parts & Service"
    },
@@ -15708,7 +15739,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering"
    },
@@ -15717,7 +15748,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Digital Product: Product Management (MBA)"
    },
@@ -15726,7 +15757,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Digital Product: Software Engineering"
    },
@@ -15735,7 +15766,7 @@
      "/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Intern - Computational Design Intern"
    },
@@ -15744,7 +15775,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation"
    },
@@ -15753,7 +15784,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)"
    },
@@ -15771,7 +15802,7 @@
      "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive"
    },
@@ -15780,7 +15811,7 @@
      "/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Intern - Industrial Design"
    },
@@ -15789,8 +15820,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Magnetic Materials"
    },
    "JR-202621636": {
@@ -15798,8 +15829,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Physical Metallurgist (Steels)"
    },
    "JR-202621642": {
@@ -15807,8 +15838,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery"
    },
    "JR-202621645": {
@@ -15816,8 +15847,8 @@
      "/job/Milford-Proving-Ground---Bldg-104A/XMLNAME-2027-Summer-Intern--Radar-Hardware-Development-Engineer---ASD_JR-202621645"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "2027 Summer Intern, Radar Hardware Development Engineer, ASD"
    },
    "JR-202621649": {
@@ -15825,7 +15856,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)"
    },
@@ -15834,7 +15865,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)"
    },
@@ -15852,8 +15883,8 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
     ],
     "first_seen": "2026-11-11 02:02 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 5 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Intern – Machine Learning Engineer, AV/AI Platform"
    },
    "JR-202621696": {
@@ -15879,8 +15910,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern – Research and Development - Nondestructive Evaluation"
    },
    "JR-202621729": {
@@ -15906,8 +15937,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---System-Safety_JR-202621736"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - System Safety"
    },
    "JR-202621738": {
@@ -15915,8 +15946,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Support_JR-202621738"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Defense Lab Support"
    },
    "JR-202621740": {
@@ -15924,8 +15955,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern – Research and Developement – Display Optical Simulation"
    },
    "JR-202621747": {
@@ -15933,8 +15964,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Connected Vehicle Systems"
    },
    "JR-202621756": {
@@ -15942,8 +15973,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT"
    },
    "JR-202621778": {
@@ -15951,8 +15982,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)"
    },
    "JR-202621820": {
@@ -15960,7 +15991,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern- ADAS Software Engineer, ADPT"
    },
@@ -15969,8 +16000,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-OneOps-Deploy-Engineer_JR-202621896"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "2027 Summer Intern - GM OneOps Deploy Engineer"
    },
    "JR-202621977": {
@@ -15987,8 +16018,8 @@
      "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "2027 Summer Intern, Systems Engineer, ASD"
    },
    "JR-202621993": {
@@ -15996,8 +16027,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "2027 Summer Intern – AV Sensor Design, Release and Integration"
    },
    "JR-202622043": {
@@ -16005,7 +16036,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Program-Management--GM-Defense--_JR-202622043"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern – Program Management, GM Defense ,"
    },
@@ -16014,7 +16045,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's)"
    },
@@ -16023,8 +16054,8 @@
      "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "2027 Summer Intern, Fleet Reliability & Test Engineering, ASD"
    },
    "JR-202622132": {
@@ -16032,7 +16063,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, Data Scaling, Embodied AI"
    },
@@ -16041,8 +16072,8 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD)"
    },
    "JR-202622143": {
@@ -16050,8 +16081,8 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "2027 Summer Intern, SEAM, Embodied AI (PhD)"
    },
    "JR-202622146": {
@@ -16059,7 +16090,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, AI Research, Embodied AI (PhD)"
    },
@@ -16068,8 +16099,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research---Development---Energy-and-Propulsion-Controls_JR-202622207"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern - Research & Development - Energy and Propulsion Controls"
    },
    "JR-202622231": {
@@ -16077,8 +16108,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture"
    },
    "JR-202622258": {
@@ -16086,8 +16117,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern – Research and Development – Vehicle Health Management"
    },
    "JR-202622406": {
@@ -16095,7 +16126,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles"
    },
@@ -16104,7 +16135,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure"
    },
@@ -16113,7 +16144,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)"
    },
@@ -16122,7 +16153,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, AI Research, Embodied AI (Masters)"
    },
@@ -16131,7 +16162,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, SEAM, Embodied AI (Masters)"
    },
@@ -16140,7 +16171,7 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)"
    },
@@ -16149,7 +16180,7 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern, Data Scaling, Embodied AI (Masters)"
    },
@@ -16158,8 +16189,8 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)"
    },
    "JR-202622634": {
@@ -16167,8 +16198,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "2027 Summer Intern - Manufacturing Excellence Industrial Engineering"
    },
    "JR-202622721": {
@@ -16176,8 +16207,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Aftertreatment-Catalysis_JR-202622721"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Aftertreatment Catalysis"
    },
    "JR-202622746": {
@@ -16185,8 +16216,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning"
    },
    "JR-202623048": {
@@ -16194,8 +16225,8 @@
      "/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern – Research and Development - Power Electronics & Energy Conversion Systems"
    },
    "JR-202623300": {
@@ -16203,8 +16234,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "2027 Summer Intern - Research and Development - EPSR Lab"
    },
    "JR-202623439": {
@@ -16212,8 +16243,8 @@
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 17 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles"
    },
    "JR-202623880": {
@@ -16242,6 +16273,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 4 Days Ago",
     "title": "2027 Summer Intern - Automotive Technician"
+   },
+   "JR-202624190": {
+    "aliases": [
+     "/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190"
+    ],
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Summer 2027 PhD Battery Research & Development Intern"
    }
   },
   "seeded": true
@@ -17564,7 +17604,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17594,7 +17634,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -23770,6 +23810,24 @@
     "posted_raw": "Posted 9 Days Ago",
     "title": "Intern, Systems Engineering"
    },
+   "R-26-20939": {
+    "aliases": [
+     "/job/Tewkesbury-GBR/Product-and-Quality-Engineering-Intern_R-26-20939"
+    ],
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Product and Quality Engineering Intern"
+   },
+   "R-26-20977": {
+    "aliases": [
+     "/job/Tewkesbury-GBR/Design-Engineering-Internship_R-26-20977"
+    ],
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Design Engineering Internship"
+   },
    "R-26-21164": {
     "aliases": [
      "/job/Blacksburg-VA/Intern--Business_R-26-21164"
@@ -25031,8 +25089,8 @@
      "/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 5 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
     "title": "AI Operations Intern, AI Clouds - Summer 2027"
    },
    "JR2029220": {
@@ -27660,8 +27718,8 @@
      "/job/OT516-NPW---Landover-MD-5000-Philadelphia-Way-Lanham-MD-20706-USA/Field-Operations-Field-Supervisor-Interns_20168815"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-15",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Field Operations/Field Supervisor Interns"
    },
    "20168823": {
@@ -27678,8 +27736,8 @@
      "/job/OTVAH-Virginia-Home-Offices-Remote-Location-Remote-City-VA-06032-USA/Government-Relations-Intern--Part-time-_20170498"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-15",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Government Relations Intern (Part-time)"
    },
    "20170600": {
@@ -31844,7 +31902,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T13:48:42-05:00"
+    "updated_raw": "2026-11-17T14:02:59-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -39609,6 +39667,12 @@
    "https://recruiting.ultipro.com/WIL1006WI/JobBoard/b5d9d0d6-a149-4636-95d5-8dfede315cab"
   ],
   "ids": {
+   "b32157b3-b676-4fde-b127-bbfff6fc118c": {
+    "first_seen": "2026-11-17 19:22 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T19:03:32.309Z",
+    "title": "Intern - Machining"
+   },
    "c76a70ef-3ba2-4b57-83fd-0823951a17d6": {
     "first_seen": "2026-11-16 15:13 UTC",
     "last_seen": "2026-11-17",
