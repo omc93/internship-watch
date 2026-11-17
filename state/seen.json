@@ -321,8 +321,8 @@
    },
    "JR00047437": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-12",
-    "posted_raw": "2026-10-21T00:00:00.000+0000",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "Power BI Intern- Summer 2027"
    },
    "JR00047754": {
@@ -354,6 +354,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Finance Operations Intern – Summer 2027"
+   },
+   "JR00048202": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
+    "title": "Finance Intern Ormond Beach – Summer 2027"
    },
    "JR00048203": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -5879,8 +5885,8 @@
      "/job/Jung-gu-Seoul/LTSA-Operation-Support-Intern_JR-23228"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "LTSA Operation Support Intern"
    },
    "JR-23230": {
@@ -5888,8 +5894,8 @@
      "/job/Jung-gu-Seoul/LTSA-Operation-Support-Intern_JR-23230-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "LTSA Operation Support Intern"
    },
    "JR-25265": {
@@ -9273,6 +9279,16 @@
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-17",
     "title": "Propulsion Engineering Intern (Summer 2027) Torrance, CA Propulsion Engineering View Details"
+   },
+   "https://www.castelion.com/careers/job/4509752009/": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Intern, PCBA Manufacturing Torrance, CA LA Manufacturing – Avionics View Details"
+   },
+   "https://www.castelion.com/careers/job/4509759009/": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Intern, Harness Manufacturing Torrance, CA LA Manufacturing – Avionics View Details"
    }
   },
   "seeded": true
@@ -9582,6 +9598,11 @@
     "first_seen": "2026-11-17 09:39 UTC",
     "last_seen": "2026-11-17",
     "title": "Student Intern, Category Management"
+   },
+   "1458172833": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Student Intern, Salesforce Developer 1"
    }
   },
   "seeded": true
@@ -20753,6 +20774,13 @@
     "posted_raw": "2026-09-08T23:13:57-04:00",
     "title": "Simulation Software Engineering Intern - Summer 2027",
     "updated_raw": "2026-10-23T17:18:38-04:00"
+   },
+   "5436468008": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-09-28T12:37:36-04:00",
+    "title": "Supply Chain Internship - Summer 2027",
+    "updated_raw": "2026-11-17T13:00:25-05:00"
    }
   },
   "seeded": true
@@ -28082,6 +28110,16 @@
     "first_seen": "2026-11-17 09:39 UTC",
     "last_seen": "2026-11-17",
     "title": "2027 Summer Internship: Cost Reduction Mechanical Design Engineer"
+   },
+   "1458178433": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "title": "2027 Summer Internship: Data Scientist"
+   },
+   "1458178633": {
+    "first_seen": "2026-11-17 18:43 UTC",
+    "last_seen": "2026-11-17",
+    "title": "2027 Summer Internship: Plant Accounting"
    }
   },
   "seeded": true
@@ -31788,7 +31826,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T12:17:29-05:00"
+    "updated_raw": "2026-11-17T13:17:27-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
