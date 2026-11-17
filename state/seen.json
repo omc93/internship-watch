@@ -17507,7 +17507,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18182,17 +18182,17 @@
    },
    "1427569400": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "title": "2027 Summer Intern: Engineering - Tooling"
    },
    "1427569800": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "title": "2027 Summer Intern: HR - Generalist"
    },
    "1427570300": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "title": "2027 Summer Intern: Engineering - Product"
    },
    "1427570800": {
@@ -18202,7 +18202,7 @@
    },
    "1427571200": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "title": "2027 Summer Intern: Finance - Pricing Analytics"
    },
    "1427571500": {
@@ -18227,7 +18227,7 @@
    },
    "1427573700": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "title": "2027 Summer Intern: HR - People Analytics"
    },
    "1427574200": {
@@ -31663,7 +31663,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T09:47:22-05:00"
+    "updated_raw": "2026-11-17T10:02:28-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -32135,6 +32135,11 @@
     "first_seen": "2026-11-17 09:39 UTC",
     "last_seen": "2026-11-17",
     "title": "Intern"
+   },
+   "1458058833": {
+    "first_seen": "2026-11-17 15:26 UTC",
+    "last_seen": "2026-11-17",
+    "title": "Order Handling Intern (All Genders)"
    }
   },
   "seeded": true
