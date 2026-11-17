@@ -17442,7 +17442,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17472,7 +17472,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -21770,8 +21770,8 @@
  "Loft Orbital": {
   "fp": [
    3,
-   "greenhouse",
-   "loftfederal"
+   "lever",
+   "loftorbital"
   ],
   "ids": {
    "03f948ff-0767-4bb0-a13b-345321d63d71": {
@@ -31535,7 +31535,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T06:32:14-05:00"
+    "updated_raw": "2026-11-17T07:02:21-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
