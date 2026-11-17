@@ -8541,7 +8541,7 @@
    "5755": {
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "9/15/26",
+    "posted_raw": "11/17/26",
     "title": "Commercial Marketing Campaign Intern"
    },
    "5756": {
@@ -13929,6 +13929,15 @@
     "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "Manufacturing/Supply Chain Intern – Hooksett, NH – Summer 2027"
    },
+   "R5041531": {
+    "aliases": [
+     "/job/Muskegon/US-Engineering-Intern---Muskegon--MI---Summer-2027_R5041531-1"
+    ],
+    "first_seen": "2026-11-17 20:54 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "US Engineering Intern – Muskegon, MI – Summer 2027"
+   },
    "R5041532": {
     "aliases": [
      "/job/Muskegon/US-Operations-Intern---Muskegon--MI---Summer-2027_R5041532-1"
@@ -14016,8 +14025,8 @@
      "/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "2026-11-12T00:00:00.000+0000",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027"
    },
    "R5042961": {
@@ -14034,8 +14043,8 @@
      "/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "2026-11-09T00:00:00.000+0000",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
     "title": "GE Aerospace Research - Controls & Optimization Internship, 2027"
    },
    "R5043209": {
@@ -14046,6 +14055,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted Yesterday",
     "title": "Internship - Lean Manufacturing Engineer"
+   },
+   "R5043408": {
+    "aliases": [
+     "/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408"
+    ],
+    "first_seen": "2026-11-17 20:54 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "GE Aerospace Research - Composites Internship, 2027"
    }
   },
   "seeded": true
@@ -20684,8 +20702,8 @@
      "/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Process Engineering Co-Op"
    },
    "WD30278457": {
@@ -20693,7 +20711,7 @@
      "/job/Milwaukee-Wisconsin-United-States-of-America/Accounting---Finance-Intern_WD30278457"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Accounting & Finance Intern"
    },
@@ -20702,7 +20720,7 @@
      "/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Intern"
    },
@@ -20711,7 +20729,7 @@
      "/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain & Operations Intern"
    },
@@ -20738,8 +20756,8 @@
      "/job/Columbia-South-Carolina-United-States-of-America/Controls-Tech-Intern_WD30283265-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Controls Tech Intern"
    },
    "WD30283959": {
@@ -20747,8 +20765,8 @@
      "/job/Milwaukee-Wisconsin-United-States-of-America/Legal-Intern_WD30283959"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Legal Intern"
    },
    "WD30285034": {
@@ -20756,8 +20774,8 @@
      "/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 5 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Best Sales Intern - Fire Systems"
    },
    "WD30285046": {
@@ -20765,8 +20783,8 @@
      "/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Computer Science/CAD Intern"
    },
    "WD30285102": {
@@ -31946,7 +31964,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T15:02:28-05:00"
+    "updated_raw": "2026-11-17T15:32:15-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
