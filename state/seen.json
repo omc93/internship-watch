@@ -3247,7 +3247,14 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-17T14:04:29-05:00",
     "title": "2027 Product Data Quality Co-op",
-    "updated_raw": "2026-11-17T14:04:29-05:00"
+    "updated_raw": "2026-11-17T14:13:34-05:00"
+   },
+   "5274037007": {
+    "first_seen": "2026-11-17 20:10 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T14:17:45-05:00",
+    "title": "2027 Machine Learning Engineer Intern",
+    "updated_raw": "2026-11-17T14:17:45-05:00"
    },
    "5278662007": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -11062,7 +11069,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Local College Co-op: Infrastructure Mapping & Data Quality (Michigan Operations)"
    },
    "R2069457": {
@@ -12431,8 +12438,9 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "Posted 4 Days Ago",
-    "title": "Automation and Controls Interns"
+    "posted_raw": "Posted Today",
+    "title": "Automation and Controls Intern",
+    "updated_seen": "2026-11-17"
    },
    "REQ-15859": {
     "aliases": [
@@ -15716,6 +15724,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Creative Design (Interior/Exterior)"
    },
+   "JR-202619411": {
+    "aliases": [
+     "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Manufacturing-Intern---Mechanical-Engineer_JR-202619411"
+    ],
+    "first_seen": "2026-11-17 20:10 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Summer Manufacturing Intern - Mechanical Engineer"
+   },
    "JR-202619464": {
     "aliases": [
      "/job/Flint-Michigan-United-States-of-America/XMLNAME-2027-Co-op---Manufacturing-Industrial-Engineering_JR-202619464"
@@ -15724,6 +15741,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-op – Manufacturing Industrial Engineering"
+   },
+   "JR-202619467": {
+    "aliases": [
+     "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467"
+    ],
+    "first_seen": "2026-11-17 20:10 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Summer Intern – Manufacturing Supply Chain"
    },
    "JR-202619666": {
     "aliases": [
@@ -17604,7 +17630,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-17",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -19916,6 +19942,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Legal Operations Summer Intern"
+   },
+   "J2472171": {
+    "aliases": [
+     "/job/St-PetersburgTampa-FL/HRIS-Intern---Change-Management-and-Communications_J2472171"
+    ],
+    "first_seen": "2026-11-17 20:10 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "HRIS Intern - Change Management and Communications"
    }
   },
   "seeded": true
@@ -23836,6 +23871,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Intern, Business"
+   },
+   "R-26-21221": {
+    "aliases": [
+     "/job/Tewkesbury-GBR/Sustainability-Intern_R-26-21221"
+    ],
+    "first_seen": "2026-11-17 20:10 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Sustainability Intern"
    },
    "R-26-21228": {
     "aliases": [
@@ -31902,7 +31946,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T14:02:59-05:00"
+    "updated_raw": "2026-11-17T14:47:12-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
