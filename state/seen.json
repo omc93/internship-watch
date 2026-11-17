@@ -5458,7 +5458,7 @@
    },
    "297312": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-10T18:15:48.031+0000",
     "title": "27 Intern | US | Office & Admin Services"
    },
@@ -9809,6 +9809,11 @@
     "first_seen": "2026-11-14 11:05 UTC",
     "last_seen": "2026-11-17",
     "title": "Purchasing intern"
+   },
+   "1451206900": {
+    "first_seen": "2026-11-17 01:24 UTC",
+    "last_seen": "2026-11-17",
+    "title": "IT Intern"
    }
   },
   "seeded": true
@@ -30331,6 +30336,12 @@
     "posted_raw": "2026-11-10T02:22:47.717+00:00",
     "title": "Engineering Intern to the Chief Engineer (Summer)"
    },
+   "6b044f00-b7e8-4141-8cd8-2d77fa40eea0": {
+    "first_seen": "2026-11-17 01:24 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T00:45:09.762+00:00",
+    "title": "Guidance, Navigation and Control (GNC) Intern"
+   },
    "6d1fc228-f66c-4780-b358-7be3f6f64ed9": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-17",
@@ -31257,7 +31268,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-16T19:02:07-05:00"
+    "updated_raw": "2026-11-16T20:02:10-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -31462,7 +31473,7 @@
      "/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1"
     ],
     "first_seen": "2026-11-16 21:40 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted Today",
     "title": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams"
    }
@@ -32222,7 +32233,7 @@
    },
    "https://careers.sharkninja.com/job/needham/spring-2027-consumer-insights-co-op-shark-january-to-june/47204/102565024256": {
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "title": "Spring 2027: Consumer Insights Co-op, Shark (January to June)"
    },
    "https://careers.sharkninja.com/job/needham/spring-2027-control-systems-and-algorithms-co-op-january-to-june/47204/103185025840": {
@@ -36694,7 +36705,7 @@
   "ids": {
    "JR-10172": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Industrial Engineering & Manufacturing Execution Systems Co-op"
    },
@@ -36706,13 +36717,13 @@
    },
    "JR-11431": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
     "title": "Electrical Engineering Co-op"
    },
    "JR-11703": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-10-06T00:00:00.000+0000",
     "title": "Manufacturing Engineering Intern"
    },
@@ -36724,7 +36735,7 @@
    },
    "JR-12967": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-09-29T00:00:00.000+0000",
     "title": "Financial Services Intern"
    },
@@ -36832,7 +36843,7 @@
    },
    "JR-15074": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -36880,7 +36891,7 @@
    },
    "JR-15087": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    },
@@ -37032,25 +37043,25 @@
    },
    "JR-15205": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15206": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15209": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15212": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -37225,7 +37236,7 @@
    },
    "JR-15332": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -37273,7 +37284,7 @@
    },
    "JR-15936": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-10-12T00:00:00.000+0000",
     "title": "Product Support - Engineering Co-Op"
    },
@@ -37297,7 +37308,7 @@
    },
    "JR-17650": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-02T00:00:00.000+0000",
     "title": "Accounting Internship"
    },
@@ -37327,7 +37338,7 @@
    },
    "JR-18650": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-01T00:00:00.000+0000",
     "title": "Applied Compression Aero Intern"
    },
@@ -37339,7 +37350,7 @@
    },
    "JR-18900": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-02T00:00:00.000+0000",
     "title": "Manufacturing Engineering Intern-3"
    },
@@ -37357,7 +37368,7 @@
    },
    "JR-19264": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-03T00:00:00.000+0000",
     "title": "Manufacturing Engineering MES Intern"
    },
@@ -37375,7 +37386,7 @@
    },
    "JR-644": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-04-15T00:00:00.000+0000",
     "title": "Intern-Technician"
    },
@@ -37403,19 +37414,19 @@
    },
    "JR-8684": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Mechanical Engineering Co-op"
    },
    "JR-8957": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
     "title": "Mechanical Engineering Co-op"
    },
    "JR-9382": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "Quality Engineering Co-op"
    },
@@ -37858,7 +37869,7 @@
      "/job/Hamilton-OH/Warranty---Process-Co-Op--Summer-2027-_REQ2026080096-1"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Warranty / Process Co-Op (Spring 2027)"
    },
@@ -37867,7 +37878,7 @@
      "/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Quality Engineer Co-Op (Spring 2027)"
    },
@@ -37876,7 +37887,7 @@
      "/job/Hamilton-OH/VPS-Process-Co-Op--Spring-2027-_REQ2026080106"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 3 Days Ago",
     "title": "VPS/Process Co-Op (Spring 2027)"
    },
@@ -37957,7 +37968,7 @@
      "/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Software Engineer Intern (Year-Round)"
    },
