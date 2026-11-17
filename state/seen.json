@@ -8781,7 +8781,7 @@
      "/job/Reading-PA/Maintenance-Intern---Electrical_26884"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Electrical"
    },
@@ -8790,7 +8790,7 @@
      "/job/Reading-PA/Maintenance-Intern---Mechanical_26885"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Mechanical"
    },
@@ -8799,7 +8799,7 @@
      "/job/Reading-PA/Maintenance-Intern---Machinist_26886"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Machinist"
    },
@@ -20337,6 +20337,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-16T16:06:00+0000",
     "title": "2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems"
+   },
+   "60926": {
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T16:45:00+0000",
+    "title": "2027 Internship - National Security Analysis"
    }
   },
   "seeded": true
@@ -20663,6 +20669,24 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted Today",
     "title": "Mechanical Engineering Intern / Compressor Team"
+   },
+   "WD30285251": {
+    "aliases": [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251"
+    ],
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "BEST Sales Intern - HVAC"
+   },
+   "WD30285253": {
+    "aliases": [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253"
+    ],
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "BEST Sales Intern - HVAC"
    },
    "WD30285272": {
     "aliases": [
@@ -23732,6 +23756,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Intern, Engineering"
+   },
+   "R-26-21448": {
+    "aliases": [
+     "/job/Blacksburg-VA/Intern--Environmental-Health---Safety_R-26-21448"
+    ],
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "Intern, Environmental Health & Safety"
    }
   },
   "seeded": true
@@ -23761,7 +23794,7 @@
      "/job/Jackson-Michigan/Manufacturing-Engineer-Co-op_JR103391-4"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Co-op"
    }
@@ -26681,6 +26714,24 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted Today",
     "title": "2027 Manufacturing Engineer Intern - Baltimore MD"
+   },
+   "R10261054": {
+    "aliases": [
+     "/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054"
+    ],
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Industrial Engineer Intern - Apopka FL"
+   },
+   "R10261097": {
+    "aliases": [
+     "/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Human-Factors-Engineering_R10261097"
+    ],
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "Posted Today",
+    "title": "2027 Intern - Human Factors Engineering"
    }
   },
   "seeded": true
@@ -31279,6 +31330,12 @@
     "posted_raw": "2026-11-06T14:47:00+0000",
     "title": "UIUC Research Park Intern - Computation Methods, Thermal Analysis"
    },
+   "36268": {
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "2026-11-17T16:48:00+0000",
+    "title": "UIUC Research Park Intern - Power Electronics"
+   },
    "36514": {
     "first_seen": "2026-11-17 15:44 UTC",
     "last_seen": "2026-11-17",
@@ -31710,7 +31767,7 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T11:17:31-05:00"
+    "updated_raw": "2026-11-17T11:32:43-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -32514,6 +32571,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "November 6, 2026",
     "title": "Environmental, Health & Safety Intern"
+   },
+   "141204": {
+    "first_seen": "2026-11-17 16:59 UTC",
+    "last_seen": "2026-11-17",
+    "posted_raw": "November 17, 2026",
+    "title": "Offer Management Intern"
    },
    "141359": {
     "first_seen": "2026-11-10 20:56 UTC",
