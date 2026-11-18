@@ -4934,6 +4934,12 @@
     "posted_raw": "2026-11-11T05:02:31.530+0000",
     "title": "Industrial Engineering Intern III (Summer 2027) - Greenlawn, NY"
    },
+   "131953BR": {
+    "first_seen": "2026-11-18 14:58 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Supply Chain Intern III (Summer 2027), Greenlawn, NY"
+   },
    "131991BR": {
     "first_seen": "2026-11-17 22:46 UTC",
     "last_seen": "2026-11-18",
@@ -15197,8 +15203,8 @@
      "/job/Remote/Services-Internship---Engineering-1_R5058534-2"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "Services Internship - Engineering-1"
    },
    "R5058537": {
@@ -15206,8 +15212,8 @@
      "/job/Remote/Services-Internship_R5058537-2"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "Services Internship"
    },
    "R5058568": {
@@ -15245,6 +15251,15 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "GEV Cores and Castings Materials Internship – 2027"
+   },
+   "R5059246": {
+    "aliases": [
+     "/job/Clearwater/GE-Vernova-Manufacturing-Engineer-Intern---Summer-2027_R5059246-2"
+    ],
+    "first_seen": "2026-11-18 14:58 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Manufacturing Engineer Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -23582,6 +23597,15 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - ID1 ATE PI Engineer"
+   },
+   "JR114471": {
+    "aliases": [
+     "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471"
+    ],
+    "first_seen": "2026-11-18 14:58 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Intern - Yield Enhancement Engineer"
    },
    "JR114535": {
     "aliases": [
@@ -32451,7 +32475,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T08:47:15-05:00"
+    "updated_raw": "2026-11-18T09:32:31-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -33031,7 +33055,7 @@
    "135532": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "September 23, 2026",
+    "posted_raw": "November 18, 2026",
     "title": "Continuous Improvement Intern"
    },
    "135737": {
@@ -33229,6 +33253,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "November 3, 2026",
     "title": "Summer 2027 Continuous Improvement Intern"
+   },
+   "140487": {
+    "first_seen": "2026-11-18 14:58 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "November 18, 2026",
+    "title": "Marketing Internship Program"
    },
    "140638": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -34511,84 +34541,84 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:16-04:00",
     "title": "Spring 2027 Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621740002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:55-04:00",
     "title": "Summer 2027 Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621749002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:33-04:00",
     "title": "Spring 2027 Graduate Engineer Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621753002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:41:19-04:00",
     "title": "Summer 2027 Graduate Engineer Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621756002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:50-04:00",
     "title": "Spring 2027 Software Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621757002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:41:40-04:00",
     "title": "Summer 2027 Software Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621763002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:19-04:00",
     "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621770002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:16-04:00",
     "title": "Spring 2027 Business Operations Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8621771002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:41-04:00",
     "title": "Summer 2027 Business Operations Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8636134002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:27:30-04:00",
     "title": "Spring 2027 Silicon Engineering Internship/Co-op",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8636143002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:40-04:00",
     "title": "Spring 2027 Civil Engineering Internship",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    },
    "8636144002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:56-04:00",
     "title": "Summer 2027 Civil Engineering Internship",
-    "updated_raw": "2026-11-17T17:35:57-05:00"
+    "updated_raw": "2026-11-18T09:24:31-05:00"
    }
   },
   "seeded": true
@@ -37678,9 +37708,10 @@
      "/job/Sofia-Bulgaria/Finance-Intern---part-full-time--12-months-fixed-term----FP-A-Department_R-01373958"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
-    "title": "Finance Intern - part/full time (12 months fixed term) - FP&A Department"
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Finance Intern - Part Time Opportunity (12 months fixed term) - FP&A Department",
+    "updated_seen": "2026-11-18"
    }
   },
   "seeded": true
@@ -40273,6 +40304,11 @@
     "first_seen": "2026-11-18 14:07 UTC",
     "last_seen": "2026-11-18",
     "title": "Summer Intern - Piping Mechanical Engineering"
+   },
+   "1451739200": {
+    "first_seen": "2026-11-18 14:58 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Summer Intern - Project Procurement Management"
    }
   },
   "seeded": true
