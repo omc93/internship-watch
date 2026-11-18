@@ -1815,8 +1815,8 @@
      "/job/Marseille-Area/STAGE-2027---Internship-Supply-Chain-Quality-Management_JR10444276"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "STAGE 2027 - Internship Supply Chain Quality Management"
    },
    "JR10449745": {
@@ -1888,7 +1888,7 @@
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#DISCOVER I 2027/2028 Supply Chain Illescas Internship"
    },
    "JR10455451": {
@@ -1936,6 +1936,15 @@
     "posted_raw": "Posted 10 Days Ago",
     "title": "#Discover I 2027-2028 Support to PreFAL Fuselages Internship"
    },
+   "JR10455666": {
+    "aliases": [
+     "/job/Cadiz-Area/XMLNAME--DISCOVER-I-2027-2028-Quality-Team--Cdiz---Support-to-transformation-project-Internship_JR10455666"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "#DISCOVER I 2027/2028 Quality Team (Cádiz)- Support to transformation project Internship"
+   },
    "JR10455689": {
     "aliases": [
      "/job/El-Puerto-Sta-Maria/XMLNAME--XPLORER-2026-Finance-Controlling-Airbus-Cdiz_JR10455689"
@@ -1951,7 +1960,7 @@
     ],
     "first_seen": "2026-11-18 02:54 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "#DISCOVER I 2027-2028 INTERNSHIP INDUSTRIAL MAINTENANCE INTERNSHIP"
    },
    "JR10455750": {
@@ -1981,13 +1990,22 @@
     "posted_raw": "Posted 9 Days Ago",
     "title": "ACOLSL-intern"
    },
+   "JR10455951": {
+    "aliases": [
+     "/job/Sevilla-Area/XMLNAME--Discover-I-2027-2028---A400M-Retrofit-MRO-Planning---Operations-Intern_JR10455951"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "#Discover I 2027-2028 - A400M Retrofit/MRO Planning & Operations Intern"
+   },
    "JR10455975": {
     "aliases": [
      "/job/Illescas/XMLNAME--Discover-I-2027-2028-Industrial-Maintenance-Intern_JR10455975"
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#Discover I 2027-2028 Industrial Maintenance Intern"
    },
    "JR10456024": {
@@ -2032,7 +2050,7 @@
     ],
     "first_seen": "2026-11-17 09:39 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "#DISCOVER I 2027-2028 Internship Industrial Logistic & Planning & Scheduling & Digital Operations Cadiz"
    },
    "JR10456421": {
@@ -2041,7 +2059,7 @@
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#DISCOVER I 2027-2028 Internship Industrial Supply Chain & Digital Operations Internship"
    },
    "JR10456435": {
@@ -2050,7 +2068,7 @@
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#DISCOVER I 2027-2028 Composite Process Engineer Internship"
    },
    "JR10456446": {
@@ -2068,7 +2086,7 @@
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#DISCOVER I 2027-2028 Operational Excellence Internship"
    },
    "JR10456470": {
@@ -2095,7 +2113,7 @@
     ],
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "#DISCOVER I 2027-2028 Internship ME Industrial Robotics & Automation-Illescas"
    },
    "JR10456670": {
@@ -2142,6 +2160,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 3 Days Ago",
     "title": "ACOLS42 intern"
+   },
+   "JR10457669": {
+    "aliases": [
+     "/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer_JR10457669"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "#Discover I 2027-2028 Eurodrone Process Engineer Intern"
    },
    "JR10457752": {
     "aliases": [
@@ -5709,10 +5736,13 @@
    "https://baxter.wd1.myworkdayjobs.com/baxter"
   ],
   "ids": {
-   "/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-211010-2": {
+   "JR-211010": {
+    "aliases": [
+     "/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-211010-2"
+    ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "Co-op Engineering R&D"
    },
    "JR-213219": {
@@ -18755,7 +18785,7 @@
    },
    "1427573400": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-18",
     "title": "2027 Summer Intern: HR - Learning & Development"
    },
    "1427573700": {
@@ -20881,6 +20911,12 @@
     "posted_raw": "2026-11-13T17:40:00+0000",
     "title": "2027 Internship - Mechanical Fabrication Intern"
    },
+   "60909": {
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T20:41:00+0000",
+    "title": "2027 Internship - Vehicle Design and Technologies Intern"
+   },
    "60915": {
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-18",
@@ -21122,8 +21158,8 @@
      "/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "Software Engineering Co-Op"
    },
    "EB00075409": {
@@ -22787,6 +22823,11 @@
     "first_seen": "2026-11-17 16:39 UTC",
     "last_seen": "2026-11-18",
     "title": "Rapid Prototyping Electrical Engineer Co-Op (Spring/Summer) - Group 07-77"
+   },
+   "1451968600": {
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74"
    }
   },
   "seeded": true
@@ -32666,7 +32707,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T15:02:41-05:00"
+    "updated_raw": "2026-11-18T16:02:18-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -38970,6 +39011,12 @@
     "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Logistics Intern"
    },
+   "JR-20263": {
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
+    "title": "Controls Technician Intern"
+   },
    "JR-644": {
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-18",
@@ -39037,7 +39084,35 @@
    "workday",
    "https://trekbikes.wd1.myworkdayjobs.com/TREK"
   ],
-  "ids": {},
+  "ids": {
+   "Trek116018": {
+    "aliases": [
+     "/job/Waterloo-Wisconsin/IT-Service-Desk-Internship_Trek116018"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "IT Service Desk Internship"
+   },
+   "Trek116019": {
+    "aliases": [
+     "/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Mobile QA Engineer Internship"
+   },
+   "Trek116020": {
+    "aliases": [
+     "/job/Waterloo-Wisconsin/AI-QA-Engineer-Internship_Trek116020"
+    ],
+    "first_seen": "2026-11-18 21:18 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "AI QA Engineer Internship"
+   }
+  },
   "seeded": true
  },
  "Triumph Group": {
