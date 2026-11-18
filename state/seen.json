@@ -4948,6 +4948,12 @@
     "posted_raw": "2026-11-11T05:02:31.621+0000",
     "title": "Contracts Intern, Summer 2027 - Fort Wayne, IN"
    },
+   "131670BR": {
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Industrial Engineering Intern II, Summer 2027 - Nashua, NH"
+   },
    "131671BR": {
     "first_seen": "2026-11-17 22:26 UTC",
     "last_seen": "2026-11-18",
@@ -6373,6 +6379,33 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Energy Transition Solutions Intern"
+   },
+   "JR-25456": {
+    "aliases": [
+     "/job/San-Jose-California/Energy-Transition-Solutions-Intern_JR-25456"
+    ],
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Energy Transition Solutions Intern"
+   },
+   "JR-25464": {
+    "aliases": [
+     "/job/San-Jose-California/Commercial-Business-Intelligence-Intern_JR-25464"
+    ],
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Commercial Business Intelligence Intern"
+   },
+   "JR-25465": {
+    "aliases": [
+     "/job/San-Jose-California/Sales-Operations-Intern_JR-25465"
+    ],
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Sales Operations Intern"
    }
   },
   "seeded": true
@@ -14182,6 +14215,13 @@
     "title": "Go-to-Market MBA Intern (Summer 2027)",
     "updated_raw": "2026-11-18T10:36:32-05:00",
     "updated_seen": "2026-11-18"
+   },
+   "8395549": {
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T17:04:21-05:00",
+    "title": "Video Content Creator Intern (Summer 2027)",
+    "updated_raw": "2026-11-18T17:04:21-05:00"
    },
    "8400491": {
     "first_seen": "2026-11-18 20:31 UTC",
@@ -32776,7 +32816,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T16:47:45-05:00"
+    "updated_raw": "2026-11-18T17:32:11-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -39980,21 +40020,21 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-10T14:53:47-04:00",
     "title": "Emerging Talent - Mechanical/Aerospace Engineering Internship",
-    "updated_raw": "2026-11-11T17:11:17-05:00"
+    "updated_raw": "2026-11-18T17:27:51-05:00"
    },
    "4711401006": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-10T15:09:36-04:00",
     "title": "Emerging Talent - Electrical Engineering Internship",
-    "updated_raw": "2026-11-16T18:44:49-05:00"
+    "updated_raw": "2026-11-18T17:27:51-05:00"
    },
    "4711403006": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-10T15:11:36-04:00",
     "title": "Emerging Talent - Manufacturing Engineering Internship",
-    "updated_raw": "2026-11-11T17:11:17-05:00"
+    "updated_raw": "2026-11-18T17:27:51-05:00"
    }
   },
   "seeded": true
@@ -40695,6 +40735,11 @@
     "first_seen": "2026-11-18 14:58 UTC",
     "last_seen": "2026-11-18",
     "title": "Summer Intern - Project Procurement Management"
+   },
+   "1452030400": {
+    "first_seen": "2026-11-18 23:00 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Spring Intern - I&C Field Services"
    }
   },
   "seeded": true
