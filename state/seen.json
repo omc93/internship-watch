@@ -3339,6 +3339,13 @@
     "posted_raw": "2026-11-16T18:37:28-05:00",
     "title": "2027 Mission Operations Engineer Intern",
     "updated_raw": "2026-11-16T21:23:01-05:00"
+   },
+   "5300647007": {
+    "first_seen": "2026-11-18 17:37 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T11:45:29-05:00",
+    "title": "2027 Business Systems Engineer Intern",
+    "updated_raw": "2026-11-18T11:45:29-05:00"
    }
   },
   "seeded": true
@@ -4969,6 +4976,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-11T05:02:31.529+0000",
     "title": "AI/ML Engineer Intern, Summer 2027"
+   },
+   "132343BR": {
+    "first_seen": "2026-11-18 17:37 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-11T05:02:31.499+0000",
+    "title": "ECAD Designer Internship (Winter/Spring 2027)"
    }
   },
   "seeded": true
@@ -17952,7 +17965,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17982,7 +17995,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -31475,6 +31488,13 @@
     "posted_raw": "2026-11-02T08:54:42-05:00",
     "title": "Summer Intern Mechanical Engineer",
     "updated_raw": "2026-11-02T08:54:42-05:00"
+   },
+   "4755765005": {
+    "first_seen": "2026-11-18 17:37 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T11:48:21-05:00",
+    "title": "Environmental, Health & Safety (EHS) Co-Op",
+    "updated_raw": "2026-11-18T11:48:21-05:00"
    }
   },
   "seeded": true
@@ -32535,7 +32555,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T11:17:20-05:00"
+    "updated_raw": "2026-11-18T12:02:31-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -40245,6 +40265,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-12T17:06:54.779Z",
     "title": "Transducer Manufacturing Engineering Co-Op"
+   },
+   "3743990016939818": {
+    "first_seen": "2026-11-18 17:37 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T17:08:17.451Z",
+    "title": "Summer 2027 Environmental Health & Safety Internship"
    }
   },
   "seeded": true
