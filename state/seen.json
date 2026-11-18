@@ -4979,7 +4979,7 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
    },
@@ -5015,8 +5015,8 @@
      "/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Molding Reliability Engineering Intern"
    },
    "https://jobs.bd.com/en/job/columbus/controls-tech-intern/159/102302041376": {
@@ -8730,6 +8730,12 @@
     "posted_raw": "9/16/26",
     "title": "Electrical Engineering Intern"
    },
+   "5748": {
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "9/11/26",
+    "title": "Purchasing & Strategic Sourcing Intern"
+   },
    "5749": {
     "first_seen": "2026-11-17 14:15 UTC",
     "last_seen": "2026-11-18",
@@ -10085,6 +10091,11 @@
    "https://careers.chevron.com"
   ],
   "ids": {
+   "https://careers.chevron.com/job/buenos-aires/chevron-gbs-ba-contract-advisor-team-internship-2026/38138/100075490928": {
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "title": "CHEVRON GBS BA – Contract Advisor Team Internship 2026"
+   },
    "https://careers.chevron.com/job/lekki/nma-undergraduate-internship-jan-2027/38138/103152674816": {
     "first_seen": "2026-11-11 12:20 UTC",
     "last_seen": "2026-11-17",
@@ -17934,7 +17945,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -20475,7 +20486,7 @@
    "59772": {
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-09-01T16:55:00+0000",
+    "posted_raw": "2026-11-18T14:58:00+0000",
     "title": "2027 Internship - Cyber Security - Cyber Dominance"
    },
    "59777": {
@@ -20973,6 +20984,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 11 Days Ago",
     "title": "[Johnson&Johnson MedTech] Strategic Sales Intern(Surgery) 채용"
+   },
+   "R-111973": {
+    "aliases": [
+     "/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973"
+    ],
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Technology 2027 Spring Co-Op"
    }
   },
   "seeded": true
@@ -21100,6 +21120,15 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "Materials Engineering Intern"
+   },
+   "WD30285140": {
+    "aliases": [
+     "/job/York-Pennsylvania-United-States-of-America/Air-Handling-Application---Project-Engineering-Intern_WD30285140"
+    ],
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Air Handling Application & Project Engineering Intern"
    },
    "WD30285226": {
     "aliases": [
@@ -22430,7 +22459,7 @@
      "/job/Offsite---USA---NY---Metro/Social-Commerce-Intern_146689"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Social Commerce Intern"
    },
@@ -22439,8 +22468,8 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Product Marketing Intern"
    }
   },
@@ -24166,6 +24195,15 @@
     "posted_raw": "Posted 6 Days Ago",
     "title": "Intern, Electrical Engineering"
    },
+   "R-26-19675": {
+    "aliases": [
+     "/job/Salt-Lake-City-UT/Intern--Operations_R-26-19675"
+    ],
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Intern, Manufacturing Engineering"
+   },
    "R-26-19822": {
     "aliases": [
      "/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822"
@@ -24465,6 +24503,11 @@
    "mytra"
   ],
   "ids": {
+   "5e479468-c622-4d2b-8789-89fbc14f3292": {
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Software Engineer Intern"
+   },
    "ce0c1a3b-21b5-42df-a710-1def7071dfd8": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-18",
@@ -32475,7 +32518,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T09:32:31-05:00"
+    "updated_raw": "2026-11-18T10:02:39-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -33342,6 +33385,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "November 13, 2026",
     "title": "Sales Enablement Intern"
+   },
+   "143723": {
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "November 18, 2026",
+    "title": "Corporate Strategic Intelligence Intern"
    }
   },
   "seeded": true
@@ -34541,84 +34590,84 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:16-04:00",
     "title": "Spring 2027 Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621740002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:55-04:00",
     "title": "Summer 2027 Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621749002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:33-04:00",
     "title": "Spring 2027 Graduate Engineer Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621753002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:41:19-04:00",
     "title": "Summer 2027 Graduate Engineer Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621756002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:26:50-04:00",
     "title": "Spring 2027 Software Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621757002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:41:40-04:00",
     "title": "Summer 2027 Software Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621763002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:19-04:00",
     "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621770002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:16-04:00",
     "title": "Spring 2027 Business Operations Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8621771002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:41-04:00",
     "title": "Summer 2027 Business Operations Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8636134002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:27:30-04:00",
     "title": "Spring 2027 Silicon Engineering Internship/Co-op",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8636143002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:40:40-04:00",
     "title": "Spring 2027 Civil Engineering Internship",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    },
    "8636144002": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-08-03T13:42:56-04:00",
     "title": "Summer 2027 Civil Engineering Internship",
-    "updated_raw": "2026-11-18T09:24:31-05:00"
+    "updated_raw": "2026-11-18T09:44:49-05:00"
    }
   },
   "seeded": true
@@ -39375,6 +39424,15 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted 6 Days Ago",
     "title": "R&D Co-Op"
+   },
+   "REQ2026083713": {
+    "aliases": [
+     "/job/Winchester-KY/Purchasing-Intern--Year-Round-_REQ2026083713"
+    ],
+    "first_seen": "2026-11-18 15:17 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Purchasing Intern (Year-Round)"
    }
   },
   "seeded": true
