@@ -20044,6 +20044,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-17T16:58:51.386Z",
     "title": "Clinical Development Engineering Intern"
+   },
+   "744000162406479": {
+    "first_seen": "2026-11-18 23:45 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T23:24:46.191Z",
+    "title": "Learning Experience Research Intern"
    }
   },
   "seeded": true
@@ -32816,7 +32822,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T18:02:18-05:00"
+    "updated_raw": "2026-11-18T18:17:05-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -38619,10 +38625,22 @@
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    },
+   "JR-15104": {
+    "first_seen": "2026-11-18 23:45 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
+    "title": "2027 Technical Sales Intern - Services"
+   },
    "JR-15106": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
+    "title": "2027 Technical Sales Intern - Equipment"
+   },
+   "JR-15107": {
+    "first_seen": "2026-11-18 23:45 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15109": {
