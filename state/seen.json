@@ -14175,7 +14175,7 @@
     ],
     "first_seen": "2026-11-17 20:54 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "US Engineering Intern – Muskegon, MI – Summer 2027"
    },
    "R5041532": {
@@ -14248,7 +14248,7 @@
     ],
     "first_seen": "2026-11-16 06:59 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "FLIGHT DECK Intern"
    },
    "R5042953": {
@@ -14275,7 +14275,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027"
    },
    "R5043004": {
@@ -14284,7 +14284,7 @@
     ],
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "GE Aerospace Research - Controls & Optimization Internship, 2027"
    },
    "R5043209": {
@@ -14293,7 +14293,7 @@
     ],
     "first_seen": "2026-11-16 20:16 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Internship - Lean Manufacturing Engineer"
    },
    "R5043408": {
@@ -14302,7 +14302,7 @@
     ],
     "first_seen": "2026-11-17 20:54 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "GE Aerospace Research - Composites Internship, 2027"
    }
   },
@@ -32420,7 +32420,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T05:47:14-05:00"
+    "updated_raw": "2026-11-18T06:17:04-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -36427,6 +36427,11 @@
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-14",
     "title": "Quality Intern"
+   },
+   "1451702400": {
+    "first_seen": "2026-11-18 11:38 UTC",
+    "last_seen": "2026-11-18",
+    "title": "HR Intern"
    }
   },
   "seeded": true
