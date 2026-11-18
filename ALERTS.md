@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-18 18:18 UTC · **AMETEK** · [Engineering Intern](https://jobs.ametek.com/job/Cincinnati-Engineering-Intern-OH-45215/1451884200/) · fit (general engineering) | Cincinnati, OH [US] | employer-reported Nov 18 | found Nov 18 12:18 PM CT | ID 1451884200 | open
 - 2026-11-18 17:58 UTC · **Multimatic** · [Engineering Internship – General Interest](https://multimatic.wd10.myworkdayjobs.com/MMEC/job/Fort-Wayne-Indiana/Engineering-Internship---General-Interest_JR103710) · fit (general engineering) | Fort Wayne, Indiana [US] | employer-reported Nov 18 | found Nov 18 11:58 AM CT | ID JR103710 | open
 - 2026-11-18 16:34 UTC · **Sierra Nevada Corporation** · [Test Engineer Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Test-Engineer-Intern--Summer-2027-_R0031236) · fit (test) | Sparks, NV [US] | employer-reported Nov 18 | found Nov 18 10:34 AM CT | ID R0031236 | listed
 - 2026-11-18 16:34 UTC · **Jabil** · [NPI Molding / Tooling Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Devens-MA/NPI-Molding---Tooling-Intern_J2471687-1) · fit (manufacturing) | Devens, MA [US] | employer-reported Nov 18 | found Nov 18 10:34 AM CT | ID J2471687 | open
