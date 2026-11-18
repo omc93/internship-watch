@@ -18155,7 +18155,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18185,7 +18185,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -32816,7 +32816,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T17:32:11-05:00"
+    "updated_raw": "2026-11-18T18:02:18-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -36910,7 +36910,7 @@
      "/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern"
    },
@@ -36919,7 +36919,7 @@
      "/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Design Engineer Intern"
    },
@@ -36928,7 +36928,7 @@
      "/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14433"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "ME Intern, Training, Part-time"
    },
@@ -39120,6 +39120,12 @@
     "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Logistics Intern"
    },
+   "JR-20044": {
+    "first_seen": "2026-11-18 23:24 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
+    "title": "Electrical Engineering Intern"
+   },
    "JR-20263": {
     "first_seen": "2026-11-18 21:18 UTC",
     "last_seen": "2026-11-18",
@@ -39802,7 +39808,7 @@
      "/job/Remote-United-States/AI-Engineer-Intern_R24605"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Engineer Intern"
    }
