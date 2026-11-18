@@ -2634,7 +2634,7 @@
      "/job/Indianapolis-IN/Service-Engineering-Intern---Summer-2027_R008019"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Service Engineering Intern - Summer 2027"
    },
@@ -2643,7 +2643,7 @@
      "/job/Indianapolis-IN/Global-Supply-Chain-Intern---Summer-2027_R008229"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Global Supply Chain Intern - Summer 2027"
    },
@@ -2661,7 +2661,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027-2"
    },
@@ -2670,7 +2670,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027-1"
    },
@@ -2679,7 +2679,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027"
    },
@@ -2688,7 +2688,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027"
    },
@@ -2724,7 +2724,7 @@
      "/job/Indianapolis-IN/Job-Posting-Title-Career-Fair---Butler-University---Fall--26-Internship---Career-Fair_R008291"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Job Posting Title Career Fair - Butler University - Fall '26 Internship & Career Fair"
    },
@@ -2733,7 +2733,7 @@
      "/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "IT Security Analyst Internship - Summer 2027"
    },
@@ -6318,6 +6318,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-10T20:11:26.167Z",
     "title": "Intern, Manufacturing Engineering"
+   },
+   "25ff560c-a11a-4323-84a4-3470f2f8c471": {
+    "first_seen": "2026-11-18 13:21 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "2026-11-18T13:11:55.18Z",
+    "title": "Intern, Parts and Services"
    },
    "2c84ab22-7b65-40b5-a930-d71c9775d244": {
     "first_seen": "2026-11-11 04:51 UTC",
@@ -17888,7 +17894,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -17918,7 +17924,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -32420,7 +32426,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T07:02:16-05:00"
+    "updated_raw": "2026-11-18T08:02:38-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -37911,6 +37917,12 @@
     "last_seen": "2026-11-18",
     "posted_raw": "1794439146736",
     "title": "Future Product Innovation Research Intern, Human-AI Computational Design"
+   },
+   "b2bed6be-16bd-48ee-ba71-215307fa2ab8": {
+    "first_seen": "2026-11-18 13:21 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "1795007366199",
+    "title": "Robotics Intern, Prototyping and Robotics Operations"
    },
    "be41a03c-460e-4ff7-b817-f012aa1c4b37": {
     "first_seen": "2026-11-14 15:23 UTC",
