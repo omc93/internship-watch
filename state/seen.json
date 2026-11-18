@@ -9592,7 +9592,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Summer Corporate Intern – Product Support Engineering"
    },
@@ -9601,7 +9601,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Business-Operations_R0000391405-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Summer Corporate Intern - Business Operations"
    },
@@ -9610,7 +9610,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Summer Corporate Intern - Marketing"
    },
@@ -9641,12 +9641,21 @@
     "posted_raw": "Posted Today",
     "title": "Students & Graduates Intern"
    },
+   "R0000400697": {
+    "aliases": [
+     "/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697"
+    ],
+    "first_seen": "2026-11-18 03:43 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Environment, Health & Safety Intern"
+   },
    "R0000400862": {
     "aliases": [
      "/job/Wuxi-Jiangsu/Recruitment-Intern_R0000400862"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "Recruitment Intern"
    },
@@ -9691,7 +9700,7 @@
      "/job/Minerbio-Bologna/Supply-Chain-Internship-1_R0000405470"
     ],
     "first_seen": "2026-11-17 19:22 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Supply Chain Internship-1"
    },
@@ -9700,7 +9709,7 @@
      "/job/Minerbio-Bologna/Supply-Chain-Internship-2_R0000405471"
     ],
     "first_seen": "2026-11-17 19:22 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Supply Chain Internship-2"
    },
@@ -9709,7 +9718,7 @@
      "/job/Santiago-Region-Metropolitana-de-Santiago/Customer-Services-Intern_R0000405498"
     ],
     "first_seen": "2026-11-17 14:15 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Customer Services Intern"
    },
@@ -9718,9 +9727,18 @@
      "/job/Wuxi-Jiangsu/Recruitment-Intern_R0000405582"
     ],
     "first_seen": "2026-11-17 09:39 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Recruitment Intern"
+   },
+   "R0000405803": {
+    "aliases": [
+     "/job/Archerfield-Queensland/Rental-and-Used-Intern_R0000405803"
+    ],
+    "first_seen": "2026-11-18 03:43 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Rental and Used Intern"
    }
   },
   "seeded": true
@@ -12448,7 +12466,7 @@
      "/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Product Management Intern"
    },
@@ -12457,7 +12475,7 @@
      "/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Data Engineering Intern - Summer 2027"
    },
@@ -12511,7 +12529,7 @@
      "/job/San-Luis-Obispo-CA/Quality-Intern---Summer-2027_REQ-15846"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Quality Intern - Summer 2027"
    },
@@ -12574,7 +12592,7 @@
      "/job/Chaska-MN/Continuous-Improvement-Intern---Summer-2027_REQ-15853"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Continuous Improvement Intern - Summer 2027"
    },
@@ -12638,7 +12656,7 @@
      "/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15860"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Materials Solutions Engineering Intern - Summer 2027"
    },
@@ -12674,7 +12692,7 @@
      "/job/Aurora-IL/Research-Associate-Intern---Summer-2027_REQ-15864"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Research Associate Intern - Summer 2027"
    },
@@ -12683,7 +12701,7 @@
      "/job/Hillsboro-OR/CMP-Pad-R-D-Summer-Intern---Summer-2027_REQ-15865"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "CMP Pad R&D Summer Intern - Summer 2027"
    },
@@ -12692,7 +12710,7 @@
      "/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Mechanical Engineering Intern - Summer 2027"
    },
@@ -12701,7 +12719,7 @@
      "/job/Colorado-Springs-CO/Quality-Engineering-Intern_REQ-15867"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Quality Engineering Intern"
    },
@@ -12710,7 +12728,7 @@
      "/job/San-Luis-Obispo-CA/Research-and-Development-Intern---Summer-2027_REQ-15868"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Research and Development Intern - Summer 2027"
    },
@@ -12737,7 +12755,7 @@
      "/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Manufacturing Engineer Intern"
    },
@@ -20793,7 +20811,7 @@
      "/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"
     ],
     "first_seen": "2026-11-17 14:15 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted Today",
     "title": "Emerging Technologies CoOp"
    },
@@ -22560,8 +22578,8 @@
      "/job/Saltillo-MX/Intern-Co-op-Student--Ventas-Desarrollo-de-Nuevos-Negocios_R00213096"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Intern/Co-op Student, Ventas/Desarrollo de Nuevos Negocios"
    },
    "R00225570": {
@@ -22569,7 +22587,7 @@
      "/job/Troy-Michigan-US/HR-Intern--Summer-2026_R00225570"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "HR Intern- Summer 2026"
    },
@@ -22578,7 +22596,7 @@
      "/job/Holland-Michigan-US/Materials-Intern---Summer-2026_R00225682"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Materials Intern - Summer 2026"
    },
@@ -22587,7 +22605,7 @@
      "/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern - Summer 2026"
    },
@@ -22596,7 +22614,7 @@
      "/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Quality Intern - Summer 2026"
    },
@@ -22605,8 +22623,8 @@
      "/job/Southfield-Michigan-US/Student---Engineering_R00235434"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 4 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Intern - ADAS Feature Owner"
    },
    "R00235438": {
@@ -22623,7 +22641,7 @@
      "/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Co-op"
    },
@@ -22632,7 +22650,7 @@
      "/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - Infrared Imaging & Algorithms"
    },
@@ -22641,7 +22659,7 @@
      "/job/Highland-Park-Michigan-US/Intern--Environmental-Health---Safety_R00249452"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern, Environmental Health & Safety"
    },
@@ -22650,8 +22668,8 @@
      "/job/Holland-Michigan-US/Intern-Co-op-Product-Eng_R00255522"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Intern/Co-op-Product Eng"
    },
    "R00260232": {
@@ -22668,7 +22686,7 @@
      "/job/Bowling-Green-Kentucky-US/Quality-Intern_R00260258"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Quality Intern"
    },
@@ -22677,7 +22695,7 @@
      "/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Student - Engineering Co-op"
    },
@@ -22686,7 +22704,7 @@
      "/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - Validation Engineering"
    },
@@ -22695,7 +22713,7 @@
      "/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Automation Engineering Co-Op"
    },
@@ -22704,7 +22722,7 @@
      "/job/Holland-Michigan-US/Magna-Engineered-Glass--Co-Op-Technician_R00262925"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Magna Engineered Glass: Co-Op Technician"
    },
@@ -22713,7 +22731,7 @@
      "/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Intern"
    },
@@ -22722,8 +22740,8 @@
      "/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00268190"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 12 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Supply Chain Internship"
    }
   },
@@ -32324,7 +32342,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-17T21:32:18-05:00"
+    "updated_raw": "2026-11-17T22:17:11-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
