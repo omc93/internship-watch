@@ -3355,7 +3355,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-11-18T11:45:29-05:00",
     "title": "2027 Business Systems Engineer Intern",
-    "updated_raw": "2026-11-18T11:45:29-05:00"
+    "updated_raw": "2026-11-18T13:46:35-05:00"
    }
   },
   "seeded": true
@@ -17980,7 +17980,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -28252,8 +28252,8 @@
      "/job/OT516-NPW---Landover-MD-5000-Philadelphia-Way-Lanham-MD-20706-USA/Field-Operations-Field-Supervisor-Interns_20168815"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Field Operations/Field Supervisor Interns"
    },
    "20168823": {
@@ -28270,8 +28270,8 @@
      "/job/OTVAH-Virginia-Home-Offices-Remote-Location-Remote-City-VA-06032-USA/Government-Relations-Intern--Part-time-_20170498"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Government Relations Intern (Part-time)"
    },
    "20170600": {
@@ -30068,6 +30068,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite"
    },
+   "01873642": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Reliability-and-Safety-Engineering-Co-Op--Summer-Fall-2027----Onsite_01873642-1"
+    ],
+    "first_seen": "2026-11-18 19:09 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Reliability and Safety Engineering Co-Op (Summer/Fall 2027) - Onsite"
+   },
    "01873646": {
     "aliases": [
      "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
@@ -30712,8 +30721,8 @@
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-13",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
     "title": "Digital Technologies Project Management Office Operations Intern (Summer 2027)"
    },
    "01884905": {
@@ -31447,6 +31456,15 @@
     "posted_raw": "Posted 2 Days Ago",
     "title": "Guidance, Navigation & Control Summer 2027 Intern (Onsite)"
    },
+   "01889626": {
+    "aliases": [
+     "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Industrial-Engineering-Intern---Site-Transformation--Summer-2027-_01889626"
+    ],
+    "first_seen": "2026-11-18 19:09 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Industrial Engineering Intern - Site Transformation (Summer 2027)"
+   },
    "01889909": {
     "aliases": [
      "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Onsite-_01889909"
@@ -31455,6 +31473,15 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "Mechanical Engineering Intern (Onsite)"
+   },
+   "01889954": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954"
+    ],
+    "first_seen": "2026-11-18 19:09 UTC",
+    "last_seen": "2026-11-18",
+    "posted_raw": "Posted Today",
+    "title": "Software Engineering Intern (Summer 2027)"
    },
    "01889992": {
     "aliases": [
@@ -32579,7 +32606,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T13:02:30-05:00"
+    "updated_raw": "2026-11-18T13:47:18-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
