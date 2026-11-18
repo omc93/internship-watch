@@ -7255,7 +7255,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Mechanical Engineering Co-op – Engine Solenoids"
    },
    "R2026-3646": {
@@ -7372,7 +7372,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Supply Chain Intern"
    },
    "R2026-3983": {
@@ -7426,7 +7426,7 @@
     ],
     "first_seen": "2026-11-16 21:40 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Legal Intern"
    },
    "R2026-4024": {
@@ -7516,7 +7516,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "HR Intern - Bilingual (English & Spanish)",
     "updated_seen": "2026-11-16"
    },
@@ -7535,7 +7535,7 @@
     ],
     "first_seen": "2026-11-16 21:40 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "EPM Support Intern (Year-Round)"
    },
    "R2026-4146": {
@@ -7598,7 +7598,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Software Test Intern"
    },
    "R2026-4400": {
@@ -7616,7 +7616,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Human Resources Internship (Jan 2027 start)",
     "updated_seen": "2026-11-12"
    },
@@ -7626,7 +7626,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Enterprise Learning & Development Intern"
    },
    "R2026-4552": {
@@ -7635,7 +7635,7 @@
     ],
     "first_seen": "2026-11-17 15:44 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Accounting Intern (January 2027 Start Date)"
    }
   },
@@ -21002,7 +21002,7 @@
     ],
     "first_seen": "2026-11-17 15:05 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Materials Engineering Intern"
    },
    "WD30285226": {
@@ -21011,7 +21011,7 @@
     ],
     "first_seen": "2026-11-17 15:05 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Mechanical Engineering Intern / Compressor Team"
    },
    "WD30285251": {
@@ -21020,7 +21020,7 @@
     ],
     "first_seen": "2026-11-17 16:59 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    },
    "WD30285253": {
@@ -21029,7 +21029,7 @@
     ],
     "first_seen": "2026-11-17 16:59 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    },
    "WD30285272": {
@@ -21038,7 +21038,7 @@
     ],
     "first_seen": "2026-11-17 15:05 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Electrical Engineering Intern"
    },
    "WD30285364": {
@@ -21047,7 +21047,7 @@
     ],
     "first_seen": "2026-11-18 01:41 UTC",
     "last_seen": "2026-11-18",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    }
   },
@@ -22503,6 +22503,16 @@
     "first_seen": "2026-11-17 08:33 UTC",
     "last_seen": "2026-11-18",
     "title": "Summer Research Program Intern 2027, Space Systems Analysis and Test (Group 09-95)"
+   },
+   "1441840000": {
+    "first_seen": "2026-11-18 09:15 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Summer Research Program Intern 2027, Laser Technology & Applications (Group 08-82)"
+   },
+   "1441840900": {
+    "first_seen": "2026-11-18 09:15 UTC",
+    "last_seen": "2026-11-18",
+    "title": "Summer Research Program Intern 2027, Software Engineer (AI/ML) - Group 04-47"
    },
    "1446803200": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -32351,7 +32361,7 @@
     "last_seen": "2026-11-18",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T03:32:11-05:00"
+    "updated_raw": "2026-11-18T04:02:12-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34104,7 +34114,7 @@
      "/job/Austin/Summer-2027-Internships----Design-Engineering_21049-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internships - Design Engineering"
    },
@@ -34113,7 +34123,7 @@
      "/job/Austin/Summer-2027-Internships_21056-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internships"
    },
