@@ -1,11 +1,7 @@
 # Internship watch status
 
-Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
+Working: 310 of 535 companies (48 more waiting out a Workday rate limit)
 
-
-## New this run
-
-- **Toyota Research Institute**: [Robotics Intern, Prototyping and Robotics Operations](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8) Cambridge, MA
 
 ## Aerospace, space & defense
 
@@ -17,15 +13,15 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Archer Aviation | ⏭️ skipped |  |  | job site not supported yet |
 | Astranis | ✅ ok | greenhouse | 30 | cache |
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
-| Axiom Space | ✅ ok | workday | 0 | cache |
-| BAE Systems | ✅ ok | phenom | 11 | config |
+| Axiom Space | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| BAE Systems | ✅ ok | phenom | 12 | config |
 | Bell Flight | ✅ ok | taleo | 1 | config |
 | Blue Origin | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Boeing | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Bombardier | ✅ ok | successfactors | 12 | config |
 | Castelion | ✅ ok | html | 6 | config |
 | CesiumAstro | ✅ ok | lever | 14 | cache |
-| Crane Aerospace & Electronics | ✅ ok | workday | 1 | cache |
+| Crane Aerospace & Electronics | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Curtiss-Wright | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Embraer | ⏭️ skipped |  |  | no US job site found |
 | Firefly Aerospace | ✅ ok | workday | 0 | config |
@@ -40,7 +36,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | L3Harris | ✅ ok | radancy | 0 | config |
 | Lockheed Martin | ⏭️ skipped |  |  | defense; site blocks automated checks |
 | Loft Orbital | ✅ ok | lever | 4 | config |
-| Moog | ✅ ok | workday | 3 | cache |
+| Moog | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Northrop Grumman | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Redwire | ⏭️ skipped |  |  | defense; job site not found, dropped |
 | Relativity Space | ✅ ok | greenhouse | 0 | cache |
@@ -48,7 +44,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | RTX (Collins, Pratt & Whitney, Raytheon) | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Safran | ⏭️ skipped |  |  | site blocks automated checks |
 | Shield AI | ✅ ok | greenhouse | 0 | cache |
-| Sierra Nevada Corporation | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Sierra Nevada Corporation | ✅ ok | workday | 5 | cache |
 | Sierra Space | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Skydio | ✅ ok | ashby | 13 | cache |
 | SpaceX | ✅ ok | greenhouse | 8 | config |
@@ -60,8 +56,8 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | True Anomaly | ✅ ok | greenhouse | 0 | config |
 | United Launch Alliance | ✅ ok | successfactors | 9 | config |
 | Vast Space | ✅ ok | greenhouse | 0 | cache |
-| Wisk Aero | ✅ ok | workday | 0 | cache |
-| Woodward | ✅ ok | workday | 0 | cache |
+| Wisk Aero | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Woodward | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | York Space Systems | ⏭️ skipped |  |  | defense; uses Paycor, dropped |
 | Zipline | ✅ ok | greenhouse | 11 | config |
 | Boom Supersonic | ⏭️ skipped |  |  | job board isn't publicly readable |
@@ -101,41 +97,41 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | United Airlines | ✅ ok | phenom | 0 | cache |
 | Amazon Project Kuiper | ✅ ok | amazon | 0 | config |
 | Amazon Prime Air | ✅ ok | amazon | 0 | config |
-| Lanteris Space Systems | ❌ error |  |  | careers page: HTTPError |
+| Lanteris Space Systems | ❌ unresolved |  |  | careers page: HTTPError |
 | Terran Orbital | ✅ ok | greenhouse | 0 | cache |
-| Astrolab | ❌ error |  |  | careers page: HTTPError |
+| Astrolab | ❌ unresolved |  |  | careers page: HTTPError |
 | Lunar Outpost | ✅ ok | bamboohr | 1 | cache |
 | Voyager Technologies | ✅ ok | greenhouse | 3 | cache |
-| Agile Space Industries | ❌ error |  |  | no job system found on careers page |
+| Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Benchmark Space Systems | ✅ ok | breezy | 5 | config |
-| X-Bow Systems | ❌ error |  |  | no job system found on careers page |
+| X-Bow Systems | ❌ unresolved |  |  | no job system found on careers page |
 | Astra | ✅ ok | ashby | 0 | cache |
 | Skyryse | ✅ ok | greenhouse | 0 | cache |
 | Merlin Labs | ✅ ok | lever | 0 | cache |
-| ZeroAvia | ❌ error |  |  | careers page: HTTPError |
+| ZeroAvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Pyka | ✅ ok | lever | 2 | cache |
 | Elroy Air | ✅ ok | lever | 0 | cache |
 | Wing | ✅ ok | greenhouse | 6 | cache |
 | Saronic | ✅ ok | ashby | 4 | cache |
-| Ducommun | ❌ error |  |  | no job system found on careers page |
-| HEICO | ❌ error |  |  | no job system found on careers page |
-| Kaman | ❌ error |  |  | no job system found on careers page |
-| Kratos | ❌ error |  |  | no job system found on careers page |
-| GKN Aerospace | ❌ error |  |  | careers page: HTTPError |
-| Piper Aircraft | ❌ error |  |  | no job system found on careers page |
-| Garmin | ❌ error |  |  | no job system found on careers page |
+| Ducommun | ❌ unresolved |  |  | no job system found on careers page |
+| HEICO | ❌ unresolved |  |  | no job system found on careers page |
+| Kaman | ❌ unresolved |  |  | no job system found on careers page |
+| Kratos | ❌ unresolved |  |  | no job system found on careers page |
+| GKN Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
+| Piper Aircraft | ❌ unresolved |  |  | no job system found on careers page |
+| Garmin | ❌ unresolved |  |  | no job system found on careers page |
 | Leidos | ✅ ok | workday | 0 | config |
 | KBR | ✅ ok | workday | 0 | config |
-| Jacobs | ❌ error |  |  | no job system found on careers page |
-| Phase Four | ❌ error |  |  | careers page: URLError |
+| Jacobs | ❌ unresolved |  |  | no job system found on careers page |
+| Phase Four | ❌ unresolved |  |  | careers page: URLError |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
 | Vantor | ✅ ok | workday | 0 | cache |
 | Reflect Orbital | ✅ ok | ashby | 1 | cache |
-| Argo Space | ❌ error |  |  | no job system found on careers page |
+| Argo Space | ❌ unresolved |  |  | no job system found on careers page |
 | Aerospace Corporation | ❌ unresolved |  |  | careers page: HTTPError |
-| Draper | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Draper | ✅ ok | workday | 6 | config |
 | General Dynamics Mission Systems | ✅ ok | jibe | 48 | cache |
 | AST SpaceMobile | ✅ ok | greenhouse | 0 | cache |
 | Honeybee Robotics | ❌ unresolved |  |  | careers page: HTTPError |
@@ -160,8 +156,8 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Iridium | ❌ unresolved |  |  | no job system found on careers page |
 | Astronics | ✅ ok | greenhouse | 1 | cache |
 | Mercury Systems | ❌ unresolved |  |  | no job system found on careers page |
-| ATI | ✅ ok | phenom | 31 | cache |
-| Carpenter Technology | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| ATI | ✅ ok | phenom | 30 | cache |
+| Carpenter Technology | ✅ ok | workday | 6 | cache |
 | Arconic | ❌ unresolved |  |  | careers page: HTTPError |
 | Williams International | ✅ ok | ukg | 1 | cache |
 | Hartzell Propeller | ❌ unresolved |  |  | no job system found on careers page |
@@ -178,7 +174,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | 1X | ✅ ok | ashby | 0 | cache |
-| ABB | ✅ ok | phenom | 20 | config |
+| ABB | ✅ ok | phenom | 16 | config |
 | Aeva | ✅ ok | lever | 0 | cache |
 | Agility Robotics | ✅ ok | greenhouse | 0 | config |
 | Amazon Robotics | ✅ ok | amazon | 7 | config |
@@ -201,7 +197,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Hadrian | ✅ ok | ashby | 1 | cache |
 | Neuralink | ✅ ok | greenhouse | 7 | cache |
 | Stryker | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Medtronic | ✅ ok | workday | 0 | config |
+| Medtronic | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Boston Scientific | ✅ ok | successfactors | 4 | cache |
 | Zimmer Biomet | ✅ ok | phenom | 4 | cache |
 | Globus Medical | ✅ ok | workday | 0 | cache |
@@ -219,52 +215,52 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Dyson | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Dell Technologies | ✅ ok | oracle | 1 | config |
 | Texas Instruments | ✅ ok | oracle | 30 | config |
-| NVIDIA | ✅ ok | workday | 0 | config |
+| NVIDIA | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Diligent Robotics | ✅ ok | greenhouse | 0 | cache |
 | Pickle Robot | ✅ ok | lever | 0 | cache |
 | Plus One Robotics | ✅ ok | bamboohr | 0 | config |
 | Outrider | ✅ ok | greenhouse | 0 | cache |
-| Gatik | ❌ error |  |  | no job system found on careers page |
+| Gatik | ❌ unresolved |  |  | no job system found on careers page |
 | Applied Intuition | ✅ ok | ashby | 2 | cache |
 | Physical Intelligence | ✅ ok | ashby | 1 | cache |
 | Sanctuary AI | ✅ ok | ashby | 0 | cache |
 | Berkshire Grey | ✅ ok | bamboohr | 1 | config |
-| Seegrid | ❌ error |  |  | no job system found on careers page |
-| Vecna Robotics | ❌ error |  |  | no job system found on careers page |
+| Seegrid | ❌ unresolved |  |  | no job system found on careers page |
+| Vecna Robotics | ❌ unresolved |  |  | no job system found on careers page |
 | Exotec | ✅ ok | workable | 0 | config |
 | Brinc | ✅ ok | ashby | 0 | cache |
 | Flock Safety | ✅ ok | ashby | 0 | cache |
-| Vicarious Surgical | ❌ error |  |  | greenhouse:vicarioussurgical HTTPError |
-| Moon Surgical | ❌ error |  |  | careers page: HTTPError |
+| Vicarious Surgical | ❌ unresolved |  |  | greenhouse:vicarioussurgical HTTPError |
+| Moon Surgical | ❌ unresolved |  |  | careers page: HTTPError |
 | Johnson & Johnson | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Abbott | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Edwards Lifesciences | ✅ ok | workday | 0 | config |
-| BD | ✅ ok | workday | 1 | config |
-| Baxter | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| GE HealthCare | ✅ ok | workday | 0 | config |
+| BD | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Baxter | ✅ ok | workday | 0 | config |
+| GE HealthCare | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Thermo Fisher | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Illumina | ✅ ok | workday | 0 | config |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
-| NXP | ❌ error |  |  | careers page: HTTPError |
+| NXP | ❌ unresolved |  |  | careers page: HTTPError |
 | AMD | ✅ ok | jibe | 0 | config |
-| Tokyo Electron | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Silicon Labs | ✅ ok | workday | 2 | config |
-| Cirrus Logic | ❌ error |  |  | no job system found on careers page |
-| Infineon | ❌ error |  |  | no job system found on careers page |
-| HP | ✅ ok | workday | 0 | config |
+| Tokyo Electron | ✅ ok | workday | 1 | config |
+| Silicon Labs | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Cirrus Logic | ❌ unresolved |  |  | no job system found on careers page |
+| Infineon | ❌ unresolved |  |  | no job system found on careers page |
+| HP | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Sonos | ✅ ok | workday | 1 | config |
-| GoPro | ❌ error |  |  | careers page: HTTPError |
+| GoPro | ❌ unresolved |  |  | careers page: HTTPError |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 14 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
 | Whoop | ✅ ok | ashby | 0 | cache |
-| YETI | ✅ ok | workday | 0 | config |
-| Trek Bicycle | ✅ ok | workday | 0 | cache |
-| SRAM | ❌ error |  |  | no job system found on careers page |
-| Fox Factory | ✅ ok | workday | 0 | cache |
-| Specialized | ✅ ok | workday | 0 | cache |
+| YETI | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Trek Bicycle | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| SRAM | ❌ unresolved |  |  | no job system found on careers page |
+| Fox Factory | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Specialized | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Logitech | ✅ ok | workday | 0 | cache |
-| Bose | ❌ error |  |  | careers page: HTTPError |
+| Bose | ❌ unresolved |  |  | careers page: HTTPError |
 | Toyota Research Institute | ✅ ok | lever | 20 | config |
 | RAI Institute | ✅ ok | lever | 2 | cache |
 | Blue River Technology | ✅ ok | greenhouse | 0 | cache |
@@ -304,7 +300,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | AGCO | ✅ ok | successfactors | 6 | config |
 | BMW | ✅ ok | successfactors | 5 | config |
 | Bosch | ✅ ok | smartrecruiters | 16 | config |
-| Caterpillar | ✅ ok | workday | 1 | config |
+| Caterpillar | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | CNH | ✅ ok | successfactors | 16 | config |
 | Cummins | ⏭️ skipped |  |  | job site not found |
 | Daimler Truck | ✅ ok | workday | 2 | cache |
@@ -317,7 +313,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Lucid Motors | ✅ ok | greenhouse | 0 | config |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Nissan | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Oshkosh | ✅ ok | phenom | 35 | cache |
+| Oshkosh | ✅ ok | phenom | 37 | cache |
 | PACCAR / Peterbilt / Kenworth | ✅ ok | successfactors | 14 | config |
 | Rivian | ✅ ok | jibe | 20 | config |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
@@ -343,17 +339,17 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Stack AV | ✅ ok | greenhouse | 0 | cache |
 | Harbinger Motors | ✅ ok | greenhouse | 2 | cache |
 | BorgWarner | ✅ ok | workday | 1 | config |
-| Aptiv | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Aptiv | ✅ ok | workday | 0 | config |
 | Magna | ✅ ok | workday | 0 | config |
 | Lear | ✅ ok | successfactors | 0 | cache |
 | ZF | ✅ ok | successfactors | 4 | cache |
 | Continental | ❌ unresolved |  |  | no job system found on careers page |
 | Denso | ❌ unresolved |  |  | careers page: HTTPError |
-| Allison Transmission | ✅ ok | workday | 9 | cache |
+| Allison Transmission | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Dana | ✅ ok | successfactors | 6 | config |
 | American Axle | ✅ ok | radancy | 2 | cache |
-| Goodyear | ✅ ok | workday | 0 | cache |
-| Bridgestone Americas | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Goodyear | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Bridgestone Americas | ✅ ok | workday | 0 | cache |
 | Michelin North America | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Navistar (International) | ✅ ok | jibe | 1 | cache |
 | Redwood Materials | ✅ ok | greenhouse | 0 | cache |
@@ -362,7 +358,7 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
 | Kubota | ❌ unresolved |  |  | no job system found on careers page |
 | Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
-| Terex | ✅ ok | workday | 0 | cache |
+| Terex | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Manitowoc | ✅ ok | oracle | 5 | cache |
 | Wabtec | ✅ ok | smartrecruiters | 6 | config |
 | Hyliion | ✅ ok | greenhouse | 0 | cache |
@@ -373,28 +369,28 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Group14 | ✅ ok | greenhouse | 0 | cache |
 | ChargePoint | ✅ ok | greenhouse | 2 | cache |
 | Blue Bird | ✅ ok | ukg | 10 | config |
-| Thor Industries | ❌ error |  |  | no job system found on careers page |
-| Winnebago Industries | ❌ error |  |  | no job system found on careers page |
-| Brunswick | ✅ ok | workday | 2 | config |
-| Yamaha Motor USA | ❌ error |  |  | no job system found on careers page |
+| Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
+| Brunswick | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
 | BRP | ✅ ok | phenom | 0 | cache |
 | Gentex | ✅ ok | workday | 0 | cache |
-| Autoliv | ❌ error |  |  | no job system found on careers page |
+| Autoliv | ❌ unresolved |  |  | no job system found on careers page |
 | Tenneco | ✅ ok | successfactors | 0 | cache |
 | Schaeffler | ✅ ok | successfactors | 3 | config |
 | Valeo | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Forvia | ❌ error |  |  | careers page: HTTPError |
+| Forvia | ❌ unresolved |  |  | careers page: HTTPError |
 | Nexteer | ✅ ok | successfactors | 6 | cache |
-| Visteon | ❌ error |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
+| Visteon | ❌ unresolved |  |  | ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError |
 | Garrett Motion | ✅ ok | oracle | 0 | cache |
 | Modine | ✅ ok | successfactors | 1 | cache |
 | Timken | ✅ ok | successfactors | 1 | cache |
 | Gates | ✅ ok | successfactors | 0 | cache |
 | Cooper Standard | ✅ ok | workday | 0 | config |
-| Mack Trucks | ❌ error |  |  | careers page: HTTPError |
+| Mack Trucks | ❌ unresolved |  |  | careers page: HTTPError |
 | Waabi | ✅ ok | lever | 0 | cache |
 | Plus | ✅ ok | lever | 0 | cache |
-| Bollinger Motors | ❌ error |  |  | careers page: HTTPError |
+| Bollinger Motors | ❌ unresolved |  |  | careers page: HTTPError |
 | Textron Specialized Vehicles | ✅ ok | taleo | 13 | config |
 | Polestar | ❌ unresolved |  |  | careers page: HTTPError |
 | Porsche Cars North America | ❌ unresolved |  |  | careers page: HTTPError |
@@ -432,10 +428,10 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Hendrick Motorsports | ❌ unresolved |  |  | careers page: HTTPError |
 | Team Penske | ❌ unresolved |  |  | no job system found on careers page |
 | Joe Gibbs Racing | ❌ unresolved |  |  | careers page: HTTPError |
-| Vermeer | ✅ ok | workday | 1 | cache |
+| Vermeer | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Club Car | ❌ unresolved |  |  | careers page: HTTPError |
 | Wabash | ❌ unresolved |  |  | no job system found on careers page |
-| REV Group | ✅ ok | workday | 0 | cache |
+| REV Group | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Gillig | ✅ ok | greenhouse | 0 | cache |
 | New Flyer / NFI | ❌ unresolved |  |  | careers page: HTTPError |
 | Accelera by Cummins | ❌ unresolved |  |  | careers page: HTTPError |
@@ -446,11 +442,11 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Allegion | ✅ ok | workday | 0 | cache |
+| Allegion | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | AMETEK | ✅ ok | successfactors | 7 | config |
-| Baker Hughes | ✅ ok | phenom | 10 | cache |
+| Baker Hughes | ❌ error |  |  | phenom failed (ValueError: no Phenom job data on page) / no job system found on careers page |
 | Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
-| Celestica | ✅ ok | successfactors | 0 | config |
+| Celestica | ✅ ok | successfactors | 2 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
 | Corning | ✅ ok | successfactors | 0 | config |
 | Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
@@ -458,15 +454,15 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Emerson / National Instruments | ✅ ok | oracle | 11 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | greenhouse | 0 | cache |
-| Flowserve | ✅ ok | workday | 4 | cache |
+| Flowserve | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Formlabs | ✅ ok | greenhouse | 17 | cache |
 | Fortive | ✅ ok | oracle | 2 | cache |
 | GE Vernova | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
 | Hubbell | ✅ ok | successfactors | 12 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 30 | cache |
-| Jabil | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| ITW | ✅ ok | phenom | 24 | cache |
+| Jabil | ✅ ok | workday | 0 | cache |
 | Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | NOV | ✅ ok | oracle | 1 | cache |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
@@ -474,16 +470,16 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | Sanmina | ❌ unresolved |  |  | no job system found on careers page |
 | Schneider Electric | ✅ ok | jibe | 28 | config |
 | Siemens | ❌ unresolved |  |  | no job system found on careers page |
-| Stanley Black & Decker | ✅ ok | workday | 1 | config |
+| Stanley Black & Decker | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
 | TE Connectivity | ✅ ok | successfactors | 12 | config |
 | TechnipFMC | ✅ ok | successfactors | 1 | config |
 | Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
-| Xylem | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Xylem | ✅ ok | workday | 0 | cache |
 | ExxonMobil | ✅ ok | successfactors | 1 | config |
 | Chevron | ✅ ok | radancy | 0 | cache |
-| Shell USA | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| ConocoPhillips | ✅ ok | workday | 0 | cache |
+| Shell USA | ✅ ok | workday | 0 | config |
+| ConocoPhillips | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Phillips 66 | ✅ ok | successfactors | 1 | cache |
 | Halliburton | ✅ ok | radancy | 0 | cache |
 | SLB | ❌ unresolved |  |  | no job system found on careers page |
@@ -494,66 +490,66 @@ Working: 320 of 535 companies (39 more waiting out a Workday rate limit)
 | X-energy | ✅ ok | workday | 0 | cache |
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
-| Trane Technologies | ✅ ok | phenom | 13 | cache |
+| Trane Technologies | ✅ ok | phenom | 15 | cache |
 | Carrier | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Whirlpool | ✅ ok | eightfold | 4 | config |
 | GE Appliances | ✅ ok | workday | 0 | cache |
-| 3M | ✅ ok | workday | 0 | config |
+| 3M | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Dow | ✅ ok | workday | 0 | config |
-| Samsung (US) | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Intel | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Micron | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Samsung (US) | ✅ ok | workday | 1 | config |
+| Intel | ✅ ok | workday | 0 | config |
+| Micron | ✅ ok | workday | 3 | cache |
 | Johnson Controls | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Otis | ✅ ok | workday | 0 | cache |
-| Kohler | ❌ error |  |  | careers page: URLError |
-| Generac | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Bloom Energy | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Kohler | ❌ unresolved |  |  | careers page: URLError |
+| Generac | ✅ ok | workday | 8 | config |
+| Bloom Energy | ✅ ok | workday | 9 | config |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
-| Rheem | ❌ error |  |  | no job system found on careers page |
-| Siemens Energy | ❌ error |  |  | no job system found on careers page |
+| Rheem | ❌ unresolved |  |  | no job system found on careers page |
+| Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Mitsubishi Power Americas | ✅ ok | successfactors | 3 | cache |
-| Toro | ❌ error |  |  | careers page: HTTPError |
-| Lincoln Electric | ❌ error |  |  | careers page: HTTPError |
-| Kennametal | ❌ error |  |  | no job system found on careers page |
-| Nordson | ❌ error |  |  | careers page: HTTPError |
-| Graco | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Dover | ❌ error |  |  | careers page: HTTPError |
-| IDEX | ❌ error |  |  | no job system found on careers page |
+| Toro | ❌ unresolved |  |  | careers page: HTTPError |
+| Lincoln Electric | ❌ unresolved |  |  | careers page: HTTPError |
+| Kennametal | ❌ unresolved |  |  | no job system found on careers page |
+| Nordson | ❌ unresolved |  |  | careers page: HTTPError |
+| Graco | ✅ ok | workday | 4 | cache |
+| Dover | ❌ unresolved |  |  | careers page: HTTPError |
+| IDEX | ❌ unresolved |  |  | no job system found on careers page |
 | Ingersoll Rand | ✅ ok | successfactors | 2 | config |
 | Pentair | ✅ ok | phenom | 1 | cache |
-| Regal Rexnord | ❌ error |  |  | careers page: HTTPError |
+| Regal Rexnord | ❌ unresolved |  |  | careers page: HTTPError |
 | Chart Industries | ✅ ok | successfactors | 0 | cache |
-| Plug Power | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Enphase | ❌ error |  |  | no job system found on careers page |
+| Plug Power | ✅ ok | workday | 0 | cache |
+| Enphase | ❌ unresolved |  |  | no job system found on careers page |
 | First Solar | ✅ ok | oracle | 14 | cache |
-| Fluence | ❌ error |  |  | careers page: HTTPError |
+| Fluence | ❌ unresolved |  |  | careers page: HTTPError |
 | Oklo | ✅ ok | greenhouse | 0 | cache |
-| NuScale | ❌ error |  |  | careers page: HTTPError |
+| NuScale | ❌ unresolved |  |  | careers page: HTTPError |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
 | Westinghouse | ✅ ok | successfactors | 1 | cache |
 | BWX Technologies | ✅ ok | successfactors | 3 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
-| Type One Energy | ❌ error |  |  | no job system found on careers page |
+| Type One Energy | ❌ unresolved |  |  | no job system found on careers page |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
 | Pacific Fusion | ✅ ok | greenhouse | 4 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 3 | config |
-| Bechtel | ✅ ok | phenom | 0 | cache |
-| Fluor | ❌ error |  |  | no job system found on careers page |
-| Burns & McDonnell | ❌ error |  |  | no job system found on careers page |
-| Quanta Services | ❌ error |  |  | no job system found on careers page |
-| Vistra | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| NRG | ❌ error |  |  | careers page: HTTPError |
+| Bechtel | ✅ ok | phenom | 14 | cache |
+| Fluor | ❌ unresolved |  |  | no job system found on careers page |
+| Burns & McDonnell | ❌ unresolved |  |  | no job system found on careers page |
+| Quanta Services | ❌ unresolved |  |  | no job system found on careers page |
+| Vistra | ✅ ok | workday | 1 | cache |
+| NRG | ❌ unresolved |  |  | careers page: HTTPError |
 | Oncor | ✅ ok | ukg | 2 | config |
 | CenterPoint Energy | ✅ ok | successfactors | 0 | cache |
 | NextEra Energy | ✅ ok | successfactors | 1 | cache |
-| Solar Turbines | ❌ error |  |  | careers page: HTTPError |
+| Solar Turbines | ❌ unresolved |  |  | careers page: HTTPError |
 | Hexcel | ✅ ok | workday | 0 | cache |
-| Sandia National Labs | ❌ error |  |  | no job system found on careers page |
-| Los Alamos National Lab | ❌ error |  |  | careers page: HTTPError |
+| Sandia National Labs | ❌ unresolved |  |  | no job system found on careers page |
+| Los Alamos National Lab | ❌ unresolved |  |  | careers page: HTTPError |
 | NASA JPL | ✅ ok | phenom | 1 | cache |
-| Southwest Research Institute | ❌ error |  |  | no job system found on careers page |
+| Southwest Research Institute | ❌ unresolved |  |  | no job system found on careers page |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
 | MIT Lincoln Laboratory | ✅ ok | successfactors | 6 | cache |
 
