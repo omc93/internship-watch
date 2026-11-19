@@ -8259,6 +8259,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-18T19:28:56.065Z",
     "title": "Intern - Logistics (local to Lincolnton NC area)"
+   },
+   "744000162610809": {
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T21:56:20.866Z",
+    "title": "Logistics Materials Intern/Co-Op - Spring 2027"
    }
   },
   "seeded": true
@@ -18188,7 +18194,8 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-19",
     "posted_raw": "1788189667823",
-    "title": "Mechanical Engineering Intern - Summer/Fall 2027"
+    "title": "Mechanical Engineering Intern - Fall 2027",
+    "updated_seen": "2026-11-19"
    },
    "1bdf3754-5649-4a50-913e-b05140cb004f": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -18408,7 +18415,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -23531,6 +23538,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Supply Chain Internship"
+   },
+   "R00270957": {
+    "aliases": [
+     "/job/Ramos-MX/Intern-Co-op--Product-Eng_R00270957"
+    ],
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Intern/Co-op, Product Eng"
    }
   },
   "seeded": true
@@ -29501,6 +29517,11 @@
     "first_seen": "2026-11-19 18:50 UTC",
     "last_seen": "2026-11-19",
     "title": "Manufacturing Engineering Data Analytics Intern Spring 2027"
+   },
+   "1459041733": {
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Reman Quality System Intern Summer 2027"
    }
   },
   "seeded": true
@@ -33446,7 +33467,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T16:02:15-05:00"
+    "updated_raw": "2026-11-19T16:47:08-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -33645,6 +33666,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)"
+   },
+   "R122135": {
+    "aliases": [
+     "/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135"
+    ],
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Business Operations & Data Analytics Intern"
    },
    "R122138": {
     "aliases": [
@@ -37732,11 +37762,23 @@
     "posted_raw": "2026-11-13",
     "title": "Product Engineering Failure Analysis Intern"
    },
+   "25016331": {
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19",
+    "title": "Compute In-Memory System Engineer Intern"
+   },
    "25016336": {
     "first_seen": "2026-11-19 21:21 UTC",
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-19",
     "title": "Systems Engineering Intern (Robotics and AI) at Kilby Labs"
+   },
+   "25016339": {
+    "first_seen": "2026-11-19 22:14 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19",
+    "title": "Synthetic Data for Edge AI System Engineer Intern"
    },
    "25016343": {
     "first_seen": "2026-11-17 23:38 UTC",
