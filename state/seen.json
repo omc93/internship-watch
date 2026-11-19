@@ -5620,7 +5620,7 @@
      "/job/US-AK-ANCHORAGE-795-EAST-94TH-AVENUE/Business-Intern--Summer-2027-Opportunities_R168907"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "2026-11-06T00:00:00.000+0000",
     "title": "Business Intern- Summer 2027 Opportunities"
    },
@@ -11571,7 +11571,7 @@
      "/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 12 Days Ago",
     "title": "Systems Engineering Co-Op (Spring 2027)"
    },
@@ -11670,7 +11670,7 @@
      "/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Electro-Mechanical Instrument Intern (Summer 2027)"
    },
@@ -11679,7 +11679,7 @@
      "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Optics-Physics Sensor Engineering Intern (Summer 2027)"
    },
@@ -11688,7 +11688,7 @@
      "/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Sensor Electrical Engineering Intern (Summer 2027)"
    },
@@ -11697,7 +11697,7 @@
      "/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 12 Days Ago",
     "title": "GNC Systems Engineering Intern (Summer 2027)"
    },
@@ -11706,7 +11706,7 @@
      "/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 12 Days Ago",
     "title": "GNC Systems Engineering Co-Op (Spring 2027)"
    },
@@ -11715,7 +11715,7 @@
      "/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137"
     ],
     "first_seen": "2026-11-16 20:40 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Space & Strategic Navigation Intern (Summer 2027)"
    },
@@ -11724,7 +11724,7 @@
      "/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155"
     ],
     "first_seen": "2026-11-17 22:05 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Software Engineering & DevOps Intern"
    }
@@ -13204,6 +13204,11 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-18",
     "title": "2027 KL Hub Internship Program - Mechanical Engineering"
+   },
+   "1452075900": {
+    "first_seen": "2026-11-19 01:20 UTC",
+    "last_seen": "2026-11-19",
+    "title": "2027 KL Hub Internship Program - Chemical Engineering"
    }
   },
   "seeded": true
@@ -13437,8 +13442,8 @@
      "/job/Briggs-TX/Internship---Ground-Support-Equipment---Summer-2027_JR100148"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Internship - Ground Support Equipment - Spring 2027"
    },
    "JR100180": {
@@ -13446,8 +13451,8 @@
      "/job/Cedar-Park-TX/Internship---Mechanical-Engineering---Spring-2027_JR100180"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Internship - Mechanical Engineering - Spring 2027"
    },
    "JR100181": {
@@ -13455,8 +13460,8 @@
      "/job/Cedar-Park-TX/Internship---Mission-Operations--Spacecraft----Spring-2027_JR100181"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Mission Operations (Spacecraft) - Spring 2027"
    },
    "JR100182": {
@@ -13464,8 +13469,8 @@
      "/job/Briggs-TX/Internship---Propulsion-Manufacturing---Spring-2027_JR100182"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Propulsion Manufacturing - Spring 2027"
    },
    "JR100186": {
@@ -13473,8 +13478,8 @@
      "/job/Briggs-TX/Internship---Structures-Manufacturing--Composites----Spring-2027_JR100186"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Structures Manufacturing (Composites) - Spring 2027"
    },
    "JR100187": {
@@ -13482,8 +13487,8 @@
      "/job/Cedar-Park-TX/Internship---Electrical-Engineering---Spring-2027_JR100187"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Electrical Engineering - Spring 2027"
    },
    "JR100188": {
@@ -13491,8 +13496,8 @@
      "/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Software Engineering - Spring 2027"
    },
    "JR100189": {
@@ -13500,8 +13505,8 @@
      "/job/Briggs-TX/Internship---Engine-Test---Spring-2027_JR100189"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Engine Test - Spring 2027"
    },
    "JR100191": {
@@ -13509,8 +13514,8 @@
      "/job/Briggs-TX/Internship---Materials---Process---Spring-2027_JR100191"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Materials & Process - Spring 2027"
    },
    "JR100192": {
@@ -13518,8 +13523,8 @@
      "/job/Cedar-Park-TX/Internship---Launch-Site-Development---Spring-2027_JR100192"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Internship - Launch Site Development - Spring 2027"
    }
   },
@@ -19297,7 +19302,7 @@
    },
    "JR11018": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "2026-11-06T00:00:00.000+0000",
     "title": "Structural Engineering Intern"
    },
@@ -20499,7 +20504,7 @@
      "/job/Devens-MA/NPI-Molding---Tooling-Intern_J2471687-1"
     ],
     "first_seen": "2026-11-18 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "NPI Molding / Tooling Intern"
    },
@@ -20517,7 +20522,7 @@
      "/job/St-PetersburgTampa-FL/HRIS-Intern---Change-Management-and-Communications_J2472171"
     ],
     "first_seen": "2026-11-17 20:10 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "HRIS Intern - Change Management and Communications"
    },
@@ -20526,7 +20531,7 @@
      "/job/Guangzhou-Juncheng/EIT--Intern_J2472562"
     ],
     "first_seen": "2026-11-18 01:41 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "EIT Intern"
    }
@@ -21268,7 +21273,7 @@
      "/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "Software Engineering Co-Op"
    },
@@ -21367,7 +21372,7 @@
      "/job/Milwaukee-Wisconsin-United-States-of-America/Materials-Engineering-Intern_WD30285102"
     ],
     "first_seen": "2026-11-17 15:05 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Materials Engineering Intern"
    },
@@ -21376,7 +21381,7 @@
      "/job/York-Pennsylvania-United-States-of-America/Air-Handling-Application---Project-Engineering-Intern_WD30285140"
     ],
     "first_seen": "2026-11-18 15:17 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "Air Handling Product Management & Engineering Intern",
     "updated_seen": "2026-11-18"
@@ -21386,7 +21391,7 @@
      "/job/Waynesboro-Pennsylvania-United-States-of-America/Mechanical-Engineering-Intern---Compressor-Team_WD30285226"
     ],
     "first_seen": "2026-11-17 15:05 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Mechanical Engineering Intern / Compressor Team"
    },
@@ -21395,7 +21400,7 @@
      "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251"
     ],
     "first_seen": "2026-11-17 16:59 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    },
@@ -21404,7 +21409,7 @@
      "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253"
     ],
     "first_seen": "2026-11-17 16:59 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    },
@@ -21413,7 +21418,7 @@
      "/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272"
     ],
     "first_seen": "2026-11-17 15:05 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Electrical Engineering Intern"
    },
@@ -21422,7 +21427,7 @@
      "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364"
     ],
     "first_seen": "2026-11-18 01:41 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "BEST Sales Intern - HVAC"
    }
@@ -28481,7 +28486,7 @@
      "/job/OT423-TD---DALLAS-TX-2421-State-Highway-161-Frontage-Road-Irving-TX-75062-USA/Field-Project-Management-Interns_20168823"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Field Project Management Interns"
    },
@@ -32838,7 +32843,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-18T19:32:08-05:00"
+    "updated_raw": "2026-11-18T20:02:09-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34194,7 +34199,7 @@
      "/job/Plano-TX/Electrical-Engineering-Intern--Summer-2027-_R0030740"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Electrical Engineering Intern (Summer 2027)"
    },
@@ -34203,7 +34208,7 @@
      "/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mechanical Engineer Intern (Summer 2027)"
    },
@@ -34221,7 +34226,7 @@
      "/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
     ],
     "first_seen": "2026-11-17 20:33 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineering Intern (Summer 2027)"
    },
@@ -34230,7 +34235,7 @@
      "/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software Engineering Intern (Summer 2027)"
    },
@@ -34239,7 +34244,7 @@
      "/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 22 Days Ago",
     "title": "IT Service Desk Intern (Summer 2027)"
    },
@@ -34248,7 +34253,7 @@
      "/job/Sparks-NV/IT-Support-Technician-Intern--Summer-2026-_R0030765"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "IT Support Technician Intern (Summer 2026)"
    },
@@ -34257,7 +34262,7 @@
      "/job/Lone-Tree-CO/Project-Coordinator-Intern--Summer-2027-_R0030773"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Project Coordinator Intern (Summer 2027)"
    },
@@ -34266,7 +34271,7 @@
      "/job/Sparks-NV/Project-Coordinator-Intern--Summer-2027-_R0030774"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30 Days Ago",
     "title": "Project Coordinator Intern (Summer 2027)"
    },
@@ -34275,7 +34280,7 @@
      "/job/Hagerstown-MD/Project-Coordinator-Intern--Summer-2027-_R0030775"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Project Coordinator Intern (Summer 2027)"
    },
@@ -34284,7 +34289,7 @@
      "/job/Plano-TX/Project-Coordinator-Intern--Summer-2027-_R0030782"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Project Coordinator Intern (Summer 2027)"
    },
@@ -34428,7 +34433,7 @@
      "/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1"
     ],
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Systems Engineer Intern"
    },
@@ -34473,7 +34478,7 @@
      "/job/Sparks-NV/Test-Engineer-Intern--Summer-2027-_R0031236"
     ],
     "first_seen": "2026-11-18 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "Test Engineer Intern (Summer 2027)"
    },
@@ -34581,7 +34586,7 @@
      "/job/Wichita-KS/Digital-Engineering-Intern_R0031381"
     ],
     "first_seen": "2026-11-17 20:33 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Digital Engineer Intern (Summer 2027)"
    }
