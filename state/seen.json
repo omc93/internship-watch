@@ -2681,7 +2681,7 @@
      "/job/Indianapolis-IN/Service-Engineering-Intern---Summer-2027_R008019"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Service Engineering Intern - Summer 2027"
    },
@@ -2690,7 +2690,7 @@
      "/job/Indianapolis-IN/Global-Supply-Chain-Intern---Summer-2027_R008229"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Global Supply Chain Intern - Summer 2027"
    },
@@ -2708,7 +2708,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027-2"
    },
@@ -2717,7 +2717,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027-1"
    },
@@ -2726,7 +2726,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027"
    },
@@ -2735,7 +2735,7 @@
      "/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern - Summer 2027"
    },
@@ -2771,7 +2771,7 @@
      "/job/Indianapolis-IN/Job-Posting-Title-Career-Fair---Butler-University---Fall--26-Internship---Career-Fair_R008291"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Job Posting Title Career Fair - Butler University - Fall '26 Internship & Career Fair"
    },
@@ -2780,7 +2780,7 @@
      "/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "IT Security Analyst Internship - Summer 2027"
    },
@@ -4980,6 +4980,12 @@
     "posted_raw": "2026-11-11T05:02:31.621+0000",
     "title": "Industrial Engineering Intern II, Summer 2027 - Austin, TX"
    },
+   "131672BR": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-11T05:02:31.621+0000",
+    "title": "Manufacturing Engineering Intern II, Summer 2027"
+   },
    "131674BR": {
     "first_seen": "2026-11-17 22:26 UTC",
     "last_seen": "2026-11-19",
@@ -5464,6 +5470,46 @@
     "last_seen": "2026-11-19",
     "title": "Intern, Electrical Engineer",
     "updated_seen": "2026-11-16"
+   },
+   "1452132700": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Training SOJT"
+   },
+   "1452133100": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Safety"
+   },
+   "1452135500": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Materials & Inventory Analyst"
+   },
+   "1452135600": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Manufacturing Operations"
+   },
+   "1452135800": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Manufacturing Engineer"
+   },
+   "1452136000": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Gage Engineer"
+   },
+   "1452136500": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Shop Floor Quality Engineer"
+   },
+   "1452136800": {
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Data Analyst"
    }
   },
   "seeded": true
@@ -10313,8 +10359,13 @@
   "seeded": false
  },
  "Cirrus Logic": {
+  "fp": [
+   3,
+   "greenhouse",
+   "cirruslogic"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Club Car": {
   "ids": {},
@@ -11551,6 +11602,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Talent Pool for Campus Internship 2027 – Research & Development"
    },
+   "R2069018": {
+    "aliases": [
+     "/job/Terneuzen-NLD/Talent-Pool-for-Campus-Internship-2027---Manufacturing---Engineering_R2069018"
+    ],
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Talent Pool for Campus Internship 2027 – Manufacturing & Engineering"
+   },
    "R2069039": {
     "aliases": [
      "/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Treasury_R2069039"
@@ -11586,6 +11646,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 9 Days Ago",
     "title": "Local College Co-op: Analytical Science Lab Assistant"
+   },
+   "R2070038": {
+    "aliases": [
+     "/job/Terneuzen-NLD/Talent-Pool-for-Campus-Internships-2027---Finance_R2070038"
+    ],
+    "first_seen": "2026-11-19 13:43 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Talent Pool for Campus Internships 2027 – Finance"
    }
   },
   "seeded": true
@@ -15635,7 +15704,7 @@
      "/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mechanical Design Engineering Intern"
    },
@@ -15644,7 +15713,7 @@
      "/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Lab Technician Intern"
    },
@@ -15662,7 +15731,7 @@
      "/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern Digital Manufacturing Engineering"
    },
@@ -15671,8 +15740,8 @@
      "/job/Waukesha-WI---USA/Engineering-Intern-Engine-Development_JR16276-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Engineering Intern-Engine Development"
    },
    "JR17048": {
@@ -15680,7 +15749,7 @@
      "/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mechanical Engineering Intern - Transfer Switch - Summer 2027"
    },
@@ -15689,7 +15758,7 @@
      "/job/Waukesha-WI---USA/Operations-Intern---Quality_JR17128"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Operations Intern - Quality"
    },
@@ -15698,8 +15767,8 @@
      "/job/Pewaukee-WI---USA/Consumer-Experience-Program-Coordinator-Intern_JR17204"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Consumer Experience Program Coordinator Intern"
    },
    "JR17249": {
@@ -15725,8 +15794,8 @@
      "/job/Sussex-WI---USA/Intern-Engineering_JR17287"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Intern Engineering"
    },
    "JR17432": {
@@ -15734,8 +15803,8 @@
      "/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 30 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Micro-Grid Systems Engineering Summer Intern"
    },
    "JR18055": {
@@ -15744,7 +15813,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "EHS Intern"
    },
    "JR18062": {
@@ -15752,8 +15821,8 @@
      "/job/Waukesha-WI---USA/Intern-Human-Resources-Shared-Services_JR18062-1"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 7 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Intern Human Resources Shared Services"
    }
   },
@@ -26071,14 +26140,14 @@
    },
    "59945": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "2026-09-23T19:38:00+0000",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T13:29:00+0000",
     "title": "Procurement / Supply Chain Intern"
    },
    "59946": {
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "2026-09-23T19:45:00+0000",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T13:30:00+0000",
     "title": "Supplier Quality Intern"
    },
    "60456": {
@@ -33028,7 +33097,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T07:32:14-05:00"
+    "updated_raw": "2026-11-19T08:17:19-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35401,7 +35470,7 @@
     ],
     "first_seen": "2026-11-13 03:10 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Intern, Data Analyst & BI, Summer 2027"
    },
    "REQ-1000052535": {
