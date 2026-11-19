@@ -6179,7 +6179,7 @@
    "777791cd6352": {
     "first_seen": "2026-11-11 04:51 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "2026-10-26T20:12:35.123Z",
+    "posted_raw": "2026-11-19T14:39:42.592Z",
     "title": "Test Engineering Intern"
    },
    "9c79847f79fb": {
@@ -7247,6 +7247,8 @@
    },
    "15907": {
     "first_seen": "2026-11-10 16:13 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/26",
     "title": "Intern, Project Coordination and Tool Development, Engineering Strategy (Winter 2027)"
    },
    "15920": {
@@ -14335,7 +14337,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-16T15:40:03-05:00",
     "title": "Global Operations MBA Intern (Summer 2027)",
-    "updated_raw": "2026-11-18T14:38:30-05:00"
+    "updated_raw": "2026-11-19T09:51:12-05:00"
    },
    "8385574": {
     "first_seen": "2026-11-16 21:40 UTC",
@@ -14912,6 +14914,15 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Supply Chain Intern/Co-op 2027"
+   },
+   "R5049176": {
+    "aliases": [
+     "/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Digital Technology Internship - Summer 2027"
    },
    "R5049384": {
     "aliases": [
@@ -18961,7 +18972,7 @@
    },
    "1427565000": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "title": "2027 Summer Intern: Operations - Quality Control"
    },
    "1427566100": {
@@ -20619,6 +20630,15 @@
     "posted_raw": "Posted 5 Days Ago",
     "title": "Industrial Engineering Intern"
    },
+   "J2470942": {
+    "aliases": [
+     "/job/St-PetersburgTampa-FL/Technical-Accounting-Intern-_J2470942"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Technical Accounting Intern"
+   },
    "J2471062": {
     "aliases": [
      "/job/Uzhhorod/Safety-Coordinator--Intern-_J2471062"
@@ -21402,7 +21422,7 @@
     ],
     "first_seen": "2026-11-18 15:17 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Technology 2027 Spring Co-Op"
    }
   },
@@ -22876,7 +22896,7 @@
      "/job/Offsite---USA---NY---Metro/Social-Commerce-Intern_146689"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Social Commerce Intern"
    },
@@ -22885,8 +22905,8 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Product Marketing Intern"
    }
   },
@@ -27814,6 +27834,33 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA"
+   },
+   "R10261466": {
+    "aliases": [
+     "/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Governance---Strategy-Intern---Falls-Church-VA_R10261466"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "2027 Governance & Strategy Intern - Falls Church VA"
+   },
+   "R10261472": {
+    "aliases": [
+     "/job/United-States-Maryland-Linthicum/XMLNAME-2027-Project-management-Intern---Linthicum-MD_R10261472"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "2027 Project management Intern - Linthicum MD"
+   },
+   "R10261475": {
+    "aliases": [
+     "/job/United-States-Utah-Roy/XMLNAME-2027-Cybersecurity-Engineer-Intern_R10261475"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "2027 Cybersecurity Engineer Intern"
    }
   },
   "seeded": true
@@ -31982,6 +32029,15 @@
     "posted_raw": "Posted 2 Days Ago",
     "title": "Software Engineering Intern (Summer 2027)"
    },
+   "01890095": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095"
+    ],
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Software Security Intern (Summer 2027)"
+   },
    "01890118": {
     "aliases": [
      "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Systems-Engineering-Intern---Summer-2027--Onsite-_01890118"
@@ -33111,7 +33167,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T09:17:07-05:00"
+    "updated_raw": "2026-11-19T10:17:23-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34156,6 +34212,11 @@
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-19",
     "title": "Spring 2027: Control Systems & Algorithms Co-op (January to June)"
+   },
+   "https://careers.sharkninja.com/job/needham/spring-2027-cost-engineering-co-op-january-to-june/47204/103515702576": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Spring 2027: Cost Engineering Co-op (January to June)"
    },
    "https://careers.sharkninja.com/job/needham/spring-2027-design-and-engineering-co-op-january-through-june/47204/102871165344": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -37960,6 +38021,12 @@
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD"
    },
+   "342935": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/2026",
+    "title": "2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD"
+   },
    "342956": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-19",
@@ -38198,6 +38265,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "08/31/2026",
     "title": "2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD"
+   },
+   "342935": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/2026",
+    "title": "2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD"
    },
    "342956": {
     "first_seen": "2026-11-16 19:46 UTC",
@@ -40810,6 +40883,21 @@
     "first_seen": "2026-11-19 14:26 UTC",
     "last_seen": "2026-11-19",
     "title": "Intern: Software (Summer 2027)"
+   },
+   "1377666755": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern: Mechanical Engineering - Virtual Product Development (Summer 2027)"
+   },
+   "1377670355": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern: Electrical Engineering (Summer 2027)"
+   },
+   "1377672355": {
+    "first_seen": "2026-11-19 15:37 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern: Mechanical Engineering - Hydraulics (Summer 2027)"
    }
   },
   "seeded": true
