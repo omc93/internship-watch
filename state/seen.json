@@ -1091,8 +1091,8 @@
      "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "2026-09-15T00:00:00.000+0000",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
     "title": "2027 Sales Cancer Diagnostics Intern"
    },
    "31161561": {
@@ -1109,8 +1109,8 @@
      "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "2026-09-15T00:00:00.000+0000",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
     "title": "2027 IT Cancer Diagnostics Intern"
    },
    "31162236": {
@@ -3398,6 +3398,13 @@
     "posted_raw": "2026-11-18T11:45:29-05:00",
     "title": "2027 Business Systems Engineer Intern",
     "updated_raw": "2026-11-18T13:46:35-05:00"
+   },
+   "5302147007": {
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T12:18:04-05:00",
+    "title": "2027 Engineering Systems Intern",
+    "updated_raw": "2026-11-19T12:18:04-05:00"
    }
   },
   "seeded": true
@@ -8898,6 +8905,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "10/29/26",
     "title": "Financial Services Marketing Communications Intern"
+   },
+   "5571": {
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/26",
+    "title": "Manufacturing Engineer Intern - Safety"
    },
    "5623": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -14650,7 +14663,7 @@
     ],
     "first_seen": "2026-11-16 06:59 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "FLIGHT DECK Intern"
    },
    "R5042953": {
@@ -14731,8 +14744,8 @@
      "/job/IND-Bangalore-KA/Co-op-Intern_REQ-26671"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
     "title": "Co-op/Intern"
    },
    "REQ-26924": {
@@ -22339,6 +22352,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "11/11/26",
     "title": "Human Resources Intern, Operations"
+   },
+   "37617": {
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/26",
+    "title": "Product Support Intern"
    }
   },
   "seeded": true
@@ -23513,8 +23532,8 @@
      "/job/Eindhoven-Noord-Brabant-Netherlands/NextGen-Academy-Intern--Sales_R71339-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
     "title": "NextGen Academy Intern: Field Support"
    },
    "R76021": {
@@ -23818,6 +23837,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - Process Development Engineer, 3D DRAM CMP"
+   },
+   "JR108053": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053"
+    ],
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Intern - EUV & Materials Lithography"
    },
    "JR108468": {
     "aliases": [
@@ -29278,10 +29306,20 @@
     "last_seen": "2026-11-19",
     "title": "Winter Internship - Sales Development"
    },
+   "1458997133": {
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Reman Material Intern Summer 2027"
+   },
    "1458997333": {
     "first_seen": "2026-11-19 18:04 UTC",
     "last_seen": "2026-11-19",
     "title": "Reman Material Intern Spring 2027"
+   },
+   "1458997633": {
+    "first_seen": "2026-11-19 18:50 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Manufacturing Engineering Data Analytics Intern Spring 2027"
    }
   },
   "seeded": true
@@ -33227,7 +33265,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T12:47:10-05:00"
+    "updated_raw": "2026-11-19T13:32:07-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34495,7 +34533,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Tax Associate Intern"
    }
   },
