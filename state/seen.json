@@ -17340,6 +17340,15 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mechanical Engineering Intern"
    },
+   "R0023552": {
+    "aliases": [
+     "/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552"
+    ],
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Electrical Engineering Intern"
+   },
    "R0023554": {
     "aliases": [
      "/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554"
@@ -22375,6 +22384,11 @@
     "last_seen": "2026-11-15",
     "title": "Electrical Engineering Intern"
    },
+   "https://careers.l3harris.com/en/job/clifton/intern-finance/4832/103522392176": {
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Intern, Finance"
+   },
    "https://careers.l3harris.com/en/job/huntsville/intern-communications/4832/103448102752": {
     "first_seen": "2026-11-18 02:54 UTC",
     "last_seen": "2026-11-18",
@@ -23143,6 +23157,11 @@
     "first_seen": "2026-11-18 21:18 UTC",
     "last_seen": "2026-11-19",
     "title": "Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74"
+   },
+   "1452276600": {
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Tactical Autonomy Co-Op (Spring 2027) - Group 10-03"
    }
   },
   "seeded": true
@@ -29258,6 +29277,11 @@
     "first_seen": "2026-11-17 23:59 UTC",
     "last_seen": "2026-11-19",
     "title": "Winter Internship - Sales Development"
+   },
+   "1458997333": {
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Reman Material Intern Spring 2027"
    }
   },
   "seeded": true
@@ -33203,7 +33227,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T11:47:13-05:00"
+    "updated_raw": "2026-11-19T12:47:10-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34169,7 +34193,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-09T10:50:28-05:00",
     "title": "Intern, Human Resources",
-    "updated_raw": "2026-11-09T10:50:28-05:00"
+    "updated_raw": "2026-11-19T12:23:19-05:00"
    },
    "5287136007": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -34190,7 +34214,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-09T10:51:26-05:00",
     "title": "Intern, Production",
-    "updated_raw": "2026-11-10T10:15:57-05:00"
+    "updated_raw": "2026-11-19T12:23:01-05:00"
    }
   },
   "seeded": true
@@ -37840,6 +37864,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-17",
     "title": "Analog IC Design (AI/ML) Engineering Intern"
+   },
+   "25020388": {
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19",
+    "title": "Systems Engineering Intern (GaN)"
    }
   },
   "seeded": true
@@ -39639,6 +39669,8 @@
    },
    "JR-7480": {
     "first_seen": "2026-11-10 16:34 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T00:00:00.000+0000",
     "title": "2027 Operations Intern"
    },
    "JR-7597": {
@@ -42459,6 +42491,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "1793399815529",
     "title": "Software Engineer Intern, Autonomy Software [Summer 2027]"
+   },
+   "7ff6f68a-52bd-48ab-87d4-029bcc43fa9f": {
+    "first_seen": "2026-11-19 18:04 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "1795040834579",
+    "title": "Process Improvement Intern [Summer 2027]"
    },
    "85c6aec7-8da2-445d-9c4d-812365dbce97": {
     "first_seen": "2026-11-10 16:13 UTC",
