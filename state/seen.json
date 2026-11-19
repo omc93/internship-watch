@@ -24828,7 +24828,7 @@
      "/job/Jackson-Michigan/Manufacturing-Engineer-Co-op_JR103391-4"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Co-op"
    },
@@ -28752,6 +28752,15 @@
     "last_seen": "2026-11-11",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Manufacturing Engineering Interns (Part-time)"
+   },
+   "20170789": {
+    "aliases": [
+     "/job/OT363-SO---Phoenix-AZ-4405-East-Baseline-Rd-Phoenix-AZ-85042-USA/Sales-Intern_20170789"
+    ],
+    "first_seen": "2026-11-19 16:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Sales Intern"
    }
   },
   "seeded": true
@@ -33167,7 +33176,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T10:17:23-05:00"
+    "updated_raw": "2026-11-19T11:02:27-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34936,7 +34945,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Software Engineering"
    },
    "R26562": {
@@ -34945,7 +34954,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Aerospace Engineering"
    },
    "R26563": {
@@ -34954,7 +34963,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Electrical Engineering"
    },
    "R26564": {
@@ -34963,7 +34972,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Mechanical Engineering"
    },
    "R26565": {
@@ -34972,7 +34981,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Propulsion Engineering"
    },
    "R26566": {
@@ -34981,7 +34990,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Systems Engineering"
    },
    "R26569": {
@@ -34990,7 +34999,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Materials Engineering"
    }
   },
@@ -37846,6 +37855,12 @@
     "posted_raw": "11/10/2026",
     "title": "2027 Internship - System Safety Engineer"
    },
+   "342236": {
+    "first_seen": "2026-11-19 16:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/2026",
+    "title": "2027 Internship - Manufacturing Engineer"
+   },
    "342262": {
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-19",
@@ -40687,6 +40702,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-17T20:16:00+0000",
     "title": "Business Support System (BSS) Software Developer Intern"
+   },
+   "8491": {
+    "first_seen": "2026-11-19 16:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T15:45:00+0000",
+    "title": "Program Management Intern"
    }
   },
   "seeded": true
@@ -41800,6 +41821,11 @@
     "first_seen": "2026-11-17 16:39 UTC",
     "last_seen": "2026-11-19",
     "title": "HR Intern"
+   },
+   "1458945433": {
+    "first_seen": "2026-11-19 16:31 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Manufacturing Eng Intern"
    }
   },
   "seeded": true
