@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-19 14:47 UTC · **Textron (Textron Aviation, Bell, university hiring)** · [2027 Internship - Continuous Improvement Leader](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=342746&lang=en) · fit (manufacturing) | US-Kansas-Wichita [US] | employer-reported Nov 19 | found Nov 19 08:47 AM CT | ID 342746 | listed
 - 2026-11-19 13:43 UTC · **BWX Technologies** · [Intern, Manufacturing Operations](https://careers.bwxt.com/job/Barberton-Intern%2C-Manufacturing-Operations-OH/1452135600/) · fit (manufacturing) | Barberton, OH [US] | employer-reported Nov 19 | found Nov 19 07:43 AM CT | ID 1452135600 | open
 - 2026-11-19 13:43 UTC · **BWX Technologies** · [Intern, Manufacturing Engineer](https://careers.bwxt.com/job/Barberton-Intern%2C-Manufacturing-Engineer-OH/1452135800/) · fit (manufacturing) | Barberton, OH [US] | employer-reported Nov 19 | found Nov 19 07:43 AM CT | ID 1452135800 | open
 - 2026-11-19 13:43 UTC · **BWX Technologies** · [Intern, Materials & Inventory Analyst](https://careers.bwxt.com/job/Barberton-Intern%2C-Materials-&-Inventory-Analyst-OH/1452135500/) · fit (process / quality / materials) | Barberton, OH [US] | employer-reported Nov 19 | found Nov 19 07:43 AM CT | ID 1452135500 | open
