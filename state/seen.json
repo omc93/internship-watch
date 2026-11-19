@@ -5517,6 +5517,16 @@
     "first_seen": "2026-11-19 13:43 UTC",
     "last_seen": "2026-11-19",
     "title": "Intern, Data Analyst"
+   },
+   "1452446200": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Quality Assurance Engineer Intern (Summer 2027)"
+   },
+   "1452449200": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Quality Control Engineer Intern"
    }
   },
   "seeded": true
@@ -18457,7 +18467,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -22708,6 +22718,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "1794480205",
     "title": "Summer internship 2027 @ Lam Research Villach"
+   },
+   "1099557230250": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "1795128237",
+    "title": "Summer 2027 - Process Engineering Intern - MS/PhD"
    }
   },
   "seeded": true
@@ -23128,7 +23144,57 @@
    "greenhouse",
    "lucidmotors"
   ],
-  "ids": {},
+  "ids": {
+   "5290904007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T18:14:26-05:00",
+    "title": "Intern, Embedded Software, Summer 2027",
+    "updated_raw": "2026-11-19T18:14:26-05:00"
+   },
+   "5290911007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T17:57:36-05:00",
+    "title": "Intern, Software Engineer, SDET, Summer 2027",
+    "updated_raw": "2026-11-19T18:35:27-05:00"
+   },
+   "5290915007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T17:56:55-05:00",
+    "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
+    "updated_raw": "2026-11-19T17:56:55-05:00"
+   },
+   "5290917007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T18:28:37-05:00",
+    "title": "Intern, OTA Test and Validation Automation, Summer 2027",
+    "updated_raw": "2026-11-19T18:28:37-05:00"
+   },
+   "5290919007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T18:24:43-05:00",
+    "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+    "updated_raw": "2026-11-19T18:24:43-05:00"
+   },
+   "5290925007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T18:30:52-05:00",
+    "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+    "updated_raw": "2026-11-19T18:32:56-05:00"
+   },
+   "5290947007": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19T18:20:18-05:00",
+    "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+    "updated_raw": "2026-11-19T18:20:18-05:00"
+   }
+  },
   "seeded": true
  },
  "Lunar Outpost": {
@@ -30240,7 +30306,7 @@
      "/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern"
    },
@@ -30249,7 +30315,7 @@
      "/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Design Engineer Intern"
    },
@@ -30258,7 +30324,7 @@
      "/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14433"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "ME Intern, Training, Part-time"
    },
@@ -33506,7 +33572,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T17:32:12-05:00"
+    "updated_raw": "2026-11-19T18:32:09-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35886,8 +35952,8 @@
      "/job/New-Britain-CT-United-States/Stanley-Black---Decker-Intern---Finance---Hybrid_REQ-1000051905"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 7 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Stanley Black & Decker Intern – Finance – Hybrid"
    },
    "REQ-1000052018": {
@@ -35895,7 +35961,7 @@
      "/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Electrical Engineering Intern Summer 2027"
    },
@@ -35904,7 +35970,7 @@
      "/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Embedded Engineering Summer Intern 2027"
    },
@@ -35913,8 +35979,8 @@
      "/job/Brewster-NY-United-States/DEWALT-ANF-Engineering-Intern--Summer-2027_REQ-1000052306"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "DEWALT ANF Engineering Intern, Summer 2027"
    },
    "REQ-1000052481": {
@@ -35931,8 +35997,8 @@
      "/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Design-To-Value Engineering Intern - Summer 2027"
    },
    "REQ-1000052665": {
@@ -35940,8 +36006,8 @@
      "/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Industrial Design Engineering Intern, 3D Surfacing - Summer 2027"
    },
    "REQ-1000052666": {
@@ -35949,8 +36015,8 @@
      "/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 7 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Industrial Design Engineering Intern - Summer 2027"
    },
    "REQ-1000052705": {
@@ -35958,8 +36024,8 @@
      "/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "PMO Engineering Intern – Summer 2027"
    },
    "REQ-1000052712": {
@@ -35967,8 +36033,8 @@
      "/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Engineering Intern, Industrial Design 3D Surfacing - Summer 2027"
    },
    "REQ-1000052790": {
@@ -35976,7 +36042,7 @@
      "/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer Intern 2027 - Industrial Design 3D Surfacing"
    },
@@ -35985,8 +36051,8 @@
      "/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027"
    },
    "REQ-1000052823": {
@@ -35994,8 +36060,8 @@
      "/job/Towson-MD-United-States/Packaging-Engineering-Intern---Summer-2027_REQ-1000052823"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Packaging Engineering Intern - Summer 2027"
    },
    "REQ-1000052835": {
@@ -36023,7 +36089,7 @@
      "/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Co-Op; Summer and Fall 2027"
    },
@@ -36041,8 +36107,8 @@
      "/job/Nova-Scotia-Canada---Remote/Field-Marketing-Coordinator-Intern---Halifax_REQ-1000052988"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Field Marketing Coordinator Intern - Halifax"
    }
   },
@@ -37711,7 +37777,7 @@
      "/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern"
    },
@@ -37720,7 +37786,7 @@
      "/job/US-SD-Watertown/Design-Engineer-Intern_REQ-14324"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Design Engineer Intern"
    },
@@ -37729,7 +37795,7 @@
      "/job/USA-SD-Watertown/ME-Intern--Training--Part-time_REQ-14433"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "ME Intern, Training, Part-time"
    },
@@ -37836,6 +37902,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-11-19",
     "title": "Synthetic Data for Edge AI System Engineer Intern"
+   },
+   "25016340": {
+    "first_seen": "2026-11-19 23:49 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "2026-11-19",
+    "title": "Systems Engineering Intern - MEMS"
    },
    "25016343": {
     "first_seen": "2026-11-17 23:38 UTC",
