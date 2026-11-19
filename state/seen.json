@@ -6298,7 +6298,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Sales Development Analyst Intern"
    },
    "JR-25333": {
@@ -6325,7 +6325,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Utilities Analyst Intern"
    },
    "JR-25354": {
@@ -6361,7 +6361,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Data Science Intern"
    },
    "JR-25361": {
@@ -6406,7 +6406,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Service Operations Intern"
    },
    "JR-25369": {
@@ -6424,7 +6424,7 @@
     ],
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Customer Success Intern"
    },
    "JR-25383": {
@@ -6462,6 +6462,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted Yesterday",
     "title": "Energy Transition Solutions Intern"
+   },
+   "JR-25415": {
+    "aliases": [
+     "/job/Newark-Delaware/Manufacturing-Product-Engineering-Intern_JR-25415"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Manufacturing Product Engineering Intern"
    },
    "JR-25456": {
     "aliases": [
@@ -7447,6 +7456,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "10/30/26",
     "title": "Intern, Project Coordination and Supplier Management (Winter 2027)"
+   },
+   "16765": {
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "11/19/26",
+    "title": "Software Engineering Intern (Year-round)"
    }
   },
   "seeded": true
@@ -8031,7 +8046,7 @@
    },
    "744000154911489": {
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "2026-10-12T01:41:55.284Z",
     "title": "Robotics Research Intern"
    },
@@ -9392,8 +9407,8 @@
      "/job/CAN79-Clifton-100-Delawanna-Avenue-Clifton-NJ-07014-USA/Inside-Sales-Intern---Summer_30219798"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 12 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Inside Sales Intern - Summer (Automated Logic)"
    },
    "30220000": {
@@ -9402,7 +9417,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Data Analytics Intern - Summer"
    },
    "30220093": {
@@ -9410,8 +9425,8 @@
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220093"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Mechanical Engineering Intern - Summer"
    },
    "30220210": {
@@ -9456,7 +9471,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Mechanical Engineering Intern - Summer"
    },
    "30220255": {
@@ -9474,7 +9489,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Quality Engineering Intern - Summer"
    },
    "30220341": {
@@ -9482,8 +9497,8 @@
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Chemical Materials Engineering Intern - Summer"
    },
    "30220419": {
@@ -9492,7 +9507,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "General Engineering Intern - Summer"
    },
    "30220432": {
@@ -9500,8 +9515,8 @@
      "/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Systems-Engineering-Intern---Summer_30220432"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Systems Engineering Intern - Summer"
    },
    "30220556": {
@@ -9509,8 +9524,8 @@
      "/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220556-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Systems Engineering Intern - Summer"
    },
    "30220566": {
@@ -9518,8 +9533,8 @@
      "/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 12 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Systems Engineering Intern - Summer"
    },
    "30220677": {
@@ -9527,8 +9542,8 @@
      "/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Lab-Assistant-Engineering---Co-Op_30220677"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 7 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Lab Assistant Engineering - Co-Op"
    },
    "30220757": {
@@ -9536,8 +9551,8 @@
      "/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Quality Engineering Intern - Summer"
    },
    "30220771": {
@@ -9545,8 +9560,8 @@
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Summer_30220771"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Mechanical Engineering Intern - Summer"
    },
    "30220863": {
@@ -9554,8 +9569,8 @@
      "/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Building Automation Field Engineer Intern - Summer"
    },
    "30220948": {
@@ -9563,8 +9578,8 @@
      "/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/New-Product-Development-Engineering-Intern---Summer_30220948"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "New Product Development Engineering Intern - Summer"
    },
    "30220971": {
@@ -9572,8 +9587,8 @@
      "/job/CAV20-ALC---Virginia-4948-Dominion-Boulevard-Glen-Allen-VA-23060-USA/Project-Engineering-Intern---Summer_30220971"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Project Engineering Intern - Summer"
    },
    "30220992": {
@@ -9581,8 +9596,8 @@
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Mechanical Engineering Intern - Spring"
    },
    "30221113": {
@@ -9590,8 +9605,8 @@
      "/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Logistics-Intern---Spring_30221113-2"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Logistics Intern - Spring"
    },
    "30221268": {
@@ -9599,8 +9614,8 @@
      "/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Lab-Operations-Intern---Summer_30221268"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Lab Operations Intern - Summer"
    },
    "30221537": {
@@ -9608,8 +9623,8 @@
      "/job/CATX3-1218-Arion-Parkway-San-Antonio-TX-78216-USA/Inside-Sales-Intern---Summer_30221537"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Inside Sales Intern - Summer"
    },
    "30221656": {
@@ -9617,8 +9632,8 @@
      "/job/OH07-3868-Congress-Parkway-Richfield-OH-44286-USA/General-Engineering-Intern---Summer_30221656"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 12 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "General Engineering Intern - Summer"
    },
    "30221778": {
@@ -9626,8 +9641,8 @@
      "/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/Supply-Chain-Intern---Summer_30221778"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Supply Chain Intern - Summer"
    },
    "30221782": {
@@ -9635,8 +9650,8 @@
      "/job/CAA11-ALC-West-AZ-4615-South-33rd-Place-Phoenix-AZ-85040-USA/Field-Sales-Intern---Summer_30221782-2"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Field Sales Intern - Summer"
    },
    "30222053": {
@@ -11721,8 +11736,8 @@
      "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Optics-Physics Sensor Engineering Co-op (Spring 2027)"
    },
    "JR002885": {
@@ -11730,8 +11745,8 @@
      "/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Sensor Electrical Engineering Co-op (Spring 2027)"
    },
    "JR002940": {
@@ -11748,8 +11763,8 @@
      "/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Electrical Engineering Co-Op (Spring 2027)"
    },
    "JR002944": {
@@ -11766,7 +11781,7 @@
      "/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Integrated Circuits Intern (Summer 2027)"
    },
@@ -11784,8 +11799,8 @@
      "/job/Cambridge-MA/Microsystems-Integration-Intern_JR003002-1"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Microsystems Integration Intern"
    },
    "JR003003": {
@@ -11793,8 +11808,8 @@
      "/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Acoustic and Vibration Technologies Intern (Summer 2027)"
    },
    "JR003085": {
@@ -11802,8 +11817,8 @@
      "/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Analog ASIC Design Intern (Summer 2027)"
    },
    "JR003093": {
@@ -21501,8 +21516,8 @@
      "/job/Burlington-Massachusetts-United-States-of-America/Process-Engineering-Co-Op_EB00075409"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Process Engineering Co-Op"
    },
    "WD30278457": {
@@ -21510,7 +21525,7 @@
      "/job/Milwaukee-Wisconsin-United-States-of-America/Accounting---Finance-Intern_WD30278457"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Accounting & Finance Intern"
    },
@@ -21519,7 +21534,7 @@
      "/job/Airside-Center-of-Excellence/Supply-Chain-Intern_WD30278669"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Intern"
    },
@@ -21528,7 +21543,7 @@
      "/job/Lubbock-Texas-United-States-of-America/Supply-Chain-Intern_WD30278671"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain & Operations Intern"
    },
@@ -21555,8 +21570,8 @@
      "/job/Columbia-South-Carolina-United-States-of-America/Controls-Tech-Intern_WD30283265-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Controls Tech Intern"
    },
    "WD30283959": {
@@ -21564,8 +21579,8 @@
      "/job/Milwaukee-Wisconsin-United-States-of-America/Legal-Intern_WD30283959"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 12 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Legal Intern"
    },
    "WD30285034": {
@@ -21573,8 +21588,8 @@
      "/job/Rocky-Hill-Connecticut-United-States-of-America/Best-Sales-Intern---Fire-Systems_WD30285034"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 7 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Best Sales Intern - Fire Systems"
    },
    "WD30285046": {
@@ -21582,8 +21597,8 @@
      "/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Computer Science/CAD Intern"
    },
    "WD30285102": {
@@ -22395,6 +22410,11 @@
     "title": "Intern, Loistics (Camden, AR)",
     "updated_seen": "2026-11-11"
    },
+   "https://careers.l3harris.com/en/job/camden/manufacturing-engineering-intern/4832/103527469264": {
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "title": "Manufacturing Engineering Intern"
+   },
    "https://careers.l3harris.com/en/job/canoga-park/intern-manufacturing-engineer/4832/103079914080": {
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-18",
@@ -22675,8 +22695,8 @@
      "/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Cybersecurity Engineer Co-op"
    },
    "R-00193282": {
@@ -22711,8 +22731,8 @@
      "/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Yesterday",
     "title": "Business Systems AI Intern"
    },
    "R-00193770": {
@@ -22720,8 +22740,8 @@
      "/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Yesterday",
     "title": "Business Systems AI Intern"
    },
    "R-00194152": {
@@ -22729,7 +22749,7 @@
      "/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems, Integration and Software Engineer Intern"
    },
@@ -22738,26 +22758,44 @@
      "/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Network Site Design Intern"
+   },
+   "R-00195168": {
+    "aliases": [
+     "/job/Huntsville-AL/AI-ML-Intern_R-00195168"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "AI/ML Intern"
    },
    "R-00195319": {
     "aliases": [
      "/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "AI/Automation Development Intern - Assessment & Authorization"
+   },
+   "R-00195400": {
+    "aliases": [
+     "/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 2 Days Ago",
+    "title": "Electrical Design Engineering Intern"
    },
    "R-00195528": {
     "aliases": [
      "/job/Arlington-VA/Systems-Administration-Intern_R-00195528"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Systems Administration Intern"
    },
    "R-00195535": {
@@ -22765,8 +22803,8 @@
      "/job/Arlington-VA/Project-Management-Intern_R-00195535-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Project Management Intern"
    },
    "R-00195576": {
@@ -22810,8 +22848,8 @@
      "/job/6314-RemoteTeleworker-US/Migration-Execution-Intern_R-00196159"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Migration Execution Intern"
    },
    "R-00196247": {
@@ -22837,9 +22875,18 @@
      "/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 5 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Power Delivery Engineering Intern"
+   },
+   "R-00196657": {
+    "aliases": [
+     "/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 3 Days Ago",
+    "title": "Integration and Test Engineer Intern"
    },
    "R-00196666": {
     "aliases": [
@@ -22855,8 +22902,8 @@
      "/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Chief Engineer Intern"
    },
    "R-00196931": {
@@ -22867,6 +22914,69 @@
     "last_seen": "2026-11-13",
     "posted_raw": "Posted Today",
     "title": "Radar Engineering Intern"
+   },
+   "R-00196994": {
+    "aliases": [
+     "/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Data Engineer Intern"
+   },
+   "R-00197087": {
+    "aliases": [
+     "/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 3 Days Ago",
+    "title": "Cybersecurity Intern"
+   },
+   "R-00197135": {
+    "aliases": [
+     "/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted 2 Days Ago",
+    "title": "Mechanical Engineering Intern"
+   },
+   "R-00197294": {
+    "aliases": [
+     "/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Yesterday",
+    "title": "Software Developer (AI Project) Intern"
+   },
+   "R-00197304": {
+    "aliases": [
+     "/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Yesterday",
+    "title": "FPGA Engineer Intern"
+   },
+   "R-00197398": {
+    "aliases": [
+     "/job/Fort-Belvoir-VA/Systems-Engineer-Intern_R-00197398"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineer Intern"
+   },
+   "R-00197399": {
+    "aliases": [
+     "/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Software Developer Intern"
    }
   },
   "seeded": true
@@ -27864,7 +27974,7 @@
     ],
     "first_seen": "2026-11-17 23:59 UTC",
     "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Global Trade Intern - Linthicum MD"
    },
    "R10261254": {
@@ -27938,6 +28048,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted Today",
     "title": "2027 Electrical Engineering Intern- Huntsville AL"
+   },
+   "R10261559": {
+    "aliases": [
+     "/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559"
+    ],
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "2027 Fall Co-op Tooling Engineer"
    }
   },
   "seeded": true
@@ -33286,7 +33405,7 @@
     "last_seen": "2026-11-19",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T14:17:19-05:00"
+    "updated_raw": "2026-11-19T15:17:08-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34160,6 +34279,12 @@
     "last_seen": "2026-11-19",
     "posted_raw": "November 13, 2026",
     "title": "Sales Enablement Intern"
+   },
+   "142634": {
+    "first_seen": "2026-11-19 20:31 UTC",
+    "last_seen": "2026-11-19",
+    "posted_raw": "November 19, 2026",
+    "title": "Mechanical Engineering Co-op"
    },
    "143723": {
     "first_seen": "2026-11-18 15:17 UTC",
@@ -35758,9 +35883,10 @@
      "/job/Valley-City-OH-United-States/Engineering-Intern--Manuals-Tech-Writer-Team---Summer-2027_REQ-1000052836"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-17",
-    "posted_raw": "Posted 25 Days Ago",
-    "title": "Engineering Intern, Manuals Tech Writer Team - Summer 2027"
+    "last_seen": "2026-11-19",
+    "posted_raw": "Posted Today",
+    "title": "Manuals Tech Writer Intern - Summer 2027",
+    "updated_seen": "2026-11-19"
    },
    "REQ-1000052850": {
     "aliases": [
