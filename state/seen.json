@@ -9003,6 +9003,12 @@
     "posted_raw": "11/19/26",
     "title": "Manufacturing Engineer Intern - Safety"
    },
+   "5614": {
+    "first_seen": "2026-11-20 15:53 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "11/20/26",
+    "title": "Product Cost Specialist Intern"
+   },
    "5623": {
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-20",
@@ -18973,6 +18979,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-06",
     "title": "Intern - Treasury"
+   },
+   "120590": {
+    "first_seen": "2026-11-20 15:53 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20",
+    "title": "Continuous Improvement Intern Winter 2027"
    }
   },
   "seeded": true
@@ -22683,6 +22695,11 @@
     "last_seen": "2026-11-12",
     "title": "Intern, Software Engineer"
    },
+   "https://careers.l3harris.com/en/job/north-amityville/intern-mechanical-engineer/4832/103561043504": {
+    "first_seen": "2026-11-20 15:53 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Intern, Mechanical Engineer"
+   },
    "https://careers.l3harris.com/en/job/ottawa/intern-systems-engineering/4832/102173096672": {
     "first_seen": "2026-11-20 02:30 UTC",
     "last_seen": "2026-11-20",
@@ -23303,8 +23320,8 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Product Marketing Intern"
    }
   },
@@ -33830,7 +33847,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T09:32:21-05:00"
+    "updated_raw": "2026-11-20T10:32:29-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -42124,6 +42141,11 @@
     "first_seen": "2026-11-19 21:21 UTC",
     "last_seen": "2026-11-20",
     "title": "Summer Intern - Radioisotope Solutions Engineering"
+   },
+   "1452563300": {
+    "first_seen": "2026-11-20 15:53 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Summer Intern - Safety Analysis"
    }
   },
   "seeded": true
