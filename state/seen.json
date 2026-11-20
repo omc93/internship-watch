@@ -9365,7 +9365,7 @@
      "/job/Reading-PA/Maintenance-Intern---Electrical_26884"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Electrical"
    },
@@ -9374,7 +9374,7 @@
      "/job/Reading-PA/Maintenance-Intern---Mechanical_26885"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Mechanical"
    },
@@ -9383,7 +9383,7 @@
      "/job/Reading-PA/Maintenance-Intern---Machinist_26886"
     ],
     "first_seen": "2026-11-14 15:23 UTC",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Maintenance Intern - Machinist"
    },
@@ -26728,6 +26728,33 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 2 Days Ago",
     "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027"
+   },
+   "JR2030200": {
+    "aliases": [
+     "/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030200"
+    ],
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)"
+   },
+   "JR2030201": {
+    "aliases": [
+     "/job/Taiwan-Taipei/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030201"
+    ],
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)"
+   },
+   "JR2030202": {
+    "aliases": [
+     "/job/Taiwan-Hsinchu/Mixed-Signal-Design-Engineer--RDSS-intern-_JR2030202"
+    ],
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Mixed Signal Design Engineer (RDSS intern)"
    }
   },
   "seeded": true
@@ -29253,6 +29280,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "Supplier Quality Engineer Intern"
+   },
+   "R50929": {
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T00:00:00.000+0000",
+    "title": "Engineer Intern - Mechanical (Summer 2027)"
    },
    "R51065": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -33872,7 +33905,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T10:47:14-05:00"
+    "updated_raw": "2026-11-20T11:17:17-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34078,6 +34111,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)"
+   },
+   "R122022": {
+    "aliases": [
+     "/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022"
+    ],
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Product Management Tools and Automation Intern"
    },
    "R122135": {
     "aliases": [
@@ -37215,6 +37257,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - Upper Extremities Sales - New York, NY"
+   },
+   "R572806": {
+    "aliases": [
+     "/job/San-Jose-California/Summer-2027-Internship---Sales-Operations-Intern---San-Jose--CA_R572806"
+    ],
+    "first_seen": "2026-11-20 16:42 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Summer 2027 Internship - Sales Operations Intern - San Jose, CA"
    },
    "R572807": {
     "aliases": [

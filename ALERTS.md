@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-20 16:42 UTC · **Oshkosh** · [Engineer Intern - Mechanical (Summer 2027)](https://careers.oshkoshcorp.com/us/en/job/R50929) · strong fit (mechanical) | Dodge Center, Minnesota, United States of America [US] | employer-reported Nov 20 | found Nov 20 10:42 AM CT | ID R50929 | listed
 - 2026-11-20 15:53 UTC · **Howmet Aerospace** · [Continuous Improvement Intern Winter 2027](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120590) · fit (manufacturing) | Rochester, NY, United States [US] | employer-reported Nov 20 | found Nov 20 09:53 AM CT | ID 120590 | listed
 - 2026-11-20 15:53 UTC · **L3Harris** · [Intern, Mechanical Engineer](https://careers.l3harris.com/en/job/north-amityville/intern-mechanical-engineer/4832/103561043504) · strong fit (mechanical) | North Amityville, NY [US] | employer-reported Nov 20 | found Nov 20 09:53 AM CT | ID https://careers.l3harris.com/en/job/nort | open
 - 2026-11-20 13:59 UTC · **Draper** · [Process Automation Co-Op](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160) · fit (process / quality / materials) | Cambridge, MA [US] | employer-reported Nov 20 | found Nov 20 07:59 AM CT | ID JR003160 | listed
