@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-20 08:02 UTC · **ATI** · [Summer 2027 Intern - Metallurgical Product & Process Development Intern](https://careers.atimaterials.com/us/en/job/26-3481/Summer-2027-Intern-Metallurgical-Product-Process-Development-Intern) · fit (process / quality / materials) | Albany,Oregon,United States [US] | employer-reported Nov 19 | found Nov 20 02:02 AM CT | ID 26-3481 | open
 - 2026-11-20 01:43 UTC · **Lucid Motors** · [Intern, Infotainment SW Validation Automation, Summer 2027](https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007) · fit (test) | Newark, CA [US] | employer first_published Nov 19 06:45 PM CT | found Nov 19 07:43 PM CT | ID 5290937007 | open
 - 2026-11-20 00:54 UTC · **Lucid Motors** · [Intern, ADAS Systems, Summer 2027](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) · fit (systems / controls) | Newark, CA [US] | employer first_published Nov 19 06:38 PM CT | found Nov 19 06:54 PM CT | ID 5290790007 | open
 - 2026-11-20 00:54 UTC · **Formlabs** · [2027 (Summer) API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) · fit (systems / controls) | Somerville, MA [US] | employer first_published Nov 19 06:34 PM CT | found Nov 19 06:54 PM CT | ID 8400855 | open
