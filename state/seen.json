@@ -10813,6 +10813,21 @@
     "first_seen": "2026-11-19 14:26 UTC",
     "last_seen": "2026-11-20",
     "title": "Optical Engineering Intern - Summer 2027"
+   },
+   "1452766100": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Process Engineering Intern - Summer 2027"
+   },
+   "1452771700": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Process Engineering Intern - Summer 2027"
+   },
+   "1452784500": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Environment, Health, and Safety Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -17396,6 +17411,16 @@
     "first_seen": "2026-11-20 21:31 UTC",
     "last_seen": "2026-11-20",
     "title": "Program Management Intern - Engineering"
+   },
+   "608250917": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Electrical Engineering Intern - Summer 2027"
+   },
+   "608251417": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Application Engineering Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -18695,7 +18720,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -19125,6 +19150,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-20",
     "title": "Continuous Improvement Intern Winter 2027"
+   },
+   "120667": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20",
+    "title": "Process Engineer Co-Op"
    }
   },
   "seeded": true
@@ -21089,6 +21120,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "EIT Intern"
+   },
+   "J2472697": {
+    "aliases": [
+     "/job/Austin-TX/Software-Engineering-Intern_J2472697"
+    ],
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Software Engineering Intern"
    }
   },
   "seeded": true
@@ -25286,6 +25326,11 @@
     "first_seen": "2026-11-20 21:31 UTC",
     "last_seen": "2026-11-20",
     "title": "Electrical Engineering Intern - Summer 2027"
+   },
+   "608251417": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Application Engineering Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -25555,6 +25600,15 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "Intern, Environmental Health & Safety"
+   },
+   "R-26-21567": {
+    "aliases": [
+     "/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21567"
+    ],
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Intern, Electrical Engineering"
    }
   },
   "seeded": true
@@ -30157,6 +30211,11 @@
     "first_seen": "2026-11-20 19:39 UTC",
     "last_seen": "2026-11-20",
     "title": "Marketing and Events Intern"
+   },
+   "1459452933": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Recruiting Human Resources Intern"
    }
   },
   "seeded": true
@@ -34165,7 +34224,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T16:02:16-05:00"
+    "updated_raw": "2026-11-20T17:02:24-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -42523,6 +42582,11 @@
     "first_seen": "2026-11-20 15:53 UTC",
     "last_seen": "2026-11-20",
     "title": "Summer Intern - Safety Analysis"
+   },
+   "1452766900": {
+    "first_seen": "2026-11-20 22:19 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Summer Intern - Electrical Engineering"
    }
   },
   "seeded": true
