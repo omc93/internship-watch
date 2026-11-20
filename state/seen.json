@@ -9600,8 +9600,8 @@
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Chemical-Materials-Engineering-Intern---Summer_30220341"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Chemical Materials Engineering Intern - Summer"
    },
    "30220419": {
@@ -9654,8 +9654,8 @@
      "/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Quality-Engineering-Intern---Summer_30220757"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 24 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Quality Engineering Intern - Summer"
    },
    "30220771": {
@@ -9672,8 +9672,8 @@
      "/job/CAG16-AL-Georgia-ATL-1975-Vaughn-Road-Kennesaw-GA-30144-USA/Building-Automation-Field-Engineer-Intern---Summer_30220863"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Building Automation Field Engineer Intern - Summer"
    },
    "30220948": {
@@ -9690,8 +9690,8 @@
      "/job/CAV20-ALC---Virginia-4948-Dominion-Boulevard-Glen-Allen-VA-23060-USA/Project-Engineering-Intern---Summer_30220971"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Project Engineering Intern - Summer"
    },
    "30220992": {
@@ -12063,6 +12063,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Process Automation Co-Op"
+   },
+   "JR003182": {
+    "aliases": [
+     "/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182"
+    ],
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Operational Analysis Intern (Summer 2027)"
    }
   },
   "seeded": true
@@ -14610,7 +14619,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-19T19:34:20-05:00",
     "title": "2027 (Summer) API & Automation Intern",
-    "updated_raw": "2026-11-19T19:34:20-05:00"
+    "updated_raw": "2026-11-20T15:26:13-05:00"
    }
   },
   "seeded": true
@@ -15064,8 +15073,8 @@
      "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Operations Management Leadership Program - Internship"
    },
    "R4046817": {
@@ -15895,6 +15904,15 @@
     "posted_raw": "Posted 3 Days Ago",
     "title": "Intern Consulting Application Engineer"
    },
+   "R5058677": {
+    "aliases": [
+     "/job/Longmont/GE-Vernova---SCS---Facility-Maintenance-Internship-Summer-2026_R5058677-2"
+    ],
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova - SCS - Facility Maintenance Internship Summer 2026"
+   },
    "R5059079": {
     "aliases": [
      "/job/Clearwater/GE-Vernova-Internship---2027-Project-Management-Office_R5059079-2"
@@ -15930,6 +15948,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "GE Vernova Finance Intern - Summer 2027"
+   },
+   "R5059557": {
+    "aliases": [
+     "/job/Schenectady/GEV-Cores-and-Castings-Materials-Internship---2027_R5059557-1"
+    ],
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "GEV Cores and Castings Materials Internship – 2027"
    }
   },
   "seeded": true
@@ -17364,6 +17391,11 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
     "title": "HR Intern"
+   },
+   "608250817": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Program Management Intern - Engineering"
    }
   },
   "seeded": true
@@ -25244,6 +25276,16 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
     "title": "HR Intern"
+   },
+   "608250817": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Program Management Intern - Engineering"
+   },
+   "608250917": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Electrical Engineering Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -29566,6 +29608,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 7 Days Ago",
     "title": "Field Project Management Interns"
+   },
+   "20168987": {
+    "aliases": [
+     "/job/OTCTH-Connecticut-Home-Offices-Remote-Location-Remote-City-CT-06032-USA/Data-Science---Analytics-Intern_20168987-1"
+    ],
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Data Science & Analytics Intern"
    },
    "20170498": {
     "aliases": [
@@ -34114,7 +34165,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T15:02:31-05:00"
+    "updated_raw": "2026-11-20T16:02:16-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -43034,6 +43085,21 @@
     "first_seen": "2026-11-19 16:31 UTC",
     "last_seen": "2026-11-20",
     "title": "Manufacturing Eng Intern"
+   },
+   "1459440733": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Digitalization Intern"
+   },
+   "1459441033": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Digitalization Intern"
+   },
+   "1459445133": {
+    "first_seen": "2026-11-20 21:31 UTC",
+    "last_seen": "2026-11-20",
+    "title": "HR Intern"
    }
   },
   "seeded": true
