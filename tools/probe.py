@@ -233,7 +233,7 @@ def main():
             api = f"https://{pu.netloc}/wday/cxs/{tenant}/{site}/jobs"
             for off in (0, 20, 60, 200):
                 try:
-                    d = watch.http(api, {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": ""})
+                    d = watch._workday_call(api, {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": ""})
                     print("WDORDER", tenant, off, "total", d.get("total"),
                           [j.get("postedOn", "").replace("Posted ", "") for j in d.get("jobPostings", [])])
                 except Exception as e:
