@@ -6124,6 +6124,12 @@
     "posted_raw": "2026-09-10T00:06:43.543+00:00",
     "title": "2027 Internship Sensor Hardware Test Engineer"
    },
+   "4a2a5456-92c4-4d25-bdff-662ff27da790": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T20:16:17.248+00:00",
+    "title": "2027 Internship Marketing Intern"
+   },
    "66deac22-a655-413e-8f46-3d956860619a": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
@@ -10339,6 +10345,12 @@
     "posted_raw": "1792185013889",
     "title": "Summer 2027 - Flight Dynamics Internship"
    },
+   "6bbaaee4-2d16-4fcf-89ba-f6791960a099": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "1795203192104",
+    "title": "Summer 2027 - Mechanical Engineering Internship"
+   },
    "6c354949-9e6b-4716-9381-f8aa071e3465": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
@@ -11834,6 +11846,24 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 10 Days Ago",
     "title": "Local College Co-op: Analytical Science Lab Assistant"
+   },
+   "R2069671": {
+    "aliases": [
+     "/job/Midland-MI-USA/Local-College-Co-op--Remediation---Restoration-Admin-Support_R2069671"
+    ],
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Local College Co-op- Remediation & Restoration Admin Support"
+   },
+   "R2069986": {
+    "aliases": [
+     "/job/Midland-MI-USA/Local-College-Co-op--Administrative-Functional-Controllers_R2069986"
+    ],
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Local College Co-op: Administrative Functional Controllers"
    },
    "R2070038": {
     "aliases": [
@@ -14295,14 +14325,14 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-02-17T14:18:53-05:00",
     "title": "2026 Internship",
-    "updated_raw": "2026-11-05T13:41:36-05:00"
+    "updated_raw": "2026-11-20T14:30:26-05:00"
    },
    "4655166006": {
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-02-17T14:20:15-05:00",
     "title": "2026 Internship",
-    "updated_raw": "2026-11-05T13:41:36-05:00"
+    "updated_raw": "2026-11-20T14:30:11-05:00"
    }
   },
   "seeded": true
@@ -21558,7 +21588,7 @@
      "/job/New-Brunswick-New-Jersey-United-States-of-America/XMLNAME-2027-Summer-Intern---MBA-Finance-Leadership-Development-Program_R-093965"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - MBA Finance Leadership Development Program"
    },
@@ -21567,7 +21597,7 @@
      "/job/Raritan-New-Jersey-United-States-of-America/MLDP-Internship_R-095504"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 MBA Internship- MedTech Marketing Leadership Development Program (MLDP)"
    },
@@ -21576,7 +21606,7 @@
      "/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op-Spring-2027_R-095696"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Design and Development, Co-Op Spring 2027"
    },
@@ -21594,7 +21624,7 @@
      "/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-Innovative-Medicine-Commercial-Leadership-Development-Program--CLDP---Summer-Internship_R-096662"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Innovative Medicine Commercial Leadership Development Program (CLDP)- Summer Internship"
    },
@@ -23453,6 +23483,13 @@
     "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
     "updated_raw": "2026-11-19T19:40:59-05:00"
    },
+   "5290899007": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T14:56:16-05:00",
+    "title": "Intern, Vehicle Motion Controls Engineer, Summer 2027",
+    "updated_raw": "2026-11-20T14:56:16-05:00"
+   },
    "5290904007": {
     "first_seen": "2026-11-19 23:49 UTC",
     "last_seen": "2026-11-20",
@@ -23529,6 +23566,13 @@
     "posted_raw": "2026-11-19T18:20:18-05:00",
     "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
     "updated_raw": "2026-11-19T19:35:21-05:00"
+   },
+   "5290949007": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T15:10:18-05:00",
+    "title": "Power Electronics Control Engineer Intern, Summer 2027",
+    "updated_raw": "2026-11-20T15:10:18-05:00"
    }
   },
   "seeded": true
@@ -25420,9 +25464,10 @@
      "/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21231"
     ],
     "first_seen": "2026-11-12 01:48 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 6 Days Ago",
-    "title": "AOS Intern, Facilities"
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Associate of Occupational Studies/Science Intern, Facilities",
+    "updated_seen": "2026-11-20"
    },
    "R-26-21312": {
     "aliases": [
@@ -25775,7 +25820,8 @@
     "first_seen": "2026-11-20 19:39 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-20",
-    "title": "Data Science Intern"
+    "title": "Forward Deployed Engineer Intern",
+    "updated_seen": "2026-11-20"
    },
    "45478": {
     "first_seen": "2026-11-10 16:19 UTC",
@@ -34068,7 +34114,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T14:17:11-05:00"
+    "updated_raw": "2026-11-20T15:02:31-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34926,6 +34972,12 @@
     "posted_raw": "November 12, 2026",
     "title": "Summer 2027 Supply Chain Planning Co-Op"
    },
+   "140829": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "November 20, 2026",
+    "title": "Summer 2027 Quality Assurance Co-Op"
+   },
    "140830": {
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-20",
@@ -34996,6 +35048,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "November 19, 2026",
     "title": "Mechanical Engineering Co-op"
+   },
+   "143232": {
+    "first_seen": "2026-11-20 20:41 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "November 20, 2026",
+    "title": "Summer 2027 Electro-Mechanical Design Engineer Intern"
    },
    "143723": {
     "first_seen": "2026-11-18 15:17 UTC",
