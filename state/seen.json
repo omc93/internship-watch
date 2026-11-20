@@ -261,7 +261,7 @@
    },
    "JR00046279": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "R&D Intern Bloomfield - Summer 2027"
    },
@@ -303,7 +303,7 @@
    },
    "JR00047257": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "R&D Intern - Summer 2026"
    },
@@ -345,7 +345,7 @@
    },
    "JR00048200": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Finance Operations Intern – Summer 2027"
    },
@@ -441,7 +441,7 @@
    },
    "JR00049918": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "Environmental Specialist Intern- Summer 2027"
    },
@@ -495,7 +495,7 @@
    },
    "JR00051359": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Engineering Sales Intern - Summer 2027"
    },
@@ -4586,6 +4586,13 @@
    "astronicscorporation"
   ],
   "ids": {
+   "4431835009": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-10-05T14:11:05-04:00",
+    "title": "Software Engineer Intern - Summer 2027",
+    "updated_raw": "2026-11-19T21:03:58-05:00"
+   },
    "4458283009": {
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
@@ -4774,6 +4781,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-10T13:02:28.417+0000",
     "title": "Electrical Engineering Coop (Summer/Fall 2027), Onsite"
+   },
+   "127776BR": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-10T13:02:28.417+0000",
+    "title": "Mechanical Engineering Coop (Spring/Summer 2027), Onsite"
    },
    "127778BR": {
     "first_seen": "2026-11-17 19:22 UTC",
@@ -8648,7 +8661,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine---Foundry-Engineering-Co-op_JR-050979"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine - Foundry Engineering Co-op"
    },
@@ -8666,7 +8679,7 @@
      "/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Data Analytics Internship"
    },
@@ -8675,8 +8688,8 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051138"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Mercury Marine: Materials Engineering Co-op"
    },
    "JR-051142": {
@@ -8684,7 +8697,7 @@
      "/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Merucry Marine: Product Management Intern – Parts & Accessories"
    },
@@ -8702,7 +8715,7 @@
      "/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: G3 Software Engineering Intern"
    },
@@ -8711,7 +8724,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Human-Resources-Intern---Manufacturing-Operations_JR-051162"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Human Resources Intern - Manufacturing Operations"
    },
@@ -8720,7 +8733,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: UX/UI Design Intern"
    },
@@ -8729,8 +8742,8 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Experience-Management-Intern_JR-051184"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Mercury Marine: Experience Management Intern"
    },
    "JR-051201": {
@@ -8738,7 +8751,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Credit-Intern_JR-051201"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Credit Intern"
    },
@@ -8747,7 +8760,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine - Systems/Software Engineering Co-op"
    },
@@ -8756,7 +8769,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Product Management Intern – Oils & Lubricants"
    },
@@ -8765,8 +8778,8 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Industrial-Design-Intern_JR-051217"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Mercury Marine: Industrial Design Intern"
    },
    "JR-051234": {
@@ -8774,7 +8787,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Supply-Chain-Co-Op_JR-051234"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Supply Chain Co-Op"
    },
@@ -8792,8 +8805,8 @@
      "/job/Mercury-Plant-10-Fond-Du-Lac/Mercury-Marine--Marketing-Coordinator-Intern_JR-051241"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Mercury Marine: Marketing Coordinator Intern"
    },
    "JR-051345": {
@@ -8810,7 +8823,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Industrial-Engineering-Co-op_JR-051389"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Manufacturing/Industrial Engineering Co-op"
    },
@@ -8819,7 +8832,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Mechanical Engineering Intern"
    },
@@ -8837,7 +8850,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Software Controls Engineering Intern"
    },
@@ -8855,7 +8868,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--NVH-Engineering-Intern_JR-051456"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: NVH Engineering Intern"
    },
@@ -8864,7 +8877,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Sales-Operations---Market-Intelligence-Intern_JR-051496"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Sales Operations & Market Intelligence Intern"
    },
@@ -8873,7 +8886,7 @@
      "/job/Fond-du-Lac-WI/Mercury-Marine--Category-Content-Management-Intern_JR-051501"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Category Content Management Intern"
    },
@@ -8882,7 +8895,7 @@
      "/job/Fond-du-Lac-WI/Supply-Chain-Indirect-Procurement-Co-op-Hybrid-Co-op_JR-051528-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Indirect Procurement Co-op/Hybrid Co-op"
    },
@@ -8891,7 +8904,7 @@
      "/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Industrial Engineer Intern"
    },
@@ -8900,7 +8913,7 @@
      "/job/Brownsburg-IN/Mercury-Marine--Operations-Management-Intern_JR-051585"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Mercury Marine: Operations Management Intern"
    },
@@ -8909,7 +8922,7 @@
      "/job/Tulsa-OK/Lowrance-Technical-Support-Intern_JR-051732"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Lowrance Technical Support Intern"
    },
@@ -8918,7 +8931,7 @@
      "/job/Menomonee-Falls-WI/Category-Manager-Intern_JR-051847"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Category Manager Intern"
    }
@@ -10141,6 +10154,11 @@
     "first_seen": "2026-11-16 10:40 UTC",
     "last_seen": "2026-11-19",
     "title": "Student Intern, Power Infrastructure - Pricing Management and Product Data Analysis"
+   },
+   "1440660533": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Student Intern, Aerospace and Defense Engineering Associate"
    },
    "1445851433": {
     "first_seen": "2026-11-10 18:53 UTC",
@@ -19472,7 +19490,7 @@
    },
    "JR10290": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-09-28T00:00:00.000+0000",
     "title": "Marketing Co-Op Intern"
    },
@@ -19526,7 +19544,7 @@
    },
    "JR10791": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
     "title": "Marketing Intern"
    },
@@ -19574,7 +19592,7 @@
    },
    "JR10836": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "R&D Technical Services Intern"
    },
@@ -19604,13 +19622,13 @@
    },
    "JR11135": {
     "first_seen": "2026-11-12 01:48 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-11T00:00:00.000+0000",
     "title": "Quality Engineering Intern"
    },
    "JR11144": {
     "first_seen": "2026-11-16 22:58 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Engineering - Co-Op Intern"
    },
@@ -22528,6 +22546,11 @@
     "last_seen": "2026-11-12",
     "title": "Intern, Software Engineer"
    },
+   "https://careers.l3harris.com/en/job/ottawa/intern-systems-engineering/4832/102173096672": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Intern, Systems Engineering"
+   },
    "https://careers.l3harris.com/en/job/rochester/software-engineering-intern/4832/100436664928": {
     "first_seen": "2026-11-11 04:18 UTC",
     "last_seen": "2026-11-11",
@@ -25007,7 +25030,7 @@
      "/job/Salt-Lake-City-UT/Intern--Operations_R-26-19675"
     ],
     "first_seen": "2026-11-18 15:17 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Intern, Manufacturing Engineering"
    },
@@ -25016,7 +25039,7 @@
      "/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822"
     ],
     "first_seen": "2026-11-17 14:15 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Intern, Quality Engineering"
    },
@@ -25061,7 +25084,7 @@
      "/job/Tewkesbury-GBR/Product-and-Quality-Engineering-Intern_R-26-20939"
     ],
     "first_seen": "2026-11-17 19:22 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Product and Quality Engineering Intern"
    },
@@ -25070,7 +25093,7 @@
      "/job/Tewkesbury-GBR/Design-Engineering-Internship_R-26-20977"
     ],
     "first_seen": "2026-11-17 19:22 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Design Engineering Internship"
    },
@@ -25088,7 +25111,7 @@
      "/job/Tewkesbury-GBR/Sustainability-Intern_R-26-21221"
     ],
     "first_seen": "2026-11-17 20:10 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Sustainability Intern"
    },
@@ -25124,7 +25147,7 @@
      "/job/Blacksburg-VA/Intern--Industrial-Engineering_R-26-21355"
     ],
     "first_seen": "2026-11-19 22:36 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Intern, Industrial Engineering"
    },
@@ -30580,7 +30603,7 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineering Intern (Summer 2027) - Onsite"
    },
@@ -30994,7 +31017,7 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Reliability-and-Safety-Engineering-Co-Op--Summer-Fall-2027----Onsite_01873642-1"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Reliability and Safety Engineering Co-Op (Summer/Fall 2027) - Onsite"
    },
@@ -31327,7 +31350,7 @@
      "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Military Engines Project Engineer Intern (Summer 2027) (Onsite)"
    },
@@ -31471,7 +31494,7 @@
      "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Hardware in the Loop Engineering Intern - (Summer 2027)"
    },
@@ -31588,7 +31611,7 @@
      "/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Electrical-Engineer-Co-op--Spring-Summer-2027-_01883878"
     ],
     "first_seen": "2026-11-11 02:02 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)"
    },
@@ -31651,7 +31674,7 @@
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Digital Technologies Project Management Office Operations Intern (Summer 2027)"
    },
@@ -32002,7 +32025,7 @@
      "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Spring-2027-_01887633"
     ],
     "first_seen": "2026-11-19 22:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Systems Engineering Intern (Spring 2027)"
    },
@@ -32193,7 +32216,7 @@
      "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/MBA-Intern--Corporate-Strategy---Development--Summer-2027-_01888112"
     ],
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "MBA Intern: Corporate Strategy & Development (Summer 2027)"
    },
@@ -32238,7 +32261,7 @@
      "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01888326"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Mechanical Engineering Intern (Summer 2027)"
    },
@@ -32418,7 +32441,7 @@
      "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Industrial-Engineering-Intern---Site-Transformation--Summer-2027-_01889626"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Industrial Engineering Intern - Site Transformation (Summer 2027)"
    },
@@ -32436,7 +32459,7 @@
      "/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Project-Engineering-Intern--Summer-2027---Onsite-_01889914"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Project Engineering Intern (Summer 2027) (Onsite)"
    },
@@ -32445,7 +32468,7 @@
      "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Software Engineering Intern (Summer 2027)"
    },
@@ -32463,7 +32486,7 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095"
     ],
     "first_seen": "2026-11-19 15:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Software Security Intern (Summer 2027)"
    },
@@ -32472,7 +32495,7 @@
      "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Systems-Engineering-Intern---Summer-2027--Onsite-_01890118"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineering Intern - Summer 2027 (Onsite)"
    },
@@ -32481,7 +32504,7 @@
      "/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290"
     ],
     "first_seen": "2026-11-19 22:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Mechanical Engineer Intern Summer 2027 (Onsite)"
    },
@@ -32490,7 +32513,7 @@
      "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-Intern--Onsite-_01890521"
     ],
     "first_seen": "2026-11-19 17:12 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Life Cycle Systems Engineer Intern (Onsite)"
    },
@@ -32499,7 +32522,7 @@
      "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01890571"
     ],
     "first_seen": "2026-11-19 17:12 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "Posted Today",
     "title": "Software Engineering Intern (Summer 2027)"
    }
@@ -33623,7 +33646,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-19T20:17:16-05:00"
+    "updated_raw": "2026-11-19T21:17:15-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -33996,6 +34019,16 @@
     "last_seen": "2026-11-20",
     "title": "Internship - Servant Pompier"
    },
+   "1440494333": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Intern (HR Transformation)"
+   },
+   "1440496233": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Intern (Accounts Receivable)"
+   },
    "1442038133": {
     "first_seen": "2026-11-14 03:46 UTC",
     "last_seen": "2026-11-16",
@@ -34035,6 +34068,11 @@
     "first_seen": "2026-11-18 02:54 UTC",
     "last_seen": "2026-11-20",
     "title": "Schaeffler Academy Intern"
+   },
+   "1450427933": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Fixed Assets Intern"
    },
    "1451429033": {
     "first_seen": "2026-11-11 04:51 UTC",
@@ -39468,7 +39506,7 @@
    },
    "JR-13579": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
     "title": "Sales Intern"
    },
@@ -39612,19 +39650,19 @@
    },
    "JR-15104": {
     "first_seen": "2026-11-18 23:45 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15106": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15107": {
     "first_seen": "2026-11-18 23:45 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -39636,25 +39674,25 @@
    },
    "JR-15110": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15111": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15114": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15115": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-14T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -39666,73 +39704,73 @@
    },
    "JR-15117": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15131": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15135": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15136": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15151": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15152": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15154": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Controls"
    },
    "JR-15155": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15157": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15158": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15159": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Energy Engineering Intern"
    },
    "JR-15161": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Energy Engineering Intern"
    },
@@ -39885,7 +39923,7 @@
    },
    "JR-15279": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -40029,7 +40067,7 @@
    },
    "JR-16956": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-04T00:00:00.000+0000",
     "title": "Intern-Controls Technician -King of Prussia, PA"
    },
@@ -40047,7 +40085,7 @@
    },
    "JR-17836": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern-1"
    },
@@ -40059,13 +40097,13 @@
    },
    "JR-18406": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-18628": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
     "title": "2026 Technical Sales Intern - Services"
    },
@@ -40331,7 +40369,7 @@
    },
    "1427397300": {
     "first_seen": "2026-11-10 16:19 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "title": "Logistics & Transportation Internship - Summer 2027"
    },
    "1427397500": {
@@ -40391,7 +40429,7 @@
    },
    "1427399200": {
     "first_seen": "2026-11-10 16:19 UTC",
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "title": "Avionics & Electrical Engineering Internship Summer 2027"
    },
    "1427399300": {
@@ -42297,6 +42335,26 @@
     "first_seen": "2026-11-19 02:29 UTC",
     "last_seen": "2026-11-20",
     "title": "HR Intern"
+   },
+   "1450387833": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "HRIS Intern"
+   },
+   "1450393933": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Quality Intern"
+   },
+   "1450491133": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Commodity Buyer - Intern"
+   },
+   "1450491833": {
+    "first_seen": "2026-11-20 02:30 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Commodity Buyer - Intern"
    },
    "1455257433": {
     "first_seen": "2026-11-10 16:34 UTC",
