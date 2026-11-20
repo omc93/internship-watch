@@ -9348,8 +9348,13 @@
   "seeded": false
  },
  "Capella Space": {
+  "fp": [
+   3,
+   "greenhouse",
+   "capellaspace"
+  ],
   "ids": {},
-  "seeded": false
+  "seeded": true
  },
  "Carbon Robotics": {
   "fp": [
@@ -18602,7 +18607,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -25711,6 +25716,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Electrical & Computer Engineering Academic Part Time Intern"
+   },
+   "R6311": {
+    "first_seen": "2026-11-20 19:16 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T00:00:00.000+0000",
+    "title": "Business Administration Academic Part-time Intern"
    }
   },
   "seeded": true
@@ -29465,8 +29476,8 @@
      "/job/OT516-NPW---Landover-MD-5000-Philadelphia-Way-Lanham-MD-20706-USA/Field-Operations-Field-Supervisor-Interns_20168815"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Field Operations/Field Supervisor Interns"
    },
    "20168823": {
@@ -29474,8 +29485,8 @@
      "/job/OT423-TD---DALLAS-TX-2421-State-Highway-161-Frontage-Road-Irving-TX-75062-USA/Field-Project-Management-Interns_20168823"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Field Project Management Interns"
    },
    "20170498": {
@@ -30079,42 +30090,57 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:41:38-05:00",
     "title": "Summer 2027 Vacuum Systems Engineering Internship",
-    "updated_raw": "2026-11-16T14:41:38-05:00"
+    "updated_raw": "2026-11-20T13:38:16-05:00"
    },
    "4505604009": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:39:48-05:00",
     "title": "Summer 2027 Experimental Physics, X-Ray Diagnostics Internship",
-    "updated_raw": "2026-11-16T14:39:48-05:00"
+    "updated_raw": "2026-11-20T13:29:46-05:00"
    },
    "4505668009": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:40:27-05:00",
     "title": "Summer 2027 HPC/DevOps Engineering Intern",
-    "updated_raw": "2026-11-16T14:40:27-05:00"
+    "updated_raw": "2026-11-20T13:35:24-05:00"
+   },
+   "4505719009": {
+    "first_seen": "2026-11-20 19:16 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T13:44:09-05:00",
+    "title": "Summer 2027 Controls Electrical Engineer Internship",
+    "updated_raw": "2026-11-20T13:44:09-05:00"
    },
    "4505730009": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:40:57-05:00",
     "title": "Summer 2027 Modeling and Simulation Intern",
-    "updated_raw": "2026-11-16T14:40:57-05:00"
+    "updated_raw": "2026-11-20T13:37:12-05:00"
    },
    "4505884009": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:41:16-05:00",
-    "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship",
-    "updated_raw": "2026-11-16T14:41:16-05:00"
+    "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineering Internship",
+    "updated_raw": "2026-11-20T13:37:34-05:00",
+    "updated_seen": "2026-11-20"
    },
    "4505980009": {
     "first_seen": "2026-11-16 19:46 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:42:48-05:00",
     "title": "Summer 2027 Structural Analysis Engineer Internship",
-    "updated_raw": "2026-11-16T14:42:48-05:00"
+    "updated_raw": "2026-11-20T13:37:52-05:00"
+   },
+   "4515017009": {
+    "first_seen": "2026-11-20 19:16 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T13:44:28-05:00",
+    "title": "Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship",
+    "updated_raw": "2026-11-20T13:44:28-05:00"
    }
   },
   "seeded": true
@@ -33981,7 +34007,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T13:02:19-05:00"
+    "updated_raw": "2026-11-20T13:47:33-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35100,6 +35126,11 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-20",
     "title": "Spring 2027: Early Talent Access CO-OP (January to June)"
+   },
+   "https://careers.sharkninja.com/job/needham/spring-2027-early-talent-recruitment-intern-january-june/47204/103568270048": {
+    "first_seen": "2026-11-20 19:16 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Spring 2027: Early Talent Recruitment Intern (January- June)"
    },
    "https://careers.sharkninja.com/job/needham/spring-2027-environmental-health-and-safety-co-op-january-to-june/47204/102905029840": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -39931,7 +39962,7 @@
    },
    "JR-15050": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-20",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
