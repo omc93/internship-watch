@@ -1098,7 +1098,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "2027 Sales Cancer Diagnostics Intern"
    },
    "31161561": {
@@ -1116,7 +1116,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "2027 IT Cancer Diagnostics Intern"
    },
    "31162236": {
@@ -2814,7 +2814,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 16 Days Ago",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Business Analyst Intern - Summer 2027"
    },
    "R008364": {
@@ -2823,7 +2823,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Sustainability Analyst Intern"
    },
    "R008413": {
@@ -2832,7 +2832,7 @@
     ],
     "first_seen": "2026-11-17 19:04 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Americas Integrated Marketing Intern"
    },
    "R008414": {
@@ -2850,7 +2850,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Operations Program Management Intern"
    }
   },
@@ -5360,6 +5360,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "11/10/26",
     "title": "Intern, BMW FS Strategic Planning & Steering"
+   },
+   "201178": {
+    "first_seen": "2026-11-20 08:40 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "11/20/26",
+    "title": "SF-O-CS-GR,CIC Intern"
    }
   },
   "seeded": true
@@ -5872,7 +5878,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Co-op Engineering R&D"
    },
    "JR-213219": {
@@ -7560,7 +7566,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Mechanical Engineering Co-op – Engine Solenoids"
    },
    "R2026-3646": {
@@ -7677,7 +7683,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Supply Chain Intern"
    },
    "R2026-3983": {
@@ -7731,7 +7737,7 @@
     ],
     "first_seen": "2026-11-16 21:40 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Legal Intern"
    },
    "R2026-4024": {
@@ -7821,7 +7827,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "HR Intern - Bilingual (English & Spanish)",
     "updated_seen": "2026-11-16"
    },
@@ -7840,7 +7846,7 @@
     ],
     "first_seen": "2026-11-16 21:40 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "EPM Support Intern (Year-Round)"
    },
    "R2026-4146": {
@@ -7903,7 +7909,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Software Test Intern"
    },
    "R2026-4400": {
@@ -7940,7 +7946,7 @@
     ],
     "first_seen": "2026-11-17 15:44 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Accounting Intern (January 2027 Start Date)"
    }
   },
@@ -9364,7 +9370,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 22 Days Ago",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "R&D Materials Characterization Intern"
    },
    "26967": {
@@ -9373,7 +9379,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 22 Days Ago",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Metallurgy Intern"
    },
    "26970": {
@@ -9382,7 +9388,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Corporate Accounting Intern"
    },
    "26976": {
@@ -9391,7 +9397,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "Reliability Engineering Intern"
    },
    "26977": {
@@ -9400,7 +9406,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "Technical Writing Intern"
    },
    "26978": {
@@ -9409,7 +9415,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "Process Engineering Intern"
    },
    "26982": {
@@ -9418,7 +9424,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Maintenance Intern - Bricklayer/Masonry"
    }
   },
@@ -10891,7 +10897,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "CNC Machinist Intern"
    },
    "JR102918": {
@@ -11058,7 +11064,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Corporate Safety Intern"
    },
    "DT-20434": {
@@ -11166,7 +11172,7 @@
     ],
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Procurement and Supply Chain Intern - Stamping, Fabrication and Raw Material"
    },
    "DT-20611": {
@@ -11256,7 +11262,7 @@
     ],
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Customer Experience Intern"
    },
    "DT-20712": {
@@ -11265,7 +11271,7 @@
     ],
     "first_seen": "2026-11-17 15:05 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Mechanical Design Engineering Intern"
    },
    "DT-20756": {
@@ -11274,7 +11280,7 @@
     ],
     "first_seen": "2026-11-18 20:31 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Financial Planning & Data Analytics Intern"
    }
   },
@@ -11965,7 +11971,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "2027 Internship Intake"
    }
   },
@@ -14065,7 +14071,7 @@
     ],
     "first_seen": "2026-11-16 20:40 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Project Engineer Co-op"
    },
    "R-21092": {
@@ -14083,7 +14089,7 @@
     ],
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Engineering Co-op"
    },
    "R-21410": {
@@ -14101,7 +14107,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Engineering Co-op"
    },
    "R-21743": {
@@ -14146,7 +14152,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Engineering Co-op"
    }
   },
@@ -16557,7 +16563,7 @@
     ],
     "first_seen": "2026-11-17 20:10 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Manufacturing Intern - Mechanical Engineer"
    },
    "JR-202619464": {
@@ -16575,7 +16581,7 @@
     ],
     "first_seen": "2026-11-17 20:10 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Intern – Manufacturing Supply Chain"
    },
    "JR-202619666": {
@@ -17133,7 +17139,7 @@
     ],
     "first_seen": "2026-11-17 19:22 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Summer 2027 PhD Battery Research & Development Intern"
    }
   },
@@ -17161,7 +17167,7 @@
     ],
     "first_seen": "2026-11-12 22:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Business Systems Summer Intern 2027"
    }
   },
@@ -17746,7 +17752,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Technology & Innovation Organization Electrical Engineering Internship"
    },
    "3167271": {
@@ -17791,7 +17797,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Software and Engineering Intern Roles - Imaging and Print"
    },
    "3168144": {
@@ -21609,7 +21615,7 @@
     ],
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Software Engineering Co-Op"
    },
    "EB00075409": {
@@ -21717,7 +21723,7 @@
     ],
     "first_seen": "2026-11-18 15:17 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Air Handling Product Management & Engineering Intern",
     "updated_seen": "2026-11-18"
    },
@@ -21763,7 +21769,7 @@
     ],
     "first_seen": "2026-11-18 01:41 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "BEST Sales Intern - HVAC"
    }
   },
@@ -23861,7 +23867,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NextGen Academy Intern: Field Support"
    },
    "R76021": {
@@ -23888,7 +23894,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Clinical Technologist Intern - Cardiovascular"
    },
    "R78501": {
@@ -25551,7 +25557,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Hardware ASIC Design"
    },
    "JR2023487": {
@@ -25560,7 +25566,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)"
    },
    "JR2023489": {
@@ -25569,7 +25575,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Computer Architecture"
    },
    "JR2023491": {
@@ -25578,7 +25584,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture"
    },
    "JR2023492": {
@@ -25587,7 +25593,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Systems Software Engineering"
    },
    "JR2023495": {
@@ -25596,7 +25602,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Software Engineering"
    },
    "JR2023496": {
@@ -25605,7 +25611,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics"
    },
    "JR2023497": {
@@ -25614,7 +25620,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Deep Learning"
    },
    "JR2023499": {
@@ -25623,7 +25629,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology"
    },
    "JR2023500": {
@@ -25632,7 +25638,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Hardware Verification"
    },
    "JR2023501": {
@@ -25641,7 +25647,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI"
    },
    "JR2023502": {
@@ -25659,7 +25665,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Digital Circuit Design"
    },
    "JR2023508": {
@@ -25668,7 +25674,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "NVIDIA 2027 Internships: Hardware Engineering"
    },
    "JR2023856": {
@@ -26316,7 +26322,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Math Device Extension Libraries Intern - 2027"
    },
    "JR2028210": {
@@ -26334,7 +26340,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027"
    },
    "JR2028449": {
@@ -26343,7 +26349,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Math Libraries Intern, cuEST - Summer 2027"
    },
    "JR2028481": {
@@ -26361,7 +26367,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Strategic Partnerships MBA Intern, Enterprise GTM - Summer 2027"
    },
    "JR2028607": {
@@ -26370,7 +26376,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Compiler Software Engineering Intern - Summer 2027"
    },
    "JR2028699": {
@@ -26379,7 +26385,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Product Marketing MBA Intern, AI Infrastructure — Summer 2027"
    },
    "JR2028740": {
@@ -26388,8 +26394,17 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Human Resources Intern - Summer 2027"
+   },
+   "JR2028934": {
+    "aliases": [
+     "/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1"
+    ],
+    "first_seen": "2026-11-20 08:40 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Yesterday",
+    "title": "Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027"
    },
    "JR2028995": {
     "aliases": [
@@ -26397,7 +26412,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027"
    },
    "JR2029119": {
@@ -26406,8 +26421,17 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "AI Operations Intern, AI Clouds - Summer 2027"
+   },
+   "JR2029131": {
+    "aliases": [
+     "/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131"
+    ],
+    "first_seen": "2026-11-20 08:40 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Yesterday",
+    "title": "Finance AI Engineering Intern - Summer 2027"
    },
    "JR2029220": {
     "aliases": [
@@ -26415,7 +26439,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "AI Compiler and Kernel Intern – Summer 2027"
    },
    "JR2029243": {
@@ -26433,7 +26457,7 @@
     ],
     "first_seen": "2026-11-16 23:19 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027"
    },
    "JR2029488": {
@@ -26451,7 +26475,7 @@
     ],
     "first_seen": "2026-11-16 23:19 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027"
    },
    "JR2029523": {
@@ -26460,7 +26484,7 @@
     ],
     "first_seen": "2026-11-11 02:02 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Financial Analyst Intern, Hardware FP&A - Summer 2027"
    },
    "JR2029532": {
@@ -26469,7 +26493,7 @@
     ],
     "first_seen": "2026-11-11 02:02 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Corporate Development MBA Intern - Summer 2027"
    },
    "JR2029541": {
@@ -26478,7 +26502,7 @@
     ],
     "first_seen": "2026-11-11 02:02 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Performance Engineering Intern, Platform Performance and Power - Spring 2027"
    },
    "JR2029628": {
@@ -26487,7 +26511,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Product Management Space Compute MBA Intern - Summer 2027"
    },
    "JR2029639": {
@@ -26496,7 +26520,7 @@
     ],
     "first_seen": "2026-11-20 03:21 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027"
    },
    "JR2029657": {
@@ -26505,7 +26529,7 @@
     ],
     "first_seen": "2026-11-11 12:20 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Go-to-Market Strategy Intern - Summer 2027",
     "updated_seen": "2026-11-16"
    },
@@ -26515,7 +26539,7 @@
     ],
     "first_seen": "2026-11-16 23:19 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Enterprise Sales Intern - Summer 2027"
    },
    "JR2030004": {
@@ -29197,7 +29221,7 @@
     ],
     "first_seen": "2026-11-19 16:31 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Sales Intern"
    }
   },
@@ -30628,7 +30652,7 @@
     ],
     "first_seen": "2026-11-19 01:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027) - Onsite"
    },
    "01870331": {
@@ -31519,7 +31543,7 @@
     ],
     "first_seen": "2026-11-17 00:33 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Hardware in the Loop Engineering Intern - (Summer 2027)"
    },
    "01883110": {
@@ -31636,7 +31660,7 @@
     ],
     "first_seen": "2026-11-11 02:02 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Manufacturing Electrical Engineer Co-op (Spring/Summer 2027)"
    },
    "01883880": {
@@ -31699,7 +31723,7 @@
     ],
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Digital Technologies Project Management Office Operations Intern (Summer 2027)"
    },
    "01884905": {
@@ -32050,7 +32074,7 @@
     ],
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Systems Engineering Intern (Spring 2027)"
    },
    "01887651": {
@@ -32241,7 +32265,7 @@
     ],
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "MBA Intern: Corporate Strategy & Development (Summer 2027)"
    },
    "01888202": {
@@ -32286,7 +32310,7 @@
     ],
     "first_seen": "2026-11-19 01:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Mechanical Engineering Intern (Summer 2027)"
    },
    "01888337": {
@@ -32484,7 +32508,7 @@
     ],
     "first_seen": "2026-11-19 01:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Project Engineering Intern (Summer 2027) (Onsite)"
    },
    "01889954": {
@@ -32511,7 +32535,7 @@
     ],
     "first_seen": "2026-11-19 15:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Software Security Intern (Summer 2027)"
    },
    "01890118": {
@@ -32520,7 +32544,7 @@
     ],
     "first_seen": "2026-11-19 01:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Systems Engineering Intern - Summer 2027 (Onsite)"
    },
    "01890290": {
@@ -32529,7 +32553,7 @@
     ],
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Mechanical Engineer Intern Summer 2027 (Onsite)"
    },
    "01890521": {
@@ -32538,7 +32562,7 @@
     ],
     "first_seen": "2026-11-19 17:12 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Life Cycle Systems Engineer Intern (Onsite)"
    },
    "01890571": {
@@ -32547,7 +32571,7 @@
     ],
     "first_seen": "2026-11-19 17:12 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Software Engineering Intern (Summer 2027)"
    }
   },
@@ -33670,7 +33694,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T03:02:24-05:00"
+    "updated_raw": "2026-11-20T03:17:35-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34981,7 +35005,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Tax Associate Intern"
    }
   },
@@ -35600,7 +35624,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 12 Days Ago",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Validation Engineering Summer Internship 2027"
    },
    "21193": {
@@ -35609,7 +35633,7 @@
     ],
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "RF Validation Engineering Internship"
    },
    "21229": {
@@ -35839,7 +35863,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 16 Days Ago",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "User Experience Intern"
    },
    "R2888": {
@@ -36191,7 +36215,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "UX/UI Design Intern - Summer 2027"
    },
    "REQ-1000052836": {
@@ -36200,7 +36224,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Manuals Tech Writer Intern - Summer 2027",
     "updated_seen": "2026-11-19"
    },
@@ -40284,7 +40308,7 @@
     ],
     "first_seen": "2026-11-18 21:18 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "IT Service Desk Internship"
    },
    "Trek116019": {
@@ -40293,7 +40317,7 @@
     ],
     "first_seen": "2026-11-18 21:18 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Mobile QA Engineer Internship"
    },
    "Trek116020": {
@@ -40302,7 +40326,7 @@
     ],
     "first_seen": "2026-11-18 21:18 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "AI QA Engineer Internship"
    }
   },
@@ -40731,8 +40755,8 @@
      "/job/Hamilton-OH/Warranty---Process-Co-Op--Summer-2027-_REQ2026080096-1"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Warranty / Process Co-Op (Spring 2027)"
    },
    "REQ2026080099": {
@@ -40740,8 +40764,8 @@
      "/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Quality Engineer Co-Op (Spring 2027)"
    },
    "REQ2026080106": {
@@ -40749,8 +40773,8 @@
      "/job/Hamilton-OH/VPS-Process-Co-Op--Spring-2027-_REQ2026080106"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "VPS/Process Co-Op (Spring 2027)"
    },
    "REQ2026080168": {
@@ -40830,8 +40854,8 @@
      "/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Software Engineer Intern (Year-Round)"
    },
    "REQ2026082013": {
@@ -40839,8 +40863,8 @@
      "/job/Reno-NV/VPS-Intern--Year-Round-_REQ2026082013"
     ],
     "first_seen": "2026-11-19 17:12 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted Today",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Yesterday",
     "title": "VPS Engineering Intern (12 Months in Duration)"
    },
    "REQ2026082014": {
@@ -40884,8 +40908,8 @@
      "/job/Winchester-KY/Purchasing-Intern--Year-Round-_REQ2026083713"
     ],
     "first_seen": "2026-11-18 15:17 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Purchasing Intern (Year-Round)"
    }
   },
