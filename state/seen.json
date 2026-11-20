@@ -8878,7 +8878,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Mercury Marine: Quality Engineering Co-op"
    },
    "JR-051436": {
@@ -8896,7 +8896,7 @@
     ],
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Mercury Marine: Manufacturing Engineering Co-op"
    },
    "JR-051456": {
@@ -9490,6 +9490,15 @@
     "posted_raw": "Posted 2 Days Ago",
     "title": "General Finance Intern - Summer"
    },
+   "30218055": {
+    "aliases": [
+     "/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/General-Finance-Intern---Summer_30218055-2"
+    ],
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "General Finance Intern - Summer"
+   },
    "30219798": {
     "aliases": [
      "/job/CAN79-Clifton-100-Delawanna-Avenue-Clifton-NJ-07014-USA/Inside-Sales-Intern---Summer_30219798"
@@ -9531,8 +9540,8 @@
      "/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30220218"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
     "title": "Electrical Engineering Intern - Summer"
    },
    "30220221": {
@@ -9750,6 +9759,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted 2 Days Ago",
     "title": "General Engineering Intern - Summer"
+   },
+   "30222631": {
+    "aliases": [
+     "/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Digital-Technology-Intern---Summer_30222631"
+    ],
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Digital Technology Intern - Summer"
    },
    "https://jobs.carrier.com/en/job/east-syracuse/mechanical-engineering-intern-summer/29289/102179174192": {
     "first_seen": "2026-11-13 23:52 UTC",
@@ -12308,7 +12326,15 @@
    "greenhouse",
    "electraaero"
   ],
-  "ids": {},
+  "ids": {
+   "4465371009": {
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-10-26T15:59:51-04:00",
+    "title": "Summer 2027 Internship",
+    "updated_raw": "2026-11-20T14:07:50-05:00"
+   }
+  },
   "seeded": true
  },
  "Elroy Air": {
@@ -25745,6 +25771,12 @@
     "posted_raw": "2026-09-15",
     "title": "Software Engineering Intern"
    },
+   "45321": {
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20",
+    "title": "Data Science Intern"
+   },
    "45478": {
     "first_seen": "2026-11-10 16:19 UTC",
     "last_seen": "2026-11-20",
@@ -30023,6 +30055,11 @@
     "first_seen": "2026-11-19 22:14 UTC",
     "last_seen": "2026-11-20",
     "title": "Reman Quality System Intern Summer 2027"
+   },
+   "1459429633": {
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Marketing and Events Intern"
    }
   },
   "seeded": true
@@ -30111,7 +30148,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-20T13:44:09-05:00",
     "title": "Summer 2027 Controls Electrical Engineer Internship",
-    "updated_raw": "2026-11-20T13:44:09-05:00"
+    "updated_raw": "2026-11-20T14:14:45-05:00"
    },
    "4505730009": {
     "first_seen": "2026-11-16 19:46 UTC",
@@ -30152,6 +30189,12 @@
    "https://careers.na.panasonic.com"
   ],
   "ids": {
+   "50741": {
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-08-31T18:40:00+0000",
+    "title": "Intern - Test Engineering"
+   },
    "50753": {
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-20",
@@ -32880,6 +32923,24 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "Software Engineering Intern (Summer 2027)"
+   },
+   "01890700": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Winter-Spring-2027-_01890700"
+    ],
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Electrical Engineering Co-op (Winter/Spring 2027)"
+   },
+   "01890789": {
+    "aliases": [
+     "/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789"
+    ],
+    "first_seen": "2026-11-20 19:39 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Project Engineering Intern (Summer 2027)"
    }
   },
   "seeded": true
@@ -34007,7 +34068,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T13:47:33-05:00"
+    "updated_raw": "2026-11-20T14:17:11-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
