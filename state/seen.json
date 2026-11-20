@@ -595,7 +595,14 @@
    "jibe",
    "https://careers.amd.com"
   ],
-  "ids": {},
+  "ids": {
+   "89816": {
+    "first_seen": "2026-11-20 15:01 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T14:41:00+0000",
+    "title": "Spring/Summer 2027 Masters Server Power Management Engineering Co-Op"
+   }
+  },
   "seeded": true
  },
  "AMETEK": {
@@ -18512,7 +18519,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18542,7 +18549,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -33823,7 +33830,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T09:17:31-05:00"
+    "updated_raw": "2026-11-20T09:32:21-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -34027,7 +34034,7 @@
     ],
     "first_seen": "2026-11-17 04:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Technical Product Management Intern ( D2C Shopping Experiences (Mobile & Consumer Electronics)"
    },
    "R122135": {
@@ -34036,7 +34043,7 @@
     ],
     "first_seen": "2026-11-19 22:14 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Business Operations & Data Analytics Intern"
    },
    "R122138": {
@@ -34045,7 +34052,7 @@
     ],
     "first_seen": "2026-11-17 04:37 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "RAN System Performance Intern"
    },
    "R122243": {
@@ -34063,7 +34070,7 @@
     ],
     "first_seen": "2026-11-16 21:40 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams"
    }
   },
@@ -34445,6 +34452,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "October 5, 2026",
     "title": "Global Customer Experience Intern"
+   },
+   "136185": {
+    "first_seen": "2026-11-20 15:01 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "October 12, 2026",
+    "title": "Project Management Intern"
    },
    "136319": {
     "first_seen": "2026-11-10 18:53 UTC",
