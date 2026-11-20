@@ -53,6 +53,14 @@ class Dates(unittest.TestCase):
         d = triage.parse_posted("Thu Nov 05 08:00:00 UTC 2026", NOW)
         self.assertEqual((d["day"].isoformat(), d["precision"]), ("2026-11-05", "date"))
 
+    def test_window_stretches_back_to_last_successful_read(self):
+        from datetime import timedelta
+        since = NOW - timedelta(days=4)                      # company unreachable for 4 days
+        self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW), "old")
+        self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW, since), "recent")
+        self.assertEqual(triage.recency("2026-11-01", "last_48_hours", NOW, since), "old")
+        self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW, NOW - timedelta(hours=2)), "old")
+
     def test_date_only_in_48_hour_mode_means_today_or_yesterday(self):
         self.assertEqual(triage.recency("2026-11-09", "last_48_hours", NOW), "recent")
         self.assertEqual(triage.recency("2026-11-08", "last_48_hours", NOW), "old")

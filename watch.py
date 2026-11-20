@@ -261,10 +261,10 @@ def fetch_workday(url):
             try:
                 d = _workday_call(api, {"appliedFacets": {}, "limit": 20, "offset": offset,
                                         "searchText": text})
-            except ValueError:
+            except (ValueError, WorkdayBlocked):
                 if not out:
-                    raise                  # nothing at all: report the company as failing
-                return                     # keep what was read; the rest is picked up next run
+                    raise                  # nothing at all: report the company as failing / blocked
+                return                     # keep what was read (newest first); the rest comes next run
             if total is None:
                 total = d.get("total", 0)
             jobs = d.get("jobPostings", [])
@@ -1059,6 +1059,9 @@ def main():
     seen = load(SEEN_FILE, {})
     resolved = load(RESOLVED_FILE, {})
     companies = [c for c in COMPANIES if not only or only in c["name"].lower()]
+    # Companies that have gone longest without a successful read go first, so when Workday's
+    # rate limit cuts a run short it is not always the same companies that miss out.
+    companies.sort(key=lambda c: resolved.get(c["name"], {}).get("last_ok", 0))
 
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(lambda c: (c, check(c, resolved)), companies))
@@ -1076,8 +1079,10 @@ def main():
             entry["last_discovery"] = time.time()
         entry["note"] = r.get("note", "")
         entry["status"] = r["status"]
+        prev_ok = entry.get("last_ok")
         if r["status"] == "ok":
             entry["fails"] = 0
+            entry["last_ok"] = int(time.time())
         elif r["status"] != "blocked":         # a rate-limited run says nothing about the company
             entry["fails"] = entry.get("fails", 0) + 1
 
@@ -1116,6 +1121,8 @@ def main():
                     rec["aliases"] = aliases
                 ids[p["id"]] = rec
                 if is_new and state["seeded"]:
+                    if prev_ok:
+                        p = dict(p, since=datetime.fromtimestamp(prev_ok, timezone.utc))
                     candidates.append((name, kind, p))
             state["seeded"] = True       # first successful check records silently
         rows.append((company["group"], name, r["status"],

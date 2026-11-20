@@ -87,13 +87,18 @@ def parse_posted(raw, now=None):
     return none
 
 
-def recency(posted_raw, mode, now=None):
+def recency(posted_raw, mode, now=None, since=None):
     """Return "recent", "old" or "unknown" for an employer-reported date.
 
     today           the employer date is today's date in America/Chicago
     last_48_hours   a timestamp within 48 hours; a date-only value counts when
                     it is today or yesterday (Chicago)
     newly_discovered  anything this checker has not seen before (date ignored)
+
+    since: when this company was last read successfully before this run. If that
+    was longer ago than the window, the window stretches back to it (plus a day,
+    at most 7 days), so a posting is not dropped just because the company's site
+    was unreachable for a while.
     """
     if mode == "newly_discovered":
         return "recent"
@@ -104,6 +109,13 @@ def recency(posted_raw, mode, now=None):
     today = now.astimezone(LOCAL_TZ).date()
     if p["day"] > today + timedelta(days=1):
         return "unknown"                       # a future date is not evidence of anything
+    if since is not None and mode in ("today", "last_48_hours"):
+        gap = now - since
+        if gap > timedelta(hours=24 if mode == "today" else 48):
+            start = max(since - timedelta(days=1), now - timedelta(days=7))
+            if p["when"] is not None:
+                return "recent" if p["when"] >= start else "old"
+            return "recent" if p["day"] >= start.astimezone(LOCAL_TZ).date() else "old"
     if mode == "today":
         return "recent" if p["day"] >= today else "old"
     if p["when"] is not None:
@@ -342,7 +354,7 @@ def classify(p, mode, now=None, handled=()):
         return "skip", ["outside the US"]
     if p.get("status") == "closed":
         return "skip", ["posting is closed or an error page"]
-    when = recency(p.get("posted", ""), mode, now)
+    when = recency(p.get("posted", ""), mode, now, p.get("since"))
     if when == "old":
         return "skip", ["employer date is older than the alert window"]
     reasons = []
