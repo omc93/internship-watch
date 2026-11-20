@@ -4155,14 +4155,14 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-10T23:14:19-05:00",
     "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
-    "updated_raw": "2026-11-12T14:15:14-05:00"
+    "updated_raw": "2026-11-20T12:42:00-05:00"
    },
    "4704571006": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-06T17:30:11-05:00",
     "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
-    "updated_raw": "2026-11-12T14:15:14-05:00"
+    "updated_raw": "2026-11-20T12:42:19-05:00"
    },
    "4704595006": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -7486,6 +7486,12 @@
     "posted_raw": "10/20/26",
     "title": "Intern, Talent Acquisition"
    },
+   "16399": {
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "11/20/26",
+    "title": "Intern, Liaison Engineering"
+   },
    "16446": {
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-17",
@@ -10583,6 +10589,12 @@
     "last_seen": "2026-11-20",
     "posted_raw": "1793049462183",
     "title": "Intern - Microwave Engineer - Summer 2027"
+   },
+   "83ca56d7-f142-4ecc-af72-5484519eaf08": {
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "1795194673726",
+    "title": "Intern - Molten Salt Blanket Engineer - Summer 2027"
    },
    "85ba4504-4eaf-4d25-b0b2-9af35009fcbb": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -18550,7 +18562,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "2026-08-14T00:00:00.000+0000",
+    "posted_raw": "2026-05-12T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -21690,6 +21702,15 @@
    "https://jci.wd5.myworkdayjobs.com/JCI"
   ],
   "ids": {
+   "EB00075404": {
+    "aliases": [
+     "/job/Burlington-Massachusetts-United-States-of-America/Production-Engineering-Co-Op_EB00075404"
+    ],
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Production Engineering Co-Op"
+   },
    "EB00075405": {
     "aliases": [
      "/job/Burlington-Massachusetts-United-States-of-America/Mechanical-Engineering-Co-Op_EB00075405"
@@ -22690,6 +22711,11 @@
     "last_seen": "2026-11-15",
     "title": "Structural Engineer Internship"
    },
+   "https://careers.l3harris.com/en/job/canoga-park/structural-engineer-internship/4832/103566030480": {
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "title": "Structural Engineer Internship"
+   },
    "https://careers.l3harris.com/en/job/cincinnati/electrical-engineering-intern/4832/103194434608": {
     "first_seen": "2026-11-13 03:10 UTC",
     "last_seen": "2026-11-15",
@@ -23418,6 +23444,13 @@
     "posted_raw": "2026-11-19T20:27:26-05:00",
     "title": "Intern, Infotainment Software, Summer 2027",
     "updated_raw": "2026-11-19T20:27:26-05:00"
+   },
+   "5290923007": {
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T12:01:54-05:00",
+    "title": "Intern, AI/ML, Vehicle Infotainment, Summer 2027",
+    "updated_raw": "2026-11-20T12:01:54-05:00"
    },
    "5290925007": {
     "first_seen": "2026-11-19 23:49 UTC",
@@ -28528,6 +28561,15 @@
     "last_seen": "2026-11-20",
     "posted_raw": "Posted Yesterday",
     "title": "2027 Financial Planning & Analysis Intern - Falls Church VA"
+   },
+   "R10261601": {
+    "aliases": [
+     "/job/United-States-Remote/XMLNAME-2027-Critical-Skills-Development-Intern---Remote_R10261601"
+    ],
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "2027 Critical Skills Development Intern - Remote"
    }
   },
   "seeded": true
@@ -30002,7 +30044,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-11-16T14:32:40-05:00",
     "title": "Summer 2027 Materials Science Internship",
-    "updated_raw": "2026-11-16T14:32:40-05:00"
+    "updated_raw": "2026-11-20T12:50:15-05:00"
    },
    "4505556009": {
     "first_seen": "2026-11-16 19:46 UTC",
@@ -33485,6 +33527,12 @@
     "last_seen": "2026-11-17",
     "posted_raw": "2026-11-17T16:09:00+0000",
     "title": "UIUC Research Park Intern - Low Voltage Electronics"
+   },
+   "37339": {
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "2026-11-20T17:40:00+0000",
+    "title": "Software Engineering Intern - AI Platform, Autonomy (Summer 2027)"
    }
   },
   "seeded": true
@@ -33905,7 +33953,7 @@
     "last_seen": "2026-11-20",
     "posted_raw": "2026-09-24T19:08:39-04:00",
     "title": "Test Engineering Intern Spring 2027",
-    "updated_raw": "2026-11-20T11:47:13-05:00"
+    "updated_raw": "2026-11-20T12:47:22-05:00"
    },
    "8007202003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -35348,6 +35396,15 @@
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineer Intern (Summer 2027)"
    },
+   "R0030750": {
+    "aliases": [
+     "/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750"
+    ],
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineering Intern (Summer 2027)"
+   },
    "R0030752": {
     "aliases": [
      "/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752"
@@ -35455,6 +35512,15 @@
     "last_seen": "2026-11-19",
     "posted_raw": "Posted 22 Days Ago",
     "title": "Legal Intern"
+   },
+   "R0031104": {
+    "aliases": [
+     "/job/Sparks-NV/Organizational-Change-Management--OCM--Intern_R0031104"
+    ],
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Yesterday",
+    "title": "Organizational Change Management (OCM) Intern"
    },
    "R0031107": {
     "aliases": [
@@ -35605,8 +35671,8 @@
      "/job/Sparks-NV/Test-Engineer-Intern--Summer-2027-_R0031236"
     ],
     "first_seen": "2026-11-18 16:34 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted Yesterday",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Test Engineer Intern (Summer 2027)"
    },
    "R0031238": {
@@ -35641,8 +35707,8 @@
      "/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Yesterday",
     "title": "IT Service Desk Intern (Summer 2027)"
    },
    "R0031253": {
@@ -35713,8 +35779,8 @@
      "/job/Wichita-KS/Digital-Engineering-Intern_R0031381"
     ],
     "first_seen": "2026-11-17 20:33 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Digital Engineer Intern (Summer 2027)"
    }
   },
@@ -35733,7 +35799,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Software Engineering"
    },
    "R26562": {
@@ -35742,7 +35808,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Aerospace Engineering"
    },
    "R26563": {
@@ -35751,7 +35817,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Electrical Engineering"
    },
    "R26564": {
@@ -35760,7 +35826,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Mechanical Engineering"
    },
    "R26565": {
@@ -35769,7 +35835,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Propulsion Engineering"
    },
    "R26566": {
@@ -35778,7 +35844,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Systems Engineering"
    },
    "R26569": {
@@ -35787,7 +35853,7 @@
     ],
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Materials Engineering"
    },
    "R26584": {
@@ -35796,7 +35862,7 @@
     ],
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Flight Operations"
    },
    "R26585": {
@@ -35805,7 +35871,7 @@
     ],
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-20",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "2027 Summer Internship - Rendezvous Proximity Operations (RPO)"
    }
   },
@@ -42467,7 +42533,17 @@
    "workday",
    "https://woodward.wd5.myworkdayjobs.com/woodward"
   ],
-  "ids": {},
+  "ids": {
+   "JR114291": {
+    "aliases": [
+     "/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291"
+    ],
+    "first_seen": "2026-11-20 18:04 UTC",
+    "last_seen": "2026-11-20",
+    "posted_raw": "Posted Today",
+    "title": "AI Summer 2027 Internship"
+   }
+  },
   "seeded": true
  },
  "X-Bow Systems": {
