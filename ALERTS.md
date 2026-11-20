@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-20 01:43 UTC · **Lucid Motors** · [Intern, Infotainment SW Validation Automation, Summer 2027](https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007) · fit (test) | Newark, CA [US] | employer first_published Nov 19 06:45 PM CT | found Nov 19 07:43 PM CT | ID 5290937007 | open
 - 2026-11-20 00:54 UTC · **Lucid Motors** · [Intern, ADAS Systems, Summer 2027](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) · fit (systems / controls) | Newark, CA [US] | employer first_published Nov 19 06:38 PM CT | found Nov 19 06:54 PM CT | ID 5290790007 | open
 - 2026-11-20 00:54 UTC · **Formlabs** · [2027 (Summer) API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) · fit (systems / controls) | Somerville, MA [US] | employer first_published Nov 19 06:34 PM CT | found Nov 19 06:54 PM CT | ID 8400855 | open
 - 2026-11-19 23:49 UTC · **Texas Instruments** · [Systems Engineering Intern - MEMS](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016340) · fit (systems / controls) | Santa Clara, CA, United States [US] | employer-reported Nov 19 | found Nov 19 05:49 PM CT | ID 25016340 | listed
