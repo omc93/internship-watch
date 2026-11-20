@@ -168,7 +168,7 @@ class WorkdayBlocked(Exception):
 _WD = {"blocked": False, "requests": 0, "limited": 0, "deadline": None}
 WD_GAP_SECONDS = 0.4          # pause after every Workday request, per Workday data centre
 WD_FULL_SCAN_EVERY_HOURS = 24  # full keyword scan per company; other passes read only the newest jobs
-WD_RECENT_PAGES = 15
+WD_RECENT_PAGES = 8            # newest 160 jobs per pass; the daily keyword scan covers the rest
 WD_TIME_BUDGET = 25 * 60       # stop retrying Workday after this many seconds in one run
 
 
@@ -273,7 +273,7 @@ def fetch_workday(url):
             ages = [_workday_age(j.get("postedOn")) for j in jobs]
             if not jobs or offset >= total:
                 return
-            if stop_when_old and all(a is not None and a >= 3 for a in ages):
+            if stop_when_old and all(a is not None and a >= 2 for a in ages):
                 return                     # everything from here on is older than the alert window
 
     pages("", WD_RECENT_PAGES, True)                       # newest jobs, every pass
