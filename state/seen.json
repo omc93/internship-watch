@@ -1013,8 +1013,8 @@
  "Abbott": {
   "fp": [
    3,
-   "workday",
-   "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+   "phenom",
+   "https://www.jobs.abbott/us/en"
   ],
   "ids": {
    "31155780": {
@@ -1040,7 +1040,7 @@
      "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-09T00:00:00.000+0000",
     "title": "2027 Business Technology Services Intern",
     "updated_seen": "2026-11-16"
@@ -1068,7 +1068,7 @@
      "/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-08T00:00:00.000+0000",
     "title": "Nutrition Brand Management Intern - Infant and Adult - Summer 2027"
    },
@@ -1095,7 +1095,7 @@
      "/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-03T00:00:00.000+0000",
     "title": "2027 Winter Engineering Co-Op"
    },
@@ -1105,7 +1105,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "2026-11-19T00:00:00.000+0000",
     "title": "2027 Sales Cancer Diagnostics Intern"
    },
    "31161561": {
@@ -1123,7 +1123,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "2026-11-19T00:00:00.000+0000",
     "title": "2027 IT Cancer Diagnostics Intern"
    },
    "31162236": {
@@ -1158,7 +1158,7 @@
      "/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-30T00:00:00.000+0000",
     "title": "2027 Winter Graduate Co-op - Clinical Affairs AI/ML"
    },
@@ -5136,8 +5136,8 @@
  "BD": {
   "fp": [
    3,
-   "workday",
-   "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA"
+   "radancy",
+   "https://jobs.bd.com"
   ],
   "ids": {
    "R-553921": {
@@ -5189,6 +5189,11 @@
     "first_seen": "2026-11-14 03:46 UTC",
     "last_seen": "2026-11-16",
     "title": "Controls Tech Intern"
+   },
+   "https://jobs.bd.com/en/job/kuala-lumpur/intern-order-management-japanese-speaker/159/103543728512": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern, Order Management (Japanese Speaker)"
    },
    "https://jobs.bd.com/en/job/singapore/it-intern/159/103235942112": {
     "first_seen": "2026-11-14 03:46 UTC",
@@ -5914,8 +5919,8 @@
  "Baxter": {
   "fp": [
    3,
-   "workday",
-   "https://baxter.wd1.myworkdayjobs.com/baxter"
+   "radancy",
+   "https://jobs.baxter.com"
   ],
   "ids": {
    "JR-211010": {
@@ -5952,6 +5957,16 @@
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-21",
     "posted_raw": "Posted Today",
+    "title": "Finance Intern"
+   },
+   "https://jobs.baxter.com/en/job/kuala-lumpur/accounting-intern/152/103148853024": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Accounting Intern"
+   },
+   "https://jobs.baxter.com/en/job/kuala-lumpur/finance-intern/152/103194314144": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
     "title": "Finance Intern"
    }
   },
@@ -9516,8 +9531,8 @@
  "Carrier": {
   "fp": [
    3,
-   "workday",
-   "https://carrier.wd5.myworkdayjobs.com/jobs"
+   "radancy",
+   "https://jobs.carrier.com"
   ],
   "ids": {
    "30217242": {
@@ -9817,6 +9832,11 @@
     "posted_raw": "Posted Today",
     "title": "Digital Technology Intern - Summer"
    },
+   "https://jobs.carrier.com/en/job/east-syracuse/chemical-materials-engineering-intern-summer/29289/102293059680": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Chemical Materials Engineering Intern - Summer"
+   },
    "https://jobs.carrier.com/en/job/east-syracuse/mechanical-engineering-intern-summer/29289/102179174192": {
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
@@ -9826,6 +9846,16 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-16",
     "title": "Quality Engineering Intern - Summer"
+   },
+   "https://jobs.carrier.com/en/job/fort-wayne/electrical-engineering-intern-summer/29289/102221882544": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Electrical Engineering Intern - Summer"
+   },
+   "https://jobs.carrier.com/en/job/glen-allen/project-engineering-intern-summer/29289/102526895792": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Project Engineering Intern - Summer"
    },
    "https://jobs.carrier.com/en/job/hyderabad/intern-mech-engrg/29289/103373169184": {
     "first_seen": "2026-11-16 11:33 UTC",
@@ -9902,10 +9932,25 @@
     "last_seen": "2026-11-16",
     "title": "Data Analytics Intern - Summer"
    },
+   "https://jobs.carrier.com/en/job/indianapolis/quality-engineering-intern-summer/29289/102483251904": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Quality Engineering Intern - Summer"
+   },
    "https://jobs.carrier.com/en/job/indianapolis/systems-engineering-intern-summer/29289/102221882352": {
     "first_seen": "2026-11-16 17:52 UTC",
     "last_seen": "2026-11-16",
     "title": "Systems Engineering Intern - Summer"
+   },
+   "https://jobs.carrier.com/en/job/kennesaw/building-automation-field-engineer-intern-summer/29289/102526895760": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Building Automation Field Engineer Intern - Summer"
+   },
+   "https://jobs.carrier.com/en/job/palm-beach-gardens/digital-technology-intern-summer/29289/103577871216": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Digital Technology Intern - Summer"
    },
    "https://jobs.carrier.com/en/job/palm-beach-gardens/general-engineering-intern-summer/29289/102264079696": {
     "first_seen": "2026-11-13 23:52 UTC",
@@ -14787,8 +14832,8 @@
  "GE Aerospace": {
   "fp": [
    3,
-   "workday",
-   "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite"
+   "phenom",
+   "https://careers.geaerospace.com/global/en"
   ],
   "ids": {
    "/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5040995-1": {
@@ -14842,7 +14887,7 @@
      "/job/Evendale/Finance-Co-op---US---Fall-2027_R5030148-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "Finance Co-op – US – Fall 2027"
    },
@@ -14857,7 +14902,7 @@
    },
    "R5034331": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-05-13T00:00:00.000+0000",
     "title": "Lynn CNC Trainee Co-Op"
    },
@@ -14890,7 +14935,7 @@
    },
    "R5040944": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-30T00:00:00.000+0000",
     "title": "Lynn CNC Programmer Co-Op"
    },
@@ -14899,7 +14944,7 @@
      "/job/Hooksett/Environmental-Health-Safety-Intern---Hooksett--NH---Summer-2027_R5041385-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "Environmental/Health/Safety Intern – Hooksett, NH – Summer 2027"
    },
@@ -14908,7 +14953,7 @@
      "/job/Hooksett/Manufacturing-Supply-Chain-Intern---Hooksett--NH---Summer-2027_R5041386-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "Manufacturing/Supply Chain Intern – Hooksett, NH – Summer 2027"
    },
@@ -14926,7 +14971,7 @@
      "/job/Muskegon/US-Operations-Intern---Muskegon--MI---Summer-2027_R5041532-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "US Operations Intern – Muskegon, MI – Summer 2027"
    },
@@ -14971,7 +15016,7 @@
      "/job/Remote/Artificial-Intelligence-Intern_R5042291-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "Artificial Intelligence Intern"
    },
@@ -14989,7 +15034,7 @@
      "/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027"
    },
@@ -14998,7 +15043,7 @@
      "/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "Design Engineering Intern - Bohemia, NY - Summer 2027",
     "updated_seen": "2026-11-11"
@@ -15026,8 +15071,8 @@
      "/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-12T00:00:00.000+0000",
     "title": "Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027"
    },
    "R5042961": {
@@ -15035,8 +15080,8 @@
      "/job/Bohemia/Digital-Systems-Engineering-Intern---Bohemia--NY---Summer-2027_R5042961-1"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 5 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027"
    },
    "R5043004": {
@@ -15044,8 +15089,8 @@
      "/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "GE Aerospace Research - Controls & Optimization Internship, 2027"
    },
    "R5043209": {
@@ -15062,8 +15107,8 @@
      "/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408"
     ],
     "first_seen": "2026-11-17 20:54 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "GE Aerospace Research - Composites Internship, 2027"
    },
    "R5043479": {
@@ -15071,8 +15116,8 @@
      "/job/Niskayuna/GE-Aerospace-Research---Coatings-Internship_R5043479-1"
     ],
     "first_seen": "2026-11-18 20:31 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "GE Aerospace Research - Coatings Internship"
    }
   },
@@ -18015,8 +18060,8 @@
  "HP": {
   "fp": [
    3,
-   "workday",
-   "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+   "greenhouse",
+   "hp"
   ],
   "ids": {
    "3166958": {
@@ -18804,7 +18849,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -22210,8 +22255,8 @@
  "KBR": {
   "fp": [
    3,
-   "workday",
-   "https://kbr.wd5.myworkdayjobs.com/KBR_Careers"
+   "phenom",
+   "https://careers.trinzic.com/us/en"
   ],
   "ids": {
    "R2129380": {
@@ -22219,7 +22264,7 @@
      "/job/Chantilly-Virginia/KBR-Mission-Technology-Solutions--MTS----Defense---Intel-Internship-Program_R2129380"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-08T00:00:00.000+0000",
     "title": "KBR Mission Technology Solutions (MTS) - Defense & Intel Internship Program"
    },
@@ -22243,37 +22288,43 @@
    },
    "R3001088": {
     "first_seen": "2026-11-14 03:46 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-29T00:00:00.000+0000",
     "title": "Administrative Intern"
    },
+   "R3001173": {
+    "first_seen": "2026-11-21 07:50 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-18T00:00:00.000+0000",
+    "title": "Defense & Intel (D&I) - Radar Research Internship"
+   },
    "R3001231": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Computer Science Internship"
    },
    "R3001233": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Electrical or Computer Engineering Internship"
    },
    "R3001234": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Mechanical Engineering Internship"
    },
    "R3001235": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Software Engineering Internship"
    },
    "R3001236": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Systems Engineering Internship"
    }
