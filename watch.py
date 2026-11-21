@@ -1070,6 +1070,20 @@ def check(company, resolved):
                 "discovery_failed": True}
 
 
+def remember_date(rec, posted, now_dt, today):
+    """Keep the earliest real employer date per requisition (posted_first), and note when
+    the employer moves it forward (redated_seen). Relative dates ("30+ days ago") drift
+    every day, so they are not used here."""
+    d = triage.parse_posted(posted, now_dt)
+    if not d["day"] or d["precision"] == "relative":
+        return
+    day, first = d["day"].isoformat(), rec.get("posted_first")
+    if not first or day < first:
+        rec["posted_first"] = day
+    elif day > first:
+        rec["redated_seen"] = today
+
+
 def older_evidence(kind, p, ids, present, now_dt):
     """Signs that a posting this checker has never seen is really an older role whose
     date was refreshed. Any hit sends it to review instead of a phone alert."""
@@ -1205,13 +1219,7 @@ def main():
                     rec["loc"] = p["location"]
                 if p["posted"]:
                     rec["posted_raw"] = p["posted"]      # latest employer date
-                    day = triage.parse_posted(p["posted"], now_dt)["day"]
-                    if day:                              # earliest employer date ever seen: kept
-                        first = rec.get("posted_first")
-                        if not first or day.isoformat() < first:
-                            rec["posted_first"] = day.isoformat()
-                        elif day.isoformat() > first:
-                            rec["redated_seen"] = today  # employer moved the date forward
+                    remember_date(rec, p["posted"], now_dt, today)
                 if p.get("updated"):
                     rec["updated_raw"] = p["updated"]
                 aliases = sorted(set(rec.get("aliases", [])) | set(keys) - {p["id"]})
@@ -1253,6 +1261,9 @@ def main():
         else:
             bucket, reasons = "review", ["not verified this run (too many new postings)"]
         audit.append((name, kind, p, bucket, reasons))
+        rec = seen.get(name, {}).get("ids", {}).get(p["id"])
+        if rec is not None and p.get("posted"):      # date read from the job page itself
+            remember_date(rec, p["posted"], now_dt, today)
         if bucket == "alert":
             alerts.append((name, p))
         elif bucket == "review":
