@@ -666,6 +666,36 @@
     "last_seen": "2026-11-21",
     "title": "Engineering Intern - Summer 2027"
    },
+   "1443019200": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Engineering Intern - Eighty Four, PA"
+   },
+   "1443019500": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Engineering Intern - Hamilton Precision Metals"
+   },
+   "1443123800": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Mechanical Engineering Intern - Summer 2027"
+   },
+   "1443124100": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Electrical Engineering Intern - Summer 2027"
+   },
+   "1443124600": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Electrical Engineering Intern - Spring 2027"
+   },
+   "1443124800": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Mechanical Engineering Intern - Spring 2027"
+   },
    "1448126700": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-12",
@@ -7216,8 +7246,8 @@
  "Boeing": {
   "fp": [
    3,
-   "workday",
-   "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS"
+   "radancy",
+   "https://jobs.boeing.com"
   ],
   "ids": {
    "JR2026521717": {
@@ -8751,8 +8781,8 @@
  "Brunswick": {
   "fp": [
    3,
-   "workday",
-   "https://brunswick.wd1.myworkdayjobs.com/search"
+   "ashby",
+   "brunswick"
   ],
   "ids": {
    "JR-050979": {
@@ -10892,6 +10922,16 @@
     "first_seen": "2026-11-20 09:28 UTC",
     "last_seen": "2026-11-20",
     "title": "Communications Design Intern - Summer 2027"
+   },
+   "1443027200": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Innovations Engineering Co-op"
+   },
+   "1443028800": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern, Materials and Mechanics - Summer 2027"
    },
    "1451206900": {
     "first_seen": "2026-11-17 01:24 UTC",
@@ -15181,8 +15221,8 @@
  "GE HealthCare": {
   "fp": [
    3,
-   "workday",
-   "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite"
+   "phenom",
+   "https://careers.gehealthcare.com/global/en"
   ],
   "ids": {
    "R4040613": {
@@ -15238,7 +15278,7 @@
    },
    "R4046982": {
     "first_seen": "2026-11-11 04:51 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-10-06T00:00:00.000+0000",
     "title": "Electrical Engineering Technician Co-op"
    },
@@ -19651,6 +19691,21 @@
     "last_seen": "2026-11-21",
     "title": "2027 Summer Intern: Engineering - Manufacturing"
    },
+   "1433371000": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "2027 Summer Intern: Sales - Phoenix, AZ"
+   },
+   "1433371300": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "2027 Summer Intern: Sales - Washington, D.C."
+   },
+   "1433372500": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "2027 Summer Intern: Sales - Columbus, OH"
+   },
    "1442391000": {
     "first_seen": "2026-11-19 08:49 UTC",
     "last_seen": "2026-11-21",
@@ -23897,6 +23952,16 @@
     "last_seen": "2026-11-21",
     "title": "Software and Electronics Engineering Intern (Summer 2027) - Group 76"
    },
+   "1433573800": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Optical Engineering Intern - Optical Engineer (Summer 2027) - Group 78"
+   },
+   "1433606100": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Summer Research Program Intern 2027, Interceptor and Sensor Technology (Group 03-38)"
+   },
    "1437408800": {
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-13",
@@ -24026,6 +24091,11 @@
     "first_seen": "2026-11-20 09:28 UTC",
     "last_seen": "2026-11-21",
     "title": "Summer Research Program Intern 2027, AI and Geospatial Analysis for Natural Hazards (04-47)"
+   },
+   "1443329200": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Summer Research Program Intern 2027, Cyber Operations and Analysis Technology (Group 05-57)"
    },
    "1446803200": {
     "first_seen": "2026-11-11 04:32 UTC",
@@ -39804,8 +39874,8 @@
  "Thermo Fisher": {
   "fp": [
    3,
-   "workday",
-   "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"
+   "phenom",
+   "https://jobs.thermofisher.com/global/en"
   ],
   "ids": {
    "R-01334328": {
@@ -39831,8 +39901,8 @@
      "/job/Sofia-Bulgaria/TMF-Support-Coordinator-Intern-with-English_R-01363914-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "TMF Support Coordinator Intern with English"
    },
    "R-01366217": {
@@ -39858,7 +39928,7 @@
      "/job/Pittsburgh-Pennsylvania-USA/Supplier-Relations-Intern_R-01366588"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-09T00:00:00.000+0000",
     "title": "Supplier Relations Intern"
    },
@@ -39912,7 +39982,7 @@
      "/job/Marietta-Ohio-USA/Supply-Chain-Co-op_R-01366630"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-21",
     "posted_raw": "2026-09-16T00:00:00.000+0000",
     "title": "Supply Chain Co-op"
    },
@@ -42700,6 +42770,21 @@
     "first_seen": "2026-11-20 09:28 UTC",
     "last_seen": "2026-11-21",
     "title": "Summer Intern Project Management"
+   },
+   "1433666900": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Summer Intern - Energy Systems Delivery Stream"
+   },
+   "1433667900": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Summer Intern - Project Procurement"
+   },
+   "1433673100": {
+    "first_seen": "2026-11-21 09:19 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Summer Intern - System Test Engineering"
    },
    "1437457800": {
     "first_seen": "2026-11-19 08:49 UTC",
