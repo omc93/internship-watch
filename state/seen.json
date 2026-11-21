@@ -4862,6 +4862,12 @@
     "posted_raw": "2026-10-23T10:03:32.662+0000",
     "title": "Business Analyst Intern III, Summer 2027 (Remote)"
    },
+   "129504BR": {
+    "first_seen": "2026-11-21 05:26 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-11T05:02:31.715+0000",
+    "title": "Facilities Project Management Intern (Onsite) Summer 2027"
+   },
    "129576BR": {
     "first_seen": "2026-11-13 03:10 UTC",
     "last_seen": "2026-11-21",
@@ -4956,6 +4962,8 @@
    },
    "131092BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-11T05:02:31.715+0000",
     "title": "Software Engineering Intern III, Summer 2027 (Onsite)"
    },
    "131166BR": {
@@ -4982,6 +4990,8 @@
    },
    "131375BR": {
     "first_seen": "2026-11-10 18:53 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-11T05:02:31.622+0000",
     "title": "C4ISR - Software Engineering Intern, Summer 2027 (Onsite)"
    },
    "131389BR": {
@@ -5058,6 +5068,12 @@
     "posted_raw": "2026-11-11T05:02:31.621+0000",
     "title": "System Modeling Engineer Intern, Summer 2027"
    },
+   "131826BR": {
+    "first_seen": "2026-11-21 05:26 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-11T05:02:31.530+0000",
+    "title": "Business Operations Intern II (Fall 2026 - Spring 2027) Part-Time"
+   },
    "131949BR": {
     "first_seen": "2026-11-17 22:26 UTC",
     "last_seen": "2026-11-21",
@@ -5105,6 +5121,12 @@
     "last_seen": "2026-11-21",
     "posted_raw": "2026-11-11T05:02:31.499+0000",
     "title": "ECAD Designer Internship (Winter/Spring 2027)"
+   },
+   "132387BR": {
+    "first_seen": "2026-11-21 05:26 UTC",
+    "last_seen": "2026-11-21",
+    "posted_raw": "2026-11-11T05:02:31.499+0000",
+    "title": "Accounting Internship Winter 2027"
    }
   },
   "seeded": true
@@ -7572,7 +7594,7 @@
      "/job/Auburn-Hills---Michigan---USA/Global-Commodity-Intern_R2026-0340-1"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Global Commodity Intern"
    },
@@ -7581,7 +7603,7 @@
      "/job/Arden---North-Carolina---USA/IT-Technician-Intern_R2026-2600"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "IT Technician Intern"
    },
@@ -7599,7 +7621,7 @@
      "/job/Arden---North-Carolina---USA/Quality-Engineering-Intern_R2026-3555"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Quality Engineering Intern"
    },
@@ -7617,7 +7639,7 @@
      "/job/Bellwood---Illinois---USA/EHS-Intern_R2026-3646"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "EHS Intern"
    },
@@ -7626,7 +7648,7 @@
      "/job/Ithaca---New-York---USA/Engineering-Co-op-Spring-Summer-2027_R2026-3676"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Co-op Spring-Summer 2027"
    },
@@ -7662,7 +7684,7 @@
      "/job/Kokomo-Technical-Center---Indiana---USA/Finite-Element-Analysis-Intern_R2026-3932"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Finite Element Analysis Intern"
    },
@@ -7680,7 +7702,7 @@
      "/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Electronics Hardware Design Intern"
    },
@@ -7698,7 +7720,7 @@
      "/job/Kokomo-Technical-Center---Indiana---USA/Process-Methods---Tools-Intern_R2026-3945"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Process Methods & Tools Intern"
    },
@@ -7716,7 +7738,7 @@
      "/job/Auburn-Hills---Michigan---USA/HR-Intern_R2026-3968"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "HR Intern"
    },
@@ -7752,7 +7774,7 @@
      "/job/Bascharage---Luxembourg/Human-Resources-Intern_R2026-3997-1"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Human Resources Intern"
    },
@@ -7761,7 +7783,7 @@
      "/job/Arden---North-Carolina---USA/Program-Management-Intern_R2026-4004"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Program Management Intern"
    },
@@ -7797,8 +7819,8 @@
      "/job/Auburn-Hills---Michigan---USA/Operational-Excellence-Intern_R2026-4034-1"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 27 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Operational Excellence Intern"
    },
    "R2026-4037": {
@@ -7842,7 +7864,7 @@
      "/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "System Integration Intern"
    },
@@ -7860,8 +7882,8 @@
      "/job/Bascharage---Luxembourg/IT-Intern_R2026-4069"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "IT Intern"
    },
    "R2026-4081": {
@@ -7897,7 +7919,7 @@
      "/job/Kokomo-Technical-Center---Indiana---USA/eDrive-Engineering-Intern_R2026-4146-1"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "eDrive Engineering Intern"
    },
@@ -7924,8 +7946,8 @@
      "/job/Hendersonville---North-Carolina---USA/Operational-Excellence-Intern--Industrial-Solutions-_R2026-4234"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Operational Excellence Intern (Industrial Solutions)"
    },
    "R2026-4275": {
@@ -7942,8 +7964,8 @@
      "/job/Arden---North-Carolina---USA/HR-Intern_R2026-4332"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "HR Intern"
    },
    "R2026-4385": {
@@ -7960,8 +7982,8 @@
      "/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Manufacturing Execution System Intern"
    },
    "R2026-4467": {
@@ -7979,8 +8001,8 @@
      "/job/Auburn-Hills---Michigan---USA/Enterprise-Learning---Development-Intern_R2026-4469"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-21",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Enterprise Learning & Development Intern"
    },
    "R2026-4552": {
@@ -18780,7 +18802,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
