@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-21 20:32 UTC · **Leidos** · [Aerospace M&S Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00197493) · strong fit (aerospace hardware) | Huntsville, AL [US] | employer-reported Nov 20 | found Nov 21 02:32 PM CT | ID R-00197493 | open
 - 2026-11-21 09:19 UTC · **AMETEK** · [Engineering Intern - Eighty Four, PA](https://jobs.ametek.com/job/Eighty-Four-Engineering-Intern-Eighty-Four%2C-PA-PA-15330/1443019200/) · fit (general engineering) | Eighty Four, PA [US] | employer-reported Nov 21 | found Nov 21 03:19 AM CT | ID 1443019200 | open
 - 2026-11-21 09:19 UTC · **AMETEK** · [Engineering Intern - Hamilton Precision Metals](https://jobs.ametek.com/job/Lancaster-Engineering-Intern-Hamilton-Precision-Metals-PA-17601/1443019500/) · fit (general engineering) | Lancaster, PA [US] | employer-reported Nov 21 | found Nov 21 03:19 AM CT | ID 1443019500 | open
 - 2026-11-21 09:19 UTC · **AMETEK** · [Mechanical Engineering Intern - Summer 2027](https://jobs.ametek.com/job/Kent-Mechanical-Engineering-Intern-Summer-2027-OH-44240/1443123800/) · strong fit (mechanical) | Kent, OH [US] | employer-reported Nov 21 | found Nov 21 03:19 AM CT | ID 1443123800 | open
