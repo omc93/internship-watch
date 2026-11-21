@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-21 04:31 UTC · **Intel** · [Signal Integrity Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449) · fit (general engineering) | US, Arizona, Phoenix [US] | employer-reported Nov 20 | found Nov 20 10:31 PM CT | ID JR0289449 | open
 - 2026-11-21 01:21 UTC · **Regent Craft** · [Quality Intern](https://jobs.ashbyhq.com/REGENT/068d624a-7ff2-4023-b98c-0de32a84a03a) · fit (process / quality / materials) | North Kingstown, Rhode Island, USA [US] | employer-reported Nov 20 06:15 PM CT | found Nov 20 07:21 PM CT | ID 068d624a-7ff2-4023-b98c-0de32a84a03a | listed
 - 2026-11-21 01:21 UTC · **Volvo Group** · [Intern: Quality Engineer (Summer 2027)](https://jobs.volvogroup.com/job/Hagerstown-Intern-Quality-Engineer-%28Summer-2027%29-MD-21742/1377853555/) · fit (process / quality / materials) | Hagerstown, MD [US] | employer-reported Nov 21 | found Nov 20 07:21 PM CT | ID 1377853555 | open
 - 2026-11-20 22:19 UTC · **Howmet Aerospace** · [Process Engineer Co-Op](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120667) · fit (process / quality / materials) | LaPorte, IN, United States [US] | employer-reported Nov 20 | found Nov 20 04:19 PM CT | ID 120667 | listed
