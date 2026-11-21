@@ -14956,7 +14956,7 @@
      "/job/Subang/Intern---Quality-Control_R5042513-2"
     ],
     "first_seen": "2026-11-20 05:14 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "posted_raw": "Posted Today",
     "title": "Intern - Quality Control"
    },
@@ -18750,7 +18750,7 @@
    "10998": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "2026-05-12T00:00:00.000+0000",
+    "posted_raw": "2026-08-14T00:00:00.000+0000",
     "title": "Engineering Co-op/Intern - Summer 2027"
    },
    "10999": {
@@ -18780,7 +18780,7 @@
    "11375": {
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-21",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
    "12666": {
@@ -22994,6 +22994,11 @@
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-12",
     "title": "Systems Engineering Intern"
+   },
+   "https://careers.l3harris.com/en/job/tulsa/image-processing-engineer-intern/4832/102290200560": {
+    "first_seen": "2026-11-21 02:55 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Image Processing Engineer Intern"
    }
   },
   "seeded": true
@@ -23632,8 +23637,9 @@
     "first_seen": "2026-11-21 02:07 UTC",
     "last_seen": "2026-11-21",
     "posted_raw": "2026-11-20T20:44:12-05:00",
-    "title": "Intern, Exterior Design, Sumer 2027",
-    "updated_raw": "2026-11-20T20:44:12-05:00"
+    "title": "Intern, Exterior Design, Summer 2027",
+    "updated_raw": "2026-11-20T21:20:14-05:00",
+    "updated_seen": "2026-11-21"
    },
    "5290899007": {
     "first_seen": "2026-11-20 20:41 UTC",
@@ -43139,6 +43145,16 @@
     "last_seen": "2026-11-20",
     "title": "Customer Engineering Intern"
    },
+   "1441174633": {
+    "first_seen": "2026-11-21 02:55 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern/Student Accounting-Practicante"
+   },
+   "1441175733": {
+    "first_seen": "2026-11-21 02:55 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern/Student Accounting-Practicante"
+   },
    "1447746233": {
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-18",
@@ -43183,6 +43199,16 @@
     "first_seen": "2026-11-20 02:30 UTC",
     "last_seen": "2026-11-21",
     "title": "Commodity Buyer - Intern"
+   },
+   "1450835133": {
+    "first_seen": "2026-11-21 02:55 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern"
+   },
+   "1450914233": {
+    "first_seen": "2026-11-21 02:55 UTC",
+    "last_seen": "2026-11-21",
+    "title": "Intern Manufacturing"
    },
    "1455257433": {
     "first_seen": "2026-11-10 16:34 UTC",
