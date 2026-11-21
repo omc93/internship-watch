@@ -190,6 +190,8 @@
    "96826540": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Atlanta, Georgia, United States of America",
+    "posted_first": "2026-01-23",
     "posted_raw": "2026-01-23T00:00:00.000+0000",
     "title": "Sales Co-Op - Fall 2025"
    },
@@ -216,6 +218,8 @@
    "JR00044366": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mebane, North Carolina, United States of America",
+    "posted_first": "2026-09-01",
     "posted_raw": "2026-09-01T00:00:00.000+0000",
     "title": "Operational Excellence Intern - Summer 2027"
    },
@@ -328,6 +332,8 @@
    "JR00047437": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Cary, North Carolina, United States of America",
+    "posted_first": "2026-11-17",
     "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "Power BI Intern- Summer 2027"
    },
@@ -358,6 +364,8 @@
    "JR00048200": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Hackettstown, New Jersey, United States of America",
+    "posted_first": "2026-11-04",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "Finance Operations Intern – Summer 2027"
    },
@@ -372,6 +380,8 @@
    "JR00048202": {
     "first_seen": "2026-11-17 18:43 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Ormond Beach, Florida, United States of America",
+    "posted_first": "2026-11-17",
     "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "Finance Intern Ormond Beach – Summer 2027"
    },
@@ -392,12 +402,16 @@
    "JR00048328": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Cleveland, Ohio, United States of America",
+    "posted_first": "2026-11-09",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "Systems Engineering Intern - Summer 2027"
    },
    "JR00048430": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Raleigh, North Carolina, United States of America",
+    "posted_first": "2026-11-10",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "Multiphysics & Engineering Intern- Summer 2027"
    },
@@ -418,6 +432,8 @@
    "JR00048711": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Cary, North Carolina, United States of America",
+    "posted_first": "2026-11-04",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "AI Engineering, ERP Intern- Summer 2027"
    },
@@ -432,6 +448,8 @@
    "JR00048714": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Cary, North Carolina, United States of America",
+    "posted_first": "2026-11-04",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
     "title": "AI Engineering, Business Systems Intern- Summer 2027"
    },
@@ -452,6 +470,8 @@
    "JR00049799": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mebane, North Carolina, United States of America",
+    "posted_first": "2026-10-28",
     "posted_raw": "2026-10-28T00:00:00.000+0000",
     "title": "Health, Safety & Environment Intern Mebane, NC - Summer"
    },
@@ -464,6 +484,8 @@
    "JR00049918": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Pinetops, North Carolina, United States of America",
+    "posted_first": "2026-11-09",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "Environmental Specialist Intern- Summer 2027"
    },
@@ -508,24 +530,32 @@
    "JR00050987": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Cary, North Carolina, United States of America",
+    "posted_first": "2026-11-16",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Sales Excellence Data Analytics Intern - Summer 2027"
    },
    "JR00051089": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mebane, North Carolina, United States of America",
+    "posted_first": "2026-11-09",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "Mechanical Engineering Co-op- Summer 2027"
    },
    "JR00051091": {
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mebane, North Carolina, United States of America",
+    "posted_first": "2026-11-12",
     "posted_raw": "2026-11-12T00:00:00.000+0000",
     "title": "Electrical Engineering Co-op- Summer 2027"
    },
    "JR00051359": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Quincy, Massachusetts, United States of America",
+    "posted_first": "2026-11-16",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Engineering Sales Intern - Summer 2027"
    },
@@ -540,6 +570,8 @@
    "JR00052675": {
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Richmond, Virginia, United States of America",
+    "posted_first": "2026-11-12",
     "posted_raw": "2026-11-12T00:00:00.000+0000",
     "title": "Lean Challenge Intern Richmond, VA - Summer 2027"
    }
@@ -1249,6 +1281,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-21",
+    "loc": "United States > Madison : 1 Exact Lane",
     "posted_raw": "Posted 2 Days Ago",
     "title": "2027 Sales Cancer Diagnostics Intern"
    },
@@ -2312,6 +2345,7 @@
     ],
     "first_seen": "2026-11-20 23:06 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Sevilla - San Pablo",
     "posted_raw": "Posted Yesterday",
     "title": "#Discover I 2027-2028 OSD Flight Crew for the A400M Internship"
    },
@@ -17634,6 +17668,7 @@
     ],
     "first_seen": "2026-11-20 05:14 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Subang",
     "posted_raw": "Posted Yesterday",
     "title": "Intern - Quality Control"
    },
@@ -17826,6 +17861,7 @@
     ],
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-21",
+    "loc": "11 Locations",
     "posted_raw": "Posted Yesterday",
     "title": "Operations Management Leadership Program - Internship"
    },
@@ -18122,6 +18158,7 @@
     ],
     "first_seen": "2026-11-19 21:21 UTC",
     "last_seen": "2026-11-21",
+    "loc": "2 Locations",
     "posted_raw": "Posted 2 Days Ago",
     "title": "GE Vernova Systems Architecture Intern – 2027"
    },
@@ -18572,6 +18609,7 @@
     ],
     "first_seen": "2026-11-19 21:21 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Findlay Township",
     "posted_raw": "Posted 2 Days Ago",
     "title": "GE Vernova PCS Sourcing & Procurement Internship - Summer 2027"
    },
@@ -18662,6 +18700,7 @@
     ],
     "first_seen": "2026-11-20 21:31 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Longmont",
     "posted_raw": "Posted Yesterday",
     "title": "GE Vernova - SCS - Facility Maintenance Internship Summer 2026"
    },
@@ -18707,6 +18746,7 @@
     ],
     "first_seen": "2026-11-20 21:31 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Schenectady",
     "posted_raw": "Posted Yesterday",
     "title": "GEV Cores and Castings Materials Internship – 2027"
    }
@@ -22971,12 +23011,16 @@
    "JR10284": {
     "first_seen": "2026-11-13 18:27 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-11-12",
     "posted_raw": "2026-11-12T00:00:00.000+0000",
     "title": "Industrial Engineering Co-Op Intern"
    },
    "JR10290": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-09-28",
     "posted_raw": "2026-09-28T00:00:00.000+0000",
     "title": "Marketing Co-Op Intern"
    },
@@ -23029,6 +23073,8 @@
    "JR10591": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Kernersville, North Carolina, United States of America",
+    "posted_first": "2026-10-28",
     "posted_raw": "2026-10-28T00:00:00.000+0000",
     "title": "Textile Engineer Intern"
    },
@@ -23043,6 +23089,8 @@
    "JR10791": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-10-23",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
     "title": "Marketing Intern"
    },
@@ -23105,6 +23153,8 @@
    "JR10836": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-10-26",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "R&D Technical Services Intern"
    },
@@ -23119,6 +23169,8 @@
    "JR11018": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Orlando, Florida, United States of America",
+    "posted_first": "2026-11-06",
     "posted_raw": "2026-11-06T00:00:00.000+0000",
     "title": "Structural Engineering Intern"
    },
@@ -23141,12 +23193,16 @@
    "JR11135": {
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-11-11",
     "posted_raw": "2026-11-11T00:00:00.000+0000",
     "title": "Quality Engineering Intern"
    },
    "JR11144": {
     "first_seen": "2026-11-16 22:58 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Danvers, Massachusetts, United States of America",
+    "posted_first": "2026-11-16",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
     "title": "Engineering - Co-Op Intern"
    },
@@ -30707,6 +30763,7 @@
     ],
     "first_seen": "2026-11-21 06:49 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US, CA, Santa Clara",
     "posted_raw": "Posted Yesterday",
     "title": "Accounting AI Solution Engineer Intern - Summer 2027"
    },
@@ -30743,6 +30800,7 @@
     ],
     "first_seen": "2026-11-21 05:55 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US, CA, Santa Clara",
     "posted_raw": "Posted Yesterday",
     "title": "Product Marketing Intern, DGX Products - Summer 2027"
    },
@@ -30834,6 +30892,7 @@
     ],
     "first_seen": "2026-11-21 06:49 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US, CA, Santa Clara",
     "posted_raw": "Posted Yesterday",
     "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027"
    },
@@ -39030,6 +39089,7 @@
     ],
     "first_seen": "2026-11-20 16:42 UTC",
     "last_seen": "2026-11-21",
+    "loc": "6555 Excellence Way, Plano, TX, USA",
     "posted_raw": "Posted Yesterday",
     "title": "Product Management Tools and Automation Intern"
    },
@@ -39039,6 +39099,7 @@
     ],
     "first_seen": "2026-11-19 22:14 UTC",
     "last_seen": "2026-11-21",
+    "loc": "6555 Excellence Way, Plano, TX, USA",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Business Operations & Data Analytics Intern"
    },
@@ -45502,12 +45563,16 @@
    "JR-13336": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Duluth, Georgia, United States of America",
+    "posted_first": "2026-10-07",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
     "title": "Sales Intern"
    },
    "JR-13579": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Charlotte, North Carolina, United States of America",
+    "posted_first": "2026-10-07",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
     "title": "Sales Intern"
    },
@@ -45520,6 +45585,8 @@
    "JR-15042": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Maitland, Florida, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -45532,6 +45599,8 @@
    "JR-15046": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Jacksonville, Florida, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -45558,12 +45627,16 @@
    "JR-15052": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Maitland, Florida, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    },
    "JR-15053": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Jacksonville, Florida, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    },
@@ -45600,6 +45673,8 @@
    "JR-15072": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Columbus, Ohio, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -45622,12 +45697,16 @@
    "JR-15078": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Moon Township, Pennsylvania, United States of America",
+    "posted_first": "2026-11-09",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15079": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Moon Township, Pennsylvania, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -45670,48 +45749,64 @@
    "JR-15104": {
     "first_seen": "2026-11-18 23:45 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Pine Brook, New Jersey, United States of America",
+    "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15106": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Long Island City, New York, United States of America",
+    "posted_first": "2026-11-10",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15107": {
     "first_seen": "2026-11-18 23:45 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Pine Brook, New Jersey, United States of America",
+    "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15109": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Buffalo, New York, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15110": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Rochester, New York, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15111": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Latham, New York, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15114": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Wilmington, Massachusetts, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15115": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "East Syracuse, New York, United States of America",
+    "posted_first": "2026-10-14",
     "posted_raw": "2026-10-14T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -45724,60 +45819,80 @@
    "JR-15117": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Rocky Hill, Connecticut, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15131": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Davidson, North Carolina, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15135": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Ashland, Virginia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15136": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Ashland, Virginia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15151": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "King of Prussia, Pennsylvania, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15152": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Chesapeake, Virginia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15154": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mechanicsburg, Pennsylvania, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Controls"
    },
    "JR-15155": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Mechanicsburg, Pennsylvania, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15157": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "King of Prussia, Pennsylvania, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15158": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Chesapeake, Virginia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -45792,6 +45907,8 @@
    "JR-15161": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Chesapeake, Virginia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Energy Engineering Intern"
    },
@@ -45904,6 +46021,8 @@
    "JR-15261": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "West Columbia, South Carolina, United States of America",
+    "posted_first": "2026-11-11",
     "posted_raw": "2026-11-11T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Controls",
     "updated_seen": "2026-11-12"
@@ -45911,6 +46030,8 @@
    "JR-15264": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Charlotte, North Carolina, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -45925,6 +46046,8 @@
    "JR-15267": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Atlanta, Georgia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -45947,30 +46070,40 @@
    "JR-15270": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Greenville, South Carolina, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15271": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Birmingham, Alabama, United States of America",
+    "posted_first": "2026-10-20",
     "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15272": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Birmingham, Alabama, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15278": {
     "first_seen": "2026-11-18 20:02 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Atlanta, Georgia, United States of America",
+    "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
    "JR-15279": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Charlotte, North Carolina, United States of America",
+    "posted_first": "2026-10-20",
     "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
@@ -45991,12 +46124,16 @@
    "JR-15283": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Augusta, Georgia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Services"
    },
    "JR-15286": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Atlanta, Georgia, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    },
@@ -46139,6 +46276,8 @@
    "JR-16956": {
     "first_seen": "2026-11-10 21:54 UTC",
     "last_seen": "2026-11-21",
+    "loc": "King of Prussia, Pennsylvania, United States of America",
+    "posted_first": "2026-10-04",
     "posted_raw": "2026-10-04T00:00:00.000+0000",
     "title": "Intern-Controls Technician -King of Prussia, PA"
    },
@@ -46161,6 +46300,8 @@
    "JR-17836": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Ashland, Virginia, United States of America",
+    "posted_first": "2026-10-23",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern-1"
    },
@@ -46173,6 +46314,8 @@
    "JR-18406": {
     "first_seen": "2026-11-10 20:56 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Towson, Maryland, United States of America",
+    "posted_first": "2026-10-27",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -46193,6 +46336,8 @@
    "JR-18684": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Greenville, South Carolina, United States of America",
+    "posted_first": "2026-10-26",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
     "title": "Engineering Intern"
    },
@@ -46207,12 +46352,16 @@
    "JR-18912": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Greenville, South Carolina, United States of America",
+    "posted_first": "2026-10-27",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
     "title": "Quality Engineer Intern"
    },
    "JR-18914": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Greenville, South Carolina, United States of America",
+    "posted_first": "2026-11-02",
     "posted_raw": "2026-11-02T00:00:00.000+0000",
     "title": "Engineering Intern"
    },
@@ -46239,6 +46388,8 @@
    "JR-19889": {
     "first_seen": "2026-11-14 11:05 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Davidson, North Carolina, United States of America",
+    "posted_first": "2026-11-13",
     "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Logistics Intern"
    },
@@ -46333,6 +46484,8 @@
    "JR-9972": {
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Knoxville, Tennessee, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Construction Project Management Intern"
    }
@@ -46751,6 +46904,7 @@
     ],
     "first_seen": "2026-11-20 23:06 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Troy, MI",
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineering Co-Op (Software)"
    },
@@ -46940,6 +47094,7 @@
     ],
     "first_seen": "2026-11-19 17:12 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Reno, NV",
     "posted_raw": "Posted 2 Days Ago",
     "title": "VPS Engineering Intern (12 Months in Duration)"
    },
