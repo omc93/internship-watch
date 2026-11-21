@@ -5618,6 +5618,8 @@
    "132387BR": {
     "first_seen": "2026-11-21 05:26 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Kingsport, Tennessee, United States",
+    "posted_first": "2026-11-10",
     "posted_raw": "2026-11-11T05:02:31.499+0000",
     "title": "Accounting Internship Winter 2027"
    }
@@ -13429,13 +13431,24 @@
     "posted_raw": "Posted 10 Days Ago",
     "title": "CNC Machinist Intern"
    },
+   "JR102893": {
+    "aliases": [
+     "/job/Piqua-Ohio/Finance-Intern_JR102893"
+    ],
+    "first_seen": "2026-11-21 23:45 UTC",
+    "last_seen": "2026-11-21",
+    "loc": "Piqua, Ohio",
+    "posted_raw": "Posted Yesterday",
+    "title": "Finance Intern"
+   },
    "JR102918": {
     "aliases": [
      "/job/Jurupa-Valley-California/Finance-Intern--Part-Time-_JR102918"
     ],
     "first_seen": "2026-11-18 01:17 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Jurupa Valley, California",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Finance Intern (Part-Time)"
    }
   },
@@ -17779,6 +17792,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-21",
+    "loc": "2 Locations",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Co-op/Intern"
    },
@@ -17815,6 +17829,7 @@
     ],
     "first_seen": "2026-11-20 16:18 UTC",
     "last_seen": "2026-11-21",
+    "loc": "USA, Louisville, KY",
     "posted_raw": "Posted Yesterday",
     "title": "Finance Internship (Summer 2027)"
    }
@@ -33847,6 +33862,7 @@
     ],
     "first_seen": "2026-11-20 21:31 UTC",
     "last_seen": "2026-11-21",
+    "loc": "OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA",
     "posted_raw": "Posted Yesterday",
     "title": "Data Science & Analytics Intern"
    },
@@ -33874,6 +33890,7 @@
     ],
     "first_seen": "2026-11-19 16:31 UTC",
     "last_seen": "2026-11-21",
+    "loc": "OT363: SO - Phoenix, AZ 4405 East Baseline Rd, Phoenix, AZ, 85042 USA",
     "posted_raw": "Posted 2 Days Ago",
     "title": "Sales Intern"
    }
@@ -37424,6 +37441,7 @@
     ],
     "first_seen": "2026-11-20 19:39 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
     "posted_raw": "Posted Yesterday",
     "title": "Electrical Engineering Co-op (Winter/Spring 2027)"
    },
@@ -37433,6 +37451,7 @@
     ],
     "first_seen": "2026-11-20 19:39 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US-OH-TROY-101 ~ 101 Waco St ~ WACO",
     "posted_raw": "Posted Yesterday",
     "title": "Project Engineering Intern (Summer 2027)"
    }
@@ -41610,8 +41629,9 @@
      "/job/New-Britain-CT-United-States/Stanley-Black---Decker-Intern---Finance---Hybrid_REQ-1000051905"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "2 Locations",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Stanley Black & Decker Intern – Finance – Hybrid"
    },
    "REQ-1000052018": {
@@ -41619,7 +41639,8 @@
      "/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Electrical Engineering Intern Summer 2027"
    },
@@ -41628,7 +41649,8 @@
      "/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Embedded Engineering Summer Intern 2027"
    },
@@ -41637,8 +41659,9 @@
      "/job/Brewster-NY-United-States/DEWALT-ANF-Engineering-Intern--Summer-2027_REQ-1000052306"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 30 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Brewster, NY, United States",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "DEWALT ANF Engineering Intern, Summer 2027"
    },
    "REQ-1000052481": {
@@ -41646,8 +41669,9 @@
      "/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481"
     ],
     "first_seen": "2026-11-13 03:10 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Intern, Data Analyst & BI, Summer 2027"
    },
    "REQ-1000052535": {
@@ -41655,8 +41679,9 @@
      "/job/Towson-MD-United-States/Design-To-Value-Engineering-Intern---Summer-2027_REQ-1000052535"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 29 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 30 Days Ago",
     "title": "Design-To-Value Engineering Intern - Summer 2027"
    },
    "REQ-1000052665": {
@@ -41664,8 +41689,9 @@
      "/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Industrial Design Engineering Intern, 3D Surfacing - Summer 2027"
    },
    "REQ-1000052666": {
@@ -41673,8 +41699,9 @@
      "/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Industrial Design Engineering Intern - Summer 2027"
    },
    "REQ-1000052705": {
@@ -41682,8 +41709,9 @@
      "/job/Towson-MD-United-States/PMO-Engineering-Intern---Summer-2027_REQ-1000052705"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 29 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 30 Days Ago",
     "title": "PMO Engineering Intern – Summer 2027"
    },
    "REQ-1000052712": {
@@ -41691,8 +41719,9 @@
      "/job/Valley-City-OH-United-States/Engineering-Intern--Industrial-Design-3D-Surfacing---Summer-2027_REQ-1000052712"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Valley City, OH, United States",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Engineering Intern, Industrial Design 3D Surfacing - Summer 2027"
    },
    "REQ-1000052790": {
@@ -41700,7 +41729,8 @@
      "/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
+    "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer Intern 2027 - Industrial Design 3D Surfacing"
    },
@@ -41709,8 +41739,9 @@
      "/job/Towson-MD-United-States/Packaging-Science-Engineering-Intern--Graphics-Graphic-Design---Summer-2027_REQ-1000052821"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 30 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027"
    },
    "REQ-1000052823": {
@@ -41718,8 +41749,9 @@
      "/job/Towson-MD-United-States/Packaging-Engineering-Intern---Summer-2027_REQ-1000052823"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 30 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Packaging Engineering Intern - Summer 2027"
    },
    "REQ-1000052835": {
@@ -41750,6 +41782,7 @@
     ],
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Valley City, OH, United States",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Co-Op; Summer and Fall 2027"
    },
@@ -41758,8 +41791,9 @@
      "/job/Towson-MD-United-States/Engineering-Intern--Prototyping---Summer-2027_REQ-1000052890"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Towson, MD, United States",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Engineering Intern, Prototyping - Summer 2027"
    },
    "REQ-1000052988": {
@@ -41767,8 +41801,9 @@
      "/job/Nova-Scotia-Canada---Remote/Field-Marketing-Coordinator-Intern---Halifax_REQ-1000052988"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-21",
+    "loc": "Nova Scotia Canada - Remote",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Field Marketing Coordinator Intern - Halifax"
    }
   },
@@ -43571,6 +43606,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US-SD Watertown",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Engineer Intern"
    },
@@ -43580,6 +43616,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-21",
+    "loc": "US-SD Watertown",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Design Engineer Intern"
    },
@@ -43589,6 +43626,7 @@
     ],
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-21",
+    "loc": "USA, SD, Watertown",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "ME Intern, Training, Part-time"
    },
@@ -46176,6 +46214,8 @@
    "JR-15314": {
     "first_seen": "2026-11-10 20:50 UTC",
     "last_seen": "2026-11-21",
+    "loc": "Metairie, Louisiana, United States of America",
+    "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
     "title": "2027 Technical Sales Intern - Equipment"
    },
@@ -47158,7 +47198,8 @@
      "/job/Remote-United-States/AI-Engineer-Intern_R24605"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-21",
+    "loc": "Remote (United States)",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Engineer Intern"
    }
