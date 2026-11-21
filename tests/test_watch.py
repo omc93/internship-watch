@@ -57,14 +57,36 @@ class Dates(unittest.TestCase):
         from datetime import timedelta
         since = NOW - timedelta(days=4)                      # company unreachable for 4 days
         self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW), "old")
-        self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW, since), "recent")
+        self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW, since), "catch-up")
+        self.assertEqual(triage.recency("2026-11-07", "today", NOW, since), "catch-up")
         self.assertEqual(triage.recency("2026-11-01", "last_48_hours", NOW, since), "old")
         self.assertEqual(triage.recency("2026-11-07", "last_48_hours", NOW, NOW - timedelta(hours=2)), "old")
+
+    def test_outage_catch_up_goes_to_review_not_a_phone_alert(self):
+        from datetime import timedelta
+        p = {"title": "Mechanical Engineering Intern", "location": "Austin, TX", "posted": "2026-11-08",
+             "id": "1", "since": NOW - timedelta(days=4)}
+        bucket, why = triage.classify(p, "today", NOW)
+        self.assertEqual(bucket, "review")
+        self.assertIn("could not be read", why[0])
+
+    def test_today_mode_is_same_day(self):
+        from datetime import timedelta
+        self.assertEqual(triage.recency("2026-11-10", "today", NOW), "recent")
+        self.assertEqual(triage.recency("2026-11-11", "today", NOW), "recent")     # UTC-stamped date
+        self.assertEqual(triage.recency("2026-11-09", "today", NOW), "late")      # review, not alert
+        self.assertEqual(triage.recency("2026-11-08", "today", NOW), "old")
+        early = datetime(2026, 11, 11, 8, 0, tzinfo=timezone.utc)                  # 2 AM Chicago
+        self.assertEqual(triage.recency("2026-11-10", "today", early), "recent")  # late-night post
+        ts = lambda h: (NOW - timedelta(hours=h)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        self.assertEqual(triage.recency(ts(20), "today", NOW), "recent")
+        self.assertEqual(triage.recency(ts(30), "today", NOW), "late")
+        self.assertEqual(triage.recency(ts(50), "today", NOW), "old")
 
     def test_date_only_in_48_hour_mode_means_today_or_yesterday(self):
         self.assertEqual(triage.recency("2026-11-09", "last_48_hours", NOW), "recent")
         self.assertEqual(triage.recency("2026-11-08", "last_48_hours", NOW), "old")
-        self.assertEqual(triage.recency("2026-11-09", "today", NOW), "old")
+        self.assertEqual(triage.recency("2026-11-09", "today", NOW), "late")
 
 
 class Country(unittest.TestCase):
@@ -130,7 +152,7 @@ class Pages(unittest.TestCase):
         self.assertEqual(triage.page_status(ok, "Intern, Electromechanical Design", "15387"), "open")
 
 
-def run_flow(test, http_fake, companies, runs=1, mode="last_48_hours"):
+def run_flow(test, http_fake, companies, runs=1, mode="today"):
     """Run watch.main() against fake sites. Returns (notifications, state dir)."""
     work = tempfile.mkdtemp()
     test.addCleanup(shutil.rmtree, work, True)
@@ -234,6 +256,19 @@ class Flow(unittest.TestCase):
         self.assertIn("Same posting, new term", sent[0][1])
         self.round = 2; watch.main()
         self.assertEqual(len(sent), 1)                          # not repeated
+
+    def test_term_change_after_a_gap_goes_to_review(self):
+        a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
+        a2 = self.job("JR1001", "Internship - Mechanical Engineering - Summer 2027", "/job/TX/Mech_JR1001")
+        sent, work = run_flow(self, self.workday([[a], [a2]]), [WD])
+        watch.main()
+        seen = json.load(open(watch.SEEN_FILE))
+        seen["Acme Space"]["ids"]["JR1001"]["last_seen"] = "2026-10-01"   # not on the last read
+        json.dump(seen, open(watch.SEEN_FILE, "w"))
+        self.round = 1; watch.main()
+        self.assertEqual(len(sent), 1)
+        self.assertTrue(sent[0][0].startswith("To review"))
+        self.assertIn("old title was not on the previous read", sent[0][1])
 
     def test_workday_rate_limit_is_not_a_company_failure(self):
         def limited(url, data=None, headers=None, method=None, as_json=True):
@@ -349,6 +384,91 @@ class Flow(unittest.TestCase):
         self.assertIn("Mechanical Design", sent[0][0])
         self.assertEqual(sent[0][2], f"{base}/job/Intern-Mechanical-Design/15387-en_US/")
         self.assertIn("Wichita, KS, US [US]", sent[0][1])
+
+
+class RefreshedDates(unittest.TestCase):
+    """AMETEK, Nov 21 2026: SuccessFactors re-dated October roles to "today". The checker had
+    never recorded them (it read only the newest 50 results), so they were alerted as new."""
+    BASE = "https://jobs.ametek.com"
+
+    def site(self, rounds):
+        today = datetime.now(timezone.utc).astimezone(triage.LOCAL_TZ).strftime("%a %b %d 08:00:00 UTC %Y")
+
+        def fake(url, data=None, headers=None, method=None, as_json=True):
+            if url.endswith("/services/recruiting/v1/jobs"):
+                if data["keywords"] != "intern" or data["pageNumber"] != 0:
+                    return {"jobSearchResult": []}
+                return {"jobSearchResult": [{"response": dict(j, unifiedStandardStart=today,
+                                                              jobLocationShort=["Kent, OH, US"])}
+                                            for j in rounds[self.round]]}
+            m = [j for j in rounds[self.round] if url.startswith(f"{self.BASE}/job/{j['urlTitle']}/{j['id']}")]
+            if m:
+                return (f"<html><h1>{m[0]['title']}</h1><span class='jobGeoLocation'>Kent, OH, US</span>"
+                        f"<a>Apply now</a></html>", url)
+            not_found(url)
+        return fake
+
+    def test_ametek_kent_redated_roles_do_not_alert(self):
+        from datetime import timedelta
+        self.round = 0
+        known = [{"id": 1451884200, "title": "Engineering Intern", "urlTitle": "Engineering-Intern"},
+                 {"id": 1452079200, "title": "Manufacturing Engineer Spring Intern", "urlTitle": "Mfg"}]
+        redated = [{"id": 1443123800, "title": "Mechanical Engineering Intern - Summer 2027", "urlTitle": "Kent-ME-Summer"},
+                   {"id": 1443124800, "title": "Mechanical Engineering Intern - Spring 2027", "urlTitle": "Kent-ME-Spring"}]
+        sf = dict(name="AMETEK", careers="x", group="g", ats=("successfactors", self.BASE))
+        sent, work = run_flow(self, self.site([known, known + redated]), [sf])
+        watch.main()
+        seen = json.load(open(watch.SEEN_FILE))
+        week_ago = (datetime.now(timezone.utc) - timedelta(days=4)).strftime("%Y-%m-%d %H:%M UTC")
+        for rec in seen["AMETEK"]["ids"].values():
+            rec["first_seen"] = week_ago
+        json.dump(seen, open(watch.SEEN_FILE, "w"))
+        self.round = 1
+        watch.main()
+        self.assertFalse([t for t, *_ in sent if not t.startswith("To review")], sent)   # no phone alert
+        audit = {a["id"]: a for a in map(json.loads, open(watch.AUDIT_FILE))}
+        for rid in ("1443123800", "1443124800"):
+            self.assertEqual(audit[rid]["decision"], "review")
+            self.assertTrue(any("older role" in r for r in audit[rid]["decision_reasons"]), audit[rid])
+
+    def test_genuinely_new_successfactors_role_still_alerts(self):
+        from datetime import timedelta
+        self.round = 0
+        known = [{"id": 1451884200, "title": "Engineering Intern", "urlTitle": "Engineering-Intern"},
+                 {"id": 1452079200, "title": "Manufacturing Engineer Spring Intern", "urlTitle": "Mfg"}]
+        new = [{"id": 1453000100, "title": "Mechanical Engineering Intern - Summer 2027", "urlTitle": "Kent-ME"}]
+        sf = dict(name="AMETEK", careers="x", group="g", ats=("successfactors", self.BASE))
+        sent, _ = run_flow(self, self.site([known, known + new]), [sf])
+        watch.main()
+        seen = json.load(open(watch.SEEN_FILE))
+        for rec in seen["AMETEK"]["ids"].values():
+            rec["first_seen"] = (datetime.now(timezone.utc) - timedelta(days=4)).strftime("%Y-%m-%d %H:%M UTC")
+        json.dump(seen, open(watch.SEEN_FILE, "w"))
+        self.round = 1
+        watch.main()
+        self.assertEqual(len(sent), 1)
+        self.assertIn("Mechanical Engineering Intern - Summer 2027", sent[0][0])
+
+    def test_reposted_role_with_same_title_goes_to_review(self):
+        from datetime import timedelta
+        old = {"title": "Mechanical Engineering Intern - Summer 2027", "location": "Kent, OH"}
+        ids = {"111": {"title": old["title"], "loc": "Kent, OH",
+                       "first_seen": (NOW - timedelta(days=30)).strftime("%Y-%m-%d %H:%M UTC")}}
+        p = dict(old, id="222")
+        self.assertTrue(watch.older_evidence("lever", p, ids, {"222"}, NOW))
+        self.assertFalse(watch.older_evidence("lever", p, ids, {"111", "222"}, NOW))  # both open: 2 openings
+
+    def test_one_company_cannot_borrow_another_companys_job_site(self):
+        cos = [dict(name="Gentherm", careers="https://gentherm.com/careers/"),
+               dict(name="Modine", careers="https://www.modine.com/careers/")]
+        site = ["successfactors", "https://careers.gentherm.com"]
+        resolved = {"Gentherm": {"ats": site}, "Modine": {"ats": site}}
+        watch._ATS_OWNER.clear(); watch._ATS_OWNER.update(watch.ats_owners(cos, resolved))
+        self.addCleanup(watch._ATS_OWNER.clear)
+        self.assertEqual(watch._foreign("Modine", site), "Gentherm")
+        self.assertIsNone(watch._foreign("Gentherm", site))
+        r = watch.check(cos[1], resolved)
+        self.assertEqual((r["status"], r.get("drop_cache")), ("unresolved", True))
 
 
 if __name__ == "__main__":

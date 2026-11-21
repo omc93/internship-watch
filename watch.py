@@ -23,7 +23,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import triage
 from companies import COMPANIES
@@ -43,7 +43,7 @@ TIMEOUT = 25
 #   newly_discovered  anything not seen before, whatever its date
 # Postings with no usable date, unknown country, or an uncertain fit go to a
 # separate review digest instead of being passed off as recent.
-ALERT_MODE = os.environ.get("ALERT_MODE") or "last_48_hours"
+ALERT_MODE = os.environ.get("ALERT_MODE") or "today"
 # Optional private list of requisition IDs you already handled (GitHub secret
 # HANDLED_IDS, separated by commas or new lines). Never commit this to the repo.
 HANDLED = {x.strip() for x in re.split(r"[,\n]", os.environ.get("HANDLED_IDS", "")) if x.strip()}
@@ -56,6 +56,8 @@ REDISCOVER_HOURS = 24
 # Bump when search logic changes, so companies re-record silently instead of
 # alerting on postings that were there all along.
 SEARCH_VERSION = 3
+# Per job system: bumping one re-records only that system's companies (silently).
+KIND_VERSION = {"successfactors": 2, "taleo": 2}
 
 INTERN_RE = re.compile(r"\b(intern|interns|internship|internships|co-?op|coop)\b", re.I)
 EXCLUDE_RE = re.compile(r"\b(high school|internal|international|skillbridge)\b|"
@@ -461,7 +463,7 @@ def fetch_successfactors(base):
     for kw in ("intern", "internship", "co-op"):
         # Newer "Career Site Builder" sites load results from this JSON service.
         try:
-            for page_no in range(0, 5):
+            for page_no in range(0, 25):     # read the whole list, not just the newest few
                 d = http(f"{base}/services/recruiting/v1/jobs",
                          {"locale": "en_US", "pageNumber": page_no, "sortBy": "date",
                           "keywords": kw, "location": "", "facetFilters": {}, "brand": "",
@@ -483,7 +485,7 @@ def fetch_successfactors(base):
         if out:
             continue
         # Classic sites render results as HTML.
-        for start in (0, 25, 50, 75):
+        for start in range(0, 250, 25):
             page, final = http(f"{base}/search/?q={kw}&sortColumn=referencedate&sortDirection=desc"
                                f"&startrow={start}", as_json=False)
             found = links_from(page, final, r"/job/[^/]+/\d+(?:-[a-z]{2}_[A-Z]{2})?/?$")
@@ -554,7 +556,7 @@ def fetch_taleo(host, section):
         raise ValueError("Taleo portal number not found")
     out = {}
     for kw in ("intern", "co-op"):
-        for page_no in (1, 2, 3):
+        for page_no in range(1, 11):
             body = {"multilineEnabled": False,
                     "sortingSelection": {"sortBySelectionParam": "3", "ascendingSortingOrder": "false"},
                     "fieldData": {"fields": {"KEYWORD": kw, "LOCATION": ""}, "valid": True},
@@ -997,14 +999,51 @@ def enrich(kind, p):
     return p
 
 
+_ATS_OWNER = {}     # job site -> the company it belongs to (set in main)
+_GENERIC = {"www", "careers", "jobs", "group", "technologies", "systems", "aerospace", "motors",
+            "corp", "company", "international", "industries", "robotics", "space"}
+
+
+def _name_tokens(c):
+    words = re.findall(r"[a-z0-9]+", re.sub(r"\(.*?\)", "", c["name"]).lower())
+    host = urllib.parse.urlparse(c.get("careers", "")).netloc.lower().split(".")
+    return {w for w in words + host if len(w) >= 4 and w not in _GENERIC}
+
+
+def ats_owners(companies, resolved):
+    """Which company each known job site belongs to: its configured company, or the one
+    whose name appears in it. Used so discovery cannot hand one company another's jobs
+    (e.g. a careers page that links to a parent's or a partner's job board)."""
+    owner = {}
+    for c in companies:
+        a = c.get("ats")
+        if a and a[0] != "none":
+            owner[json.dumps(list(a))] = c["name"]
+    for c in companies:
+        a = resolved.get(c["name"], {}).get("ats")
+        key = json.dumps(list(a)) if a else ""
+        if a and a[0] != "none" and key not in owner and any(t in key.lower() for t in _name_tokens(c)):
+            owner[key] = c["name"]
+    return owner
+
+
+def _foreign(name, ats):
+    o = _ATS_OWNER.get(json.dumps(list(ats)))
+    return o if o and o != name else None
+
+
 def check(company, resolved):
     """Returns dict(status, ats, jobs, note)."""
     name = company["name"]
     ats = company.get("ats")
     if ats and ats[0] == "none":
         return {"status": "skipped", "note": ats[1], "jobs": []}
+    cached = resolved.get(name, {}).get("ats")
+    if cached and _foreign(name, cached):
+        return {"status": "unresolved", "jobs": [], "drop_cache": True, "discovery_failed": True,
+                "note": f"careers page led to {_foreign(name, cached)}'s job site, not {name}'s"}
     errors = []
-    for source, cand in (("config", ats), ("cache", resolved.get(name, {}).get("ats"))):
+    for source, cand in (("config", ats), ("cache", cached)):
         if not cand:
             continue
         cand = tuple(cand)
@@ -1020,12 +1059,49 @@ def check(company, resolved):
         return {"status": "unresolved", "note": resolved[name].get("note", ""), "jobs": []}
     try:
         found, jobs, note = discover(company)
+        if _foreign(name, found):
+            return {"status": "unresolved", "jobs": [], "discovery_failed": True,
+                    "note": f"careers page led to {_foreign(name, found)}'s job site, not {name}'s"}
         return {"status": "ok", "ats": list(found), "jobs": jobs, "note": note,
                 "discovered": True}
     except Exception as e:
         errors.append(str(e)[:200])
         return {"status": "error", "note": " | ".join(errors), "jobs": [],
                 "discovery_failed": True}
+
+
+def older_evidence(kind, p, ids, present, now_dt):
+    """Signs that a posting this checker has never seen is really an older role whose
+    date was refreshed. Any hit sends it to review instead of a phone alert."""
+    out = []
+    pid = str(p["id"])
+    cutoff = (now_dt - timedelta(days=2)).strftime("%Y-%m-%d %H:%M UTC")
+    if kind == "successfactors" and pid.isdigit():
+        # SuccessFactors hands out these job ids in posting order, so an id lower than
+        # roles recorded days ago belongs to an older posting with a refreshed date.
+        newer = [k for k, v in ids.items() if k != pid and k.isdigit() and len(k) == len(pid)
+                 and int(k) > int(pid) and v.get("first_seen", "~") <= cutoff]
+        if len(newer) >= 2:
+            first = min(ids[k]["first_seen"][:10] for k in newer)
+            out.append(f"job ID is older than {len(newer)} postings recorded here since {first}; "
+                       "likely an older role with a refreshed date")
+
+    def norm(t):
+        return re.sub(r"\W+", " ", (t or "").lower()).strip()
+    for k, v in ids.items():
+        if k == pid or k in present or v.get("first_seen", "~") > cutoff:
+            continue
+        if norm(v.get("title")) != norm(p["title"]):
+            continue
+        if v.get("loc") and p.get("location"):
+            if norm(v["loc"]) != norm(p["location"]):
+                continue
+        elif len(norm(p["title"]).split()) < 4:      # too generic to match on title alone
+            continue
+        out.append(f"same title as a posting first seen {v['first_seen'][:10]} that has since "
+                   "come down; likely reposted")
+        break
+    return out
 
 
 def notify(title, message, click=None, tags="briefcase", priority="default"):
@@ -1062,6 +1138,7 @@ def main():
     # Companies that have gone longest without a successful read go first, so when Workday's
     # rate limit cuts a run short it is not always the same companies that miss out.
     companies.sort(key=lambda c: resolved.get(c["name"], {}).get("last_ok", 0))
+    _ATS_OWNER.update(ats_owners(COMPANIES, resolved))
 
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(lambda c: (c, check(c, resolved)), companies))
@@ -1075,6 +1152,8 @@ def main():
         entry = resolved.setdefault(name, {})
         if r.get("ats"):
             entry["ats"] = r["ats"]
+        if r.get("drop_cache"):
+            entry.pop("ats", None)
         if r.get("discovered") or r.get("discovery_failed"):
             entry["last_discovery"] = time.time()
         entry["note"] = r.get("note", "")
@@ -1090,11 +1169,15 @@ def main():
         state = seen.setdefault(name, {"seeded": False, "ids": {}})
         if r["status"] == "ok":
             kind = (r.get("ats") or [""])[0]
-            fp = [SEARCH_VERSION] + list(r.get("ats") or [])
+            fp = [SEARCH_VERSION] + list(r.get("ats") or []) + \
+                ([f"v{KIND_VERSION[kind]}"] if kind in KIND_VERSION else [])
             if state.get("fp") != fp:
                 state["fp"] = fp     # new job system or search logic: record silently
                 state["seeded"] = False
             ids = state["ids"]
+            reseeding = not state["seeded"] and bool(ids)
+            present = {p["id"] for p in interns} | {a for p in interns for a in p.get("aliases", [])}
+            prev_day = datetime.fromtimestamp(prev_ok, timezone.utc).strftime("%Y-%m-%d") if prev_ok else ""
             # A requisition is known by its stable id or by any earlier alias (e.g. an old URL path).
             alias_of = {a: k for k, v in ids.items() for a in v.get("aliases", [])}
             for p in interns:
@@ -1106,23 +1189,43 @@ def main():
                 rec.setdefault("first_seen", now)          # discovery time; preserved across runs
                 if rec.get("title") and rec["title"] != p["title"]:
                     rec["updated_seen"] = today           # same requisition, edited: not a new role
-                    # ...unless the term changed (e.g. Spring 2027 -> Summer 2027): that is news.
-                    if terms(p["title"]) and terms(rec["title"]) and state["seeded"] \
-                            and terms(p["title"]) != terms(rec["title"]):
-                        candidates.append((name, kind, dict(p, retitled_from=rec["title"])))
+                    # ...unless the term changed (e.g. Spring 2027 -> Summer 2027): that is news,
+                    # if the old title was there on the previous read (so the change is fresh)
+                    # and the new term is not in the past.
+                    new_t = terms(p["title"])
+                    if new_t and terms(rec["title"]) and state["seeded"] \
+                            and new_t != terms(rec["title"]) \
+                            and max(int(y) for _, y in new_t) >= now_dt.year:
+                        candidates.append((name, kind, dict(
+                            p, retitled_from=rec["title"],
+                            retitle_confirmed=bool(prev_day) and rec.get("last_seen", "") >= prev_day)))
                 rec["title"] = p["title"]
                 rec["last_seen"] = today
+                if p.get("location"):
+                    rec["loc"] = p["location"]
                 if p["posted"]:
-                    rec["posted_raw"] = p["posted"]
+                    rec["posted_raw"] = p["posted"]      # latest employer date
+                    day = triage.parse_posted(p["posted"], now_dt)["day"]
+                    if day:                              # earliest employer date ever seen: kept
+                        first = rec.get("posted_first")
+                        if not first or day.isoformat() < first:
+                            rec["posted_first"] = day.isoformat()
+                        elif day.isoformat() > first:
+                            rec["redated_seen"] = today  # employer moved the date forward
                 if p.get("updated"):
                     rec["updated_raw"] = p["updated"]
                 aliases = sorted(set(rec.get("aliases", [])) | set(keys) - {p["id"]})
                 if aliases:
                     rec["aliases"] = aliases
                 ids[p["id"]] = rec
-                if is_new and state["seeded"]:
+                if is_new and (state["seeded"] or reseeding):
                     if prev_ok:
                         p = dict(p, since=datetime.fromtimestamp(prev_ok, timezone.utc))
+                    if reseeding:
+                        p = dict(p, reseed=True)
+                    evidence = older_evidence(kind, p, ids, present, now_dt)
+                    if evidence:
+                        p = dict(p, older_evidence=evidence)
                     candidates.append((name, kind, p))
             state["seeded"] = True       # first successful check records silently
         rows.append((company["group"], name, r["status"],

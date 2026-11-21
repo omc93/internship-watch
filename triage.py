@@ -88,17 +88,21 @@ def parse_posted(raw, now=None):
 
 
 def recency(posted_raw, mode, now=None, since=None):
-    """Return "recent", "old" or "unknown" for an employer-reported date.
+    """Return "recent", "catch-up", "old" or "unknown" for an employer-reported date.
 
-    today           the employer date is today's date in America/Chicago
-    last_48_hours   a timestamp within 48 hours; a date-only value counts when
-                    it is today or yesterday (Chicago)
-    newly_discovered  anything this checker has not seen before (date ignored)
+    today (default)  same-day: a timestamp within the last 24 hours, or a date-only
+                     value equal to today's date in America/Chicago (tomorrow's
+                     date is accepted too, for sites that stamp dates in UTC). A
+                     date-only "yesterday" still counts before 6 am, so a role
+                     posted late at night and found overnight is not lost.
+    last_48_hours    a timestamp within 48 hours, or a date-only today/yesterday
+    newly_discovered anything this checker has not seen before (date ignored)
 
-    since: when this company was last read successfully before this run. If that
-    was longer ago than the window, the window stretches back to it (plus a day,
-    at most 7 days), so a posting is not dropped just because the company's site
-    was unreachable for a while.
+    since: when this company was last read successfully before this run. If the
+    company could not be read for longer than the window, a posting dated inside
+    that gap (at most 7 days back) is "catch-up": real, but not same-day news, so
+    it goes to the review list instead of a phone alert. In today mode a posting
+    dated yesterday that only appears now is "late" and goes to review too.
     """
     if mode == "newly_discovered":
         return "recent"
@@ -106,21 +110,26 @@ def recency(posted_raw, mode, now=None, since=None):
     p = parse_posted(posted_raw, now)
     if p["day"] is None:
         return "unknown"
-    today = now.astimezone(LOCAL_TZ).date()
+    local = now.astimezone(LOCAL_TZ)
+    today = local.date()
     if p["day"] > today + timedelta(days=1):
         return "unknown"                       # a future date is not evidence of anything
-    if since is not None and mode in ("today", "last_48_hours"):
-        gap = now - since
-        if gap > timedelta(hours=24 if mode == "today" else 48):
-            start = max(since - timedelta(days=1), now - timedelta(days=7))
-            if p["when"] is not None:
-                return "recent" if p["when"] >= start else "old"
-            return "recent" if p["day"] >= start.astimezone(LOCAL_TZ).date() else "old"
-    if mode == "today":
-        return "recent" if p["day"] >= today else "old"
+    hours = 24 if mode == "today" else 48
     if p["when"] is not None:
-        return "recent" if now - p["when"] <= timedelta(hours=48) else "old"
-    return "recent" if p["day"] >= today - timedelta(days=1) else "old"
+        recent = now - p["when"] <= timedelta(hours=hours)
+    elif mode == "today":
+        recent = p["day"] >= today or (p["day"] == today - timedelta(days=1) and local.hour < 6)
+    else:
+        recent = p["day"] >= today - timedelta(days=1)
+    if recent:
+        return "recent"
+    if since is not None and now - since > timedelta(hours=hours):
+        start = max(since - timedelta(days=1), now - timedelta(days=7))
+        if (p["when"] or datetime.combine(p["day"], datetime.max.time(), LOCAL_TZ)) >= start:
+            return "catch-up"
+    if mode == "today" and recency(posted_raw, "last_48_hours", now) == "recent":
+        return "late"        # dated yesterday but only listed now: real, but not same-day
+    return "old"
 
 
 def describe_date(posted_raw, source, now=None):
@@ -215,8 +224,8 @@ EXCLUDE_RULES = [
     ("software or data role", r"software|\bit\b|information technology|information systems|\bdata\b|"
                               r"analytics|cyber|security|machine learning|\bml\b|\bai\b|"
                               r"artificial intelligence|computer science|developer|devops|\bweb\b|"
-                              r"cloud|firmware|embedded|network"),
-    ("business role", r"finance|financial|accounting|\bhr\b|human resource|people|talent|recruit|"
+                              r"cloud|firmware|embedded|network|\bapi\b|\bsw\b|mobile (app|qa|dev)|\bios\b|android|infotainment"),
+    ("business role", r"finance|financial|account(ing|ant)|inventory|\bhr\b|human resource|people|talent|recruit|"
                       r"marketing|sales|supply chain|procurement|purchasing|sourcing|logistics|legal|"
                       r"\blaw\b|communications|public relations|business|strategy|brand|"
                       r"interior design|graphic|\bux\b|\bui\b|user experience|product manage|"
@@ -244,7 +253,7 @@ FIT = [
     ("general engineering", r"\bengineering (intern|co-?op)|\bengineer (intern|co-?op)|"
                             r"^(intern|co-?op)[\s,:–-]+engineering\b|engineering$"),
 ]
-REVIEW_DISC = re.compile(r"electrical|electronics|avionic|\brf\b|structural|facilities|maintenance|"
+REVIEW_DISC = re.compile(r"electrical|electronics|avionic|\brf\b|fpga|asic|signal integrity|in-memory|structural|facilities|maintenance|"
                          r"nuclear|mining|chemical|biomedical|optical|photonic|telecom|5g", re.I)
 OTHER_ENG = re.compile(r"engineer|electrical|electronics|avionic|\brf\b|facilities|maintenance|"
                        r"energy|power|nuclear|mining|hydraulic|structural|\bgnc\b|guidance", re.I)
@@ -358,6 +367,18 @@ def classify(p, mode, now=None, handled=()):
     if when == "old":
         return "skip", ["employer date is older than the alert window"]
     reasons = []
+    if when == "catch-up":
+        reasons.append(f"posted {describe_date(p.get('posted'), '', now).split(' ', 1)[-1]}, "
+                       "while this company's site could not be read (not same-day)")
+    if when == "late":
+        reasons.append(f"employer dates it {describe_date(p.get('posted'), '', now).split(' ', 1)[-1]}, "
+                       "a day before it appeared here (not same-day)")
+    if p.get("reseed") and when == "recent":
+        reasons.append("found while re-reading the whole list after a checker change; "
+                       "cannot tell whether it is new")
+    if p.get("retitled_from") and not p.get("retitle_confirmed"):
+        reasons.append("term changed, but the old title was not on the previous read")
+    reasons += list(p.get("older_evidence") or [])  # conflicting evidence that the role is older
     if when == "unknown":
         reasons.append("posted date unknown")
     if where == "unknown":
