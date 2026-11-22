@@ -5723,7 +5723,8 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "USA UT - Sandy",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
    },
@@ -5750,8 +5751,9 @@
      "/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "USA NE - Columbus (West)",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Controls Tech Intern"
    },
    "R-559082": {
@@ -27645,8 +27647,9 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 28 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Hong Kong",
+    "posted_raw": "Posted 30 Days Ago",
     "title": "Product Marketing Intern"
    }
   },
