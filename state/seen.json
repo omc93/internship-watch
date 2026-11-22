@@ -6396,7 +6396,7 @@
      "/job/US-AK-ANCHORAGE-795-EAST-94TH-AVENUE/Business-Intern--Summer-2027-Opportunities_R168907"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Anchorage, Alaska, United States of America",
     "posted_first": "2026-11-19",
     "posted_raw": "2026-11-19T00:00:00.000+0000",
@@ -6693,7 +6693,7 @@
    },
    "297312": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Richland, Washington, United States",
     "posted_first": "2026-11-10",
     "posted_raw": "2026-11-10T18:15:48.031+0000",
@@ -23291,7 +23291,7 @@
    },
    "JR11020": {
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Sacramento, California, United States of America",
     "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
@@ -27831,8 +27831,9 @@
      "/job/Saltillo-MX/Intern-Co-op-Student--Ventas-Desarrollo-de-Nuevos-Negocios_R00213096"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 24 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Saltillo, MX",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "Intern/Co-op Student, Ventas/Desarrollo de Nuevos Negocios"
    },
    "R00225570": {
@@ -27840,7 +27841,8 @@
      "/job/Troy-Michigan-US/HR-Intern--Summer-2026_R00225570"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Troy, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "HR Intern- Summer 2026"
    },
@@ -27849,7 +27851,8 @@
      "/job/Holland-Michigan-US/Materials-Intern---Summer-2026_R00225682"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Holland, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Materials Intern - Summer 2026"
    },
@@ -27858,7 +27861,8 @@
      "/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Newaygo, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern - Summer 2026"
    },
@@ -27867,7 +27871,8 @@
      "/job/Newaygo-Michigan-US/Quality-Intern---Summer-2026_R00227894"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Newaygo, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Quality Intern - Summer 2026"
    },
@@ -27894,7 +27899,8 @@
      "/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Grand Rapids, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Co-op"
    },
@@ -27903,7 +27909,8 @@
      "/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Goleta, California, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - Infrared Imaging & Algorithms"
    },
@@ -27912,7 +27919,8 @@
      "/job/Highland-Park-Michigan-US/Intern--Environmental-Health---Safety_R00249452"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Highland Park, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern, Environmental Health & Safety"
    },
@@ -27921,8 +27929,9 @@
      "/job/Holland-Michigan-US/Intern-Co-op-Product-Eng_R00255522"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Holland, Michigan, US",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Intern/Co-op-Product Eng"
    },
    "R00260232": {
@@ -27939,7 +27948,8 @@
      "/job/Bowling-Green-Kentucky-US/Quality-Intern_R00260258"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Bowling Green, Kentucky, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Quality Intern"
    },
@@ -27948,7 +27958,8 @@
      "/job/Southfield-Michigan-US/Student---Engineering-Co-op_R00261071"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Southfield, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Student - Engineering Co-op"
    },
@@ -27966,7 +27977,8 @@
      "/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Northwood, Ohio, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Automation Engineering Co-Op"
    },
@@ -27975,7 +27987,8 @@
      "/job/Holland-Michigan-US/Magna-Engineered-Glass--Co-Op-Technician_R00262925"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Holland, Michigan, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Magna Engineered Glass: Co-Op Technician"
    },
@@ -27984,7 +27997,8 @@
      "/job/Northwood-Ohio-US/Supply-Chain-Intern_R00265600"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Northwood, Ohio, US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Supply Chain Intern"
    },
@@ -27993,8 +28007,9 @@
      "/job/Highland-Park-Michigan-US/Supply-Chain-Internship_R00268190"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Highland Park, Michigan, US",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Supply Chain Internship"
    },
    "R00270957": {
@@ -46107,7 +46122,7 @@
    },
    "JR-15205": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Salt Lake City, Utah, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -46115,7 +46130,7 @@
    },
    "JR-15206": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Portland, Oregon, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -46123,7 +46138,7 @@
    },
    "JR-15209": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Bellevue, Washington, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -46131,7 +46146,7 @@
    },
    "JR-15212": {
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Bellevue, Washington, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -46167,7 +46182,7 @@
    },
    "JR-15236": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "Albuquerque, New Mexico, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -46338,7 +46353,7 @@
    },
    "JR-15317": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
     "loc": "San Antonio, Texas, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
