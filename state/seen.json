@@ -5297,8 +5297,9 @@
      "/job/Houston/Contracts-Intern--Summer-2027-_JR100906"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Houston",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Contracts Intern (Summer 2027)"
    }
   },
@@ -28385,7 +28386,7 @@
     "first_seen": "2026-11-19 22:14 UTC",
     "last_seen": "2026-11-22",
     "loc": "Ramos, MX",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern/Co-op, Product Eng"
    }
   },
@@ -28678,7 +28679,8 @@
      "/job/Bangkok-MSG-Headquarters/Regional-Sustainability---Internship_R-2026029195"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Sustainability - Internship"
    },
@@ -28687,7 +28689,8 @@
      "/job/Bangkok-MSG-Headquarters/Digital-Transformation---Internship_R-2026029200"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Digital Transformation - Internship"
    },
@@ -28696,7 +28699,8 @@
      "/job/GREENVILLE-SC/Summer-2027-Internship--Sales--Greenville--SC-_R-2026029811"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "GREENVILLE, SC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship: Sales (Greenville, SC)"
    },
@@ -28714,7 +28718,8 @@
      "/job/PEOSTA-IA/Summer-2027-Internship--Quality--Peosta--IA-_R-2026030702"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "PEOSTA, IA",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship: Quality (Peosta, IA)"
    },
@@ -28723,8 +28728,9 @@
      "/job/PEOSTA-IA/XMLNAME-2027-Summer-Supply-Chain-Engineer-Intern---Peosta--IA-_R-2026030726"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "PEOSTA, IA",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "2027 Summer Supply Chain Engineer Intern (Peosta, IA)"
    },
    "R-2026031335": {
@@ -28732,7 +28738,8 @@
      "/job/MICHELIN-ROH-CO-LTD/B2B-Marketing---Internship_R-2026031335"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "MICHELIN ROH CO LTD",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional B2B Marketing - Internship"
    },
@@ -28741,8 +28748,9 @@
      "/job/SANDY-SPRINGS-SC/Summer-2027-Environmental-Health-and-Safety-Intern--Upstate-South-Carolina-_R-2026032367"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "SANDY SPRINGS, SC",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Summer 2027 Environmental Health and Safety Intern (Upstate South Carolina)"
    },
    "R-2026033249": {
@@ -28750,7 +28758,8 @@
      "/job/GREENVILLE-SC/Summer-2027-Intern--MBA-Experience-Level-Professional----Various-Fields_R-2026033249"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "GREENVILLE, SC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Intern (MBA Experience Level Professional) - Various Fields"
    },
@@ -28759,7 +28768,8 @@
      "/job/Bangkok-MSG-Headquarters/Regional-Human-Resource---Internship_R-2026034438"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Human Resource - Internship"
    },
@@ -28768,7 +28778,8 @@
      "/job/Bangkok-MSG-Headquarters/APAC-Regional-Michelin-Guide---Internship_R-2026037985"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Michelin Guide - Internship"
    },
@@ -28777,7 +28788,8 @@
      "/job/Tan-Uyen/Automation-Engineer-Internship_R-2026038912"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Tan Uyen",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Automation Engineer Internship"
    },
@@ -28786,7 +28798,8 @@
      "/job/Tan-Uyen/Industrial-Engineer-Internship_R-2026038915"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-22",
+    "loc": "Tan Uyen",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Industrial Engineer Internship"
    },
@@ -28795,8 +28808,9 @@
      "/job/PEOSTA-IA/XMLNAME-2027-Summer-Safety-Specialist-Intern_R-2026040399"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "PEOSTA, IA",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "2027 Summer Safety Specialist Intern"
    },
    "R-2026041048": {
@@ -28804,8 +28818,9 @@
      "/job/Laem-Chabang/Michelin-Top-Challenge-Internship-2027_R-2026041048"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "5 Locations",
+    "posted_raw": "Posted 20 Days Ago",
     "title": "Michelin Top Challenge Internship 2027"
    },
    "R-2026042493": {
@@ -28813,8 +28828,9 @@
      "/job/Bangkok-MSG-Headquarters/APAC-Regional-Communications---Internship_R-2026042493"
     ],
     "first_seen": "2026-11-13 10:58 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Bangkok MSG Headquarters",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "APAC Regional Communications - Internship"
    },
    "R-2026042658": {
@@ -28822,8 +28838,9 @@
      "/job/Bekasi-Regency-West-Java/Health--Safety-and-Environment--HSE--Intern_R-2026042658"
     ],
     "first_seen": "2026-11-20 18:23 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 4 Days Ago",
+    "last_seen": "2026-11-22",
+    "loc": "Bekasi Regency, West Java",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Health, Safety and Environment (HSE) Intern"
    }
   },
