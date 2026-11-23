@@ -2478,6 +2478,16 @@
     "posted_raw": "Posted Today",
     "title": "ACOLH1 intern"
    },
+   "JR10459887": {
+    "aliases": [
+     "/job/Tianjin---FAL-TJ-WC/ATFAC-Facility---Sustainability-intern_JR10459887"
+    ],
+    "first_seen": "2026-11-23 10:12 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Tianjin - FAL TJ WC",
+    "posted_raw": "Posted Today",
+    "title": "ATFAC Facility & Sustainability intern"
+   },
    "JR10459954": {
     "aliases": [
      "/job/Tianjin---FAL-TJ-WC/ACOLFE-Intern_JR10459954"
@@ -13787,7 +13797,7 @@
     "first_seen": "2026-11-18 01:17 UTC",
     "last_seen": "2026-11-23",
     "loc": "Jurupa Valley, California",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Finance Intern (Part-Time)"
    }
   },
@@ -17378,7 +17388,7 @@
      "/job/Irving-Texas-US/Undergraduate-Summer-Internship---May-August_R-20893"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "9 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Undergraduate Summer Internship | May–August"
@@ -17418,7 +17428,7 @@
      "/job/Irving-Texas-US/MBA-Future-Leader-Internship-Program_R-21410-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Irving, Texas US",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "MBA Future Leader Internship Program"
@@ -17448,9 +17458,9 @@
      "/job/Irving-Texas-US/Talent-Acquisition-Intern---Summer-Internship_R-21757"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Irving, Texas US",
-    "posted_raw": "Posted 30 Days Ago",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Talent Acquisition Intern – Summer Internship"
    },
    "R-21775": {
@@ -17458,9 +17468,9 @@
      "/job/Irving-Texas-US/Total-Rewards-Internship---Summer-Internship_R-21775"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Irving, Texas US",
-    "posted_raw": "Posted 27 Days Ago",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Total Rewards Internship - Summer Internship"
    },
    "R-21784": {
@@ -17468,9 +17478,9 @@
      "/job/Irving-Texas-US/Talent-Management-Intern---Summer-Internship_R-21784"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Irving, Texas US",
-    "posted_raw": "Posted 26 Days Ago",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Talent Management Intern - Summer Internship"
    },
    "R-21926": {
@@ -25363,6 +25373,11 @@
    "1448035000": {
     "first_seen": "2026-11-10 16:13 UTC",
     "title": "Intern Crop Care Production System (m/f/d)"
+   },
+   "1452900300": {
+    "first_seen": "2026-11-23 10:12 UTC",
+    "last_seen": "2026-11-23",
+    "title": "Financial Internship"
    }
   },
   "seeded": true
