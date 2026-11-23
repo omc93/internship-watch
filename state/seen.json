@@ -18030,7 +18030,8 @@
     "last_seen": "2026-11-23",
     "loc": "Irvine, CA, United States",
     "posted_first": "2026-10-15",
-    "posted_raw": "2026-10-15",
+    "posted_raw": "2026-11-23",
+    "redated_seen": "2026-11-23",
     "title": "Mechanical Engineering Intern"
    },
    "10876": {
@@ -26500,7 +26501,7 @@
      "/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Sioux Falls, South Dakota",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Data Processing Systems Engineer Intern"
@@ -26510,7 +26511,7 @@
      "/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Sioux Falls, South Dakota",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Image Processing Software Engineer Intern"
@@ -40626,6 +40627,16 @@
     "posted_raw": "Posted 7 Days Ago",
     "title": "Strategy Intern for National Retail and Strategic Accounts"
    },
+   "R122018": {
+    "aliases": [
+     "/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018"
+    ],
+    "first_seen": "2026-11-23 19:01 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "645 Clyde Avenue, Mountain View, CA, USA",
+    "posted_raw": "Posted Today",
+    "title": "Software Development Engineer - Intern"
+   },
    "R122020": {
     "aliases": [
      "/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020"
@@ -40678,8 +40689,9 @@
      "/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1"
     ],
     "first_seen": "2026-11-16 21:40 UTC",
-    "last_seen": "2026-11-20",
-    "posted_raw": "Posted 3 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "2 Locations",
+    "posted_raw": "Posted Today",
     "title": "2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams"
    }
   },
@@ -48883,7 +48895,7 @@
     "posted_first": "2025-11-13",
     "posted_raw": "2025-11-13T13:08:50-05:00",
     "title": "Environmental Health & Safety (EHS) Internship – Summer 2027",
-    "updated_raw": "2026-11-17T02:53:01-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824765003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48892,7 +48904,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:16-04:00",
     "title": "Propulsion Engineering Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824767003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48901,7 +48913,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:02-04:00",
     "title": "Manufacturing Engineering Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:02-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824772003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48910,7 +48922,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:47-04:00",
     "title": "Vehicle Integration & Test Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:02-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824781003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48919,7 +48931,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:46:54-04:00",
     "title": "Guidance, Navigation & Controls (GNC) Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824783003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48928,7 +48940,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:46:29-04:00",
     "title": "Environmental Health & Safety (EHS) Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824814003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48937,7 +48949,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:25-04:00",
     "title": "Site Reliability Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824815003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48946,7 +48958,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:46:38-04:00",
     "title": "Flight Software Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824817003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48955,7 +48967,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:33-04:00",
     "title": "Structures Engineering Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824827003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48964,7 +48976,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:47:40-04:00",
     "title": "Supply Chain Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7824834003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48973,7 +48985,7 @@
     "posted_first": "2026-08-07",
     "posted_raw": "2026-08-07T12:46:45-04:00",
     "title": "Biologics Formulation Research Internship - Spring 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "7865601003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48982,7 +48994,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T02:00:18-04:00",
     "title": "Guidance, Navigation & Controls (GNC) Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8005821003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -48991,7 +49003,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T02:06:02-04:00",
     "title": "Cybersecurity Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8005846003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49000,7 +49012,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T02:02:46-04:00",
     "title": "Formulation Science Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010158003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49009,7 +49021,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T02:06:38-04:00",
     "title": "Avionics Engineering Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010159003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49018,7 +49030,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T02:03:43-04:00",
     "title": "Flight Software Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010166003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49027,7 +49039,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T01:59:57-04:00",
     "title": "Manufacturing Engineering Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010167003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49036,7 +49048,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T01:56:22-04:00",
     "title": "Structures Engineering Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010168003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49045,7 +49057,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T01:58:11-04:00",
     "title": "Mechanisms & Payload Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010169003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49063,7 +49075,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T01:55:33-04:00",
     "title": "Vehicle Integration & Test Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010172003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49072,7 +49084,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T01:54:46-04:00",
     "title": "Thermal Engineering Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010632003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49081,7 +49093,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T12:30:00-04:00",
     "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8010682003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49090,7 +49102,7 @@
     "posted_first": "2026-10-01",
     "posted_raw": "2026-10-01T12:43:17-04:00",
     "title": "Mission Operations Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:03-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8040897003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49099,7 +49111,7 @@
     "posted_first": "2026-10-21",
     "posted_raw": "2026-10-21T20:04:34-04:00",
     "title": "Pharmaceutical Lab Internship (Crystallization) Summer 2027",
-    "updated_raw": "2026-11-17T02:53:04-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8041944003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49108,7 +49120,7 @@
     "posted_first": "2026-10-22",
     "posted_raw": "2026-10-22T14:41:49-04:00",
     "title": "Construction Management Internship – Spring 2027",
-    "updated_raw": "2026-11-17T02:53:04-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    },
    "8198267003": {
     "first_seen": "2026-11-10 16:13 UTC",
@@ -49117,7 +49129,7 @@
     "posted_first": "2026-11-06",
     "posted_raw": "2026-11-06T18:24:30-05:00",
     "title": "Site Reliability Internship - Summer 2027",
-    "updated_raw": "2026-11-17T02:53:04-05:00"
+    "updated_raw": "2026-11-23T13:15:03-05:00"
    }
   },
   "seeded": true
