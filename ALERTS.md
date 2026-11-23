@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-23 22:30 UTC · **Draper** · [Materials and Chemistry Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177) · fit (process / quality / materials) | Cambridge, MA [US] | employer-reported Nov 23 | found Nov 23 04:30 PM CT | ID JR003177 | open
 - 2026-11-23 21:36 UTC · **Viasat** · [Mechanical Engineering Intern](https://careers.viasat.com/jobs/10181) · strong fit (mechanical) | Carlsbad, California, United States [US] | employer-reported Nov 23 03:13 PM CT | found Nov 23 03:36 PM CT | ID 10181 | listed
 - 2026-11-23 21:36 UTC · **Baxter** · [Co-op Mechanical Engineering R&D](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Co-op-Mechanical-Engineering-R-D_JR-213518-1) · strong fit (mechanical) | Skaneateles, NY [US] | employer-reported Nov 23 | found Nov 23 03:36 PM CT | ID JR-213518 | open
 - 2026-11-23 21:36 UTC · **Oceaneering** · [2027 Quality Intern](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11965) · fit (process / quality / materials) | Hanover, MD, United States [US] | employer-reported Nov 23 | found Nov 23 03:36 PM CT | ID 11965 | listed
