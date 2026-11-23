@@ -21623,6 +21623,17 @@
     "posted_raw": "Posted 7 Days Ago",
     "title": "College Intern - Technical"
    },
+   "3171404": {
+    "aliases": [
+     "/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1"
+    ],
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Spring, Texas, United States of America",
+    "posted_first": "2026-11-23",
+    "posted_raw": "Posted Today",
+    "title": "Personal Systems Engineering Internship"
+   },
    "UNI4241": {
     "aliases": [
      "/job/Spring-Texas-United-States-of-America/Finance-Intern_UNI4241-1"
@@ -22422,7 +22433,7 @@
     "last_seen": "2026-11-23",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "redated_seen": "2026-11-23",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -28530,6 +28541,11 @@
     "first_seen": "2026-11-19 18:04 UTC",
     "last_seen": "2026-11-23",
     "title": "Tactical Autonomy Co-Op (Spring 2027) - Group 10-03"
+   },
+   "1452673700": {
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "title": "Summer Research Program Intern 2027, Embedded and AI Systems (Group 10-02)"
    }
   },
   "seeded": true
@@ -30026,6 +30042,36 @@
     "loc": "Boise, ID - Main Site",
     "posted_raw": "Posted 6 Days Ago",
     "title": "Intern - Data Science, SMAI"
+   },
+   "JR118093": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093"
+    ],
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Boise, ID - Main Site",
+    "posted_raw": "Posted Today",
+    "title": "Intern - Advanced Modeling and AI Solutions"
+   },
+   "JR118211": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern--Technology---AMAIS_JR118211"
+    ],
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Boise, ID - Main Site",
+    "posted_raw": "Posted Today",
+    "title": "Intern - Technology, AMAIS"
+   },
+   "JR118214": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern--Technology---AMAIS_JR118214"
+    ],
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Boise, ID - Main Site",
+    "posted_raw": "Posted Today",
+    "title": "Intern - Technology, AMAIS"
    }
   },
   "seeded": true
@@ -40814,6 +40860,12 @@
     "first_seen": "2026-11-17 23:38 UTC",
     "last_seen": "2026-11-23",
     "title": "Purchasing Intern"
+   },
+   "1459812733": {
+    "first_seen": "2026-11-23 15:55 UTC",
+    "last_seen": "2026-11-23",
+    "posted_first": "2026-11-23",
+    "title": "Advanced Materials Engineering Intern"
    }
   },
   "seeded": true
