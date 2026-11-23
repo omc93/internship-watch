@@ -36503,7 +36503,8 @@
      "/job/PL-14-WARSAW-049--Ul-Moktowska-49--MOKTOWSKA/Paid-Contracts-Internship---Polska_01843929"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "PL-14-WARSAW-049 ~ Ul Moktowska 49 ~ MOKTOWSKA",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Paid Contracts Internship - Polska"
    },
@@ -36530,7 +36531,8 @@
      "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurements-Research-and-Development-Intern--Summer-2027---Onsite-_01864777-1"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Advanced Measurements Research and Development Intern (Summer 2027) (Onsite)"
    },
@@ -36558,7 +36560,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer-Fall Co-op - Systems Engineering (Onsite)"
    },
@@ -36603,7 +36606,8 @@
      "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite"
    },
@@ -36621,7 +36625,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Spring-Summer-Co-op--Systems-Engineering--Onsite-_01869257"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "A2G 2027 Spring/Summer Co-op- Systems Engineering (Onsite)"
    },
@@ -36630,7 +36635,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite"
    },
@@ -36648,9 +36654,9 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027) - Onsite"
    },
    "01870331": {
@@ -36658,7 +36664,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineering-Co-op---Special-Operations-Aviation-Mainline--Onsite-_01870331"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Systems Engineering Co-op – Special Operations Aviation Mainline (Onsite)"
    },
@@ -36667,7 +36674,8 @@
      "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01870641"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)"
    },
@@ -36685,8 +36693,9 @@
      "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 17 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)"
    },
    "01871051": {
@@ -36703,7 +36712,8 @@
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Flight Controls Systems Intern (Summer 2027) - Onsite"
    },
@@ -36712,8 +36722,9 @@
      "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871284"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 11 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Industrial Engineering Co-Op (Spring/Summer 2027)"
    },
    "01871322": {
@@ -36730,8 +36741,9 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite"
    },
    "01871432": {
@@ -36739,7 +36751,8 @@
      "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-op Spring/Summer Systems Engineer - Onsite"
    },
@@ -36748,7 +36761,8 @@
      "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Co-Op - Summer/Fall Systems Engineer - Onsite"
    },
@@ -36757,7 +36771,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineer - Summer/Fall Co-op 2027 - (Onsite)"
    },
@@ -36766,9 +36781,9 @@
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)"
    },
    "01871519": {
@@ -36776,9 +36791,9 @@
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite)"
    },
    "01871552": {
@@ -36786,7 +36801,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-op - Systems Integration (Summer/Fall 2027) - Onsite"
    },
@@ -36795,7 +36811,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)"
    },
@@ -36822,7 +36839,8 @@
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall)"
    },
@@ -36849,7 +36867,8 @@
      "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Data-Recording-Intern--Onsite-_01872055"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Data Recording Intern (Onsite)"
    },
@@ -36858,7 +36877,8 @@
      "/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Cyber Research Internship (Summer 2027) - Onsite"
    },
@@ -36876,7 +36896,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)"
    },
@@ -36885,7 +36906,8 @@
      "/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Head-up Guidance Systems Engineering Co-op (Summer/Fall 2027) - Onsite"
    },
@@ -36912,7 +36934,8 @@
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-op (Summer/Fall 2027) - Onsite"
    },
@@ -36930,7 +36953,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite"
    },
@@ -36948,7 +36972,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite"
    },
@@ -36957,7 +36982,8 @@
      "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "DO Process Engineering Internship - Summer 2027 (Onsite)"
    },
@@ -36966,7 +36992,8 @@
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite"
    },
@@ -36975,7 +37002,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Spring/Summer Co-Op - Systems - AVI MIL FMS/DAS"
    },
@@ -36984,7 +37012,8 @@
      "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Advanced Measurement Str Data Recording Summer Intern (Onsite)"
    },
@@ -36993,7 +37022,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite"
    },
@@ -37002,7 +37032,8 @@
      "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-Op - AI DSP Applied Research"
    },
@@ -37011,7 +37042,8 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-Op (Summer/Fall 2027)"
    },
@@ -37020,7 +37052,8 @@
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Spring/Summer Sys Integration Engineering Co-op - Onsite"
    },
@@ -37029,7 +37062,8 @@
      "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Systems-Engineering-Coop---Spring-Summer--Onsite_01873304"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Coop - Spring/Summer- Onsite"
    },
@@ -37038,9 +37072,9 @@
      "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437"
     ],
     "first_seen": "2026-11-11 19:52 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)"
    },
    "01873469": {
@@ -37066,9 +37100,9 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Reliability-and-Safety-Engineering-Co-Op--Summer-Fall-2027----Onsite_01873642-1"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Reliability and Safety Engineering Co-Op (Summer/Fall 2027) - Onsite"
    },
    "01873646": {
@@ -37085,7 +37119,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineer Co-Op (Spring/Summer 2027) - Onsite"
    },
@@ -37094,7 +37129,8 @@
      "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Safety and Reliability Intern (Onsite)"
    },
@@ -37103,9 +37139,9 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971"
     ],
     "first_seen": "2026-11-16 05:10 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Systems Engineering - Summer Intern 2027 - Onsite"
    },
    "01873973": {
@@ -37113,8 +37149,9 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite"
    },
    "01874003": {
@@ -37122,7 +37159,8 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-op (Summer/Fall 2027) - Onsite"
    },
@@ -37158,7 +37196,8 @@
      "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Aftermarket and Sustainment Engineering - Structures Engineer Co-Op (January 2027) (Hybrid)"
    },
@@ -37194,9 +37233,9 @@
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Industrial Engineering Co-op (Summer/Fall 2027)"
    },
    "01875478": {
@@ -37204,8 +37243,9 @@
      "/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/RF-Microwave-Engineering-Intern--Summer-2027-_01875478"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-MA-ANDOVER-AR1 ~ 358 Lowell St ~ AR1 DUKES BLDG",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "RF/Microwave Engineering Intern (Summer 2027)"
    },
    "01875840": {
@@ -37213,9 +37253,9 @@
      "/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Foundry-Intern--Summer-2027-_01875840"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Semiconductor Foundry Intern (Summer 2027)"
    },
    "01875985": {
@@ -37241,7 +37281,8 @@
      "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Avionics Test Engineering -Systems Engineer Intern (Onsite)"
    },
@@ -37277,7 +37318,8 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/XMLNAME-2027-Summer-Fall-Co-op---Secure-Systems--Onsite-_01877633"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer/Fall Co-op - Secure Systems (Onsite)"
    },
@@ -37286,7 +37328,8 @@
      "/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site)",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Network Engineering Intern"
    },
@@ -37295,8 +37338,9 @@
      "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-AZ-TUCSON-9070 ~ 9070 S Rita Rd ~ BLDG 9070",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Electro-Optic Intern (Summer 2027)(Onsite)"
    },
    "01878041": {
@@ -37304,7 +37348,8 @@
      "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Intern 2027 - Onsite"
    },
@@ -37313,7 +37358,8 @@
      "/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/XMLNAME-2027-Summer-System-Engineering-Intern--Onsite-_01878549"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer System Engineering Intern (Onsite)"
    },
@@ -37340,7 +37386,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineer-Intern--Onsite----Mission-Sensor-Manager_01879093"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Systems Engineer Intern (Onsite) - Mission Sensor Manager"
    },
@@ -37349,7 +37396,8 @@
      "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "System Administrator Intern (Summer 2027)"
    },
@@ -37385,7 +37433,8 @@
      "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Industrial Engineering Co-Op (Spring/Summer 2027)"
    },
@@ -37412,8 +37461,9 @@
      "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/TMS-lube-systems-Intern--Summer-2027----Onsite_01879869"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "TMS/lube systems Intern (Summer 2027) - Onsite"
    },
    "01879934": {
@@ -37421,7 +37471,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineering Co-Op (2027 Summer/Fall) – SOA CAAS Mainline Platform (Onsite)"
    },
@@ -37430,7 +37481,8 @@
      "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Systems Engineer Co-Op (Summer/Fall 2027) - Onsite"
    },
@@ -37448,8 +37500,9 @@
      "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Management-System-Co-Op--Spring-Summer-2027-_01879983"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 17 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "Quality Management System Co-Op (Spring/Summer 2027)"
    },
    "01880037": {
@@ -37457,9 +37510,9 @@
      "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "FPGA Engineering Intern (Summer 2027)(Onsite)"
    },
    "01880546": {
@@ -37476,7 +37529,8 @@
      "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Power-Electrical-Engineer-Intern--Summer-2027----Onsite_01880823"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Power Electrical Engineer Intern (Summer 2027) - Onsite"
    },
@@ -37485,9 +37539,9 @@
      "/job/US-CT-WINDSOR-LOCKS-B2--1-Hamilton-Rd--BLDG-2/Supplier-Account-Manager-Co-Op--Spring-Summer-2027-_01880833"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CT-WINDSOR LOCKS-B2 ~ 1 Hamilton Rd ~ BLDG 2",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Supplier Account Manager Co-Op (Spring/Summer 2027)"
    },
    "01880963": {
@@ -37495,7 +37549,8 @@
      "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 RF Systems Engineer Intern - Onsite"
    },
@@ -37522,8 +37577,9 @@
      "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/XMLNAME-2027-Summer-Intern--Systems-Engineering---Onsite_01881739"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "2027 Summer Intern: Systems Engineering - Onsite"
    },
    "01882062": {
@@ -37540,8 +37596,9 @@
      "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Technical-Intern-Summer-2027---Onsite_01882365"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 20 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Technical Intern Summer 2027 - Onsite"
    },
    "01882927": {
@@ -37549,9 +37606,9 @@
      "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Hardware in the Loop Engineering Intern - (Summer 2027)"
    },
    "01883110": {
@@ -37559,8 +37616,9 @@
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)"
    },
    "01883114": {
@@ -37568,8 +37626,9 @@
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)"
    },
    "01883163": {
@@ -37577,8 +37636,9 @@
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)"
    },
    "01883216": {
@@ -37586,8 +37646,9 @@
      "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01883216"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship Spring 2027 - Mechanical Engineering Technology, CNC, or Precision Machining Student"
    },
    "01883260": {
@@ -37595,8 +37656,9 @@
      "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01883260"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 23 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship Spring 2027 - Mechanical Engineering Technology, CNC, or Precision Machining Student"
    },
    "01883292": {
@@ -37604,8 +37666,9 @@
      "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Electrical Engineering Intern (Summer 2027)"
    },
    "01883293": {
@@ -37613,8 +37676,9 @@
      "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineering-Intern--Summer-2027-_01883293"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Mechanical Engineering Intern (Summer 2027)"
    },
    "01883452": {
@@ -37631,8 +37695,9 @@
      "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Hardware Electrical Engineering Co-Op (Spring 2027)"
    },
    "01883831": {
@@ -37649,8 +37714,9 @@
      "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883862"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Part Time Systems Engineer Co-Op (Remote)"
    },
    "01883866": {
@@ -37658,8 +37724,9 @@
      "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Part Time Systems Engineer Co-Op (Remote)"
    },
    "01883878": {
@@ -37713,8 +37780,9 @@
      "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineer-Intern_01884409"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Systems Engineer Intern"
    },
    "01884435": {
@@ -37722,8 +37790,9 @@
      "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 19 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Systems Engineering Co-op"
    },
    "01884834": {
@@ -37750,8 +37819,9 @@
      "/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Enterprise Services Engineering Co-Op (Spring/Summer 2027)"
    },
    "01885225": {
@@ -37759,9 +37829,9 @@
      "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225"
     ],
     "first_seen": "2026-11-16 05:10 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "2027 Summer Intern - Software Engineering - Onsite"
    },
    "01885502": {
@@ -37796,8 +37866,9 @@
      "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Systems Engineering Intern, BMC2 (Onsite)"
    },
    "01885605": {
@@ -37805,8 +37876,9 @@
      "/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01885605"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 18 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Industrial Engineering Co-Op (Spring/Summer 2027)"
    },
    "01885742": {
@@ -37823,9 +37895,9 @@
      "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Facilities-Maintenance-Co-Op--Summer-Fall-2027-_01885767"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Facilities Maintenance Co-Op (Summer/Fall 2027)"
    },
    "01885779": {
@@ -37833,9 +37905,9 @@
      "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
-    "posted_raw": "Posted 12 Days Ago",
+    "posted_raw": "Posted 13 Days Ago",
     "title": "Component Electrical Test Engineer Intern (Summer 2027)(Onsite)"
    },
    "01886048": {
@@ -37843,8 +37915,9 @@
      "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Operational-Excellence--OPEX--Co-Op--January-2027---Onsite-_01886048"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Operational Excellence (OPEX) Co-Op (January 2027) (Onsite)"
    },
    "01886102": {
@@ -37852,8 +37925,9 @@
      "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01886102"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 13 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Part Time Systems Engineer Co-Op (Remote)"
    },
    "01886177": {
@@ -37861,9 +37935,9 @@
      "/job/US-AR-SPRINGDALE-BLDG-1--275-E-Robinson-Ave--BLDG-1/Accounting-Intern--Spring-Summer-_01886177"
     ],
     "first_seen": "2026-11-17 23:59 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-AR-SPRINGDALE-BLDG 1 ~ 275 E Robinson Ave ~ BLDG 1",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Accounting Intern (Spring/Summer)"
    },
    "01886215": {
@@ -37880,8 +37954,9 @@
      "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)"
    },
    "01886221": {
@@ -37889,9 +37964,9 @@
      "/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite)"
    },
    "01886247": {
@@ -37908,8 +37983,9 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283"
     ],
     "first_seen": "2026-11-10 16:13 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 16 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Systems Engineer Intern (Summer 2027) - Tac Comm - Onsite"
    },
    "01886311": {
@@ -37998,9 +38074,9 @@
      "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Electronic Warfare Electrical Engineer Intern (Summer 2027)(Onsite)"
    },
    "01887069": {
@@ -38089,9 +38165,9 @@
      "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Spring-2027-_01887633"
     ],
     "first_seen": "2026-11-19 22:56 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Systems Engineering Intern (Spring 2027)"
    },
    "01887651": {
@@ -38099,9 +38175,9 @@
      "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Spring-Summer-2027-_01887651"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Industrial Engineer Co-op (Spring/Summer 2027)"
    },
    "01887663": {
@@ -38109,9 +38185,9 @@
      "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer-Co-op--Summer-Fall-2027-_01887663"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Industrial Engineer Co-op (Summer/Fall 2027)"
    },
    "01887669": {
@@ -38164,9 +38240,9 @@
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887898"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite"
    },
    "01887900": {
@@ -38175,9 +38251,9 @@
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887900"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "2 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite"
    },
    "01887901": {
@@ -38186,9 +38262,9 @@
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op---Open-Systems-Solutions--Summer-Fall-2027---Onsite_01887901"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "2 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Systems Engineering Co-op - Open Systems Solutions- Summer/Fall 2027 - Onsite"
    },
    "01887902": {
@@ -38196,9 +38272,9 @@
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op----Open-Systems-Solutions---Summer-Fall-2027---Onsite_01887902"
     ],
     "first_seen": "2026-11-17 00:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Systems Engineering Co-op - Open Systems Solutions - Summer/Fall 2027 - Onsite"
    },
    "01887924": {
@@ -38269,8 +38345,9 @@
      "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Management-Intern--Summer-2027-_01888076"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 6 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-MA-ANDOVER-AN0 ~ 366 Lowell St ~ BLDG AN0",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Configuration Management Intern (Summer 2027)"
    },
    "01888077": {
@@ -38287,9 +38364,9 @@
      "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/MBA-Intern--Corporate-Strategy---Development--Summer-2027-_01888112"
     ],
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "MBA Intern: Corporate Strategy & Development (Summer 2027)"
    },
    "01888202": {
@@ -38297,9 +38374,9 @@
      "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Manufacturing-Engineering-Intern--Summer-2027-_01888202"
     ],
     "first_seen": "2026-11-17 23:59 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Manufacturing Engineering Intern (Summer 2027)"
    },
    "01888251": {
@@ -38307,9 +38384,9 @@
      "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251"
     ],
     "first_seen": "2026-11-15 02:24 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027)"
    },
    "01888309": {
@@ -38335,9 +38412,9 @@
      "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01888326"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Mechanical Engineering Intern (Summer 2027)"
    },
    "01888337": {
@@ -38345,9 +38422,9 @@
      "/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Manufacturing-Engineering-Intern--Summer-2027-_01888337"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Manufacturing Engineering Intern (Summer 2027)"
    },
    "01888445": {
@@ -38373,9 +38450,9 @@
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)"
    },
    "01888581": {
@@ -38473,9 +38550,9 @@
      "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Intern--Summer-2027----Onsite_01889105"
     ],
     "first_seen": "2026-11-16 05:10 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027) - Onsite"
    },
    "01889149": {
@@ -38483,9 +38560,9 @@
      "/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149"
     ],
     "first_seen": "2026-11-18 04:45 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CT-EAST HARTFORD-RTRC H ~ 411 Silver Ln ~ RTRC H",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Additive Manufacturing Process Intern (Summer 2027) - Onsite"
    },
    "01889354": {
@@ -38520,9 +38597,9 @@
      "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Industrial-Engineering-Intern---Site-Transformation--Summer-2027-_01889626"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Industrial Engineering Intern - Site Transformation (Summer 2027)"
    },
    "01889909": {
@@ -38530,9 +38607,9 @@
      "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineering-Intern--Onsite-_01889909"
     ],
     "first_seen": "2026-11-17 23:59 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Mechanical Engineering Intern (Onsite)"
    },
    "01889914": {
@@ -38540,9 +38617,9 @@
      "/job/US-CT-MIDDLETOWN-140--Aircraft-Rd--BLDG-140/Project-Engineering-Intern--Summer-2027---Onsite-_01889914"
     ],
     "first_seen": "2026-11-19 01:37 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CT-MIDDLETOWN-140 ~ Aircraft Rd ~ BLDG 140",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Project Engineering Intern (Summer 2027) (Onsite)"
    },
    "01889954": {
@@ -38550,9 +38627,9 @@
      "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954"
     ],
     "first_seen": "2026-11-18 19:09 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Software Engineering Intern (Summer 2027)"
    },
    "01889992": {
@@ -38569,9 +38646,9 @@
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095"
     ],
     "first_seen": "2026-11-19 15:37 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Software Security Intern (Summer 2027)"
    },
    "01890118": {
@@ -38589,9 +38666,9 @@
      "/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290"
     ],
     "first_seen": "2026-11-19 22:56 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-CA-EL SEGUNDO-E02 ~ 2002 E El Segundo Blvd ~ BLDG E02",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Mechanical Engineer Intern Summer 2027 (Onsite)"
    },
    "01890521": {
@@ -38599,9 +38676,9 @@
      "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-Intern--Onsite-_01890521"
     ],
     "first_seen": "2026-11-19 17:12 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Life Cycle Systems Engineer Intern (Onsite)"
    },
    "01890571": {
@@ -38609,9 +38686,9 @@
      "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01890571"
     ],
     "first_seen": "2026-11-19 17:12 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Software Engineering Intern (Summer 2027)"
    },
    "01890700": {
@@ -38619,9 +38696,9 @@
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Winter-Spring-2027-_01890700"
     ],
     "first_seen": "2026-11-20 19:39 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Electrical Engineering Co-op (Winter/Spring 2027)"
    },
    "01890789": {
@@ -38629,9 +38706,9 @@
      "/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789"
     ],
     "first_seen": "2026-11-20 19:39 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "US-OH-TROY-101 ~ 101 Waco St ~ WACO",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Project Engineering Intern (Summer 2027)"
    }
   },
@@ -43432,7 +43509,7 @@
      "/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Portage, Michigan",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan"
@@ -43595,7 +43672,7 @@
      "/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - RA/QA - Quality Assurance - California"
@@ -43740,7 +43817,7 @@
      "/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Irvine, California",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - Statistical Programming - California"
@@ -43867,9 +43944,9 @@
      "/job/San-Jose-California/Summer-2027-Internship---Sales-Operations-Intern---San-Jose--CA_R572806"
     ],
     "first_seen": "2026-11-20 16:42 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Summer 2027 Internship - Sales Operations Intern - San Jose, CA"
    },
    "R572807": {
@@ -43931,7 +44008,7 @@
      "/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Portage, Michigan",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Intern - Industrial Design, User Experience - Michigan"
@@ -44040,7 +44117,7 @@
      "/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Portage, Michigan",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - Clinical Affairs - Michigan"
@@ -44104,7 +44181,7 @@
      "/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Fremont, California",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - Regulatory Affairs - California"
@@ -44177,7 +44254,7 @@
      "/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Tempe, Arizona",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship - Regulatory Affairs - Arizona"
