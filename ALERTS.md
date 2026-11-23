@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-23 23:41 UTC · **ITW** · [Manufacturing Engineer Intern - Summer 2027](https://careers.itw.com/us/en/job/JR11366) · fit (manufacturing) | Fairmont, Minnesota, United States of America [US] | employer-reported Nov 23 | found Nov 23 05:41 PM CT | ID JR11366 | listed
 - 2026-11-23 22:53 UTC · **Airbus** · [2027 Summer Internship - Industrial Engineering - PPE/IE](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140) · fit (manufacturing) | Mobile Area, AL [US] | employer-reported Nov 23 | found Nov 23 04:53 PM CT | ID JR10435140 | open
 - 2026-11-23 22:53 UTC · **AeroVironment** · [Product Engineering Intern](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Product-Engineering-Intern_8815) · strong fit (design / product development) | Simi Valley, CA [US] | employer-reported Nov 23 | found Nov 23 04:53 PM CT | ID 8815 | open
 - 2026-11-23 22:30 UTC · **Draper** · [Materials and Chemistry Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177) · fit (process / quality / materials) | Cambridge, MA [US] | employer-reported Nov 23 | found Nov 23 04:30 PM CT | ID JR003177 | open
