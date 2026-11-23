@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-23 14:23 UTC · **Moog** · [Intern, Manufacturing & Industrial Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-21458) · fit (manufacturing) | Buffalo, NY [US] | employer-reported Nov 23 | found Nov 23 08:23 AM CT | ID R-26-21458 | open
 - 2026-11-23 13:36 UTC · **Carpenter Technology** · [Reliability Engineering Intern](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Tanner-AL/Reliability-Engineering-Intern_27045) · fit (test) | Tanner, AL [US] | employer-reported Nov 23 | found Nov 23 07:36 AM CT | ID 27045 | open
 - 2026-11-23 13:15 UTC · **Baker Hughes** · [Intern/Co-op - Manufacturing - Spring 2027 Opportunities](https://careers.bakerhughes.com/global/en/job/R169443/Intern-Co-op-Manufacturing-Spring-2027-Opportunities) · fit (manufacturing) | Broussard, Louisiana, United States of America [US] | employer-reported Nov 23 | found Nov 23 07:15 AM CT | ID R169443 | open
 - 2026-11-22 11:17 UTC · **AMD** · [Spring/Summer 2027 Undergrad BIOS Engineering Co-Op](https://careers.amd.com/careers-home/jobs/90475?lang=en-us) · fit (general engineering) | Austin, Texas, United States [US] | employer-reported Nov 22 04:17 AM CT | found Nov 22 05:17 AM CT | ID 90475 | open

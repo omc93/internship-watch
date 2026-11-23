@@ -5372,9 +5372,9 @@
      "/job/Houston/Contracts-Intern--Summer-2027-_JR100906"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Houston",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Contracts Intern (Summer 2027)"
    }
   },
@@ -7277,7 +7277,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "Fremont, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Automation Engineering Intern"
    },
    "JR-25266": {
@@ -7287,7 +7287,7 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Engineering Intern"
    },
    "JR-25271": {
@@ -7297,7 +7297,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "Fremont, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "JR-25272": {
@@ -7317,7 +7317,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Process Development Engineering Intern"
    },
    "JR-25334": {
@@ -7367,7 +7367,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Energy Transition Solutions Intern"
    },
    "JR-25360": {
@@ -7417,7 +7417,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Structured Finance Summer Associate (MBA Intern)"
    },
    "JR-25368": {
@@ -7437,7 +7437,7 @@
     "first_seen": "2026-11-16 20:40 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Structured Finance Summer Associate (MBA Intern)"
    },
    "JR-25370": {
@@ -7477,7 +7477,7 @@
     "first_seen": "2026-11-13 23:52 UTC",
     "last_seen": "2026-11-23",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Microgrid Commissioning Support Intern (MSEE)"
    },
    "JR-25409": {
@@ -22416,7 +22416,7 @@
     "last_seen": "2026-11-23",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "redated_seen": "2026-11-23",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -26313,6 +26313,16 @@
     "loc": "Irving-Texas-United States of America",
     "posted_raw": "Posted 5 Days Ago",
     "title": "BEST Sales Intern - HVAC"
+   },
+   "WD30286070": {
+    "aliases": [
+     "/job/New-Freedom-Pennsylvania-United-States-of-America/Intern-Ugrad-Tech-US-CA_WD30286070"
+    ],
+    "first_seen": "2026-11-23 14:23 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "New Freedom-Pennsylvania-United States of America",
+    "posted_raw": "Posted Today",
+    "title": "Intern Ugrad Tech US/CA"
    }
   },
   "seeded": true
@@ -29027,7 +29037,7 @@
      "/job/Bangkok-MSG-Headquarters/Regional-Sustainability---Internship_R-2026029195"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Sustainability - Internship"
@@ -29037,7 +29047,7 @@
      "/job/Bangkok-MSG-Headquarters/Digital-Transformation---Internship_R-2026029200"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Digital Transformation - Internship"
@@ -29047,7 +29057,7 @@
      "/job/GREENVILLE-SC/Summer-2027-Internship--Sales--Greenville--SC-_R-2026029811"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "GREENVILLE, SC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship: Sales (Greenville, SC)"
@@ -29057,7 +29067,8 @@
      "/job/GREENVILLE-SC/XMLNAME-2027-Summer-Inclusion-Strategy---Business-Integration-Intern_R-2026029963"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "loc": "GREENVILLE, SC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Inclusion Strategy & Business Integration Intern"
    },
@@ -29066,7 +29077,7 @@
      "/job/PEOSTA-IA/Summer-2027-Internship--Quality--Peosta--IA-_R-2026030702"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "PEOSTA, IA",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internship: Quality (Peosta, IA)"
@@ -29076,9 +29087,9 @@
      "/job/PEOSTA-IA/XMLNAME-2027-Summer-Supply-Chain-Engineer-Intern---Peosta--IA-_R-2026030726"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "PEOSTA, IA",
-    "posted_raw": "Posted 27 Days Ago",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "2027 Summer Supply Chain Engineer Intern (Peosta, IA)"
    },
    "R-2026031335": {
@@ -29086,7 +29097,7 @@
      "/job/MICHELIN-ROH-CO-LTD/B2B-Marketing---Internship_R-2026031335"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "MICHELIN ROH CO LTD",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional B2B Marketing - Internship"
@@ -29096,9 +29107,9 @@
      "/job/SANDY-SPRINGS-SC/Summer-2027-Environmental-Health-and-Safety-Intern--Upstate-South-Carolina-_R-2026032367"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "SANDY SPRINGS, SC",
-    "posted_raw": "Posted 19 Days Ago",
+    "posted_raw": "Posted 20 Days Ago",
     "title": "Summer 2027 Environmental Health and Safety Intern (Upstate South Carolina)"
    },
    "R-2026033249": {
@@ -29106,7 +29117,7 @@
      "/job/GREENVILLE-SC/Summer-2027-Intern--MBA-Experience-Level-Professional----Various-Fields_R-2026033249"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "GREENVILLE, SC",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Intern (MBA Experience Level Professional) - Various Fields"
@@ -29116,7 +29127,7 @@
      "/job/Bangkok-MSG-Headquarters/Regional-Human-Resource---Internship_R-2026034438"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Human Resource - Internship"
@@ -29126,7 +29137,7 @@
      "/job/Bangkok-MSG-Headquarters/APAC-Regional-Michelin-Guide---Internship_R-2026037985"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bangkok MSG Headquarters",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Regional Michelin Guide - Internship"
@@ -29136,7 +29147,7 @@
      "/job/Tan-Uyen/Automation-Engineer-Internship_R-2026038912"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Tan Uyen",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Automation Engineer Internship"
@@ -29146,7 +29157,7 @@
      "/job/Tan-Uyen/Industrial-Engineer-Internship_R-2026038915"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Tan Uyen",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Industrial Engineer Internship"
@@ -29156,9 +29167,9 @@
      "/job/PEOSTA-IA/XMLNAME-2027-Summer-Safety-Specialist-Intern_R-2026040399"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "PEOSTA, IA",
-    "posted_raw": "Posted 19 Days Ago",
+    "posted_raw": "Posted 20 Days Ago",
     "title": "2027 Summer Safety Specialist Intern"
    },
    "R-2026041048": {
@@ -29166,9 +29177,9 @@
      "/job/Laem-Chabang/Michelin-Top-Challenge-Internship-2027_R-2026041048"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "5 Locations",
-    "posted_raw": "Posted 20 Days Ago",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Michelin Top Challenge Internship 2027"
    },
    "R-2026042493": {
@@ -29176,9 +29187,9 @@
      "/job/Bangkok-MSG-Headquarters/APAC-Regional-Communications---Internship_R-2026042493"
     ],
     "first_seen": "2026-11-13 10:58 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bangkok MSG Headquarters",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "APAC Regional Communications - Internship"
    },
    "R-2026042658": {
@@ -29186,9 +29197,9 @@
      "/job/Bekasi-Regency-West-Java/Health--Safety-and-Environment--HSE--Intern_R-2026042658"
     ],
     "first_seen": "2026-11-20 18:23 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Bekasi Regency, West Java",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Health, Safety and Environment (HSE) Intern"
    }
   },
@@ -29273,6 +29284,16 @@
     "last_seen": "2026-11-13",
     "posted_raw": "Posted 8 Days Ago",
     "title": "Intern - DRAM Design Engineer"
+   },
+   "JR108596": {
+    "aliases": [
+     "/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596"
+    ],
+    "first_seen": "2026-11-23 14:23 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "2 Locations",
+    "posted_raw": "Posted Today",
+    "title": "Intern"
    },
    "JR108935": {
     "aliases": [
@@ -30364,6 +30385,17 @@
     "last_seen": "2026-11-18",
     "posted_raw": "Posted Yesterday",
     "title": "Intern, Environmental Health & Safety"
+   },
+   "R-26-21458": {
+    "aliases": [
+     "/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-21458"
+    ],
+    "first_seen": "2026-11-23 14:23 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Buffalo, NY",
+    "posted_first": "2026-11-23",
+    "posted_raw": "Posted Today",
+    "title": "Intern, Manufacturing & Industrial Engineering"
    },
    "R-26-21567": {
     "aliases": [
@@ -33926,7 +33958,7 @@
     "first_seen": "2026-11-20 18:04 UTC",
     "last_seen": "2026-11-23",
     "loc": "United States-Remote",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Critical Skills Development Intern - Remote"
    },
    "R10261728": {
@@ -38726,6 +38758,16 @@
     "posted_raw": "Posted 3 Days Ago",
     "title": "Electrical Engineering Co-op (Winter/Spring 2027)"
    },
+   "01890708": {
+    "aliases": [
+     "/job/US-GA-REMOTE/Contracts-Intern--Summer-2027-_01890708"
+    ],
+    "first_seen": "2026-11-23 14:23 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "US-GA-REMOTE",
+    "posted_raw": "Posted Today",
+    "title": "Contracts Intern (Summer 2027)"
+   },
    "01890789": {
     "aliases": [
      "/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01890789"
@@ -38913,6 +38955,14 @@
     "posted_first": "2026-11-06",
     "posted_raw": "2026-11-06T12:01:21.906+00:00",
     "title": "Actuation Engineering Intern (Summer)"
+   },
+   "24eb1938-a13b-4933-ba71-9e03ef740ec1": {
+    "first_seen": "2026-11-23 14:23 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "North Kingstown, Rhode Island, USA",
+    "posted_first": "2026-11-23",
+    "posted_raw": "2026-11-23T13:52:30.673+00:00",
+    "title": "Supply Chain Intern"
    },
    "2b47c43c-79ad-499f-8570-61f9107ff32c": {
     "first_seen": "2026-11-14 15:23 UTC",
