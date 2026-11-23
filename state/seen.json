@@ -5798,7 +5798,7 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "USA UT - Sandy",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -5826,9 +5826,9 @@
      "/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-558544"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "USA NE - Columbus (West)",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Controls Tech Intern"
    },
    "R-559082": {
@@ -5836,8 +5836,9 @@
      "/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "USA NE - Columbus (Molding Center)",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Molding Reliability Engineering Intern"
    },
    "https://jobs.bd.com/en/job/columbus/controls-tech-intern/159/102302041376": {
@@ -12004,7 +12005,7 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-23",
     "loc": "Reading, PA",
-    "posted_raw": "Posted 19 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Reliability Engineering Intern"
    },
    "26977": {
@@ -12980,6 +12981,11 @@
     "first_seen": "2026-11-19 21:21 UTC",
     "last_seen": "2026-11-23",
     "title": "Student Intern, Aerospace & Defense"
+   },
+   "1459786533": {
+    "first_seen": "2026-11-23 15:08 UTC",
+    "last_seen": "2026-11-23",
+    "title": "Student Intern, Supply Chain Management"
    }
   },
   "seeded": true
@@ -26314,6 +26320,16 @@
     "posted_raw": "Posted 5 Days Ago",
     "title": "BEST Sales Intern - HVAC"
    },
+   "WD30285567": {
+    "aliases": [
+     "/job/Austin-Texas-United-States-of-America/BEST-Sales-Intern---Construction_WD30285567"
+    ],
+    "first_seen": "2026-11-23 15:08 UTC",
+    "last_seen": "2026-11-23",
+    "loc": "Austin-Texas-United States of America",
+    "posted_raw": "Posted Today",
+    "title": "BEST Sales Intern - Construction"
+   },
    "WD30286070": {
     "aliases": [
      "/job/New-Freedom-Pennsylvania-United-States-of-America/Intern-Ugrad-Tech-US-CA_WD30286070"
@@ -28002,9 +28018,9 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-23",
     "loc": "Hong Kong",
-    "posted_raw": "Posted 30 Days Ago",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "Product Marketing Intern"
    }
   },
@@ -38694,8 +38710,9 @@
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01889992"
     ],
     "first_seen": "2026-11-17 23:59 UTC",
-    "last_seen": "2026-11-19",
-    "posted_raw": "Posted 2 Days Ago",
+    "last_seen": "2026-11-23",
+    "loc": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
+    "posted_raw": "Posted Today",
     "title": "Software Engineering Intern (Summer 2027)"
    },
    "01890095": {
