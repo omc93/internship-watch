@@ -15180,8 +15180,8 @@
      "/job/Engineering-Internship_JR39384"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-24",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "2027 Internship Intake"
    }
   },
@@ -25535,6 +25535,16 @@
     "loc": "Austin, TX",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Software Engineering Intern"
+   },
+   "J2473400": {
+    "aliases": [
+     "/job/Penang/IT-Intern---Computer-Science-Software_J2473400"
+    ],
+    "first_seen": "2026-11-24 07:04 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Penang",
+    "posted_raw": "Posted Today",
+    "title": "IT Intern - Computer Science/Software"
    }
   },
   "seeded": true
