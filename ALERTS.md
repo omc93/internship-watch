@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-24 21:52 UTC · **Flowserve** · [Engineering Co-op](https://flowserve.wd1.myworkdayjobs.com/applied/job/Corpus-Christi-Texas-US/Engineering-Co-op_R-21449) · fit (general engineering) | Corpus Christi, Texas US [US] | employer-reported Nov 24 | found Nov 24 03:52 PM CT | ID R-21449 | open
 - 2026-11-24 20:43 UTC · **Northrop Grumman** · [2027 Guidance Navigation and Controls Intern - Chandler AZ](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Guidance-Navigation-and-Controls-Intern---Chandler-AZ_R10262021) · fit (systems / controls) | United States-Arizona-Chandler [US] | employer-reported Nov 24 | found Nov 24 02:43 PM CT | ID R10262021 | open
 - 2026-11-24 20:43 UTC · **Leidos** · [Missile Systems Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265) · fit (systems / controls) | Huntsville, AL [US] | employer-reported Nov 24 | found Nov 24 02:43 PM CT | ID R-00195265 | open
 - 2026-11-24 20:43 UTC · **Johns Hopkins APL** · [2027 Internship - Robotics](https://careers.jhuapl.edu/jobs/61013) · strong fit (robotics hardware) | Laurel, Maryland, United States [US] | employer-reported Nov 24 02:28 PM CT | found Nov 24 02:43 PM CT | ID 61013 | listed
@@ -400,6 +401,3 @@
 - 2026-11-10 18:53 UTC · **Northrop Grumman** · [2027 Manufacturing Engineer Intern- Commerce CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976) · United States-California-Commerce
 - 2026-11-10 18:53 UTC · **ABB** · [Systems Engineering Intern - Summer 2027](https://careers.abb/global/en/job/JR00048328) · Cleveland, Ohio, United States of America
 - 2026-11-10 18:53 UTC · **ABB** · [Mechanical Engineering Co-op- Summer 2027](https://careers.abb/global/en/job/JR00051089) · Mebane, North Carolina, United States of America
-- 2026-11-10 18:53 UTC · **Oshkosh** · [Supplier Quality Engineer Intern](https://careers.oshkoshcorp.com/us/en/job/R50855) · Oshkosh, Wisconsin, United States of America
-- 2026-11-10 18:53 UTC · **PACCAR / Peterbilt / Kenworth** · [Resident Engineer Intern Summer 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Summer-2027-MS-39701/1456162633/) · 
-- 2026-11-10 18:53 UTC · **PACCAR / Peterbilt / Kenworth** · [Resident Engineer Intern Spring 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Spring-2027-MS-39701/1456163033/) · 
