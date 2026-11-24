@@ -688,6 +688,14 @@
     "posted_raw": "2026-11-22T10:10:00+0000",
     "title": "Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op"
    },
+   "89564": {
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Austin, Texas, United States",
+    "posted_first": "2026-11-24",
+    "posted_raw": "2026-11-24T15:28:00+0000",
+    "title": "Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op"
+   },
    "89816": {
     "first_seen": "2026-11-20 15:01 UTC",
     "last_seen": "2026-11-24",
@@ -5926,7 +5934,7 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA UT - Sandy",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -5964,9 +5972,9 @@
      "/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA NE - Columbus (Molding Center)",
-    "posted_raw": "Posted 24 Days Ago",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "Molding Reliability Engineering Intern"
    },
    "https://jobs.bd.com/en/job/columbus/controls-tech-intern/159/102302041376": {
@@ -8371,6 +8379,17 @@
     "last_seen": "2026-11-16",
     "posted_raw": "Posted 19 Days Ago",
     "title": "Intern - Student Engineer (Systems Eng)"
+   },
+   "JR2026530394": {
+    "aliases": [
+     "/job/GBR---RAF-Lossiemouth-United-Kingdom/Test---Evaluation-Intern-2027---12-Month-Placement_JR2026530394"
+    ],
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "2 Locations",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Test & Evaluation Intern 2027 - 12 Month Placement"
    }
   },
   "seeded": true
@@ -8450,6 +8469,14 @@
     "posted_first": "2026-10-01",
     "posted_raw": "10/1/26",
     "title": "Intern, Project Engineering - New development (Winter 2027)"
+   },
+   "15425": {
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Wichita, KS, USA, 67209",
+    "posted_first": "2026-09-15",
+    "posted_raw": "9/15/26",
+    "title": "Year-round Flight Sciences Engineering Intern"
    },
    "15481": {
     "first_seen": "2026-11-21 22:08 UTC",
@@ -10357,6 +10384,16 @@
     "last_seen": "2026-11-24",
     "loc": "Waltham Office (POST)",
     "title": "Advanced Manufacturing Engineering Co-Op"
+   },
+   "R3416": {
+    "aliases": [
+     "/job/Waltham-Office-POST/Platform-Mechanical-Engineer-Co-Op_R3416"
+    ],
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Waltham Office (POST)",
+    "posted_first": "2026-11-24",
+    "title": "Platform Mechanical Engineer Co-Op"
    }
   },
   "seeded": true
@@ -12214,6 +12251,16 @@
     "posted_first": "2026-11-23",
     "posted_raw": "Posted Yesterday",
     "title": "Metallurgy Intern"
+   },
+   "27047": {
+    "aliases": [
+     "/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047"
+    ],
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Reading, PA",
+    "posted_raw": "Posted Today",
+    "title": "Business Continuity Data Analyst & Reporting Intern"
    }
   },
   "seeded": true
@@ -22619,7 +22666,8 @@
     "loc": "Jacksonville, FL",
     "posted_first": "2026-09-22",
     "posted_raw": "1790125225586",
-    "title": "Propulsion Test Engineering Intern - Spring/Summer/Fall 2027"
+    "title": "Propulsion Test Engineering Intern - Summer/Fall 2027",
+    "updated_seen": "2026-11-24"
    },
    "d40446ee-40a9-4bb0-a3a8-a4a189b74630": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -28509,7 +28557,7 @@
      "/job/Hong-Kong/Product-Marketing-Intern_148551"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "Hong Kong",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Product Marketing Intern"
@@ -34602,6 +34650,16 @@
     "posted_raw": "Posted Yesterday",
     "title": "2027 Software Test Engineering Intern - Roy UT"
    },
+   "R10261891": {
+    "aliases": [
+     "/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891"
+    ],
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "United States-Virginia-McLean",
+    "posted_raw": "Posted Today",
+    "title": "2027 Financial Reporting Intern - McLean VA"
+   },
    "R10261915": {
     "aliases": [
      "/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915"
@@ -39551,6 +39609,17 @@
     "loc": "US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Systems Engineering Intern - Summer 2027 (Onsite)"
+   },
+   "01890127": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127"
+    ],
+    "first_seen": "2026-11-24 15:48 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineering Co-op (Summer/Fall 2027)"
    },
    "01890290": {
     "aliases": [
