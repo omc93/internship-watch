@@ -32426,6 +32426,16 @@
     "loc": "Armenia, Yerevan",
     "posted_raw": "Posted Today",
     "title": "Applied Research Intern - 2027"
+   },
+   "JR2030537": {
+    "aliases": [
+     "/job/Taiwan-Taipei/Mixed-Signal-Circuit-Designer--RDSS-Intern-_JR2030537"
+    ],
+    "first_seen": "2026-11-24 03:54 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "2 Locations",
+    "posted_raw": "Posted Today",
+    "title": "Mixed Signal Circuit Designer (RDSS Intern)"
    }
   },
   "seeded": true
@@ -34414,6 +34424,17 @@
     "loc": "United States-Utah-Roy",
     "posted_raw": "Posted Today",
     "title": "2027 Software Test Engineering Intern - Roy UT"
+   },
+   "R10261915": {
+    "aliases": [
+     "/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915"
+    ],
+    "first_seen": "2026-11-24 03:54 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "United States-Oklahoma-Oklahoma City",
+    "posted_first": "2026-11-23",
+    "posted_raw": "Posted Today",
+    "title": "2027 Intern Test & Evaluation Oklahoma City (Part-Time)"
    }
   },
   "seeded": true
@@ -38613,6 +38634,17 @@
     "posted_raw": "Posted 9 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027)"
    },
+   "01886275": {
+    "aliases": [
+     "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Intern-Summer-2027---Onsite_01886275"
+    ],
+    "first_seen": "2026-11-24 03:54 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
+    "posted_first": "2026-11-23",
+    "posted_raw": "Posted Today",
+    "title": "Systems Engineering Intern Summer 2027 - Onsite"
+   },
    "01886283": {
     "aliases": [
      "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283"
@@ -38947,6 +38979,16 @@
     "last_seen": "2026-11-13",
     "posted_raw": "Posted 3 Days Ago",
     "title": "Software Engineering Intern (E2D-IN-1)"
+   },
+   "01888022": {
+    "aliases": [
+     "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-EDSI-SRI-IEG-Summer-Intern_01888022"
+    ],
+    "first_seen": "2026-11-24 03:54 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "posted_raw": "Posted Today",
+    "title": "F135 EDSI SRI/IEG Summer Intern 2027 - Onsite"
    },
    "01888045": {
     "aliases": [
@@ -49616,7 +49658,7 @@
     "posted_first": "2026-09-10",
     "posted_raw": "2026-09-10T14:53:47-04:00",
     "title": "Emerging Talent - Mechanical/Aerospace Engineering Internship",
-    "updated_raw": "2026-11-23T22:01:40-05:00"
+    "updated_raw": "2026-11-23T22:44:49-05:00"
    },
    "4711401006": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -49625,7 +49667,7 @@
     "posted_first": "2026-09-10",
     "posted_raw": "2026-09-10T15:09:36-04:00",
     "title": "Emerging Talent - Electrical Engineering Internship",
-    "updated_raw": "2026-11-23T22:01:40-05:00"
+    "updated_raw": "2026-11-23T22:44:49-05:00"
    },
    "4711403006": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -49634,7 +49676,7 @@
     "posted_first": "2026-09-10",
     "posted_raw": "2026-09-10T15:11:36-04:00",
     "title": "Emerging Talent - Manufacturing Engineering Internship",
-    "updated_raw": "2026-11-23T22:01:40-05:00"
+    "updated_raw": "2026-11-23T22:44:49-05:00"
    }
   },
   "seeded": true
