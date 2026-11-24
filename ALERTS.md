@@ -1,5 +1,6 @@
 # Recent internship alerts
 
+- 2026-11-24 18:29 UTC · **Northrop Grumman** · [2027 Computer Systems Intern - Linthicum MD](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Computer-Systems-Intern---Linthicum-MD_R10261959) · fit (systems / controls) | United States-Maryland-Linthicum [US] | employer-reported Nov 24 | found Nov 24 12:29 PM CT | ID R10261959 | open
 - 2026-11-24 17:38 UTC · **Draper** · [Simulation Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181) · fit (general engineering) | Cambridge, MA [US] | employer-reported Nov 24 | found Nov 24 11:38 AM CT | ID JR003181 | open
 - 2026-11-24 17:38 UTC · **Adient** · [Engineering Intern](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/Engineering-Intern_R-29445) · fit (general engineering) | Plymouth, MI [US] | employer-reported Nov 24 | found Nov 24 11:38 AM CT | ID R-29445 | open
 - 2026-11-24 15:48 UTC · **RTX (Collins, Pratt & Whitney, Raytheon)** · [Systems Engineering Co-op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127) · fit (systems / controls) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 [US] | employer-reported Nov 24 | found Nov 24 09:48 AM CT | ID 01890127 | open
@@ -400,5 +401,3 @@
 - 2026-11-10 18:53 UTC · **PACCAR / Peterbilt / Kenworth** · [Resident Engineer Intern Summer 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Summer-2027-MS-39701/1456162633/) · 
 - 2026-11-10 18:53 UTC · **PACCAR / Peterbilt / Kenworth** · [Resident Engineer Intern Spring 2027](https://jobs.paccar.com/job/Columbus-Resident-Engineer-Intern-Spring-2027-MS-39701/1456163033/) · 
 - 2026-11-10 18:53 UTC · **Formlabs** · [Social Media Engineering Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8360209/apply/?gh_jid=8360209) · Somerville, MA
-- 2026-11-10 18:53 UTC · **ITW** · [Structural Engineering Intern](https://careers.itw.com/us/en/job/JR11018) · Orlando, Florida, United States of America
-- 2026-11-10 18:53 UTC · **Intel** · [Facilities Water Treatment Technician Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Facilities-Water-Treatment-Technician-Intern_JR0287403) · US, New Mexico, Albuquerque
