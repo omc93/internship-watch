@@ -5492,9 +5492,9 @@
      "/job/Houston/Contracts-Intern--Summer-2027-_JR100906"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "Houston",
-    "posted_raw": "Posted 11 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Contracts Intern (Summer 2027)"
    }
   },
@@ -15196,6 +15196,16 @@
     "loc": "Cambridge, MA",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Operational Analysis Intern (Summer 2027)"
+   },
+   "JR003188": {
+    "aliases": [
+     "/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Cambridge, MA",
+    "posted_raw": "Posted Today",
+    "title": "HWIL & Real Time Simulation Intern (Summer 2027)"
    }
   },
   "seeded": true
@@ -19604,6 +19614,70 @@
     "loc": "Schenectady",
     "posted_raw": "Posted 3 Days Ago",
     "title": "GEV Cores and Castings Materials Internship – 2027"
+   },
+   "R5059697": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-Engineering-Automation-Internship---Summer-2027_R5059697-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Engineering Automation Internship - Summer 2027"
+   },
+   "R5059698": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-Robotics---Manufacturing-Automation-Internship---Summer-2027_R5059698-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027"
+   },
+   "R5059700": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-MES-Implementation---Manufacturing-Data-Internship---Summer-2027_R5059700-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova MES Implementation & Manufacturing Data Internship - Summer 2027"
+   },
+   "R5059702": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-Manufacturing-Quality---Digital-Work-Instructions-Internship---Summer-2027_R5059702-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Manufacturing Quality & Digital Work Instructions Internship - Summer 2027"
+   },
+   "R5059703": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-Hermes-MES-Implementation-Internship---Summer-2027_R5059703-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Hermes_MES_Implementation Internship - Summer 2027"
+   },
+   "R5059709": {
+    "aliases": [
+     "/job/Charleroi-USA/GE-Vernova-Manufacturing-Systems---SAP-Integration-Internship---Summer-2027_R5059709-2"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Charleroi USA",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "GE Vernova Manufacturing Systems & SAP Integration Internship - Summer 2027"
    }
   },
   "seeded": true
@@ -29141,8 +29215,9 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-24",
     "loc": "Southfield, Michigan, US",
-    "posted_raw": "Posted 30+ Days Ago",
-    "title": "Student - Engineering Co-op"
+    "posted_raw": "Posted Today",
+    "title": "Intern - Engineering",
+    "updated_seen": "2026-11-24"
    },
    "R00261307": {
     "aliases": [
@@ -29200,7 +29275,7 @@
     "first_seen": "2026-11-19 22:14 UTC",
     "last_seen": "2026-11-24",
     "loc": "Ramos, MX",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Intern/Co-op, Product Eng"
    }
   },
@@ -30902,6 +30977,16 @@
     "loc": "Buffalo, NY",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Intern, Electrical Engineering"
+   },
+   "R-26-21597": {
+    "aliases": [
+     "/job/Buffalo-NY/EHS-Intern_R-26-21597"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Buffalo, NY",
+    "posted_raw": "Posted Today",
+    "title": "Intern, EHS"
    }
   },
   "seeded": true
@@ -39568,6 +39653,16 @@
     "posted_raw": "Posted Yesterday",
     "title": "Embedded System Engineering Intern"
    },
+   "01890983": {
+    "aliases": [
+     "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983"
+    ],
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "posted_raw": "Posted Today",
+    "title": "Software Engineering Intern (Summer 2027)"
+   },
    "01891033": {
     "aliases": [
      "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer--Intern_01891033"
@@ -44013,7 +44108,7 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-24",
     "loc": "Towson, MD, United States",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "UX/UI Design Intern - Summer 2027"
    },
    "REQ-1000052836": {
@@ -44021,9 +44116,9 @@
      "/job/Valley-City-OH-United-States/Engineering-Intern--Manuals-Tech-Writer-Team---Summer-2027_REQ-1000052836"
     ],
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "Valley City, OH, United States",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Manuals Tech Writer Intern - Summer 2027",
     "updated_seen": "2026-11-19"
    },
@@ -50783,6 +50878,17 @@
     "first_seen": "2026-11-20 22:19 UTC",
     "last_seen": "2026-11-24",
     "title": "Summer Intern - Electrical Engineering"
+   },
+   "1453366100": {
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "title": "Summer Intern - Inventory Management"
+   },
+   "1453379800": {
+    "first_seen": "2026-11-24 14:57 UTC",
+    "last_seen": "2026-11-24",
+    "posted_first": "2026-11-24",
+    "title": "Summer Intern - Nuclear Core Design Engineering"
    }
   },
   "seeded": true
