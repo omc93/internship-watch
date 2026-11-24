@@ -6323,6 +6323,14 @@
     "posted_first": "2026-11-20",
     "posted_raw": "11/20/26",
     "title": "SF-O-CS-GR,CIC Intern"
+   },
+   "201514": {
+    "first_seen": "2026-11-24 19:51 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Rijswijk, NLD,",
+    "posted_first": "2026-11-24",
+    "posted_raw": "11/24/26",
+    "title": "Internship Finance"
    }
   },
   "seeded": true
@@ -8500,6 +8508,14 @@
     "posted_first": "2026-09-26",
     "posted_raw": "9/26/26",
     "title": "Intern, Sales support (Winter 2027)"
+   },
+   "15210": {
+    "first_seen": "2026-11-24 19:51 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Dorval, QC, CAN, H4S 1Y9",
+    "posted_first": "2026-09-10",
+    "posted_raw": "9/10/26",
+    "title": "Intern, Hydromechanical systems (Winter 2027)"
    },
    "15311": {
     "first_seen": "2026-11-21 22:08 UTC",
@@ -12659,7 +12675,7 @@
     "first_seen": "2026-11-20 19:39 UTC",
     "last_seen": "2026-11-24",
     "loc": "2 Locations",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "Digital Technology Intern - Summer"
    },
    "https://jobs.carrier.com/en/job/east-syracuse/chemical-materials-engineering-intern-summer/29289/102293059680": {
@@ -16493,7 +16509,7 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-24",
     "loc": "Bedford, MA",
-    "posted_raw": "Posted 14 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "New Product Introduction Intern"
    },
    "REQ-15834": {
@@ -17424,7 +17440,7 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-24",
     "loc": "Cedar Park, TX",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Internship - Software Engineering - Spring 2027"
    },
    "JR100189": {
@@ -20691,7 +20707,8 @@
      "/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling"
    },
@@ -20918,8 +20935,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Magnetic-Materials_JR-202621629"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Magnetic Materials"
    },
    "JR-202621636": {
@@ -20927,8 +20945,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Physical-Metallurgist--Steels-_JR-202621636"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Physical Metallurgist (Steels)"
    },
    "JR-202621642": {
@@ -21023,8 +21042,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Nondestructive-Evaluation_JR-202621726"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "2027 Summer Intern – Research and Development - Nondestructive Evaluation"
    },
    "JR-202621729": {
@@ -21050,8 +21070,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---System-Safety_JR-202621736"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 9 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "2027 Summer Intern - Research and Development - System Safety"
    },
    "JR-202621738": {
@@ -21099,8 +21120,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 26 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)"
    },
    "JR-202621820": {
@@ -21118,7 +21140,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---GM-OneOps-Deploy-Engineer_JR-202621896"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - GM OneOps Deploy Engineer"
    },
@@ -21237,8 +21260,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture"
    },
    "JR-202622258": {
@@ -21336,7 +21360,8 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Intern - Manufacturing Excellence Industrial Engineering"
    },
@@ -21375,8 +21400,9 @@
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---EPSR-Lab_JR-202623300"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-21",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "Warren, Michigan, United States of America",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "2027 Summer Intern - Research and Development - EPSR Lab"
    },
    "JR-202623439": {
@@ -27655,6 +27681,16 @@
     "posted_raw": "Posted 18 Days Ago",
     "title": "Mechanical Engineer Intern"
    },
+   "2643372": {
+    "aliases": [
+     "/job/Phoenix-AZ/Service-Support-Intern_2643372-1"
+    ],
+    "first_seen": "2026-11-24 19:51 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Phoenix, AZ",
+    "posted_raw": "Posted Today",
+    "title": "Service Support Intern"
+   },
    "2643570": {
     "aliases": [
      "/job/Milpitas-CA/Product-Development-Engineer-Intern_2643570-1"
@@ -30293,6 +30329,16 @@
     "loc": "Boise, ID - Main Site",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Intern - Compute System Compatibility Engineer"
+   },
+   "JR113803": {
+    "aliases": [
+     "/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803"
+    ],
+    "first_seen": "2026-11-24 19:51 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Boise, ID - Main Site",
+    "posted_raw": "Posted Today",
+    "title": "Intern - SSD Architecture Modeling"
    },
    "JR114094": {
     "aliases": [
@@ -41208,7 +41254,7 @@
     "posted_first": "2026-09-17",
     "posted_raw": "2026-09-17T12:04:41-04:00",
     "title": "Supply Chain Intern Summer 2027",
-    "updated_raw": "2026-11-02T17:27:44-05:00"
+    "updated_raw": "2026-11-24T14:32:44-05:00"
    },
    "7990069003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -51224,6 +51270,12 @@
     "last_seen": "2026-11-24",
     "posted_first": "2026-11-24",
     "title": "Summer Intern - Nuclear Core Design Engineering"
+   },
+   "1453540200": {
+    "first_seen": "2026-11-24 19:51 UTC",
+    "last_seen": "2026-11-24",
+    "posted_first": "2026-11-24",
+    "title": "Summer Intern - Fluid Systems"
    }
   },
   "seeded": true
