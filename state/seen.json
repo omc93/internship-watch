@@ -6922,9 +6922,9 @@
      "/job/Kuala-Lumpur/Finance-Intern_JR-213316"
     ],
     "first_seen": "2026-11-12 09:00 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "Kuala Lumpur",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Finance Intern"
    },
    "JR-213518": {
@@ -14147,7 +14147,7 @@
     "first_seen": "2026-11-21 23:45 UTC",
     "last_seen": "2026-11-24",
     "loc": "Piqua, Ohio",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Finance Intern"
    },
    "JR102918": {
@@ -14157,7 +14157,7 @@
     "first_seen": "2026-11-18 01:17 UTC",
     "last_seen": "2026-11-24",
     "loc": "Jurupa Valley, California",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Finance Intern (Part-Time)"
    },
    "JR102970": {
@@ -14168,7 +14168,7 @@
     "last_seen": "2026-11-24",
     "loc": "Fort Walton Beach, Florida",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Manufacturing Engineering Intern- Summer 2027"
    }
   },
@@ -18389,6 +18389,14 @@
     "last_seen": "2026-11-11",
     "posted_raw": "2026-08-25",
     "title": "Field Service Engineer Co-Op"
+   },
+   "10799": {
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Everett, WA, United States",
+    "posted_first": "2026-11-24",
+    "posted_raw": "2026-11-24",
+    "title": "Channel Sales Intern"
    },
    "10810": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -22941,7 +22949,7 @@
      "/job/USA---UT--Salt-Lake-City-Matrix/Engineering-Intern_R020612"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA - UT- Salt Lake City Matrix",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -22951,7 +22959,7 @@
      "/job/USA---PA---Pottsville/Co-Op_R020730"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA - PA - Pottsville",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-Op"
@@ -22961,7 +22969,7 @@
      "/job/USA---PA---Pottsville/Co-Op_R020731"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA - PA - Pottsville",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-Op"
@@ -22971,9 +22979,9 @@
      "/job/USA---MA---Amesbury/Operational-Excellence---Continuous-Improvement-Intern_R020750"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "USA - MA - Amesbury",
-    "posted_raw": "Posted 18 Days Ago",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "Operational Excellence / Continuous Improvement Intern"
    }
   },
@@ -23069,7 +23077,7 @@
     "last_seen": "2026-11-24",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "redated_seen": "2026-11-24",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -32934,6 +32942,16 @@
     "posted_raw": "Posted 5 Days Ago",
     "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027"
    },
+   "JR2030055": {
+    "aliases": [
+     "/job/US-CA-Santa-Clara/Influencer-Marketing-MBA-Intern---Summer-2027_JR2030055-1"
+    ],
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US, CA, Santa Clara",
+    "posted_raw": "Posted Today",
+    "title": "Influencer Marketing MBA Intern - Summer 2027"
+   },
    "JR2030178": {
     "aliases": [
      "/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178"
@@ -40136,6 +40154,39 @@
     "loc": "US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS",
     "posted_raw": "Posted Yesterday",
     "title": "Systems Engineer, Intern"
+   },
+   "01891144": {
+    "aliases": [
+     "/job/US-TX-FORT-BLISS-11005-CUST--11005-Fort-Bliss--BLDG-11005-External-Site/Manufacturing-Engineering-Intern--Spring-2027-_01891144"
+    ],
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005 (External Site)",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Manufacturing Engineering Intern (Spring 2027)"
+   },
+   "01891146": {
+    "aliases": [
+     "/job/US-AR-CAMDEN-H100--100-Wilson-Rd--BLDG-H100-Highland-Industrial-Park/Manufacturing-Engineering-Intern--Summer-2027-_01891146"
+    ],
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-AR-CAMDEN-H100 ~ 100 Wilson Rd ~ BLDG H100, Highland Industrial Park",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Manufacturing Engineering Intern (Summer 2027)"
+   },
+   "01891148": {
+    "aliases": [
+     "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Operations-Engineering-Intern--Summer-2027-_01891148"
+    ],
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-TX-MCKINNEY-513WZ ~ 2501 W University Dr ~ WING Z BLDG",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Operations Engineering Intern (Summer 2027)"
    }
   },
   "seeded": true
@@ -41393,7 +41444,7 @@
     "posted_first": "2026-09-09",
     "posted_raw": "2026-09-09T19:36:36-04:00",
     "title": "HITL Engineering Intern Summer 2027",
-    "updated_raw": "2026-11-02T17:28:14-05:00"
+    "updated_raw": "2026-11-24T17:17:16-05:00"
    },
    "7990270003": {
     "first_seen": "2026-11-10 15:57 UTC",
@@ -46469,6 +46520,16 @@
     "last_seen": "2026-11-17",
     "posted_raw": "Posted 13 Days Ago",
     "title": "Intern"
+   },
+   "REQ-15534": {
+    "aliases": [
+     "/job/US-OH-Grove-City-V01/Intern-Painter-I_REQ-15534"
+    ],
+    "first_seen": "2026-11-24 22:43 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "US-OH Grove City V01",
+    "posted_raw": "Posted Today",
+    "title": "Intern Painter I"
    }
   },
   "seeded": true
