@@ -4019,6 +4019,14 @@
     "posted_raw": "2026-09-02T17:00:42.323+00:00",
     "title": "Avionics Internship (Spring or Summer 2027)"
    },
+   "2268adcb-a0f6-4e12-a206-8f99e048486d": {
+    "first_seen": "2026-11-24 21:34 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Los Angeles",
+    "posted_first": "2026-11-24",
+    "posted_raw": "2026-11-24T20:50:47.060+00:00",
+    "title": "Software Engineer, Test Automation Internship (Summer 2027)"
+   },
    "2d5ad921-241f-4e7a-b9ff-9d01763da88c": {
     "first_seen": "2026-11-10 16:13 UTC",
     "last_seen": "2026-11-24",
@@ -4058,6 +4066,14 @@
     "posted_first": "2026-10-13",
     "posted_raw": "2026-10-13T17:58:21.023+00:00",
     "title": "Mission Integration Engineer Internship (Spring or Summer 2027)"
+   },
+   "e34724bd-0db2-4433-9352-7ad49d37e627": {
+    "first_seen": "2026-11-24 21:34 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Los Angeles",
+    "posted_first": "2026-11-24",
+    "posted_raw": "2026-11-24T20:43:58.099+00:00",
+    "title": "Mechanical Ground Systems Engineering Internship (Summer 2027)"
    }
   },
   "seeded": true
@@ -25376,6 +25392,14 @@
     "posted_first": "2026-11-20",
     "posted_raw": "2026-11-20T22:56:57.723Z",
     "title": "Data Engineering Intern"
+   },
+   "744000163546809": {
+    "first_seen": "2026-11-24 21:34 UTC",
+    "last_seen": "2026-11-24",
+    "loc": "Sunnyvale, CA, us",
+    "posted_first": "2026-11-24",
+    "posted_raw": "2026-11-24T20:53:57.328Z",
+    "title": "Product Management MBA Intern"
    }
   },
   "seeded": true
@@ -31740,9 +31764,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "PhD Research Intern, Generative AI - 2026"
    },
    "JR2021277": {
@@ -31770,9 +31794,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Hardware ASIC Design"
    },
    "JR2023487": {
@@ -31780,9 +31804,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)"
    },
    "JR2023489": {
@@ -31790,9 +31814,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Computer Architecture"
    },
    "JR2023491": {
@@ -31800,9 +31824,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture"
    },
    "JR2023492": {
@@ -31810,9 +31834,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Systems Software Engineering"
    },
    "JR2023495": {
@@ -31820,9 +31844,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Software Engineering"
    },
    "JR2023496": {
@@ -31830,9 +31854,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics"
    },
    "JR2023497": {
@@ -31840,9 +31864,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Deep Learning"
    },
    "JR2023499": {
@@ -31850,9 +31874,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology"
    },
    "JR2023500": {
@@ -31860,9 +31884,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Hardware Verification"
    },
    "JR2023501": {
@@ -31870,9 +31894,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI"
    },
    "JR2023502": {
@@ -31889,9 +31913,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Digital Circuit Design"
    },
    "JR2023508": {
@@ -31899,9 +31923,9 @@
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "NVIDIA 2027 Internships: Hardware Engineering"
    },
    "JR2023856": {
@@ -32098,7 +32122,7 @@
      "/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "3 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027"
@@ -32207,7 +32231,7 @@
      "/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Computer Architecture Intern - 2027"
@@ -32477,9 +32501,9 @@
      "/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "3 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "PhD Research Intern, Robotic Perception and Learning - 2027"
    },
    "JR2027181": {
@@ -32557,7 +32581,7 @@
      "/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Deep Learning Model and System Optimization Engineering Intern – 2027"
@@ -32614,9 +32638,9 @@
      "/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "4 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Math Device Extension Libraries Intern - 2027"
    },
    "JR2028210": {
@@ -32694,9 +32718,9 @@
      "/job/US-CA-Santa-Clara/Human-Resources-Intern---Summer-2027_JR2028740"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Human Resources Intern - Summer 2027"
    },
    "JR2028934": {
@@ -32704,9 +32728,9 @@
      "/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1"
     ],
     "first_seen": "2026-11-20 08:40 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027"
    },
    "JR2028995": {
@@ -32763,9 +32787,9 @@
      "/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "3 Locations",
-    "posted_raw": "Posted 16 Days Ago",
+    "posted_raw": "Posted 17 Days Ago",
     "title": "Reinforcement Learning Intern - 2027"
    },
    "JR2029307": {
@@ -32863,9 +32887,9 @@
      "/job/France-Courbevoie/Go-to-Market-Strategy-Intern_JR2029657"
     ],
     "first_seen": "2026-11-11 12:20 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Go-to-Market Strategy Intern - Summer 2027",
     "updated_seen": "2026-11-16"
    },
@@ -39837,8 +39861,9 @@
      "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033"
     ],
     "first_seen": "2026-11-12 01:48 UTC",
-    "last_seen": "2026-11-16",
-    "posted_raw": "Posted 4 Days Ago",
+    "last_seen": "2026-11-24",
+    "loc": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "posted_raw": "Posted Today",
     "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite"
    },
    "01889105": {
