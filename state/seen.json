@@ -377,7 +377,7 @@
    },
    "JR00048200": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Hackettstown, New Jersey, United States of America",
     "posted_first": "2026-11-04",
     "posted_raw": "2026-11-04T00:00:00.000+0000",
@@ -393,7 +393,7 @@
    },
    "JR00048202": {
     "first_seen": "2026-11-17 18:43 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Ormond Beach, Florida, United States of America",
     "posted_first": "2026-11-17",
     "posted_raw": "2026-11-17T00:00:00.000+0000",
@@ -497,7 +497,7 @@
    },
    "JR00049918": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Pinetops, North Carolina, United States of America",
     "posted_first": "2026-11-09",
     "posted_raw": "2026-11-09T00:00:00.000+0000",
@@ -567,7 +567,7 @@
    },
    "JR00051359": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Quincy, Massachusetts, United States of America",
     "posted_first": "2026-11-16",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
@@ -2143,7 +2143,7 @@
      "/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140"
     ],
     "first_seen": "2026-11-23 22:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Mobile Area, AL",
     "posted_first": "2026-11-23",
     "posted_raw": "Posted Yesterday",
@@ -2609,7 +2609,7 @@
      "/job/Tianjin---FAL-TJ-WC/ACOLH1-intern_JR10460725"
     ],
     "first_seen": "2026-11-24 07:24 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Tianjin - FAL TJ WC",
     "posted_raw": "Posted Today",
     "title": "ACOLH1 intern"
@@ -2619,7 +2619,7 @@
      "/job/Tianjin---FAL-TJ-WC/ACOLH1-intern_JR10460726"
     ],
     "first_seen": "2026-11-24 07:24 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Tianjin - FAL TJ WC",
     "posted_raw": "Posted Today",
     "title": "ACOLH1 intern"
@@ -5878,7 +5878,7 @@
    },
    "131950BR": {
     "first_seen": "2026-11-17 22:46 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenlawn, New York, United States",
     "posted_first": "2026-11-10",
     "posted_raw": "2026-11-11T05:02:31.530+0000",
@@ -5902,7 +5902,7 @@
    },
    "131991BR": {
     "first_seen": "2026-11-17 22:46 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Endicott, New York, United States",
     "posted_first": "2026-11-10",
     "posted_raw": "2026-11-11T05:02:31.530+0000",
@@ -17430,7 +17430,7 @@
      "/job/Briggs-TX/Internship---Ground-Support-Equipment---Summer-2027_JR100148"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Ground Support Equipment - Spring 2027"
@@ -17440,7 +17440,7 @@
      "/job/Cedar-Park-TX/Internship---Mechanical-Engineering---Spring-2027_JR100180"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Cedar Park, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Mechanical Engineering - Spring 2027"
@@ -17450,7 +17450,7 @@
      "/job/Cedar-Park-TX/Internship---Mission-Operations--Spacecraft----Spring-2027_JR100181"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Cedar Park, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Mission Operations (Spacecraft) - Spring 2027"
@@ -17460,7 +17460,7 @@
      "/job/Briggs-TX/Internship---Propulsion-Manufacturing---Spring-2027_JR100182"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Briggs, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Propulsion Manufacturing - Spring 2027"
@@ -17470,7 +17470,7 @@
      "/job/Briggs-TX/Internship---Structures-Manufacturing--Composites----Spring-2027_JR100186"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Briggs, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Structures Manufacturing (Composites) - Spring 2027"
@@ -17480,7 +17480,7 @@
      "/job/Cedar-Park-TX/Internship---Electrical-Engineering---Spring-2027_JR100187"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Cedar Park, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Electrical Engineering - Spring 2027"
@@ -17500,7 +17500,7 @@
      "/job/Briggs-TX/Internship---Engine-Test---Spring-2027_JR100189"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Briggs, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Engine Test - Spring 2027"
@@ -17510,7 +17510,7 @@
      "/job/Briggs-TX/Internship---Materials---Process---Spring-2027_JR100191"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Briggs, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Materials & Process - Spring 2027"
@@ -17520,7 +17520,7 @@
      "/job/Cedar-Park-TX/Internship---Launch-Site-Development---Spring-2027_JR100192"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Cedar Park, TX",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Internship - Launch Site Development - Spring 2027"
@@ -18806,7 +18806,7 @@
      "/job/IND-Bangalore-KA/Co-op-Intern_REQ-26671"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 5 Days Ago",
     "title": "Co-op/Intern"
@@ -18844,7 +18844,7 @@
      "/job/USA-Louisville-KY/Finance-Internship--Summer-2027-_REQ-27345"
     ],
     "first_seen": "2026-11-20 16:18 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "USA, Louisville, KY",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Finance Internship (Summer 2027)"
@@ -23114,7 +23114,7 @@
     "last_seen": "2026-11-25",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "redated_seen": "2026-11-25",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -24385,7 +24385,7 @@
    },
    "JR10284": {
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-11-12",
     "posted_raw": "2026-11-12T00:00:00.000+0000",
@@ -24393,7 +24393,7 @@
    },
    "JR10290": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-09-28",
     "posted_raw": "2026-09-28T00:00:00.000+0000",
@@ -24463,7 +24463,7 @@
    },
    "JR10791": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-10-23",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
@@ -24527,7 +24527,7 @@
    },
    "JR10836": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-10-26",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
@@ -24567,7 +24567,7 @@
    },
    "JR11135": {
     "first_seen": "2026-11-12 01:48 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-11-11",
     "posted_raw": "2026-11-11T00:00:00.000+0000",
@@ -24575,7 +24575,7 @@
    },
    "JR11144": {
     "first_seen": "2026-11-16 22:58 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Danvers, Massachusetts, United States of America",
     "posted_first": "2026-11-16",
     "posted_raw": "2026-11-16T00:00:00.000+0000",
@@ -31241,7 +31241,7 @@
      "/job/Torrance-CA/Intern--EHS_R-26-19825"
     ],
     "first_seen": "2026-11-24 18:29 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Torrance, CA",
     "posted_raw": "Posted Today",
     "title": "Intern, EHS"
@@ -31416,7 +31416,7 @@
      "/job/Buffalo-NY/Intern--Facilities-Project-Management_R-26-21590"
     ],
     "first_seen": "2026-11-24 18:29 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Buffalo, NY",
     "posted_raw": "Posted Today",
     "title": "Intern, Facilities Project Management"
@@ -31426,7 +31426,7 @@
      "/job/Buffalo-NY/EHS-Intern_R-26-21597"
     ],
     "first_seen": "2026-11-24 14:57 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Buffalo, NY",
     "posted_raw": "Posted Today",
     "title": "Intern, EHS"
@@ -44097,7 +44097,7 @@
      "/job/Rennes/Software-Engineering-Internship--Stage-Ingnieur_21187-1"
     ],
     "first_seen": "2026-11-23 09:06 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Rennes",
     "posted_raw": "Posted Yesterday",
     "title": "Software Engineering Internship, Stage Ingénieur"
@@ -44107,7 +44107,7 @@
      "/job/Oslo/Validation-Engineering-Summer-Internship-2027_21192"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Oslo",
     "posted_raw": "Posted 17 Days Ago",
     "title": "Validation Engineering Summer Internship 2027"
@@ -44117,7 +44117,7 @@
      "/job/Rennes/RF-Validation-Engineering-Internship_21193-1"
     ],
     "first_seen": "2026-11-12 17:38 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Rennes",
     "posted_raw": "Posted 12 Days Ago",
     "title": "RF Validation Engineering Internship"
@@ -44127,7 +44127,7 @@
      "/job/Espoo/Summer-Internship--Module-Hardware-2027_21196-1"
     ],
     "first_seen": "2026-11-23 08:16 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Espoo",
     "posted_first": "2026-11-23",
     "posted_raw": "Posted Yesterday",
@@ -44742,6 +44742,17 @@
     "loc": "Towson, MD, United States",
     "posted_raw": "Posted 14 Days Ago",
     "title": "Industrial Design Engineering Intern - Summer 2027"
+   },
+   "REQ-1000052694": {
+    "aliases": [
+     "/job/Towson-MD-United-States/Engineering-Intern--Electronics---Summer-2027_REQ-1000052694"
+    ],
+    "first_seen": "2026-11-25 01:36 UTC",
+    "last_seen": "2026-11-25",
+    "loc": "Towson, MD, United States",
+    "posted_first": "2026-11-24",
+    "posted_raw": "Posted Today",
+    "title": "Engineering Intern, Electronics - Summer 2027"
    },
    "REQ-1000052705": {
     "aliases": [
@@ -48230,7 +48241,7 @@
      "/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Austin RiverSouth",
     "posted_raw": "Posted 20 Days Ago",
     "title": "Research Scientist - ATG Optical Sensor Development Intern (Summer 2027)"
@@ -48677,7 +48688,7 @@
    },
    "JR-13336": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Duluth, Georgia, United States of America",
     "posted_first": "2026-10-07",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
@@ -48685,7 +48696,7 @@
    },
    "JR-13579": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Charlotte, North Carolina, United States of America",
     "posted_first": "2026-10-07",
     "posted_raw": "2026-10-07T00:00:00.000+0000",
@@ -48715,7 +48726,7 @@
    },
    "JR-15046": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Jacksonville, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48747,7 +48758,7 @@
    },
    "JR-15052": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Maitland, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48755,7 +48766,7 @@
    },
    "JR-15053": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Jacksonville, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48870,7 +48881,7 @@
    },
    "JR-15104": {
     "first_seen": "2026-11-18 23:45 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Pine Brook, New Jersey, United States of America",
     "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
@@ -48878,7 +48889,7 @@
    },
    "JR-15106": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Long Island City, New York, United States of America",
     "posted_first": "2026-11-10",
     "posted_raw": "2026-11-10T00:00:00.000+0000",
@@ -48886,7 +48897,7 @@
    },
    "JR-15107": {
     "first_seen": "2026-11-18 23:45 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Pine Brook, New Jersey, United States of America",
     "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
@@ -48894,7 +48905,7 @@
    },
    "JR-15109": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Buffalo, New York, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48902,7 +48913,7 @@
    },
    "JR-15110": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Rochester, New York, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48910,7 +48921,7 @@
    },
    "JR-15111": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Latham, New York, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48918,7 +48929,7 @@
    },
    "JR-15114": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Wilmington, Massachusetts, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48926,7 +48937,7 @@
    },
    "JR-15115": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "East Syracuse, New York, United States of America",
     "posted_first": "2026-10-14",
     "posted_raw": "2026-10-14T00:00:00.000+0000",
@@ -48940,7 +48951,7 @@
    },
    "JR-15117": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Rocky Hill, Connecticut, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48948,7 +48959,7 @@
    },
    "JR-15131": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Davidson, North Carolina, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48956,7 +48967,7 @@
    },
    "JR-15135": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Ashland, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48964,7 +48975,7 @@
    },
    "JR-15136": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Ashland, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48972,7 +48983,7 @@
    },
    "JR-15151": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "King of Prussia, Pennsylvania, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48980,7 +48991,7 @@
    },
    "JR-15152": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Chesapeake, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48988,7 +48999,7 @@
    },
    "JR-15154": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Mechanicsburg, Pennsylvania, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48996,7 +49007,7 @@
    },
    "JR-15155": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Mechanicsburg, Pennsylvania, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49004,7 +49015,7 @@
    },
    "JR-15157": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "King of Prussia, Pennsylvania, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49012,7 +49023,7 @@
    },
    "JR-15158": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Chesapeake, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49020,7 +49031,7 @@
    },
    "JR-15159": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Ashland, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49028,7 +49039,7 @@
    },
    "JR-15161": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Chesapeake, Virginia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49142,7 +49153,7 @@
    },
    "JR-15260": {
     "first_seen": "2026-11-24 23:41 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "North Charleston, South Carolina, United States of America",
     "posted_first": "2026-11-24",
     "posted_raw": "2026-11-24T00:00:00.000+0000",
@@ -49150,7 +49161,7 @@
    },
    "JR-15261": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "West Columbia, South Carolina, United States of America",
     "posted_first": "2026-11-11",
     "posted_raw": "2026-11-11T00:00:00.000+0000",
@@ -49159,7 +49170,7 @@
    },
    "JR-15264": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Charlotte, North Carolina, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49191,7 +49202,7 @@
    },
    "JR-15269": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenville, South Carolina, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49199,7 +49210,7 @@
    },
    "JR-15270": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenville, South Carolina, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49223,7 +49234,7 @@
    },
    "JR-15278": {
     "first_seen": "2026-11-18 20:02 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Atlanta, Georgia, United States of America",
     "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
@@ -49231,7 +49242,7 @@
    },
    "JR-15279": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Charlotte, North Carolina, United States of America",
     "posted_first": "2026-10-20",
     "posted_raw": "2026-10-20T00:00:00.000+0000",
@@ -49253,7 +49264,7 @@
    },
    "JR-15283": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Augusta, Georgia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49261,7 +49272,7 @@
    },
    "JR-15286": {
     "first_seen": "2026-11-10 20:50 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Atlanta, Georgia, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -49407,7 +49418,7 @@
    },
    "JR-16956": {
     "first_seen": "2026-11-10 21:54 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "King of Prussia, Pennsylvania, United States of America",
     "posted_first": "2026-10-04",
     "posted_raw": "2026-10-04T00:00:00.000+0000",
@@ -49431,7 +49442,7 @@
    },
    "JR-17836": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Ashland, Virginia, United States of America",
     "posted_first": "2026-10-23",
     "posted_raw": "2026-10-23T00:00:00.000+0000",
@@ -49445,7 +49456,7 @@
    },
    "JR-18406": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Towson, Maryland, United States of America",
     "posted_first": "2026-10-27",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
@@ -49467,7 +49478,7 @@
    },
    "JR-18684": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenville, South Carolina, United States of America",
     "posted_first": "2026-10-26",
     "posted_raw": "2026-10-26T00:00:00.000+0000",
@@ -49483,7 +49494,7 @@
    },
    "JR-18912": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenville, South Carolina, United States of America",
     "posted_first": "2026-10-27",
     "posted_raw": "2026-10-27T00:00:00.000+0000",
@@ -49491,7 +49502,7 @@
    },
    "JR-18914": {
     "first_seen": "2026-11-10 18:53 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Greenville, South Carolina, United States of America",
     "posted_first": "2026-11-02",
     "posted_raw": "2026-11-02T00:00:00.000+0000",
@@ -49519,7 +49530,7 @@
    },
    "JR-19889": {
     "first_seen": "2026-11-14 11:05 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Davidson, North Carolina, United States of America",
     "posted_first": "2026-11-13",
     "posted_raw": "2026-11-13T00:00:00.000+0000",
@@ -49992,7 +50003,7 @@
      "/job/Zaragoza/Project-Buyer-Internship_REQ2025065431"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Zaragoza",
     "posted_raw": "Posted Today",
     "title": "Project Buyer Internship"
@@ -50061,7 +50072,7 @@
      "/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
     ],
     "first_seen": "2026-11-20 23:06 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Troy, MI",
     "posted_raw": "Posted 4 Days Ago",
     "title": "Systems Engineering Co-Op (Software)"
@@ -50130,7 +50141,7 @@
      "/job/Reno-NV/Finance-Intern--Year-Round-_REQ2026079150"
     ],
     "first_seen": "2026-11-24 18:29 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Reno, NV",
     "posted_raw": "Posted Today",
     "title": "Finance Intern (Year-Round)"
@@ -50327,7 +50338,7 @@
      "/job/Auburn-Hills-MI/Sales-Intern--Year-Round-_REQ2026083614"
     ],
     "first_seen": "2026-11-24 18:29 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Auburn Hills, MI",
     "posted_raw": "Posted Today",
     "title": "Sales Intern (Year-Round)"
