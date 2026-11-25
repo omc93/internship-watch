@@ -800,6 +800,12 @@
     "last_seen": "2026-11-25",
     "title": "Intern, Junior Python Developer"
    },
+   "1434493400": {
+    "first_seen": "2026-11-25 09:54 UTC",
+    "last_seen": "2026-11-25",
+    "posted_first": "2026-11-25",
+    "title": "Intern, Mechanical Designer"
+   },
    "1436721300": {
     "first_seen": "2026-11-19 08:49 UTC",
     "last_seen": "2026-11-25",
@@ -13992,6 +13998,11 @@
     "last_seen": "2026-11-25",
     "title": "Aviation Maintenance Technician Intern - Summer 2027"
    },
+   "1444011700": {
+    "first_seen": "2026-11-25 09:54 UTC",
+    "last_seen": "2026-11-25",
+    "title": "Environmental Intern- Summer 2027"
+   },
    "1451206900": {
     "first_seen": "2026-11-17 01:24 UTC",
     "last_seen": "2026-11-18",
@@ -23192,7 +23203,7 @@
     "last_seen": "2026-11-25",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "redated_seen": "2026-11-25",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -29991,9 +30002,9 @@
      "/job/Eindhoven-Noord-Brabant-Netherlands/NextGen-Academy-Intern--Sales_R71339-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "NextGen Academy Intern: Field Support"
    },
    "R76021": {
@@ -30019,9 +30030,9 @@
      "/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Clinical Technologist Intern - Cardiovascular"
    },
    "R78501": {
@@ -30029,9 +30040,9 @@
      "/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "50 Locations",
-    "posted_raw": "Posted 28 Days Ago",
+    "posted_raw": "Posted 29 Days Ago",
     "title": "Associate Clinical Experience (ACE) Intern – Summer 2027"
    },
    "R78587": {
@@ -30039,7 +30050,7 @@
      "/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Minneapolis, Minnesota, United States of America",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "MBA Internship - Summer 2027"
@@ -30049,9 +30060,9 @@
      "/job/Kochi-Kerala-India/Intern--MBA-Graduate_R79178-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 22 Days Ago",
+    "posted_raw": "Posted 23 Days Ago",
     "title": "Intern: MBA/Graduate"
    },
    "R79679": {
@@ -30059,7 +30070,7 @@
      "/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Minneapolis, Minnesota, United States of America",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Corporate Development Intern (MBA)"
@@ -37803,6 +37814,11 @@
     "first_seen": "2026-11-15 08:50 UTC",
     "last_seen": "2026-11-18",
     "title": "2027 Technical Intern - Mechanical Technician"
+   },
+   "1434391200": {
+    "first_seen": "2026-11-25 09:54 UTC",
+    "last_seen": "2026-11-25",
+    "title": "2027 University MBA Intern"
    }
   },
   "seeded": true
@@ -44125,7 +44141,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "2027 Summer Internship - Software Engineering"
    },
    "R26562": {
@@ -44135,7 +44151,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "2027 Summer Internship - Aerospace Engineering"
    },
    "R26563": {
@@ -44145,7 +44161,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Internship - Electrical Engineering"
    },
    "R26564": {
@@ -44155,7 +44171,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Internship - Mechanical Engineering"
    },
    "R26565": {
@@ -44165,7 +44181,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Internship - Propulsion Engineering"
    },
    "R26566": {
@@ -44175,7 +44191,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Internship - Systems Engineering"
    },
    "R26569": {
@@ -44185,7 +44201,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-25",
     "loc": "5 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "2027 Summer Internship - Materials Engineering"
    },
    "R26584": {
@@ -44195,7 +44211,7 @@
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-25",
     "loc": "Louisville, CO",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "2027 Summer Internship - Flight Operations"
    },
    "R26585": {
@@ -44205,7 +44221,7 @@
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-25",
     "loc": "Centennial, CO",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "2027 Summer Internship - Rendezvous Proximity Operations (RPO)"
    }
   },
@@ -44232,7 +44248,7 @@
      "/job/Austin/Summer-2027-Internships----Design-Engineering_21049-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Austin",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internships - Design Engineering"
@@ -44242,7 +44258,7 @@
      "/job/Austin/Summer-2027-Internships_21056-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Austin",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Summer 2027 Internships"
@@ -46736,6 +46752,11 @@
    "v2"
   ],
   "ids": {
+   "1444206900": {
+    "first_seen": "2026-11-25 09:54 UTC",
+    "last_seen": "2026-11-25",
+    "title": "HR Intern"
+   },
    "1449369200": {
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-12",
@@ -48873,7 +48894,7 @@
    },
    "JR-15043": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Miramar, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48889,7 +48910,7 @@
    },
    "JR-15047": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Miramar, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48897,7 +48918,7 @@
    },
    "JR-15050": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "West Palm Beach, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
@@ -48905,7 +48926,7 @@
    },
    "JR-15051": {
     "first_seen": "2026-11-10 20:56 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "Miramar, Florida, United States of America",
     "posted_first": "2026-08-31",
     "posted_raw": "2026-08-31T00:00:00.000+0000",
