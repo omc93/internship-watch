@@ -10894,6 +10894,11 @@
     "first_seen": "2026-11-25 14:25 UTC",
     "last_seen": "2026-11-25",
     "title": "Data & Reporting Intern Inventory Control (ICO) Kerkrade"
+   },
+   "1453912500": {
+    "first_seen": "2026-11-25 21:31 UTC",
+    "last_seen": "2026-11-25",
+    "title": "Endoscopy Commercial Strategy & Excellence Intern"
    }
   },
   "seeded": true
@@ -22597,6 +22602,16 @@
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Imaging and Print Business Internship"
    },
+   "3169060": {
+    "aliases": [
+     "/job/Rio-Rancho-New-Mexico-United-States-of-America/HP-SalesEDGE-Rotational-Internship-Job-Description_3169060"
+    ],
+    "first_seen": "2026-11-25 21:31 UTC",
+    "last_seen": "2026-11-25",
+    "loc": "Rio Rancho, New Mexico, United States of America",
+    "posted_raw": "Posted Today",
+    "title": "HP SalesEDGE Rotational Internship Job Description"
+   },
    "3169164": {
     "aliases": [
      "/job/Bengaluru-Karnataka-India/College-Intern---Technical_3169164-1"
@@ -23424,7 +23439,7 @@
     "last_seen": "2026-11-25",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "redated_seen": "2026-11-25",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -30685,7 +30700,7 @@
     "first_seen": "2026-11-23 14:23 UTC",
     "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Intern"
    },
    "JR108935": {
@@ -32319,9 +32334,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Generative AI - 2026"
    },
    "JR2021277": {
@@ -32329,7 +32344,7 @@
      "/job/China-Beijing/Solution-Architect-Manager---Intern-Program_JR2021277"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Solution Architect Manager - Intern Program"
@@ -32339,7 +32354,7 @@
      "/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Research Intern, TAO Multi-Modal Model Development - 2026"
@@ -32498,7 +32513,7 @@
      "/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Developer Technology Engineer Intern, AI - 2027"
@@ -32508,7 +32523,7 @@
      "/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Developer Technology Intern, Robotics - 2027"
@@ -32518,7 +32533,7 @@
      "/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Developer Technology Engineering Intern - 2027"
@@ -32528,9 +32543,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027"
    },
    "JR2024174": {
@@ -32538,9 +32553,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Circuits - 2027"
    },
    "JR2024258": {
@@ -32548,7 +32563,7 @@
      "/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Developer Technology Engineering Intern, AI - 2027"
@@ -32558,9 +32573,9 @@
      "/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 19 Days Ago",
     "title": "AI Developer Technology Engineering Intern - 2027"
    },
    "JR2025022": {
@@ -32568,7 +32583,7 @@
      "/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Physical Design Intern, VLSI - 2027"
@@ -32578,9 +32593,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Physical AI - Foundation Models - 2027"
    },
    "JR2025096": {
@@ -32588,9 +32603,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Security and Privacy - 2027"
    },
    "JR2025098": {
@@ -32598,9 +32613,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Networking - 2027"
    },
    "JR2025103": {
@@ -32608,9 +32623,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027"
    },
    "JR2025379": {
@@ -32618,9 +32633,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Programming Systems - 2027"
    },
    "JR2025395": {
@@ -32628,9 +32643,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Architecture – 2027"
    },
    "JR2025405": {
@@ -32638,9 +32653,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027"
    },
    "JR2025406": {
@@ -32648,9 +32663,9 @@
      "/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Fundamental Generative AI - 2027"
    },
    "JR2025478": {
@@ -32658,9 +32673,9 @@
      "/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Efficient Deep Learning - 2027"
    },
    "JR2025538": {
@@ -32668,7 +32683,7 @@
      "/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Silicon Software Engineer - System and AI (RDSS Intern)"
@@ -32678,7 +32693,7 @@
      "/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027"
@@ -32688,9 +32703,9 @@
      "/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Robotics - Summer 2027"
    },
    "JR2025670": {
@@ -32698,9 +32713,9 @@
      "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Management MBA Intern, Data Center GPU - Summer 2027"
    },
    "JR2025672": {
@@ -32718,7 +32733,7 @@
      "/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software Engineering Intern, DLFW Comms - 2027"
@@ -32728,7 +32743,7 @@
      "/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)"
@@ -32738,9 +32753,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Embodied and Agentic AI - 2027"
    },
    "JR2025893": {
@@ -32748,9 +32763,9 @@
      "/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "PhD Research Intern, Hardware and Systems Architecture - 2027"
    },
    "JR2025905": {
@@ -32758,9 +32773,9 @@
      "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Management MBA Intern, Laptop - Summer 2027"
    },
    "JR2025907": {
@@ -32787,7 +32802,7 @@
      "/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Computer Architecture Intern - 2027"
@@ -32797,7 +32812,7 @@
      "/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Computing Software Development Intern - 2027"
@@ -32807,7 +32822,7 @@
      "/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Computing Software Intern, GPU Kernel Libraries - 2027"
@@ -32817,7 +32832,7 @@
      "/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Performance Software Intern, Deep Learning Libraries - 2027"
@@ -32827,7 +32842,7 @@
      "/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Computing Software Development Intern, LLM Inference - 2027"
@@ -32837,7 +32852,7 @@
      "/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software Engineering Intern, Compiler Verification - Spring 2027"
@@ -32847,7 +32862,7 @@
      "/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "DFT Engineer (RDSS Intern) - 2027"
@@ -32857,7 +32872,7 @@
      "/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software CAD Engineer, VLSI (RDSS Intern)"
@@ -32867,7 +32882,7 @@
      "/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Deep Learning Compiler Intern - 2027"
@@ -32897,7 +32912,7 @@
      "/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027"
@@ -33037,7 +33052,7 @@
      "/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "AI Agent Development Engineer (RDSS Intern)"
@@ -33047,7 +33062,7 @@
      "/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "APAC Ecommerce Backend Intern - 2027"
@@ -33067,7 +33082,7 @@
      "/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027"
@@ -33077,7 +33092,7 @@
      "/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Planning and Control Adaptation Intern, Autonomous Driving - 2027"
@@ -33097,9 +33112,9 @@
      "/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Sparse Linear Algebra Libraries Intern - Summer 2027"
    },
    "JR2027548": {
@@ -33107,9 +33122,9 @@
      "/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027"
    },
    "JR2027561": {
@@ -33117,9 +33132,9 @@
      "/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Differentiable Simulation Research Intern - Summer 2027"
    },
    "JR2027596": {
@@ -33127,7 +33142,7 @@
      "/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Software Engineering Intern, Deep Learning - 2027"
@@ -33137,7 +33152,7 @@
      "/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Deep Learning Model and System Optimization Engineering Intern – 2027"
@@ -33149,7 +33164,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Relational Foundation Model Intern, Modern Data Stack – 2027"
    },
    "JR2027948": {
@@ -33184,9 +33199,9 @@
      "/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "System Software Engineer Intern, Autonomous Vehicles - 2027"
    },
    "JR2028206": {
@@ -33194,9 +33209,9 @@
      "/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "4 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Math Device Extension Libraries Intern - 2027"
    },
    "JR2028210": {
@@ -33214,9 +33229,9 @@
      "/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027"
    },
    "JR2028449": {
@@ -33224,9 +33239,9 @@
      "/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Math Libraries Intern, cuEST - Summer 2027"
    },
    "JR2028481": {
@@ -33234,9 +33249,9 @@
      "/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "loc": "Armenia, Yerevan",
-    "posted_raw": "Posted 24 Days Ago",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Performance Testing Engineering Intern - 2027"
    },
    "JR2028530": {
@@ -33244,9 +33259,9 @@
      "/job/US-CA-Santa-Clara/Strategic-Partnerships-MBA-Intern--Enterprise-GTM---Summer-2027_JR2028530"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Strategic Partnerships MBA Intern, Enterprise GTM - Summer 2027"
    },
    "JR2028607": {
@@ -33254,9 +33269,9 @@
      "/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, WA, Redmond",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Compiler Software Engineering Intern - Summer 2027"
    },
    "JR2028699": {
@@ -33274,9 +33289,9 @@
      "/job/US-CA-Santa-Clara/Human-Resources-Intern---Summer-2027_JR2028740"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Human Resources Intern - Summer 2027"
    },
    "JR2028934": {
@@ -33284,9 +33299,9 @@
      "/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1"
     ],
     "first_seen": "2026-11-20 08:40 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027"
    },
    "JR2028995": {
@@ -33313,9 +33328,9 @@
      "/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131"
     ],
     "first_seen": "2026-11-20 08:40 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Finance AI Engineering Intern - Summer 2027"
    },
    "JR2029155": {
@@ -33325,7 +33340,7 @@
     "first_seen": "2026-11-21 06:49 UTC",
     "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Accounting AI Solution Engineer Intern - Summer 2027"
    },
    "JR2029220": {
@@ -33343,9 +33358,9 @@
      "/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "3 Locations",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Reinforcement Learning Intern - 2027"
    },
    "JR2029307": {
@@ -33353,9 +33368,9 @@
      "/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307"
     ],
     "first_seen": "2026-11-16 23:19 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027"
    },
    "JR2029456": {
@@ -33365,7 +33380,7 @@
     "first_seen": "2026-11-21 05:55 UTC",
     "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Marketing Intern, DGX Products - Summer 2027"
    },
    "JR2029488": {
@@ -33373,9 +33388,9 @@
      "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488"
     ],
     "first_seen": "2026-11-13 10:58 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 12 Days Ago",
     "title": "Software Engineering Intern, NCCL - 2027"
    },
    "JR2029509": {
@@ -33383,9 +33398,9 @@
      "/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509"
     ],
     "first_seen": "2026-11-16 23:19 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027"
    },
    "JR2029523": {
@@ -33393,9 +33408,9 @@
      "/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1"
     ],
     "first_seen": "2026-11-11 02:02 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Financial Analyst Intern, Hardware FP&A - Summer 2027"
    },
    "JR2029531": {
@@ -33405,7 +33420,7 @@
     "first_seen": "2026-11-25 02:22 UTC",
     "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted Today",
     "title": "Software Engineering Intern, Simulation Technology - Summer 2027"
    },
    "JR2029532": {
@@ -33413,9 +33428,9 @@
      "/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1"
     ],
     "first_seen": "2026-11-11 02:02 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Corporate Development MBA Intern - Summer 2027"
    },
    "JR2029541": {
@@ -33423,9 +33438,9 @@
      "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541"
     ],
     "first_seen": "2026-11-11 02:02 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Performance Engineering Intern, Platform Performance and Power - Spring 2027"
    },
    "JR2029628": {
@@ -33433,9 +33448,9 @@
      "/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628"
     ],
     "first_seen": "2026-11-10 16:34 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Product Management Space Compute MBA Intern - Summer 2027"
    },
    "JR2029639": {
@@ -33453,9 +33468,9 @@
      "/job/France-Courbevoie/Go-to-Market-Strategy-Intern_JR2029657"
     ],
     "first_seen": "2026-11-11 12:20 UTC",
-    "last_seen": "2026-11-24",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Go-to-Market Strategy Intern - Summer 2027",
     "updated_seen": "2026-11-16"
    },
@@ -33464,9 +33479,9 @@
      "/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682"
     ],
     "first_seen": "2026-11-16 23:19 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "US, CA, Santa Clara",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted Today",
     "title": "Enterprise Sales Intern - Summer 2027"
    },
    "JR2029793": {
@@ -33484,9 +33499,9 @@
      "/job/UK-Remote/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2030004"
     ],
     "first_seen": "2026-11-17 08:33 UTC",
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027"
    },
    "JR2030055": {
@@ -33514,9 +33529,9 @@
      "/job/Taiwan-Hsinchu/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030200"
     ],
     "first_seen": "2026-11-20 16:42 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)"
    },
    "JR2030201": {
@@ -33524,9 +33539,9 @@
      "/job/Taiwan-Taipei/Mixed-Signal-Analog-Circuit-Designer--RDSS-Intern-_JR2030201"
     ],
     "first_seen": "2026-11-20 16:42 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Mixed Signal Analog Circuit Designer (RDSS Intern)"
    },
    "JR2030202": {
@@ -33534,9 +33549,9 @@
      "/job/Taiwan-Hsinchu/Mixed-Signal-Design-Engineer--RDSS-intern-_JR2030202"
     ],
     "first_seen": "2026-11-20 16:42 UTC",
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-25",
     "loc": "2 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Mixed Signal Design Engineer (RDSS intern)"
    },
    "JR2030226": {
@@ -37752,6 +37767,15 @@
     "posted_raw": "2026-11-24T13:36:41-05:00",
     "title": "Summer 2027 Inventory, Facility, and Logistics Internship",
     "updated_raw": "2026-11-24T13:36:41-05:00"
+   },
+   "4522155009": {
+    "first_seen": "2026-11-25 21:31 UTC",
+    "last_seen": "2026-11-25",
+    "loc": "San Leandro, CA",
+    "posted_first": "2026-11-25",
+    "posted_raw": "2026-11-25T16:22:35-05:00",
+    "title": "Summer 2027 Positioning Systems Internship",
+    "updated_raw": "2026-11-25T16:22:35-05:00"
    }
   },
   "seeded": true
@@ -44181,8 +44205,9 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-25",
     "loc": "Colorado Springs, CO",
-    "posted_raw": "Posted 30+ Days Ago",
-    "title": "Health Safety and Environment Intern - Summer 2027 (For SNC Summer 2026 Interns Only)"
+    "posted_raw": "Posted Today",
+    "title": "Health Safety and Environment Intern - Summer 2027",
+    "updated_seen": "2026-11-25"
    },
    "R0031093": {
     "aliases": [
@@ -47909,6 +47934,14 @@
     "posted_first": "2026-11-19",
     "posted_raw": "2026-11-19",
     "title": "Systems Engineering Intern (GaN)"
+   },
+   "25020507": {
+    "first_seen": "2026-11-25 21:31 UTC",
+    "last_seen": "2026-11-25",
+    "loc": "Dallas, TX, United States",
+    "posted_first": "2026-11-25",
+    "posted_raw": "2026-11-25",
+    "title": "Web Marketing Intern - Digital Experience Analytics"
    }
   },
   "seeded": true
@@ -50676,7 +50709,7 @@
     "first_seen": "2026-11-20 23:06 UTC",
     "last_seen": "2026-11-25",
     "loc": "Troy, MI",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Systems Engineering Co-Op (Software)"
    },
    "REQ2026072325": {
