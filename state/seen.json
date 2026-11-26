@@ -6119,7 +6119,7 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "loc": "USA UT - Sandy",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -6157,9 +6157,9 @@
      "/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
     "loc": "USA NE - Columbus (Molding Center)",
-    "posted_raw": "Posted 26 Days Ago",
+    "posted_raw": "Posted 27 Days Ago",
     "title": "Molding Reliability Engineering Intern"
    },
    "https://jobs.bd.com/en/job/columbus/controls-tech-intern/159/102302041376": {
@@ -29704,6 +29704,42 @@
     "posted_raw": "2026-11-26T09:38:36-05:00",
     "title": "Fleet Operations Intern",
     "updated_raw": "2026-11-26T09:38:36-05:00"
+   },
+   "5306670007": {
+    "first_seen": "2026-11-26 15:35 UTC",
+    "last_seen": "2026-11-26",
+    "loc": "Amsterdam, NH",
+    "posted_first": "2026-11-26",
+    "posted_raw": "2026-11-26T09:41:15-05:00",
+    "title": "Financial Services Operations Intern",
+    "updated_raw": "2026-11-26T09:41:15-05:00"
+   },
+   "5306687007": {
+    "first_seen": "2026-11-26 15:35 UTC",
+    "last_seen": "2026-11-26",
+    "loc": "Amsterdam, NH",
+    "posted_first": "2026-11-26",
+    "posted_raw": "2026-11-26T09:42:18-05:00",
+    "title": "Network Analytics & Reporting Intern",
+    "updated_raw": "2026-11-26T09:42:18-05:00"
+   },
+   "5306844007": {
+    "first_seen": "2026-11-26 15:35 UTC",
+    "last_seen": "2026-11-26",
+    "loc": "Amsterdam, NH",
+    "posted_first": "2026-11-26",
+    "posted_raw": "2026-11-26T09:46:44-05:00",
+    "title": "Salesforce Engineer Intern",
+    "updated_raw": "2026-11-26T09:46:44-05:00"
+   },
+   "5306856007": {
+    "first_seen": "2026-11-26 15:35 UTC",
+    "last_seen": "2026-11-26",
+    "loc": "Amsterdam, NH",
+    "posted_first": "2026-11-26",
+    "posted_raw": "2026-11-26T09:45:43-05:00",
+    "title": "Sales Strategy, Planning & Analytics Intern",
+    "updated_raw": "2026-11-26T09:45:43-05:00"
    }
   },
   "seeded": true
