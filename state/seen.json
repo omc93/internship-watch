@@ -1858,7 +1858,7 @@
     "last_seen": "2026-11-27",
     "loc": "Simi Valley, CA",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Product Engineering Intern"
    },
    "8828": {
@@ -6146,7 +6146,7 @@
      "/job/USA-UT---Sandy/Engineering-Intern_R-553921-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA UT - Sandy",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -6184,9 +6184,9 @@
      "/job/USA-NE---Columbus-Molding-Center/Molding-Reliability-Engineering-Intern_R-559082"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA NE - Columbus (Molding Center)",
-    "posted_raw": "Posted 27 Days Ago",
+    "posted_raw": "Posted 28 Days Ago",
     "title": "Molding Reliability Engineering Intern"
    },
    "https://jobs.bd.com/en/job/columbus/controls-tech-intern/159/102302041376": {
@@ -14339,6 +14339,12 @@
     "last_seen": "2026-11-27",
     "posted_first": "2026-11-26",
     "title": "R&D Intern, Glass Development & Optical Fiber Technologies - Summer 2027"
+   },
+   "1454131200": {
+    "first_seen": "2026-11-27 15:41 UTC",
+    "last_seen": "2026-11-27",
+    "posted_first": "2026-11-27",
+    "title": "Optical Physics Intern - Summer 2027"
    }
   },
   "seeded": true
@@ -52660,6 +52666,12 @@
     "first_seen": "2026-11-25 13:38 UTC",
     "last_seen": "2026-11-27",
     "title": "RPA Intern"
+   },
+   "1454125500": {
+    "first_seen": "2026-11-27 15:41 UTC",
+    "last_seen": "2026-11-27",
+    "posted_first": "2026-11-27",
+    "title": "Mechanical Engineering Intern"
    }
   },
   "seeded": true
