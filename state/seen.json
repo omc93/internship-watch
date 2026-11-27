@@ -7095,9 +7095,9 @@
      "/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-211010-2"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Skaneateles, NY",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Co-op Engineering R&D"
    },
    "JR-212554": {
@@ -7115,9 +7115,9 @@
      "/job/Kuala-Lumpur/Accounting-Intern_JR-213219"
     ],
     "first_seen": "2026-11-11 04:51 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Kuala Lumpur",
-    "posted_raw": "Posted 5 Days Ago",
+    "posted_raw": "Posted 6 Days Ago",
     "title": "Accounting Intern"
    },
    "JR-213316": {
@@ -7138,7 +7138,7 @@
     "last_seen": "2026-11-27",
     "loc": "Skaneateles, NY",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Co-op Mechanical Engineering R&D"
    },
    "https://jobs.baxter.com/en/job/kuala-lumpur/accounting-intern/152/103148853024": {
@@ -9756,6 +9756,14 @@
     "posted_first": "2026-11-25",
     "posted_raw": "11/25/26",
     "title": "Strategy & Data Analyst intern"
+   },
+   "16885": {
+    "first_seen": "2026-11-27 22:08 UTC",
+    "last_seen": "2026-11-27",
+    "loc": "Colon, QUE, MEX, 76270",
+    "posted_first": "2026-11-27",
+    "posted_raw": "11/27/26",
+    "title": "Intern, Logistics"
    }
   },
   "seeded": true
@@ -23508,7 +23516,7 @@
      "/job/USA---UT--Salt-Lake-City-Matrix/Engineering-Intern_R020612"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA - UT- Salt Lake City Matrix",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Engineering Intern"
@@ -23518,7 +23526,7 @@
      "/job/USA---PA---Pottsville/Co-Op_R020730"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA - PA - Pottsville",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-Op"
@@ -23528,7 +23536,7 @@
      "/job/USA---PA---Pottsville/Co-Op_R020731"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA - PA - Pottsville",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "Co-Op"
@@ -23538,9 +23546,9 @@
      "/job/USA---MA---Amesbury/Operational-Excellence---Continuous-Improvement-Intern_R020750"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "USA - MA - Amesbury",
-    "posted_raw": "Posted 21 Days Ago",
+    "posted_raw": "Posted 22 Days Ago",
     "title": "Operational Excellence / Continuous Improvement Intern"
    }
   },
@@ -23636,7 +23644,7 @@
     "last_seen": "2026-11-27",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-18T00:00:00.000+0000",
+    "posted_raw": "2026-06-17T00:00:00.000+0000",
     "redated_seen": "2026-11-27",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
