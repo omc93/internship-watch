@@ -806,6 +806,12 @@
     "posted_first": "2026-11-25",
     "title": "Intern, Mechanical Designer"
    },
+   "1435733800": {
+    "first_seen": "2026-11-27 08:49 UTC",
+    "last_seen": "2026-11-27",
+    "posted_first": "2026-10-30",
+    "title": "Engineering Intern"
+   },
    "1436721300": {
     "first_seen": "2026-11-19 08:49 UTC",
     "last_seen": "2026-11-27",
@@ -2313,7 +2319,7 @@
     "first_seen": "2026-11-25 20:45 UTC",
     "last_seen": "2026-11-27",
     "loc": "Herndon Area, VA",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Summer Internship - Field Service / Customer Support"
    },
    "JR10453087": {
@@ -2716,7 +2722,7 @@
     "first_seen": "2026-11-25 20:45 UTC",
     "last_seen": "2026-11-27",
     "loc": "Herndon Area, VA",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Summer Internship - Finance Services & Transformation"
    },
    "JR10459887": {
@@ -3414,7 +3420,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-27",
     "loc": "Indianapolis, IN",
-    "posted_raw": "Posted 23 Days Ago",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "Business Analyst Intern - Summer 2027"
    },
    "R008364": {
@@ -3424,7 +3430,7 @@
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-27",
     "loc": "Indianapolis, IN",
-    "posted_raw": "Posted 14 Days Ago",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Sustainability Analyst Intern"
    },
    "R008413": {
@@ -3452,7 +3458,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-27",
     "loc": "Indianapolis, IN",
-    "posted_raw": "Posted 20 Days Ago",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Operations Program Management Intern"
    }
   },
@@ -12563,7 +12569,7 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-27",
     "loc": "Reading, PA",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Reliability Engineering Intern"
    },
    "26977": {
@@ -12593,7 +12599,7 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-27",
     "loc": "Reading, PA",
-    "posted_raw": "Posted 14 Days Ago",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "Maintenance Intern - Bricklayer/Masonry"
    },
    "27044": {
@@ -12604,7 +12610,7 @@
     "last_seen": "2026-11-27",
     "loc": "Tanner, AL",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Project Engineering Intern"
    },
    "27045": {
@@ -12615,7 +12621,7 @@
     "last_seen": "2026-11-27",
     "loc": "Tanner, AL",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Reliability Engineering Intern"
    },
    "27046": {
@@ -12626,7 +12632,7 @@
     "last_seen": "2026-11-27",
     "loc": "Reading, PA",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Metallurgy Intern"
    },
    "27047": {
@@ -12636,7 +12642,7 @@
     "first_seen": "2026-11-24 15:48 UTC",
     "last_seen": "2026-11-27",
     "loc": "Reading, PA",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Business Continuity Data Analyst & Reporting Intern"
    }
   },
@@ -13185,7 +13191,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "6 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Corporate Intern - Procurement"
@@ -13213,7 +13219,7 @@
      "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "11 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Corporate Intern- Manufacturing"
@@ -13223,7 +13229,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Supply-Chain_R0000380457"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "11 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Corporate Intern- Supply Chain"
@@ -13233,7 +13239,7 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Environmental--Health-and-Safety_R0000380458"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Peoria, Illinois",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Corporate Intern - Environmental, Health and Safety"
@@ -13243,7 +13249,7 @@
      "/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Mossville, Illinois",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Engineering Corporate Internship Program Materials"
@@ -13253,7 +13259,7 @@
      "/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Mossville, Illinois",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Engineering Corporate Internship Program Welding"
@@ -13263,7 +13269,7 @@
      "/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "7 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Engineering Corporate Parallel Co-op Program"
@@ -13273,7 +13279,7 @@
      "/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "27 Locations",
     "posted_raw": "Posted 30+ Days Ago",
     "title": "2027 Summer Corporate Intern - Engineering"
@@ -13292,9 +13298,9 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "7 Locations",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "2027 Summer Corporate Intern – Product Support Engineering"
    },
    "R0000391405": {
@@ -13302,9 +13308,9 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Business-Operations_R0000391405-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "7 Locations",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "2027 Summer Corporate Intern - Business Operations"
    },
    "R0000391407": {
@@ -13312,9 +13318,9 @@
      "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "7 Locations",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "2027 Summer Corporate Intern - Marketing"
    },
    "R0000396320": {
@@ -13324,7 +13330,7 @@
     "first_seen": "2026-11-25 12:52 UTC",
     "last_seen": "2026-11-27",
     "loc": "Santiago, Region Metropolitana de Santiago",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Financial Intern"
    },
    "R0000399906": {
@@ -13359,9 +13365,9 @@
      "/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697"
     ],
     "first_seen": "2026-11-18 03:43 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Tullamarine, Victoria",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Environment, Health & Safety Intern"
    },
    "R0000400862": {
@@ -13369,9 +13375,9 @@
      "/job/Wuxi-Jiangsu/Recruitment-Intern_R0000400862"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Wuxi, Jiangsu",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Recruitment Intern"
    },
    "R0000401086": {
@@ -13388,9 +13394,9 @@
      "/job/Tianjin-Tianjin/S-L-Intern_R0000401509"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Tianjin, Tianjin",
-    "posted_raw": "Posted 20 Days Ago",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "S&L Intern"
    },
    "R0000401982": {
@@ -13407,9 +13413,9 @@
      "/job/Tullamarine-Victoria/Sales-Support---Marketing-Intern_R0000402533"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Tullamarine, Victoria",
-    "posted_raw": "Posted 20 Days Ago",
+    "posted_raw": "Posted 21 Days Ago",
     "title": "Sales Support & Marketing Intern"
    },
    "R0000405470": {
@@ -13445,9 +13451,9 @@
      "/job/Wuxi-Jiangsu/Recruitment-Intern_R0000405582"
     ],
     "first_seen": "2026-11-17 09:39 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Wuxi, Jiangsu",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Recruitment Intern"
    },
    "R0000405803": {
@@ -13455,9 +13461,9 @@
      "/job/Archerfield-Queensland/Rental-and-Used-Intern_R0000405803"
     ],
     "first_seen": "2026-11-18 03:43 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "2 Locations",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Rental and Used Intern"
    },
    "R0000406065": {
@@ -13465,9 +13471,9 @@
      "/job/Santiago-Region-Metropolitana-de-Santiago/Prctica-Profesional---Human-Resources-Intern---Inicio-Enero-2027_R0000406065"
     ],
     "first_seen": "2026-11-18 14:07 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Santiago, Region Metropolitana de Santiago",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Práctica Profesional - Human Resources Intern | Inicio Enero 2027"
    },
    "R0000406482": {
@@ -13477,7 +13483,7 @@
     "first_seen": "2026-11-26 07:27 UTC",
     "last_seen": "2026-11-27",
     "loc": "Wuxi, Jiangsu",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Admin Intern"
    }
   },
@@ -14122,7 +14128,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-27",
     "loc": "3 Locations",
-    "posted_raw": "Posted 25 Days Ago",
+    "posted_raw": "Posted 26 Days Ago",
     "title": "Intern, Information Technology 2027"
    },
    "REQ-006210": {
@@ -14506,7 +14512,7 @@
     "first_seen": "2026-11-11 19:52 UTC",
     "last_seen": "2026-11-27",
     "loc": "Auburn, California",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "CNC Machinist Intern"
    },
    "JR102893": {
@@ -17845,7 +17851,7 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-27",
     "loc": "Cedar Park, TX",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Internship - Software Engineering - Spring 2027"
    },
    "JR100189": {
@@ -19193,7 +19199,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-27",
     "loc": "2 Locations",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Co-op/Intern"
    },
    "REQ-26924": {
@@ -19231,7 +19237,7 @@
     "first_seen": "2026-11-20 16:18 UTC",
     "last_seen": "2026-11-27",
     "loc": "USA, Louisville, KY",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "Finance Internship (Summer 2027)"
    }
   },
@@ -19380,7 +19386,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-27",
     "loc": "Remote",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "LATAM Technical Training Intern"
    }
   },
@@ -21360,7 +21366,7 @@
     "first_seen": "2026-11-24 19:24 UTC",
     "last_seen": "2026-11-27",
     "loc": "Milford, Michigan, United States of America",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Intern – Business Operations & Cost Optimization, Cadillac Racing Program Management"
    },
    "JR-202620513": {
@@ -21538,7 +21544,7 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-27",
     "loc": "3 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Intern – Software Engineer, AV/AI Platform"
    },
    "JR-202621697": {
@@ -21548,7 +21554,7 @@
     "first_seen": "2026-11-24 17:38 UTC",
     "last_seen": "2026-11-27",
     "loc": "Warren, Michigan, United States of America",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform"
    },
    "JR-202621724": {
@@ -22381,7 +22387,7 @@
     "first_seen": "2026-11-19 18:04 UTC",
     "last_seen": "2026-11-27",
     "loc": "Flagstaff, Arizona, USA",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "R0023554": {
@@ -22420,7 +22426,7 @@
     "first_seen": "2026-11-16 20:40 UTC",
     "last_seen": "2026-11-27",
     "loc": "North Canton, Ohio, USA",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Manufacturing Engineering Intern"
    },
    "R0023573": {
@@ -22430,7 +22436,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-27",
     "loc": "Rogers, Minnesota, USA (David Koch Center)",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Quality Engineering Co-op",
     "updated_seen": "2026-11-16"
    },
@@ -22441,7 +22447,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-27",
     "loc": "Rogers, Minnesota, USA (David Koch Center)",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "Manufacturing Engineering (Operational Technology) Co-op (January - August 2027)"
    },
    "R0023586": {
@@ -22581,7 +22587,7 @@
     "first_seen": "2026-11-12 01:48 UTC",
     "last_seen": "2026-11-27",
     "loc": "Dayton, Minnesota, USA",
-    "posted_raw": "Posted 15 Days Ago",
+    "posted_raw": "Posted 16 Days Ago",
     "title": "Engineering Technician Intern"
    }
   },
@@ -22744,7 +22750,7 @@
     "first_seen": "2026-11-25 21:31 UTC",
     "last_seen": "2026-11-27",
     "loc": "Rio Rancho, New Mexico, United States of America",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "HP SalesEDGE Rotational Internship Job Description"
    },
    "3169164": {
@@ -22754,7 +22760,7 @@
     "first_seen": "2026-11-12 09:00 UTC",
     "last_seen": "2026-11-27",
     "loc": "4 Locations",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "College Intern - Technical"
    },
    "3171404": {
@@ -23580,7 +23586,7 @@
     "last_seen": "2026-11-27",
     "loc": "Lincoln, Alabama, United States",
     "posted_first": "2026-06-17",
-    "posted_raw": "2026-06-17T00:00:00.000+0000",
+    "posted_raw": "2026-06-18T00:00:00.000+0000",
     "redated_seen": "2026-11-27",
     "title": "Equipment Service Co-op/Intern - Spring 2027"
    },
@@ -29547,7 +29553,7 @@
     "first_seen": "2026-11-25 08:14 UTC",
     "last_seen": "2026-11-27",
     "loc": "Hong Kong",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Marketing Intern"
    }
   },
@@ -32222,7 +32228,7 @@
     "first_seen": "2026-11-18 17:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "Fort Wayne, Indiana",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Engineering Internship – General Interest"
    }
   },
@@ -33605,7 +33611,7 @@
     "first_seen": "2026-11-10 16:34 UTC",
     "last_seen": "2026-11-27",
     "loc": "US, TX, Austin",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "AI Compiler and Kernel Intern – Summer 2027"
    },
    "JR2029243": {
@@ -44381,7 +44387,7 @@
     "first_seen": "2026-11-20 18:04 UTC",
     "last_seen": "2026-11-27",
     "loc": "Lone Tree, CO",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Systems Engineering Intern (Summer 2027)"
    },
    "R0030752": {
@@ -44410,7 +44416,7 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-27",
     "loc": "Lone Tree, CO",
-    "posted_raw": "Posted 30 Days Ago",
+    "posted_raw": "Posted 30+ Days Ago",
     "title": "IT Service Desk Intern (Summer 2027)"
    },
    "R0030765": {
@@ -44476,9 +44482,9 @@
      "/job/Colorado-Springs-CO/Health-Safety-and-Environment-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031092"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Colorado Springs, CO",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Health Safety and Environment Intern - Summer 2027",
     "updated_seen": "2026-11-25"
    },
@@ -44506,9 +44512,9 @@
      "/job/Sparks-NV/Organizational-Change-Management--OCM--Intern_R0031104"
     ],
     "first_seen": "2026-11-20 18:04 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Sparks, NV",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "Organizational Change Management (OCM) Intern"
    },
    "R0031107": {
@@ -44706,9 +44712,9 @@
      "/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Lone Tree, CO",
-    "posted_raw": "Posted 7 Days Ago",
+    "posted_raw": "Posted 8 Days Ago",
     "title": "IT Service Desk Intern (Summer 2027)"
    },
    "R0031253": {
@@ -44764,9 +44770,9 @@
      "/job/Lone-Tree-CO/Functional-Materials---Process-Engineer-Intern--Summer-2027-_R0031370"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Lone Tree, CO",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Functional Materials & Process Engineer Intern (Summer 2027)"
    },
    "R0031371": {
@@ -44774,9 +44780,9 @@
      "/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Lone Tree, CO",
-    "posted_raw": "Posted 17 Days Ago",
+    "posted_raw": "Posted 18 Days Ago",
     "title": "Functional Structural Engineer Intern (Summer 2027)"
    },
    "R0031381": {
@@ -44784,9 +44790,9 @@
      "/job/Wichita-KS/Digital-Engineering-Intern_R0031381"
     ],
     "first_seen": "2026-11-17 20:33 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
     "loc": "Wichita, KS",
-    "posted_raw": "Posted 10 Days Ago",
+    "posted_raw": "Posted 11 Days Ago",
     "title": "Digital Engineer Intern (Summer 2027)"
    }
   },
@@ -44806,7 +44812,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "2027 Summer Internship - Software Engineering"
    },
    "R26562": {
@@ -44816,7 +44822,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "2027 Summer Internship - Aerospace Engineering"
    },
    "R26563": {
@@ -44826,7 +44832,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Internship - Electrical Engineering"
    },
    "R26564": {
@@ -44836,7 +44842,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Internship - Mechanical Engineering"
    },
    "R26565": {
@@ -44846,7 +44852,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Internship - Propulsion Engineering"
    },
    "R26566": {
@@ -44856,7 +44862,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Internship - Systems Engineering"
    },
    "R26569": {
@@ -44866,7 +44872,7 @@
     "first_seen": "2026-11-19 00:58 UTC",
     "last_seen": "2026-11-27",
     "loc": "5 Locations",
-    "posted_raw": "Posted 6 Days Ago",
+    "posted_raw": "Posted 7 Days Ago",
     "title": "2027 Summer Internship - Materials Engineering"
    },
    "R26584": {
@@ -44876,7 +44882,7 @@
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-27",
     "loc": "Louisville, CO",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "2027 Summer Internship - Flight Operations"
    },
    "R26585": {
@@ -44886,7 +44892,7 @@
     "first_seen": "2026-11-19 22:56 UTC",
     "last_seen": "2026-11-27",
     "loc": "Centennial, CO",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "2027 Summer Internship - Rendezvous Proximity Operations (RPO)"
    }
   },
@@ -44935,7 +44941,7 @@
     "first_seen": "2026-11-23 09:06 UTC",
     "last_seen": "2026-11-27",
     "loc": "Rennes",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Software Engineering Internship, Stage Ingénieur"
    },
    "21192": {
@@ -44955,7 +44961,7 @@
     "first_seen": "2026-11-12 17:38 UTC",
     "last_seen": "2026-11-27",
     "loc": "Rennes",
-    "posted_raw": "Posted 14 Days Ago",
+    "posted_raw": "Posted 15 Days Ago",
     "title": "RF Validation Engineering Internship"
    },
    "21196": {
@@ -44966,7 +44972,7 @@
     "last_seen": "2026-11-27",
     "loc": "Espoo",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Summer Internship, Module Hardware 2027"
    },
    "21229": {
@@ -45239,7 +45245,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-27",
     "loc": "Seattle, WA",
-    "posted_raw": "Posted 23 Days Ago",
+    "posted_raw": "Posted 24 Days Ago",
     "title": "User Experience Intern"
    },
    "R2888": {
@@ -46763,7 +46769,7 @@
     "last_seen": "2026-11-27",
     "loc": "Portage, Michigan",
     "posted_first": "2026-11-25",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Intern, Mechanical Engineering"
    },
    "R572897": {
@@ -51043,7 +51049,7 @@
     "last_seen": "2026-11-27",
     "loc": "Martos",
     "posted_first": "2026-11-26",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Norms & Regulation Engineer Internship"
    },
    "REQ2026078940": {
@@ -51710,7 +51716,7 @@
     "first_seen": "2026-11-14 15:23 UTC",
     "last_seen": "2026-11-27",
     "loc": "Pella, Iowa, USA - The Center",
-    "posted_raw": "Posted 13 Days Ago",
+    "posted_raw": "Posted 14 Days Ago",
     "title": "Human Resources Intern"
    },
    "REQ-22255": {
