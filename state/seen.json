@@ -11112,8 +11112,8 @@
  "Brunswick": {
   "fp": [
    3,
-   "workday",
-   "https://brunswick.wd1.myworkdayjobs.com/search"
+   "ashby",
+   "brunswick"
   ],
   "ids": {
    "JR-050979": {
@@ -18920,8 +18920,8 @@
  "GE Aerospace": {
   "fp": [
    3,
-   "workday",
-   "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite"
+   "phenom",
+   "https://careers.geaerospace.com/global/en"
   ],
   "ids": {
    "/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5040995-1": {
@@ -18990,7 +18990,9 @@
    },
    "R5034331": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Lynn, Massachusetts, United States of America",
+    "posted_first": "2026-05-13",
     "posted_raw": "2026-05-13T00:00:00.000+0000",
     "title": "Lynn CNC Trainee Co-Op"
    },
@@ -19023,7 +19025,9 @@
    },
    "R5040944": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Lynn, Massachusetts, United States of America",
+    "posted_first": "2026-09-30",
     "posted_raw": "2026-09-30T00:00:00.000+0000",
     "title": "Lynn CNC Programmer Co-Op"
    },
@@ -19032,9 +19036,10 @@
      "/job/Hooksett/Environmental-Health-Safety-Intern---Hooksett--NH---Summer-2027_R5041385-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Hooksett",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Hooksett, New Hampshire, United States of America",
+    "posted_first": "2026-10-13",
+    "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "Environmental/Health/Safety Intern – Hooksett, NH – Summer 2027"
    },
    "R5041386": {
@@ -19042,9 +19047,10 @@
      "/job/Hooksett/Manufacturing-Supply-Chain-Intern---Hooksett--NH---Summer-2027_R5041386-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Hooksett",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Hooksett, New Hampshire, United States of America",
+    "posted_first": "2026-10-13",
+    "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "Manufacturing/Supply Chain Intern – Hooksett, NH – Summer 2027"
    },
    "R5041531": {
@@ -19061,9 +19067,10 @@
      "/job/Muskegon/US-Operations-Intern---Muskegon--MI---Summer-2027_R5041532-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Muskegon",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Muskegon, Michigan, United States of America",
+    "posted_first": "2026-10-13",
+    "posted_raw": "2026-10-13T00:00:00.000+0000",
     "title": "US Operations Intern – Muskegon, MI – Summer 2027"
    },
    "R5041883": {
@@ -19129,9 +19136,10 @@
      "/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Bohemia",
-    "posted_raw": "Posted 22 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Bohemia, New York, United States of America",
+    "posted_first": "2026-11-05",
+    "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027"
    },
    "R5042864": {
@@ -19139,9 +19147,10 @@
      "/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Bohemia",
-    "posted_raw": "Posted 17 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Bohemia, New York, United States of America",
+    "posted_first": "2026-11-10",
+    "posted_raw": "2026-11-10T00:00:00.000+0000",
     "title": "Design Engineering Intern - Bohemia, NY - Summer 2027",
     "updated_seen": "2026-11-11"
    },
@@ -19169,9 +19178,10 @@
      "/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1"
     ],
     "first_seen": "2026-11-12 22:58 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Bohemia",
-    "posted_raw": "Posted 15 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Bohemia, New York, United States of America",
+    "posted_first": "2026-11-12",
+    "posted_raw": "2026-11-12T00:00:00.000+0000",
     "title": "Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027"
    },
    "R5042961": {
@@ -19179,9 +19189,10 @@
      "/job/Bohemia/Digital-Systems-Engineering-Intern---Bohemia--NY---Summer-2027_R5042961-1"
     ],
     "first_seen": "2026-11-13 18:27 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Bohemia",
-    "posted_raw": "Posted 14 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Bohemia, New York, United States of America",
+    "posted_first": "2026-11-13",
+    "posted_raw": "2026-11-13T00:00:00.000+0000",
     "title": "Digital Systems Engineering Intern - Bohemia, NY - Summer 2027"
    },
    "R5043004": {
@@ -19189,9 +19200,10 @@
      "/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1"
     ],
     "first_seen": "2026-11-10 15:57 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Niskayuna",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Niskayuna, New York, United States of America",
+    "posted_first": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "GE Aerospace Research - Controls & Optimization Internship, 2027"
    },
    "R5043209": {
@@ -19209,9 +19221,10 @@
      "/job/Niskayuna/GE-Aerospace-Research---Composites-Internship--2027_R5043408"
     ],
     "first_seen": "2026-11-17 20:54 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Niskayuna",
-    "posted_raw": "Posted 10 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Niskayuna, New York, United States of America",
+    "posted_first": "2026-11-17",
+    "posted_raw": "2026-11-17T00:00:00.000+0000",
     "title": "GE Aerospace Research - Composites Internship, 2027"
    },
    "R5043479": {
@@ -27837,8 +27850,8 @@
  "KBR": {
   "fp": [
    3,
-   "workday",
-   "https://kbr.wd5.myworkdayjobs.com/KBR_Careers"
+   "phenom",
+   "https://careers.trinzic.com/us/en"
   ],
   "ids": {
    "R2129380": {
@@ -27846,7 +27859,9 @@
      "/job/Chantilly-Virginia/KBR-Mission-Technology-Solutions--MTS----Defense---Intel-Internship-Program_R2129380"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-10-08",
     "posted_raw": "2026-10-08T00:00:00.000+0000",
     "title": "KBR Mission Technology Solutions (MTS) - Defense & Intel Internship Program"
    },
@@ -27855,9 +27870,10 @@
      "/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Sioux Falls, South Dakota",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Sioux Falls, South Dakota, United States of America",
+    "posted_first": "2026-10-08",
+    "posted_raw": "2026-10-08T00:00:00.000+0000",
     "title": "Data Processing Systems Engineer Intern"
    },
    "R2130067": {
@@ -27865,9 +27881,10 @@
      "/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Sioux Falls, South Dakota",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Sioux Falls, South Dakota, United States of America",
+    "posted_first": "2026-10-08",
+    "posted_raw": "2026-10-08T00:00:00.000+0000",
     "title": "Image Processing Software Engineer Intern"
    },
    "R3001088": {
@@ -27878,37 +27895,49 @@
    },
    "R3001173": {
     "first_seen": "2026-11-21 07:50 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-18",
     "posted_raw": "2026-11-18T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Radar Research Internship"
    },
    "R3001231": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Computer Science Internship"
    },
    "R3001233": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Electrical or Computer Engineering Internship"
    },
    "R3001234": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Mechanical Engineering Internship"
    },
    "R3001235": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Software Engineering Internship"
    },
    "R3001236": {
     "first_seen": "2026-11-13 23:52 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Chantilly, Virginia, United States of America",
+    "posted_first": "2026-11-05",
     "posted_raw": "2026-11-05T00:00:00.000+0000",
     "title": "Defense & Intel (D&I) - Systems Engineering Internship"
    }
@@ -48962,8 +48991,8 @@
  "Thermo Fisher": {
   "fp": [
    3,
-   "workday",
-   "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"
+   "phenom",
+   "https://jobs.thermofisher.com/global/en"
   ],
   "ids": {
    "R-01334328": {
@@ -48990,9 +49019,10 @@
      "/job/Sofia-Bulgaria/TMF-Support-Coordinator-Intern-with-English_R-01363914-1"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "loc": "Sofia, Bulgaria",
-    "posted_raw": "Posted 30+ Days Ago",
+    "posted_first": "2026-10-20",
+    "posted_raw": "2026-10-20T00:00:00.000+0000",
     "title": "TMF Support Coordinator Intern with English"
    },
    "R-01366217": {
@@ -49079,9 +49109,10 @@
      "/job/Marietta-Ohio-USA/Supply-Chain-Co-op_R-01366630"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "Marietta, Ohio, USA",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Marietta, Ohio, United States of America",
+    "posted_first": "2026-09-16",
+    "posted_raw": "2026-09-16T00:00:00.000+0000",
     "title": "Supply Chain Co-op"
    },
    "R-01367368": {
