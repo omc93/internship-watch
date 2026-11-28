@@ -4241,11 +4241,11 @@
  [
   "Aerospace, space & defense",
   "Carpenter Technology",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  5,
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -4376,11 +4376,11 @@
  [
   "Robotics & autonomous vehicles",
   "Trek Bicycle",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -4493,11 +4493,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Gentex",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4727,29 +4727,29 @@
  [
   "Aerospace, space & defense",
   "KBR",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
   "Cubic",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
   "Boston Dynamics",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",

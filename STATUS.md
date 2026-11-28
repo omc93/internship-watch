@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 342 of 535 companies (17 more waiting out a rate limit)
+Working: 348 of 535 companies (11 more waiting out a rate limit)
 
 
 ## Aerospace, space & defense
@@ -568,7 +568,7 @@ Working: 342 of 535 companies (17 more waiting out a rate limit)
 | Leidos | ✅ ok | workday | 0 | config |
 | Vantor | ✅ ok | workday | 0 | cache |
 | Draper | ✅ ok | workday | 1 | config |
-| Carpenter Technology | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Carpenter Technology | ✅ ok | workday | 5 | cache |
 
 ## Robotics & autonomous vehicles
 
@@ -588,7 +588,7 @@ Working: 342 of 535 companies (17 more waiting out a rate limit)
 | HP | ✅ ok | workday | 1 | config |
 | Sonos | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | YETI | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Trek Bicycle | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Trek Bicycle | ✅ ok | workday | 0 | cache |
 | Fox Factory | ✅ ok | workday | 0 | cache |
 | Specialized | ✅ ok | workday | 0 | cache |
 | Logitech | ✅ ok | workday | 0 | cache |
@@ -606,7 +606,7 @@ Working: 342 of 535 companies (17 more waiting out a rate limit)
 | Bridgestone Americas | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Terex | ✅ ok | workday | 0 | cache |
 | Brunswick | ✅ ok | workday | 0 | config |
-| Gentex | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Gentex | ✅ ok | workday | 0 | cache |
 | Cooper Standard | ✅ ok | workday | 0 | config |
 | Stoneridge | ✅ ok | workday | 0 | cache |
 | Multimatic | ✅ ok | workday | 1 | cache |
@@ -647,14 +647,14 @@ Working: 342 of 535 companies (17 more waiting out a rate limit)
 | Airbus | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Axiom Space | ✅ ok | workday | 0 | cache |
 | Crane Aerospace & Electronics | ✅ ok | workday | 1 | cache |
-| KBR | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Cubic | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| KBR | ✅ ok | workday | 0 | config |
+| Cubic | ✅ ok | workday | 0 | cache |
 
 ## Robotics & autonomous vehicles
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Boston Dynamics | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Boston Dynamics | ✅ ok | workday | 1 | cache |
 | GE HealthCare | ✅ ok | workday | 1 | config |
 
 ## Automotive, trucks & heavy equipment
