@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 356 of 535 companies (2 more waiting out a rate limit)
+Working: 358 of 535 companies
 
 
 ## Aerospace, space & defense
@@ -237,7 +237,7 @@ Working: 356 of 535 companies (2 more waiting out a rate limit)
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Airbus | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Airbus | ✅ ok | workday | 0 | config |
 
 ## Automotive, trucks & heavy equipment
 
@@ -267,7 +267,7 @@ Working: 356 of 535 companies (2 more waiting out a rate limit)
 | Bombardier | ✅ ok | successfactors | 40 | config |
 | Castelion | ✅ ok | html | 8 | config |
 | CesiumAstro | ✅ ok | lever | 15 | cache |
-| Crane Aerospace & Electronics | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Crane Aerospace & Electronics | ✅ ok | workday | 1 | cache |
 | Curtiss-Wright | ✅ ok | workday | 0 | cache |
 | Firefly Aerospace | ✅ ok | workday | 0 | config |
 | GE Aerospace | ✅ ok | workday | 1 | config |

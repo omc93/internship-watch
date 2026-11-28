@@ -182,9 +182,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795252740.87719,
-  "last_ok": 1795884105,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888499,
+  "note": "config",
+  "status": "ok"
  },
  "Aisin": {
   "fails": 496,
@@ -1138,9 +1138,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3381436,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888499,
+  "note": "cache",
+  "status": "ok"
  },
  "Cubic": {
   "ats": [

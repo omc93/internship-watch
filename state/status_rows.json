@@ -1622,11 +1622,11 @@
  [
   "Aerospace, space & defense",
   "Airbus",
-  "blocked",
+  "ok",
   "workday",
+  120,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -1757,11 +1757,11 @@
  [
   "Aerospace, space & defense",
   "Crane Aerospace & Electronics",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
