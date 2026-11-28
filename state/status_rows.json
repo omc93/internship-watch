@@ -1586,177 +1586,78 @@
  [
   "Industrial equipment & manufacturing",
   "Trane Technologies",
-  "error",
-  "",
-  0,
-  0,
-  "phenom failed (ValueError: no Phenom job data on page) | careers page: HTTPError"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Baxter",
   "ok",
   "workday",
   40,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Goodyear",
-  "ok",
-  "workday",
-  40,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Carrier",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "3M",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "YETI",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Logitech",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Bridgestone Americas",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "GE Vernova",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Intel",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Johnson Controls",
-  "ok",
-  "workday",
-  80,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
-  "Leidos",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "NVIDIA",
-  "ok",
-  "workday",
-  60,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "BorgWarner",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Stoneridge",
-  "ok",
-  "workday",
-  5,
-  0,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Dyson",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Edwards Lifesciences",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Cognex",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Nissan",
-  "ok",
-  "workday",
-  40,
-  0,
+  1,
   "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Michelin North America",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Woodward",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Rolls-Royce",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "BD",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Thermo Fisher",
+  "ok",
+  "workday",
+  100,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Tokyo Electron",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "General Motors",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Adient",
   "blocked",
   "workday",
   0,
@@ -1765,25 +1666,7 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "Shell USA",
-  "ok",
-  "workday",
-  40,
-  1,
-  "config"
- ],
- [
-  "Semiconductor equipment",
-  "KLA",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
-  "AeroVironment",
+  "Allegion",
   "ok",
   "workday",
   40,
@@ -1791,13 +1674,31 @@
   "cache"
  ],
  [
-  "Aerospace, space & defense",
-  "Airbus",
+  "Industrial equipment & manufacturing",
+  "Jabil",
   "ok",
   "workday",
-  20,
+  60,
   0,
-  "config"
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "GE Appliances",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Samsung (US)",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
  ],
  [
   "Aerospace, space & defense",
@@ -1828,19 +1729,10 @@
  ],
  [
   "Aerospace, space & defense",
-  "Axiom Space",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
   "BAE Systems",
   "ok",
   "phenom",
-  666,
+  668,
   12,
   "config"
  ],
@@ -1851,24 +1743,6 @@
   "taleo",
   3,
   1,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
-  "Blue Origin",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
-  "Boeing",
-  "ok",
-  "workday",
-  40,
-  0,
   "config"
  ],
  [
@@ -1897,42 +1771,6 @@
   379,
   15,
   "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Crane Aerospace & Electronics",
-  "ok",
-  "workday",
-  20,
-  1,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Curtiss-Wright",
-  "ok",
-  "workday",
-  40,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Firefly Aerospace",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
-  "GE Aerospace",
-  "ok",
-  "workday",
-  20,
-  1,
-  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -1999,24 +1837,6 @@
  ],
  [
   "Aerospace, space & defense",
-  "Moog",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Northrop Grumman",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
   "Relativity Space",
   "ok",
   "greenhouse",
@@ -2035,39 +1855,12 @@
  ],
  [
   "Aerospace, space & defense",
-  "RTX (Collins, Pratt & Whitney, Raytheon)",
-  "ok",
-  "workday",
-  100,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
   "Shield AI",
   "ok",
   "greenhouse",
   23,
   0,
   "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Sierra Nevada Corporation",
-  "ok",
-  "workday",
-  20,
-  3,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Sierra Space",
-  "ok",
-  "workday",
-  20,
-  2,
-  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2152,24 +1945,6 @@
  ],
  [
   "Aerospace, space & defense",
-  "Wisk Aero",
-  "ok",
-  "workday",
-  0,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Woodward",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Aerospace, space & defense",
   "Zipline",
   "ok",
   "greenhouse",
@@ -2239,15 +2014,6 @@
   75,
   14,
   "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Rolls-Royce",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
  ],
  [
   "Aerospace, space & defense",
@@ -2398,7 +2164,7 @@
   "United Airlines",
   "ok",
   "phenom",
-  121,
+  123,
   0,
   "cache"
  ],
@@ -2521,15 +2287,6 @@
  ],
  [
   "Aerospace, space & defense",
-  "KBR",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Aerospace, space & defense",
   "Slingshot Aerospace",
   "ok",
   "ashby",
@@ -2557,30 +2314,12 @@
  ],
  [
   "Aerospace, space & defense",
-  "Vantor",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
   "Reflect Orbital",
   "ok",
   "ashby",
   16,
   1,
   "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Draper",
-  "ok",
-  "workday",
-  20,
-  1,
-  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2731,17 +2470,8 @@
   "ATI",
   "ok",
   "phenom",
-  232,
+  235,
   27,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Carpenter Technology",
-  "ok",
-  "workday",
-  80,
-  12,
   "cache"
  ],
  [
@@ -2750,15 +2480,6 @@
   "ok",
   "ukg",
   107,
-  0,
-  "cache"
- ],
- [
-  "Aerospace, space & defense",
-  "Cubic",
-  "ok",
-  "workday",
-  40,
   0,
   "cache"
  ],
@@ -2815,15 +2536,6 @@
   87,
   0,
   "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Boston Dynamics",
-  "ok",
-  "workday",
-  40,
-  3,
-  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -2935,24 +2647,6 @@
  ],
  [
   "Robotics & autonomous vehicles",
-  "Stryker",
-  "ok",
-  "workday",
-  60,
-  1,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Medtronic",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
   "Boston Scientific",
   "ok",
   "successfactors",
@@ -2965,26 +2659,8 @@
   "Zimmer Biomet",
   "ok",
   "phenom",
-  383,
+  388,
   3,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Globus Medical",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "PROCEPT BioRobotics",
-  "ok",
-  "workday",
-  20,
-  0,
   "cache"
  ],
  [
@@ -3040,6 +2716,15 @@
   7,
   0,
   "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Dyson",
+  "ok",
+  "workday",
+  120,
+  0,
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3160,60 +2845,6 @@
  ],
  [
   "Robotics & autonomous vehicles",
-  "Johnson & Johnson",
-  "ok",
-  "workday",
-  120,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Abbott",
-  "ok",
-  "workday",
-  60,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "BD",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "GE HealthCare",
-  "ok",
-  "workday",
-  80,
-  1,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Thermo Fisher",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Illumina",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
   "Amazon Lab126",
   "ok",
   "amazon",
@@ -3232,48 +2863,12 @@
  ],
  [
   "Robotics & autonomous vehicles",
-  "Tokyo Electron",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Silicon Labs",
-  "ok",
-  "workday",
-  40,
-  2,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
   "Cirrus Logic",
   "ok",
   "greenhouse",
   14,
   0,
   "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "HP",
-  "ok",
-  "workday",
-  40,
-  1,
-  "config"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Sonos",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3308,33 +2903,6 @@
   "ok",
   "ashby",
   107,
-  0,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Trek Bicycle",
-  "ok",
-  "workday",
-  64,
-  0,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Fox Factory",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Robotics & autonomous vehicles",
-  "Specialized",
-  "ok",
-  "workday",
-  20,
   0,
   "cache"
  ],
@@ -3496,7 +3064,7 @@
   "BMW",
   "ok",
   "successfactors",
-  148,
+  151,
   5,
   "config"
  ],
@@ -3511,15 +3079,6 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Caterpillar",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "CNH",
   "ok",
   "successfactors",
@@ -3529,30 +3088,12 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Daimler Truck",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "Ford",
   "ok",
   "radancy",
   60,
   0,
   "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "General Motors",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3595,8 +3136,8 @@
   "Oshkosh",
   "ok",
   "phenom",
-  526,
-  32,
+  525,
+  33,
   "cache"
  ],
  [
@@ -3745,24 +3286,6 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Aptiv",
-  "ok",
-  "workday",
-  80,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Magna",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "Lear",
   "ok",
   "successfactors",
@@ -3777,15 +3300,6 @@
   "successfactors",
   250,
   10,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Allison Transmission",
-  "ok",
-  "workday",
-  40,
-  4,
   "cache"
  ],
  [
@@ -3840,15 +3354,6 @@
   "jibe",
   27,
   1,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Terex",
-  "ok",
-  "workday",
-  40,
-  0,
   "cache"
  ],
  [
@@ -3943,28 +3448,10 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Brunswick",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "BRP",
   "ok",
   "phenom",
-  56,
-  0,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Gentex",
-  "ok",
-  "workday",
-  20,
+  57,
   0,
   "cache"
  ],
@@ -3985,15 +3472,6 @@
   261,
   4,
   "config"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Valeo",
-  "ok",
-  "workday",
-  60,
-  1,
-  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4030,15 +3508,6 @@
   60,
   0,
   "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Cooper Standard",
-  "ok",
-  "workday",
-  20,
-  0,
-  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4105,15 +3574,6 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Adient",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "Factorial Energy",
   "ok",
   "greenhouse",
@@ -4132,39 +3592,12 @@
  ],
  [
   "Automotive, trucks & heavy equipment",
-  "Multimatic",
-  "ok",
-  "workday",
-  99,
-  2,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
-  "Vermeer",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Automotive, trucks & heavy equipment",
   "Gillig",
   "ok",
   "greenhouse",
   0,
   0,
   "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Allegion",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4180,7 +3613,7 @@
   "Baker Hughes",
   "ok",
   "phenom",
-  603,
+  609,
   10,
   "cache"
  ],
@@ -4249,15 +3682,6 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "Flowserve",
-  "ok",
-  "workday",
-  20,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
   "Formlabs",
   "ok",
   "greenhouse",
@@ -4303,15 +3727,6 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "Jabil",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Industrial equipment & manufacturing",
   "NOV",
   "ok",
   "oracle",
@@ -4339,15 +3754,6 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "Stanley Black & Decker",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
   "TE Connectivity",
   "ok",
   "successfactors",
@@ -4366,15 +3772,6 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "Xylem",
-  "ok",
-  "workday",
-  40,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
   "ExxonMobil",
   "ok",
   "successfactors",
@@ -4388,15 +3785,6 @@
   "ok",
   "radancy",
   60,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "ConocoPhillips",
-  "ok",
-  "workday",
-  17,
   0,
   "cache"
  ],
@@ -4441,7 +3829,7 @@
   "Form Energy",
   "ok",
   "ashby",
-  211,
+  210,
   0,
   "cache"
  ],
@@ -4451,15 +3839,6 @@
   "ok",
   "greenhouse",
   59,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "X-energy",
-  "ok",
-  "workday",
-  20,
   0,
   "cache"
  ],
@@ -4483,6 +3862,15 @@
  ],
  [
   "Industrial equipment & manufacturing",
+  "Carrier",
+  "ok",
+  "workday",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
   "Whirlpool",
   "ok",
   "eightfold",
@@ -4492,65 +3880,11 @@
  ],
  [
   "Industrial equipment & manufacturing",
-  "GE Appliances",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Dow",
-  "ok",
-  "workday",
-  40,
-  0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Samsung (US)",
-  "blocked",
-  "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Micron",
-  "ok",
-  "workday",
-  60,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Otis",
-  "ok",
-  "workday",
-  60,
-  0,
-  "found on careers page"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Generac",
+  "Intel",
   "ok",
   "workday",
   20,
   0,
-  "config"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Bloom Energy",
-  "ok",
-  "workday",
-  40,
-  10,
   "config"
  ],
  [
@@ -4569,15 +3903,6 @@
   "successfactors",
   168,
   2,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Graco",
-  "ok",
-  "workday",
-  20,
-  1,
   "cache"
  ],
  [
@@ -4604,15 +3929,6 @@
   "ok",
   "successfactors",
   10,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Plug Power",
-  "ok",
-  "workday",
-  20,
   0,
   "cache"
  ],
@@ -4711,17 +4027,8 @@
   "Bechtel",
   "ok",
   "phenom",
-  590,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Vistra",
-  "ok",
-  "workday",
-  170,
-  1,
+  591,
+  13,
   "cache"
  ],
  [
@@ -4748,15 +4055,6 @@
   "ok",
   "successfactors",
   119,
-  0,
-  "cache"
- ],
- [
-  "Industrial equipment & manufacturing",
-  "Hexcel",
-  "ok",
-  "workday",
-  40,
   0,
   "cache"
  ],
@@ -4798,20 +4096,722 @@
  ],
  [
   "Semiconductor equipment",
-  "Entegris",
-  "ok",
-  "workday",
-  429,
-  43,
-  "config"
- ],
- [
-  "Semiconductor equipment",
   "Lam Research",
   "ok",
   "eightfold",
   36,
   6,
   "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "AeroVironment",
+  "ok",
+  "workday",
+  40,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Blue Origin",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Boeing",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Curtiss-Wright",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Firefly Aerospace",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "GE Aerospace",
+  "ok",
+  "workday",
+  40,
+  1,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Moog",
+  "ok",
+  "workday",
+  40,
+  2,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Northrop Grumman",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "RTX (Collins, Pratt & Whitney, Raytheon)",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Sierra Nevada Corporation",
+  "ok",
+  "workday",
+  20,
+  3,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Sierra Space",
+  "ok",
+  "workday",
+  20,
+  2,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Wisk Aero",
+  "ok",
+  "workday",
+  0,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Leidos",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Vantor",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Draper",
+  "ok",
+  "workday",
+  20,
+  1,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Carpenter Technology",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Stryker",
+  "ok",
+  "workday",
+  60,
+  1,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Medtronic",
+  "ok",
+  "workday",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Globus Medical",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "PROCEPT BioRobotics",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "NVIDIA",
+  "ok",
+  "workday",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Johnson & Johnson",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Abbott",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Edwards Lifesciences",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Baxter",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Illumina",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Silicon Labs",
+  "ok",
+  "workday",
+  40,
+  2,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "HP",
+  "ok",
+  "workday",
+  40,
+  1,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Sonos",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "YETI",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Trek Bicycle",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Fox Factory",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Specialized",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Logitech",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Cognex",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "BorgWarner",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Aptiv",
+  "ok",
+  "workday",
+  409,
+  19,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Magna",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Allison Transmission",
+  "ok",
+  "workday",
+  40,
+  4,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Goodyear",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Bridgestone Americas",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Terex",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Brunswick",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Gentex",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Cooper Standard",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Stoneridge",
+  "ok",
+  "workday",
+  5,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Multimatic",
+  "ok",
+  "workday",
+  20,
+  1,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Vermeer",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "GE Vernova",
+  "ok",
+  "workday",
+  100,
+  1,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Stanley Black & Decker",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Xylem",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "ConocoPhillips",
+  "ok",
+  "workday",
+  17,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "X-energy",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "3M",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Dow",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Micron",
+  "ok",
+  "workday",
+  648,
+  24,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Johnson Controls",
+  "ok",
+  "workday",
+  80,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Otis",
+  "ok",
+  "workday",
+  60,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Generac",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Bloom Energy",
+  "ok",
+  "workday",
+  40,
+  10,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Graco",
+  "ok",
+  "workday",
+  20,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Plug Power",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Vistra",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Hexcel",
+  "ok",
+  "workday",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Semiconductor equipment",
+  "Entegris",
+  "ok",
+  "workday",
+  40,
+  1,
+  "config"
+ ],
+ [
+  "Semiconductor equipment",
+  "KLA",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Airbus",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Axiom Space",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Crane Aerospace & Electronics",
+  "ok",
+  "workday",
+  20,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "KBR",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Cubic",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Boston Dynamics",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "GE HealthCare",
+  "ok",
+  "workday",
+  80,
+  1,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Caterpillar",
+  "ok",
+  "workday",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Daimler Truck",
+  "ok",
+  "workday",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Nissan",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Valeo",
+  "ok",
+  "workday",
+  60,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Flowserve",
+  "ok",
+  "workday",
+  40,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Shell USA",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
  ]
 ]
