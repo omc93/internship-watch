@@ -1595,20 +1595,20 @@
  [
   "Robotics & autonomous vehicles",
   "Baxter",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Goodyear",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -1622,47 +1622,47 @@
  [
   "Industrial equipment & manufacturing",
   "3M",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "YETI",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "Logitech",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Bridgestone Americas",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
   "GE Vernova",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -1676,47 +1676,47 @@
  [
   "Industrial equipment & manufacturing",
   "Johnson Controls",
-  "blocked",
+  "ok",
   "workday",
+  80,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
   "Leidos",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "NVIDIA",
-  "blocked",
+  "ok",
   "workday",
+  60,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "BorgWarner",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Stoneridge",
-  "blocked",
+  "ok",
   "workday",
+  5,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -1730,20 +1730,20 @@
  [
   "Robotics & autonomous vehicles",
   "Edwards Lifesciences",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "Cognex",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -1775,20 +1775,20 @@
  [
   "Semiconductor equipment",
   "KLA",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
   "AeroVironment",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  1,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -1856,20 +1856,20 @@
  [
   "Aerospace, space & defense",
   "Blue Origin",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
   "Boeing",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -1910,29 +1910,29 @@
  [
   "Aerospace, space & defense",
   "Curtiss-Wright",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
   "Firefly Aerospace",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
   "GE Aerospace",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2000,20 +2000,20 @@
  [
   "Aerospace, space & defense",
   "Moog",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
   "Northrop Grumman",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2036,11 +2036,11 @@
  [
   "Aerospace, space & defense",
   "RTX (Collins, Pratt & Whitney, Raytheon)",
-  "blocked",
+  "ok",
   "workday",
+  100,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2054,20 +2054,20 @@
  [
   "Aerospace, space & defense",
   "Sierra Nevada Corporation",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  3,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
   "Sierra Space",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  2,
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2153,11 +2153,11 @@
  [
   "Aerospace, space & defense",
   "Wisk Aero",
-  "blocked",
+  "ok",
   "workday",
   0,
   0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2558,11 +2558,11 @@
  [
   "Aerospace, space & defense",
   "Vantor",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2576,11 +2576,11 @@
  [
   "Aerospace, space & defense",
   "Draper",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2738,11 +2738,11 @@
  [
   "Aerospace, space & defense",
   "Carpenter Technology",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  80,
+  12,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2936,20 +2936,20 @@
  [
   "Robotics & autonomous vehicles",
   "Stryker",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  60,
+  1,
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "Medtronic",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -2972,20 +2972,20 @@
  [
   "Robotics & autonomous vehicles",
   "Globus Medical",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
   "PROCEPT BioRobotics",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3161,20 +3161,20 @@
  [
   "Robotics & autonomous vehicles",
   "Johnson & Johnson",
-  "blocked",
+  "ok",
   "workday",
+  120,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "Abbott",
-  "blocked",
+  "ok",
   "workday",
+  60,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3206,11 +3206,11 @@
  [
   "Robotics & autonomous vehicles",
   "Illumina",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3242,11 +3242,11 @@
  [
   "Robotics & autonomous vehicles",
   "Silicon Labs",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  2,
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3260,20 +3260,20 @@
  [
   "Robotics & autonomous vehicles",
   "HP",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  1,
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "Sonos",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3314,29 +3314,29 @@
  [
   "Robotics & autonomous vehicles",
   "Trek Bicycle",
-  "blocked",
+  "ok",
   "workday",
+  64,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
   "Fox Factory",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
   "Specialized",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3746,20 +3746,20 @@
  [
   "Automotive, trucks & heavy equipment",
   "Aptiv",
-  "blocked",
+  "ok",
   "workday",
+  80,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Magna",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3782,11 +3782,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Allison Transmission",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  4,
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3845,11 +3845,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Terex",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3944,11 +3944,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Brunswick",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3962,11 +3962,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Gentex",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4034,11 +4034,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Cooper Standard",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4133,20 +4133,20 @@
  [
   "Automotive, trucks & heavy equipment",
   "Multimatic",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  99,
+  2,
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
   "Vermeer",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4340,11 +4340,11 @@
  [
   "Industrial equipment & manufacturing",
   "Stanley Black & Decker",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4367,11 +4367,11 @@
  [
   "Industrial equipment & manufacturing",
   "Xylem",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4394,11 +4394,11 @@
  [
   "Industrial equipment & manufacturing",
   "ConocoPhillips",
-  "blocked",
+  "ok",
   "workday",
+  17,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4457,11 +4457,11 @@
  [
   "Industrial equipment & manufacturing",
   "X-energy",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4502,11 +4502,11 @@
  [
   "Industrial equipment & manufacturing",
   "Dow",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4520,38 +4520,38 @@
  [
   "Industrial equipment & manufacturing",
   "Micron",
-  "blocked",
+  "ok",
   "workday",
+  60,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
   "Otis",
-  "blocked",
+  "ok",
   "workday",
+  60,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "found on careers page"
  ],
  [
   "Industrial equipment & manufacturing",
   "Generac",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
   "Bloom Energy",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  10,
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4574,11 +4574,11 @@
  [
   "Industrial equipment & manufacturing",
   "Graco",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4610,11 +4610,11 @@
  [
   "Industrial equipment & manufacturing",
   "Plug Power",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4718,11 +4718,11 @@
  [
   "Industrial equipment & manufacturing",
   "Vistra",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  170,
+  1,
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4754,11 +4754,11 @@
  [
   "Industrial equipment & manufacturing",
   "Hexcel",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
@@ -4799,11 +4799,11 @@
  [
   "Semiconductor equipment",
   "Entegris",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  429,
+  43,
+  "config"
  ],
  [
   "Semiconductor equipment",
