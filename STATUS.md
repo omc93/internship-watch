@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
+Working: 302 of 535 companies (21 more waiting out a Workday rate limit)
 
 
 ## Aerospace, space & defense
@@ -23,8 +23,8 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Honda Aircraft | ❌ unresolved |  |  | careers page: HTTPError |
 | Virgin Galactic | ❌ unresolved |  |  | careers page: HTTPError |
 | Radian Aerospace | ❌ unresolved |  |  | careers page: HTTPError |
-| American Airlines | ❌ error |  |  | careers page: HTTPError |
-| Delta Air Lines | ❌ error |  |  | no job system found on careers page |
+| American Airlines | ❌ unresolved |  |  | careers page: HTTPError |
+| Delta Air Lines | ❌ unresolved |  |  | no job system found on careers page |
 | Lanteris Space Systems | ❌ unresolved |  |  | careers page: HTTPError |
 | Astrolab | ❌ unresolved |  |  | careers page: HTTPError |
 | Agile Space Industries | ❌ unresolved |  |  | no job system found on careers page |
@@ -62,14 +62,14 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Aurora | ❌ error |  |  | no job system found on careers page |
-| FANUC | ❌ error |  |  | no job system found on careers page |
-| KUKA | ❌ error |  |  | careers page: HTTPError |
+| Aurora | ❌ unresolved |  |  | no job system found on careers page |
+| FANUC | ❌ unresolved |  |  | no job system found on careers page |
+| KUKA | ❌ unresolved |  |  | careers page: HTTPError |
 | Rockwell Automation | ⏭️ skipped |  |  | site blocks automated checks |
-| Dusty Robotics | ❌ error |  |  | greenhouse:dustyrobotics HTTPError |
-| Starship Technologies | ❌ error |  |  | no job system found on careers page |
-| Skild AI | ❌ error |  |  | careers page: HTTPError |
-| iRobot | ❌ error |  |  | careers page: HTTPError |
+| Dusty Robotics | ❌ unresolved |  |  | greenhouse:dustyrobotics HTTPError |
+| Starship Technologies | ❌ unresolved |  |  | no job system found on careers page |
+| Skild AI | ❌ unresolved |  |  | careers page: HTTPError |
+| iRobot | ❌ unresolved |  |  | careers page: HTTPError |
 | Gatik | ❌ unresolved |  |  | no job system found on careers page |
 | Seegrid | ❌ unresolved |  |  | no job system found on careers page |
 | Vecna Robotics | ❌ unresolved |  |  | no job system found on careers page |
@@ -100,21 +100,21 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Cummins | ⏭️ skipped |  |  | job site not found |
-| Hitachi Construction Machinery | ❌ error |  |  | no job system found on careers page |
+| Hitachi Construction Machinery | ❌ unresolved |  |  | no job system found on careers page |
 | Mercedes-Benz | ⏭️ skipped |  |  | global site; US co-ops not separately listed |
 | Stellar Industries | ⏭️ skipped |  |  | uses Paylocity, not supported yet |
 | Tesla | ⏭️ skipped |  |  | Tesla's site blocks automated checks |
-| Volkswagen | ❌ error |  |  | careers page: URLError |
-| Polaris | ❌ error |  |  | no job system found on careers page |
-| Hyundai Motor Group (US) | ❌ error |  |  | no job system found on careers page |
-| Kia Georgia | ❌ error |  |  | careers page: HTTPError |
-| Subaru of Indiana | ❌ error |  |  | careers page: HTTPError |
-| Mazda Toyota Manufacturing | ❌ error |  |  | careers page: HTTPError |
-| Continental | ❌ error |  |  | no job system found on careers page |
-| Denso | ❌ error |  |  | careers page: HTTPError |
-| Haas Automation | ❌ error |  |  | no job system found on careers page |
-| Kubota | ❌ error |  |  | no job system found on careers page |
-| Doosan Bobcat | ❌ error |  |  | no job system found on careers page |
+| Volkswagen | ❌ unresolved |  |  | careers page: URLError |
+| Polaris | ❌ unresolved |  |  | no job system found on careers page |
+| Hyundai Motor Group (US) | ❌ unresolved |  |  | no job system found on careers page |
+| Kia Georgia | ❌ unresolved |  |  | careers page: HTTPError |
+| Subaru of Indiana | ❌ unresolved |  |  | careers page: HTTPError |
+| Mazda Toyota Manufacturing | ❌ unresolved |  |  | careers page: HTTPError |
+| Continental | ❌ unresolved |  |  | no job system found on careers page |
+| Denso | ❌ unresolved |  |  | careers page: HTTPError |
+| Haas Automation | ❌ unresolved |  |  | no job system found on careers page |
+| Kubota | ❌ unresolved |  |  | no job system found on careers page |
+| Doosan Bobcat | ❌ unresolved |  |  | no job system found on careers page |
 | Thor Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Winnebago Industries | ❌ unresolved |  |  | no job system found on careers page |
 | Yamaha Motor USA | ❌ unresolved |  |  | no job system found on careers page |
@@ -161,17 +161,17 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Benchmark Electronics | ❌ error |  |  | no job system found on careers page |
-| Danfoss | ❌ error |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
-| Grundfos | ❌ error |  |  | careers page: TimeoutError |
-| Molex | ❌ error |  |  | careers page: TimeoutError |
+| Benchmark Electronics | ❌ unresolved |  |  | no job system found on careers page |
+| Danfoss | ❌ unresolved |  |  | phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError |
+| Grundfos | ❌ unresolved |  |  | careers page: TimeoutError |
+| Molex | ❌ unresolved |  |  | careers page: TimeoutError |
 | Parker Hannifin | ⏭️ skipped |  |  | job site blocks automated checks |
-| Sanmina | ❌ error |  |  | no job system found on careers page |
-| Siemens | ❌ error |  |  | no job system found on careers page |
-| Sulzer | ❌ error |  |  | careers page: HTTPError |
-| Weatherford | ❌ error |  |  | careers page: HTTPError |
-| SLB | ❌ error |  |  | no job system found on careers page |
-| Lennox | ❌ error |  |  | no job system found on careers page |
+| Sanmina | ❌ unresolved |  |  | no job system found on careers page |
+| Siemens | ❌ unresolved |  |  | no job system found on careers page |
+| Sulzer | ❌ unresolved |  |  | careers page: HTTPError |
+| Weatherford | ❌ unresolved |  |  | careers page: HTTPError |
+| SLB | ❌ unresolved |  |  | no job system found on careers page |
+| Lennox | ❌ unresolved |  |  | no job system found on careers page |
 | Kohler | ❌ unresolved |  |  | careers page: URLError |
 | Rheem | ❌ unresolved |  |  | no job system found on careers page |
 | Siemens Energy | ❌ unresolved |  |  | no job system found on careers page |
@@ -199,7 +199,7 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| ASML | ❌ error |  |  | no job system found on careers page |
+| ASML | ❌ unresolved |  |  | no job system found on careers page |
 
 ## Aerospace, space & defense
 
@@ -227,14 +227,14 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Curtiss-Wright | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://curtisswright.wd |
-| Northrop Grumman | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Northrop Grumman | ✅ ok | workday | 0 | cache |
 | Sierra Nevada Corporation | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://snc.wd1.myworkda |
 | Sierra Space | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Rolls-Royce | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Vantor | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://maxar.wd1.mywork |
 | Draper | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Carpenter Technology | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://cartech.wd5.mywo |
-| Cubic | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Cubic | ✅ ok | workday | 0 | found on careers page |
 
 ## Robotics & autonomous vehicles
 
@@ -243,9 +243,9 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Dyson | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | BD | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Baxter | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Illumina | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Illumina | ✅ ok | workday | 0 | found on careers page |
 | Silicon Labs | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Trek Bicycle | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://trekbikes.wd1.my |
+| Trek Bicycle | ✅ ok | workday | 0 | cache |
 | Specialized | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://specialized.wd5. |
 
 ## Automotive, trucks & heavy equipment
@@ -253,113 +253,135 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Daimler Truck | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://dtna.wd5.myworkd |
-| Allison Transmission | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://allisontransmiss |
-| Terex | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://terex.wd1.mywork |
-| Valeo | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Cooper Standard | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Adient | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://adient.wd3.mywor |
+| Allison Transmission | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Terex | ✅ ok | workday | 0 | cache |
+| Valeo | ✅ ok | workday | 1 | cache |
+| Cooper Standard | ✅ ok | workday | 0 | config |
+| Adient | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 
 ## Industrial equipment & manufacturing
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Flowserve | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://flowserve.wd1.my |
-| Stanley Black & Decker | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Flowserve | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Stanley Black & Decker | ✅ ok | workday | 0 | config |
 | Xylem | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://xylem.wd5.mywork |
-| ConocoPhillips | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://conocophillips.w |
+| ConocoPhillips | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | X-energy | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://xenergy.wd5.mywo |
-| Carrier | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Carrier | ✅ ok | radancy | 0 | found on careers page |
 | GE Appliances | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| 3M | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Dow | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Micron | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://micron.wd1.mywor |
+| 3M | ✅ ok | workday | 0 | config |
+| Dow | ✅ ok | workday | 0 | config |
+| Micron | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Johnson Controls | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Otis | ✅ ok | workday | 0 | found on careers page |
-| Bloom Energy | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Bloom Energy | ✅ ok | workday | 10 | config |
 | Vistra | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://vst.wd5.myworkda |
 
 ## Semiconductor equipment
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Entegris | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| KLA | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Entegris | ✅ ok | workday | 1 | config |
+| KLA | ✅ ok | workday | 0 | config |
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| AeroVironment | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://avav.wd1.myworkd |
+| AeroVironment | ✅ ok | workday | 1 | cache |
 | Airbus | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Axiom Space | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://axiomspace.wd5.m |
-| Blue Origin | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Boeing | ✅ ok | radancy | 0 | found on careers page |
-| Crane Aerospace & Electronics | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://cranecompany.wd5 |
+| Axiom Space | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Blue Origin | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Crane Aerospace & Electronics | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Moog | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://moog.wd5.myworkd |
-| RTX (Collins, Pratt & Whitney, Raytheon) | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| RTX (Collins, Pratt & Whitney, Raytheon) | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Woodward | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://woodward.wd5.myw |
 
 ## Automotive, trucks & heavy equipment
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| General Motors | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| General Motors | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Nissan | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 
 ## Aerospace, space & defense
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Leidos | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Leidos | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 
 ## Robotics & autonomous vehicles
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Boston Dynamics | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / careers page: HTTPError |
-| Stryker | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Medtronic | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Boston Dynamics | ✅ ok | workday | 3 | cache |
+| Stryker | ✅ ok | workday | 1 | config |
+| Medtronic | ✅ ok | workday | 0 | config |
 | Globus Medical | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://globusmedical.wd |
 | NVIDIA | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Johnson & Johnson | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Abbott | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Edwards Lifesciences | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| GE HealthCare | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Abbott | ✅ ok | phenom | 2 | found on careers page |
+| Edwards Lifesciences | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| GE HealthCare | ✅ ok | phenom | 1 | found on careers page |
 | Tokyo Electron | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| HP | ✅ ok | greenhouse | 0 | guessed from company name - verify |
-| Sonos | ❌ error |  |  | workday failed (URLError: <urlopen error _ssl.c:1063: The handshake operation timed out>) / workday failed (ValueError:  |
+| Sonos | ✅ ok | workday | 0 | config |
 | YETI | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Fox Factory | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://foxfactory.wd1.m |
+| Fox Factory | ✅ ok | workday | 0 | cache |
 | Logitech | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://logitech.wd5.myw |
-| Cognex | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Cognex | ✅ ok | workday | 0 | config |
 
 ## Automotive, trucks & heavy equipment
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| Caterpillar | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| BorgWarner | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Caterpillar | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| BorgWarner | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Aptiv | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Magna | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
-| Goodyear | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://goodyear.wd1.myw |
+| Magna | ✅ ok | workday | 0 | config |
+| Goodyear | ✅ ok | workday | 0 | cache |
 | Bridgestone Americas | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://bridgestone.wd5. |
-| Michelin North America | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Michelin North America | ✅ ok | workday | 0 | config |
 | Gentex | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://gentex.wd5.mywor |
-| Stoneridge | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Vermeer | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Stoneridge | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://stoneridge.wd5.m |
+| Vermeer | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://vermeer.wd5.mywo |
 
 ## Industrial equipment & manufacturing
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
 | Allegion | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://allegion.wd5.myw |
-| Eaton | ✅ ok | eightfold | 23 | config |
-| GE Vernova | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| GE Vernova | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
 | Jabil | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://jabil.wd5.mywork |
-| Intel | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Generac | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Plug Power | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Hexcel | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Intel | ✅ ok | workday | 0 | config |
+| Generac | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday failed (ValueError: Work |
+| Plug Power | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://plugpower.wd5.my |
+| Hexcel | ❌ error |  |  | workday failed (ValueError: Workday did not return job data (busy or in maintenance)) / workday:https://hexcel.wd5.mywor |
+
+## Aerospace, space & defense
+
+| Company | Status | System | Open engineering internships | Note |
+|---|---|---|---|---|
+| GE Aerospace | ✅ ok | phenom | 6 | found on careers page |
+| KBR | ✅ ok | phenom | 4 | found on careers page |
+
+## Robotics & autonomous vehicles
+
+| Company | Status | System | Open engineering internships | Note |
+|---|---|---|---|---|
+| Thermo Fisher | ✅ ok | phenom | 0 | found on careers page |
+
+## Automotive, trucks & heavy equipment
+
+| Company | Status | System | Open engineering internships | Note |
+|---|---|---|---|---|
+| Brunswick | ✅ ok | workday | 0 | config |
+| Multimatic | ✅ ok | workday | 1 | cache |
+
+## Industrial equipment & manufacturing
+
+| Company | Status | System | Open engineering internships | Note |
+|---|---|---|---|---|
+| Graco | ✅ ok | workday | 1 | cache |
 
 ## Aerospace, space & defense
 
@@ -370,11 +392,11 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Astro Mechanica | ✅ ok | ashby | 5 | cache |
 | BAE Systems | ✅ ok | phenom | 12 | config |
 | Bell Flight | ✅ ok | taleo | 1 | config |
+| Boeing | ✅ ok | workday | 0 | config |
 | Bombardier | ✅ ok | successfactors | 40 | config |
 | Castelion | ✅ ok | html | 8 | config |
 | CesiumAstro | ✅ ok | lever | 15 | cache |
 | Firefly Aerospace | ✅ ok | workday | 0 | config |
-| GE Aerospace | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Gulfstream Aerospace | ✅ ok | sfxml | 0 | config |
 | Hermeus | ✅ ok | lever | 14 | cache |
 | Honeywell | ✅ ok | oracle | 13 | config |
@@ -433,7 +455,6 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Elroy Air | ✅ ok | lever | 0 | cache |
 | Wing | ✅ ok | greenhouse | 1 | cache |
 | Saronic | ✅ ok | ashby | 4 | cache |
-| KBR | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Slingshot Aerospace | ✅ ok | ashby | 0 | cache |
 | Turion Space | ✅ ok | ashby | 0 | cache |
 | Atomos Space | ✅ ok | ashby | 0 | config |
@@ -480,7 +501,7 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Hadrian | ✅ ok | ashby | 1 | cache |
 | Neuralink | ✅ ok | greenhouse | 8 | cache |
 | Boston Scientific | ✅ ok | successfactors | 3 | cache |
-| Zimmer Biomet | ✅ ok | phenom | 2 | cache |
+| Zimmer Biomet | ✅ ok | phenom | 3 | cache |
 | PROCEPT BioRobotics | ✅ ok | workday | 0 | cache |
 | Gecko Robotics | ✅ ok | ashby | 1 | cache |
 | Formic | ✅ ok | greenhouse | 0 | cache |
@@ -501,10 +522,10 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Exotec | ✅ ok | workable | 0 | config |
 | Brinc | ✅ ok | ashby | 0 | cache |
 | Flock Safety | ✅ ok | ashby | 0 | cache |
-| Thermo Fisher | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Amazon Lab126 | ✅ ok | amazon | 0 | config |
 | AMD | ✅ ok | jibe | 0 | config |
 | Cirrus Logic | ✅ ok | greenhouse | 0 | cache |
+| HP | ✅ ok | greenhouse | 0 | cache |
 | Peloton | ✅ ok | greenhouse | 0 | cache |
 | SharkNinja | ✅ ok | radancy | 10 | cache |
 | Oura | ✅ ok | greenhouse | 0 | cache |
@@ -550,7 +571,7 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Slate Auto | ✅ ok | ashby | 0 | cache |
 | Divergent | ✅ ok | greenhouse | 2 | cache |
 | Harley-Davidson | ✅ ok | successfactors | 0 | config |
-| Stellantis | ✅ ok | cws | 3 | config |
+| Stellantis | ❌ error |  |  | cws failed (HTTPError: HTTP Error 403: Forbidden) / cws failed (HTTPError: HTTP Error 403: Forbidden) / careers page: HT |
 | Motional | ✅ ok | greenhouse | 0 | cache |
 | May Mobility | ✅ ok | greenhouse | 0 | cache |
 | Torc Robotics | ✅ ok | greenhouse | 0 | cache |
@@ -574,7 +595,6 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Group14 | ✅ ok | greenhouse | 0 | cache |
 | ChargePoint | ✅ ok | greenhouse | 2 | cache |
 | Blue Bird | ✅ ok | ukg | 10 | config |
-| Brunswick | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | BRP | ✅ ok | phenom | 0 | cache |
 | Tenneco | ✅ ok | successfactors | 0 | cache |
 | Schaeffler | ✅ ok | successfactors | 4 | config |
@@ -591,18 +611,18 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Gentherm | ✅ ok | successfactors | 3 | cache |
 | Factorial Energy | ✅ ok | greenhouse | 0 | cache |
 | Amprius | ✅ ok | workable | 0 | cache |
-| Multimatic | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Gillig | ✅ ok | greenhouse | 0 | cache |
 
 ## Industrial equipment & manufacturing
 
 | Company | Status | System | Open engineering internships | Note |
 |---|---|---|---|---|
-| AMETEK | ✅ ok | successfactors | 19 | config |
+| AMETEK | ✅ ok | successfactors | 20 | config |
 | Baker Hughes | ✅ ok | phenom | 10 | cache |
 | Celestica | ✅ ok | successfactors | 6 | config |
 | Commonwealth Fusion Systems | ✅ ok | lever | 14 | cache |
-| Corning | ✅ ok | successfactors | 5 | config |
+| Corning | ✅ ok | successfactors | 9 | config |
+| Eaton | ✅ ok | eightfold | 23 | config |
 | Emerson / National Instruments | ✅ ok | oracle | 9 | cache |
 | Fictiv | ✅ ok | greenhouse | 0 | config |
 | Flex | ✅ ok | greenhouse | 0 | cache |
@@ -610,7 +630,7 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Fortive | ✅ ok | oracle | 1 | cache |
 | Hubbell | ✅ ok | successfactors | 26 | config |
 | Infinitum | ✅ ok | greenhouse | 0 | cache |
-| ITW | ✅ ok | phenom | 27 | cache |
+| ITW | ✅ ok | phenom | 24 | cache |
 | NOV | ✅ ok | oracle | 2 | cache |
 | Re:Build Manufacturing | ✅ ok | greenhouse | 2 | cache |
 | Schneider Electric | ✅ ok | jibe | 26 | config |
@@ -627,29 +647,29 @@ Working: 270 of 535 companies (37 more waiting out a Workday rate limit)
 | Kairos Power | ✅ ok | greenhouse | 5 | cache |
 | Radiant Industries | ✅ ok | ashby | 0 | cache |
 | Whirlpool | ✅ ok | eightfold | 4 | config |
+| Otis | ✅ ok | workday | 0 | cache |
 | Daikin Comfort Technologies | ✅ ok | ukg | 0 | config |
 | Mitsubishi Power Americas | ✅ ok | successfactors | 2 | cache |
-| Graco | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
 | Ingersoll Rand | ✅ ok | successfactors | 4 | config |
-| Pentair | ✅ ok | phenom | 0 | cache |
+| Pentair | ✅ ok | phenom | 1 | cache |
 | Chart Industries | ✅ ok | successfactors | 0 | cache |
 | First Solar | ✅ ok | oracle | 13 | cache |
 | Oklo | ✅ ok | greenhouse | 0 | cache |
 | TerraPower | ✅ ok | greenhouse | 0 | cache |
 | Westinghouse | ✅ ok | successfactors | 15 | cache |
-| BWX Technologies | ✅ ok | successfactors | 9 | cache |
+| BWX Technologies | ✅ ok | successfactors | 11 | cache |
 | Zap Energy | ✅ ok | rippling | 0 | config |
 | Thea Energy | ✅ ok | greenhouse | 0 | cache |
 | Pacific Fusion | ✅ ok | greenhouse | 7 | cache |
 | Antora Energy | ✅ ok | greenhouse | 0 | cache |
 | Oceaneering | ✅ ok | oracle | 7 | config |
-| Bechtel | ✅ ok | phenom | 0 | cache |
+| Bechtel | ✅ ok | phenom | 14 | cache |
 | Oncor | ✅ ok | ukg | 2 | config |
 | CenterPoint Energy | ✅ ok | successfactors | 0 | cache |
 | NextEra Energy | ✅ ok | successfactors | 0 | cache |
 | NASA JPL | ✅ ok | phenom | 1 | cache |
 | Johns Hopkins APL | ✅ ok | jibe | 31 | cache |
-| MIT Lincoln Laboratory | ✅ ok | successfactors | 25 | cache |
+| MIT Lincoln Laboratory | ✅ ok | successfactors | 26 | cache |
 
 ## Semiconductor equipment
 

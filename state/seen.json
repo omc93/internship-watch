@@ -1317,8 +1317,8 @@
  "Abbott": {
   "fp": [
    3,
-   "workday",
-   "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+   "phenom",
+   "https://www.jobs.abbott/us/en"
   ],
   "ids": {
    "31155780": {
@@ -1357,11 +1357,12 @@
      "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "United States - Illinois - Waukegan",
-    "posted_raw": "Posted 30+ Days Ago",
-    "title": "2027 IT Intern",
-    "updated_seen": "2026-11-22"
+    "last_seen": "2026-11-28",
+    "loc": "Waukegan, Illinois, United States",
+    "posted_first": "2026-10-09",
+    "posted_raw": "2026-10-09T00:00:00.000+0000",
+    "title": "2027 Business Technology Services Intern",
+    "updated_seen": "2026-11-28"
    },
    "31160319": {
     "aliases": [
@@ -1396,9 +1397,10 @@
      "/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "3 Locations",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Abbott Park, Illinois, United States",
+    "posted_first": "2026-10-05",
+    "posted_raw": "2026-10-05T00:00:00.000+0000",
     "title": "2027 Abbott MBA Internship"
    },
    "31160750": {
@@ -1406,9 +1408,10 @@
      "/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "United States - Illinois - Abbott Park",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Abbott Park, Illinois, United States",
+    "posted_first": "2026-09-03",
+    "posted_raw": "2026-09-03T00:00:00.000+0000",
     "title": "CRM Clinical Field Intern - Summer 2027"
    },
    "31161074": {
@@ -1416,9 +1419,10 @@
      "/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "5 Locations",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "St. Paul, Minnesota, United States",
+    "posted_first": "2026-09-03",
+    "posted_raw": "2026-09-03T00:00:00.000+0000",
     "title": "2027 Winter Engineering Co-Op"
    },
    "31161558": {
@@ -1426,9 +1430,10 @@
      "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "United States > Madison : 1 Exact Lane",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Madison, Wisconsin, United States",
+    "posted_first": "2026-11-19",
+    "posted_raw": "2026-11-19T00:00:00.000+0000",
     "title": "2027 Sales Cancer Diagnostics Intern"
    },
    "31161561": {
@@ -1445,9 +1450,10 @@
      "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "United States > Madison : 1 Exact Lane",
-    "posted_raw": "Posted 8 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "Madison, Wisconsin, United States",
+    "posted_first": "2026-11-19",
+    "posted_raw": "2026-11-19T00:00:00.000+0000",
     "title": "2027 IT Cancer Diagnostics Intern"
    },
    "31162236": {
@@ -1473,9 +1479,10 @@
      "/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "2 Locations",
-    "posted_raw": "Posted 25 Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "La Jolla, California, United States",
+    "posted_first": "2026-11-02",
+    "posted_raw": "2026-11-02T00:00:00.000+0000",
     "title": "2027 R&D Cancer Diagnostics Intern"
    },
    "31163025": {
@@ -1483,9 +1490,10 @@
      "/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025"
     ],
     "first_seen": "2026-11-11 04:32 UTC",
-    "last_seen": "2026-11-27",
-    "loc": "United States - Minnesota - St. Paul",
-    "posted_raw": "Posted 30+ Days Ago",
+    "last_seen": "2026-11-28",
+    "loc": "St. Paul, Minnesota, United States",
+    "posted_first": "2026-09-30",
+    "posted_raw": "2026-09-30T00:00:00.000+0000",
     "title": "2027 Winter Graduate Co-op - Clinical Affairs AI/ML"
    },
    "31163473": {
@@ -1858,7 +1866,7 @@
     "last_seen": "2026-11-28",
     "loc": "Simi Valley, CA",
     "posted_first": "2026-11-23",
-    "posted_raw": "Posted 4 Days Ago",
+    "posted_raw": "Posted 5 Days Ago",
     "title": "Product Engineering Intern"
    },
    "8828": {
@@ -2148,7 +2156,7 @@
     "first_seen": "2026-11-25 20:45 UTC",
     "last_seen": "2026-11-28",
     "loc": "Sunrise, FL",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Cyber Internship"
    }
   },
@@ -7884,7 +7892,7 @@
     "last_seen": "2026-11-28",
     "loc": "Fremont, California",
     "posted_first": "2026-11-24",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Manufacturing Engineer Interns – Tool Installation & Equipment Ramp"
    },
    "JR-25381": {
@@ -7895,7 +7903,7 @@
     "last_seen": "2026-11-28",
     "loc": "Fremont, California",
     "posted_first": "2026-11-24",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Manufacturing Engineer Interns – Tool Installation & Equipment Ramp"
    },
    "JR-25382": {
@@ -7905,7 +7913,7 @@
     "first_seen": "2026-11-24 19:24 UTC",
     "last_seen": "2026-11-28",
     "loc": "Fremont, California",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Manufacturing Engineer Interns – Tool Installation & Equipment Ramp"
    },
    "JR-25383": {
@@ -7915,7 +7923,7 @@
     "first_seen": "2026-11-18 22:08 UTC",
     "last_seen": "2026-11-28",
     "loc": "Fremont, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Manufacturing Engineer Interns – Tool Installation & Equipment Ramp"
    },
    "JR-25385": {
@@ -7945,7 +7953,7 @@
     "first_seen": "2026-11-18 22:08 UTC",
     "last_seen": "2026-11-28",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Energy Transition Solutions Intern"
    },
    "JR-25415": {
@@ -7955,7 +7963,7 @@
     "first_seen": "2026-11-19 20:31 UTC",
     "last_seen": "2026-11-28",
     "loc": "Newark, Delaware",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Manufacturing Product Engineering Intern"
    },
    "JR-25416": {
@@ -7965,7 +7973,7 @@
     "first_seen": "2026-11-24 17:38 UTC",
     "last_seen": "2026-11-28",
     "loc": "Newark, Delaware",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "JR-25456": {
@@ -7975,7 +7983,7 @@
     "first_seen": "2026-11-18 23:00 UTC",
     "last_seen": "2026-11-28",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Energy Transition Solutions Intern"
    },
    "JR-25464": {
@@ -7985,7 +7993,7 @@
     "first_seen": "2026-11-18 23:00 UTC",
     "last_seen": "2026-11-28",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Commercial Business Intelligence Intern"
    },
    "JR-25465": {
@@ -7995,7 +8003,7 @@
     "first_seen": "2026-11-18 23:00 UTC",
     "last_seen": "2026-11-28",
     "loc": "San Jose, California",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Sales Operations Intern"
    },
    "JR-25623": {
@@ -8006,7 +8014,7 @@
     "last_seen": "2026-11-28",
     "loc": "San Jose, California",
     "posted_first": "2026-11-24",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "JR-25645": {
@@ -8017,7 +8025,7 @@
     "last_seen": "2026-11-28",
     "loc": "Fremont, California",
     "posted_first": "2026-11-24",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Equipment Engineering Intern"
    }
   },
@@ -8700,8 +8708,8 @@
  "Boeing": {
   "fp": [
    3,
-   "radancy",
-   "https://jobs.boeing.com"
+   "workday",
+   "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS"
   ],
   "ids": {
    "JR2026521717": {
@@ -11122,8 +11130,8 @@
  "Brunswick": {
   "fp": [
    3,
-   "ashby",
-   "brunswick"
+   "workday",
+   "https://brunswick.wd1.myworkdayjobs.com/search"
   ],
   "ids": {
    "JR-050979": {
@@ -12685,8 +12693,8 @@
  "Carrier": {
   "fp": [
    3,
-   "workday",
-   "https://carrier.wd5.myworkdayjobs.com/jobs"
+   "radancy",
+   "https://jobs.carrier.com"
   ],
   "ids": {
    "30217242": {
@@ -14224,6 +14232,24 @@
     "last_seen": "2026-11-13",
     "title": "Human Resources Intern"
    },
+   "1425162800": {
+    "first_seen": "2026-11-28 08:48 UTC",
+    "last_seen": "2026-11-28",
+    "posted_first": "2026-11-28",
+    "title": "Controls Intern - Summer 2027"
+   },
+   "1425735900": {
+    "first_seen": "2026-11-28 08:48 UTC",
+    "last_seen": "2026-11-28",
+    "posted_first": "2026-11-28",
+    "title": "Quality Engineering Intern - Summer 2027"
+   },
+   "1425737000": {
+    "first_seen": "2026-11-28 08:48 UTC",
+    "last_seen": "2026-11-28",
+    "posted_first": "2026-11-28",
+    "title": "Melting/Forming Process Engineering Intern - Summer 2027"
+   },
    "1431020900": {
     "first_seen": "2026-11-14 11:05 UTC",
     "last_seen": "2026-11-17",
@@ -14605,7 +14631,7 @@
   "fp": [
    3,
    "workday",
-   "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers"
+   "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers"
   ],
   "ids": {
    "REQ_50178": {
@@ -16972,7 +16998,7 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-28",
     "loc": "Bedford, MA",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "New Product Introduction Intern"
    },
    "REQ-15834": {
@@ -17041,7 +17067,7 @@
     "first_seen": "2026-11-10 18:53 UTC",
     "last_seen": "2026-11-28",
     "loc": "Billerica, MA",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Filtration Portfolio Automation Intern"
    },
    "REQ-15841": {
@@ -19332,8 +19358,8 @@
  "GE HealthCare": {
   "fp": [
    3,
-   "workday",
-   "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite"
+   "phenom",
+   "https://careers.gehealthcare.com/global/en"
   ],
   "ids": {
    "R4040613": {
@@ -19392,7 +19418,9 @@
    },
    "R4046982": {
     "first_seen": "2026-11-11 04:51 UTC",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
+    "loc": "Waukesha, Wisconsin, United States of America",
+    "posted_first": "2026-10-06",
     "posted_raw": "2026-10-06T00:00:00.000+0000",
     "title": "Electrical Engineering Technician Co-op"
    },
@@ -22473,7 +22501,7 @@
     "first_seen": "2026-11-19 18:04 UTC",
     "last_seen": "2026-11-28",
     "loc": "Flagstaff, Arizona, USA",
-    "posted_raw": "Posted 8 Days Ago",
+    "posted_raw": "Posted 9 Days Ago",
     "title": "Electrical Engineering Intern"
    },
    "R0023554": {
@@ -25234,7 +25262,7 @@
   "fp": [
    3,
    "workday",
-   "https://illumina.wd1.myworkdayjobs.com/illumina-careers"
+   "https://illumina.wd1.myworkdayjobs.com/illumina-universityrecruiting"
   ],
   "ids": {},
   "seeded": true
@@ -28502,7 +28530,7 @@
     "first_seen": "2026-11-24 19:51 UTC",
     "last_seen": "2026-11-28",
     "loc": "Phoenix, AZ",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Service Support Intern"
    },
    "2643395": {
@@ -32330,7 +32358,7 @@
     "first_seen": "2026-11-18 17:58 UTC",
     "last_seen": "2026-11-28",
     "loc": "Fort Wayne, Indiana",
-    "posted_raw": "Posted 9 Days Ago",
+    "posted_raw": "Posted 10 Days Ago",
     "title": "Engineering Internship – General Interest"
    }
   },
@@ -45347,7 +45375,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-28",
     "loc": "Seattle, WA",
-    "posted_raw": "Posted 24 Days Ago",
+    "posted_raw": "Posted 25 Days Ago",
     "title": "User Experience Intern"
    },
    "R2888": {
@@ -46871,7 +46899,7 @@
     "last_seen": "2026-11-28",
     "loc": "Portage, Michigan",
     "posted_first": "2026-11-25",
-    "posted_raw": "Posted 2 Days Ago",
+    "posted_raw": "Posted 3 Days Ago",
     "title": "Intern, Mechanical Engineering"
    },
    "R572897": {
@@ -47717,7 +47745,7 @@
     "first_seen": "2026-11-24 22:43 UTC",
     "last_seen": "2026-11-28",
     "loc": "US-OH Grove City V01",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Intern Painter I"
    }
   },
@@ -51072,7 +51100,7 @@
     "first_seen": "2026-11-11 04:32 UTC",
     "last_seen": "2026-11-28",
     "loc": "Martos",
-    "posted_raw": "Posted Today",
+    "posted_raw": "Posted Yesterday",
     "title": "Production Supervisor Internship"
    },
    "REQ2026071136": {
@@ -51153,7 +51181,7 @@
     "last_seen": "2026-11-28",
     "loc": "Martos",
     "posted_first": "2026-11-26",
-    "posted_raw": "Posted Yesterday",
+    "posted_raw": "Posted 2 Days Ago",
     "title": "Norms & Regulation Engineer Internship"
    },
    "REQ2026078940": {
