@@ -33,6 +33,7 @@ STATE_DIR = os.path.join(ROOT, "state")
 SEEN_FILE = os.path.join(STATE_DIR, "seen.json")
 RESOLVED_FILE = os.path.join(STATE_DIR, "resolved.json")
 STATUS_FILE = os.path.join(ROOT, "STATUS.md")
+ROWS_FILE = os.path.join(STATE_DIR, "status_rows.json")
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
@@ -191,6 +192,10 @@ def _workday_call(url, payload=None):
         lock = _WD_LOCKS.setdefault(host, threading.Semaphore(1))
     maintenance = False
     for wait in (0, 4, 9, 18, 30, 45):
+        # A machine whose address Workday refuses almost always will not recover within
+        # this run; stop early and leave those companies to the fresh-machine retry pass.
+        if _WD["requests"] >= 40 and _WD["limited"] > 0.85 * _WD["requests"]:
+            _WD["blocked"] = True
         if _WD["blocked"] or time.time() > _WD["deadline"]:
             _WD["blocked"] = True
             raise WorkdayBlocked()
@@ -368,7 +373,15 @@ def fetch_phenom(base):
     for kw in ("intern", "internship", "co-op"):
         start, total = 0, None
         while start < 600:
-            page, _ = http(f"{base}/search-results?keywords={kw}&from={start}&s=1", as_json=False)
+            url = f"{base}/search-results?keywords={kw}&from={start}&s=1"
+            try:
+                page, _ = http(url, as_json=False)
+            except urllib.error.HTTPError as e:
+                if e.code != 429:
+                    raise
+                time.sleep(20)                         # rate-limited: one patient retry
+                page, _ = http(url, as_json=False)
+            time.sleep(0.5)
             i = page.find('"eagerLoadRefineSearch"')
             if i < 0:
                 if start == 0 and kw == "intern":
@@ -1052,6 +1065,11 @@ def check(company, resolved):
         except WorkdayBlocked:
             return {"status": "blocked", "ats": list(cand), "jobs": [],
                     "note": "Workday is rate-limiting this run; will retry next run"}
+        except urllib.error.HTTPError as e:
+            if e.code == 429:        # this site is rate-limiting this machine: not broken
+                return {"status": "blocked", "ats": list(cand), "jobs": [],
+                        "note": f"{cand[0]} is rate-limiting this run; will retry from a fresh machine"}
+            errors.append(f"{cand[0]} failed (HTTPError: {str(e)[:80]})")
         except Exception as e:
             errors.append(f"{cand[0]} failed ({type(e).__name__}: {str(e)[:80]})")
     last = resolved.get(name, {}).get("last_discovery", 0)
@@ -1149,6 +1167,15 @@ def main():
     seen = load(SEEN_FILE, {})
     resolved = load(RESOLVED_FILE, {})
     companies = [c for c in COMPANIES if not only or only in c["name"].lower()]
+    # --retry-blocked: a second pass, on a fresh machine (new network address), over only
+    # the companies Workday refused on the previous pass.
+    retry = "--retry-blocked" in args
+    if retry:
+        companies = [c for c in companies if resolved.get(c["name"], {}).get("status") == "blocked"]
+        print(f"Retrying {len(companies)} companies Workday refused last pass.")
+        if not companies:
+            open(os.path.join(ROOT, ".blocked_count"), "w").write("0")
+            return
     # Companies that have gone longest without a successful read go first, so when Workday's
     # rate limit cuts a run short it is not always the same companies that miss out.
     companies.sort(key=lambda c: resolved.get(c["name"], {}).get("last_ok", 0))
@@ -1310,6 +1337,7 @@ def main():
                + ". Details are in STATUS.md. Ask Claude to look at it.", tags="warning", priority="low")
     # If Workday refused a large share of companies, ask the workflow for an early re-run.
     wd_total = sum(1 for _, r in results if (r.get("ats") or [""])[0] == "workday")
+    # "blocked" below means rate-limited on this machine, by Workday or another site
     wd_blocked = sum(1 for _, r in results if r["status"] == "blocked")
     blocked_file = os.path.join(ROOT, ".workday_blocked")
     if wd_total and wd_blocked > 0.3 * wd_total:
@@ -1358,6 +1386,11 @@ def main():
                     "decision_reasons": reasons}, ensure_ascii=False) + "\n")
     save(SEEN_FILE, seen)
     save(RESOLVED_FILE, resolved)
+    open(os.path.join(ROOT, ".blocked_count"), "w").write(str(wd_blocked))
+    if retry or only:        # partial pass: keep the other companies' rows from the last full pass
+        fresh = {r[1]: r for r in rows}
+        rows = [tuple(fresh.get(r[1], r)) for r in load(ROWS_FILE, [])] or rows
+    save(ROWS_FILE, rows)
     write_status(rows, alerts, now)
     ok = sum(1 for r in rows if r[2] == "ok")
     print(f"\n{ok}/{len(rows)} companies checked OK, {len(alerts)} alert(s), {len(review)} to review, "
@@ -1368,7 +1401,7 @@ def write_status(rows, alerts, now):
     waiting = sum(1 for r in rows if r[2] == "blocked")
     lines = ["# Internship watch status\n",
              f"Working: {sum(1 for r in rows if r[2] == 'ok')} of {len(rows)} companies"
-             + (f" ({waiting} more waiting out a Workday rate limit)" if waiting else "") + "\n"]
+             + (f" ({waiting} more waiting out a rate limit)" if waiting else "") + "\n"]
     if alerts:
         lines.append("\n## New this run\n")
         for name, p in alerts:

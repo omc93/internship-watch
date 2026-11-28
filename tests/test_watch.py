@@ -158,7 +158,7 @@ def run_flow(test, http_fake, companies, runs=1, mode="today"):
     test.addCleanup(shutil.rmtree, work, True)
     sent = []
     saved = {k: getattr(watch, k) for k in ("http", "notify", "COMPANIES", "ROOT", "STATE_DIR", "SEEN_FILE",
-                                             "RESOLVED_FILE", "STATUS_FILE", "ALERTS_FILE", "REVIEW_FILE",
+                                             "RESOLVED_FILE", "STATUS_FILE", "ALERTS_FILE", "REVIEW_FILE", "ROWS_FILE",
                                              "AUDIT_FILE", "ALERT_MODE")}
     test.addCleanup(lambda: [setattr(watch, k, v) for k, v in saved.items()])
     watch.http = http_fake
@@ -168,6 +168,7 @@ def run_flow(test, http_fake, companies, runs=1, mode="today"):
     watch.SEEN_FILE = os.path.join(watch.STATE_DIR, "seen.json")
     watch.RESOLVED_FILE = os.path.join(watch.STATE_DIR, "resolved.json")
     watch.STATUS_FILE = os.path.join(work, "STATUS.md")
+    watch.ROWS_FILE = os.path.join(watch.STATE_DIR, "status_rows.json")
     watch.ALERTS_FILE = os.path.join(work, "ALERTS.md")
     watch.REVIEW_FILE = os.path.join(work, "REVIEW.md")
     watch.AUDIT_FILE = os.path.join(watch.STATE_DIR, "alerts.jsonl")
@@ -285,6 +286,36 @@ class Flow(unittest.TestCase):
             res = json.load(f)
         self.assertTrue(all(v["status"] == "blocked" and v.get("fails", 0) == 0 for v in res.values()))
         self.assertTrue(os.path.exists(os.path.join(work, ".workday_blocked")))
+
+    def test_retry_pass_reads_only_refused_companies_and_keeps_status(self):
+        a = self.job("JR1001", "Internship - Mechanical Engineering - Spring 2027", "/job/TX/Mech_JR1001")
+        ok_site = self.workday([[a]])
+        state = {"limited": True}
+
+        def fake(url, data=None, headers=None, method=None, as_json=True):
+            if "acme" in url and state["limited"]:
+                raise urllib.error.HTTPError(url, 429, "Too Many Requests", {}, None)
+            if "acme" in url:
+                return ok_site(url, data, headers, method, as_json)
+            if url.endswith("/boards/other/jobs"):
+                return {"jobs": []}
+            not_found(url)
+        other = dict(name="Other Co", careers="x", group="g", ats=("greenhouse", "other"))
+        sent, work = run_flow(self, fake, [WD, other])
+        saved = (watch.WD_TIME_BUDGET, dict(watch._WD))
+        self.addCleanup(lambda: (setattr(watch, "WD_TIME_BUDGET", saved[0]), watch._WD.update(saved[1])))
+        watch.WD_TIME_BUDGET = 0
+        watch._WD.update(blocked=False, deadline=None)
+        watch.main()
+        self.assertEqual(open(os.path.join(work, ".blocked_count")).read(), "1")
+        state["limited"] = False
+        watch.WD_TIME_BUDGET = 600
+        watch._WD.update(blocked=False, deadline=None)
+        sys.argv = ["watch.py", "--retry-blocked"]
+        watch.main()
+        status = open(watch.STATUS_FILE).read()
+        self.assertIn("Working: 2 of 2 companies", status)          # Other Co kept from the full pass
+        self.assertEqual(open(os.path.join(work, ".blocked_count")).read(), "0")
 
     def test_workday_refusal_is_retried_and_then_succeeds(self):
         n = {"calls": 0}

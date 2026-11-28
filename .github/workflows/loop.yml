@@ -1,16 +1,16 @@
 name: Internship watch (continuous)
 
-# GitHub's scheduler only fired a few times a day, so this workflow keeps itself going:
-# each run does one full check, waits 35 minutes, then starts the next run. Every run
-# gets a fresh machine and network address, which matters because Workday limits how
-# much one address may ask. If Workday limited this run, the next one starts after
-# 5 minutes instead (at most 3 quick retries in a row). The scheduled "Internship
-# watch" workflow restarts this one if it ever stops.
+# GitHub's scheduler only fired a few times a day, so this workflow keeps itself going.
+# Each run: one full check; then, if Workday refused some companies, up to two more
+# passes over just those companies, each on a fresh machine (Workday's limit depends
+# on the machine's network address); then it waits so that a cycle takes about 35
+# minutes, and starts the next run. The scheduled "Internship watch" workflow restarts
+# this one if it ever stops.
 on:
   workflow_dispatch:
     inputs:
       streak:
-        description: "Quick retries already used (set automatically)"
+        description: "Unused (kept so older restarts still work)"
         default: "0"
 
 permissions:
@@ -21,43 +21,82 @@ concurrency:
   group: internship-loop
   cancel-in-progress: false
 
+env:
+  NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+  HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
+  ALERT_MODE: ${{ vars.ALERT_MODE }}
+
 jobs:
-  loop:
+  check:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 45
+    outputs:
+      blocked: ${{ steps.run.outputs.blocked }}
+      started: ${{ steps.run.outputs.started }}
     steps:
       - uses: actions/checkout@v4
-
-      - name: Check companies
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          HANDLED_IDS: ${{ secrets.HANDLED_IDS }}
-          ALERT_MODE: ${{ vars.ALERT_MODE }}
+        with:
+          ref: main
+      - name: Check all companies
+        id: run
         run: |
-          git config user.name "internship-watch"
-          git config user.email "internship-watch@users.noreply.github.com"
+          echo "started=$(date +%s)" >> "$GITHUB_OUTPUT"
           python3 watch.py || echo "This check failed."
-          date +%s > state/last_run
-          git add state STATUS.md
-          git add ALERTS.md REVIEW.md 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -q -m "Update seen postings"
-            git push -q || (git pull -q --rebase origin main && git push -q) || echo "Push failed; next run will retry."
-          fi
+          echo "blocked=$(cat .blocked_count 2>/dev/null || echo 0)" >> "$GITHUB_OUTPUT"
+          bash tools/commit_state.sh
 
-      - name: Wait, then start the next check
-        if: ${{ !cancelled() }}
+  retry1:
+    needs: check
+    if: ${{ !cancelled() && needs.check.outputs.blocked != '0' && needs.check.outputs.blocked != '' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    outputs:
+      blocked: ${{ steps.run.outputs.blocked }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Retry Workday-limited companies from a fresh machine
+        id: run
+        run: |
+          python3 watch.py --retry-blocked || echo "This retry failed."
+          echo "blocked=$(cat .blocked_count 2>/dev/null || echo 0)" >> "$GITHUB_OUTPUT"
+          bash tools/commit_state.sh
+
+  retry2:
+    needs: retry1
+    if: ${{ !cancelled() && needs.retry1.result == 'success' && needs.retry1.outputs.blocked != '0' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Retry Workday-limited companies from another fresh machine
+        run: |
+          python3 watch.py --retry-blocked || echo "This retry failed."
+          bash tools/commit_state.sh
+
+  next:
+    needs: [check, retry1, retry2]
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Wait, then start the next cycle
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-          STREAK: ${{ inputs.streak }}
+          STARTED: ${{ needs.check.outputs.started }}
         run: |
-          streak=${STREAK:-0}
-          if [ -f .workday_blocked ] && [ "$streak" -lt 3 ]; then
-            echo "Workday limited this run; retrying from a fresh machine in 5 minutes."
-            wait=300; next=$((streak + 1))
-          else
-            wait=2100; next=0
-          fi
+          started=${STARTED:-$(date +%s)}
+          wait=$(( 2100 - ($(date +%s) - started) ))
+          [ "$wait" -lt 120 ] && wait=120
+          echo "Next cycle in $wait seconds."
           sleep "$wait"
-          gh workflow run loop.yml --ref main -f streak="$next"
+          for i in 1 2 3 4 5 6; do
+            gh workflow run loop.yml --ref main && exit 0
+            echo "Restart failed (attempt $i); trying again in 30 seconds."
+            sleep 30
+          done
+          exit 1
