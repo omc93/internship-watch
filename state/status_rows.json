@@ -1685,20 +1685,20 @@
  [
   "Industrial equipment & manufacturing",
   "GE Appliances",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",
   "Samsung (US)",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -4358,20 +4358,20 @@
  [
   "Robotics & autonomous vehicles",
   "Sonos",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
   "YETI",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",

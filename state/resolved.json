@@ -1693,9 +1693,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795250614.820717,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795885977,
+  "note": "cache",
+  "status": "ok"
  },
  "GE HealthCare": {
   "ats": [
@@ -3727,9 +3727,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795252740.878619,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795885977,
+  "note": "config",
+  "status": "ok"
  },
  "Samsung Austin Semiconductor": {
   "fails": 1,
@@ -3996,9 +3996,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3382828,
-  "last_ok": 1795883907,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795885977,
+  "note": "config",
+  "status": "ok"
  },
  "Southwest Airlines": {
   "ats": [
@@ -4930,9 +4930,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.5480127,
-  "last_ok": 1795883907,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795885977,
+  "note": "config",
+  "status": "ok"
  },
  "Yamaha Motor USA": {
   "fails": 509,

@@ -1,6 +1,6 @@
 # Internship watch status
 
-Working: 348 of 535 companies (11 more waiting out a rate limit)
+Working: 352 of 535 companies (7 more waiting out a rate limit)
 
 
 ## Aerospace, space & defense
@@ -254,8 +254,8 @@ Working: 348 of 535 companies (11 more waiting out a rate limit)
 |---|---|---|---|---|
 | Allegion | ✅ ok | workday | 1 | cache |
 | Jabil | ✅ ok | workday | 0 | cache |
-| GE Appliances | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| Samsung (US) | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| GE Appliances | ✅ ok | workday | 0 | cache |
+| Samsung (US) | ✅ ok | workday | 0 | config |
 
 ## Aerospace, space & defense
 
@@ -586,8 +586,8 @@ Working: 348 of 535 companies (11 more waiting out a rate limit)
 | Illumina | ✅ ok | workday | 0 | config |
 | Silicon Labs | ✅ ok | workday | 2 | config |
 | HP | ✅ ok | workday | 1 | config |
-| Sonos | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
-| YETI | ⏳ blocked | workday |  | Workday is rate-limiting this run; will retry next run |
+| Sonos | ✅ ok | workday | 0 | config |
+| YETI | ✅ ok | workday | 0 | config |
 | Trek Bicycle | ✅ ok | workday | 0 | cache |
 | Fox Factory | ✅ ok | workday | 0 | cache |
 | Specialized | ✅ ok | workday | 0 | cache |
