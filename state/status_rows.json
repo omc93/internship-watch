@@ -1,0 +1,4817 @@
+[
+ [
+  "Aerospace, space & defense",
+  "Archer Aviation",
+  "skipped",
+  "",
+  0,
+  0,
+  "job site not supported yet"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Embraer",
+  "skipped",
+  "",
+  0,
+  0,
+  "no US job site found"
+ ],
+ [
+  "Aerospace, space & defense",
+  "General Atomics",
+  "skipped",
+  "",
+  0,
+  0,
+  "defense; uses BrassRing, dropped"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Joby Aviation",
+  "skipped",
+  "",
+  0,
+  0,
+  "uses iCIMS, which blocks automated checks"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Lockheed Martin",
+  "skipped",
+  "",
+  0,
+  0,
+  "defense; site blocks automated checks"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Redwire",
+  "skipped",
+  "",
+  0,
+  0,
+  "defense; job site not found, dropped"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Safran",
+  "skipped",
+  "",
+  0,
+  0,
+  "site blocks automated checks"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Teledyne",
+  "skipped",
+  "",
+  0,
+  0,
+  "defense; job site not found, dropped"
+ ],
+ [
+  "Aerospace, space & defense",
+  "York Space Systems",
+  "skipped",
+  "",
+  0,
+  0,
+  "defense; uses Paycor, dropped"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Boom Supersonic",
+  "skipped",
+  "",
+  0,
+  0,
+  "job board isn't publicly readable"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Intuitive Machines",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Supernal",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Cirrus Aircraft",
+  "skipped",
+  "",
+  0,
+  0,
+  "uses iCIMS, which blocks automated checks"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Honda Aircraft",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Virgin Galactic",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Radian Aerospace",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "American Airlines",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Delta Air Lines",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Lanteris Space Systems",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astrolab",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Agile Space Industries",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "X-Bow Systems",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "ZeroAvia",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Ducommun",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "HEICO",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Kaman",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Kratos",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "GKN Aerospace",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Piper Aircraft",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Garmin",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Jacobs",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Phase Four",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Argo Space",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Aerospace Corporation",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Honeybee Robotics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Umbra",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Starlab Space",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "AstroForge",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Phantom Space",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Eve Air Mobility",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Iridium",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Mercury Systems",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Arconic",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Hartzell Propeller",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "MTU Aero Engines North America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Elbit America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Matternet",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Flytrex",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Starpath",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "ThinkOrbital",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Aurora",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "FANUC",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "KUKA",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Rockwell Automation",
+  "skipped",
+  "",
+  0,
+  0,
+  "site blocks automated checks"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Dusty Robotics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "greenhouse:dustyrobotics HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Starship Technologies",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Skild AI",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "iRobot",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Gatik",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Seegrid",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Vecna Robotics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Vicarious Surgical",
+  "unresolved",
+  "",
+  0,
+  0,
+  "greenhouse:vicarioussurgical HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Moon Surgical",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "NXP",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Infineon",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "GoPro",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "SRAM",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Bose",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Forterra",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Persona AI",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Chef Robotics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Covariant",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Ghost Robotics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Monarch Tractor",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Burro",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Canvas",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Synchron",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Zebra Technologies",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Omron",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Yaskawa Motoman",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Honda Research Institute",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Sarcos / Palladyne AI",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Cummins",
+  "skipped",
+  "",
+  0,
+  0,
+  "job site not found"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hitachi Construction Machinery",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Mercedes-Benz",
+  "skipped",
+  "",
+  0,
+  0,
+  "global site; US co-ops not separately listed"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Stellar Industries",
+  "skipped",
+  "",
+  0,
+  0,
+  "uses Paylocity, not supported yet"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Tesla",
+  "skipped",
+  "",
+  0,
+  0,
+  "Tesla's site blocks automated checks"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Volkswagen",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Polaris",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hyundai Motor Group (US)",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Kia Georgia",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Subaru of Indiana",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Mazda Toyota Manufacturing",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Continental",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Denso",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Haas Automation",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Kubota",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Doosan Bobcat",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Thor Industries",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Winnebago Industries",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Yamaha Motor USA",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Autoliv",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Forvia",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Visteon",
+  "unresolved",
+  "",
+  0,
+  0,
+  "ukg:https://recruiting.ultipro.com/VIS1004VIST/JobBoard/6ea71e1c-667f-4ddc-9024-5966baaa3256 HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Mack Trucks",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Bollinger Motors",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Polestar",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Porsche Cars North America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Zero Motorcycles",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "LiveWire",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Kawasaki Motors Manufacturing",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "VinFast US",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Aisin",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Toyota Boshoku America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "JTEKT North America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hitachi Astemo Americas",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "MAHLE",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hyundai Mobis",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Sensata",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Littelfuse",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Amphenol",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Linamar",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Martinrea",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "LG Energy Solution Michigan",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Ultium Cells",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "BlueOval SK",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Lyten",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Ascend Elements",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "EVgo",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Roush",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hendrick Motorsports",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Team Penske",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Joe Gibbs Racing",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Club Car",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Wabash",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "New Flyer / NFI",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Accelera by Cummins",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Pirelli North America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hankook Tire America",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Benchmark Electronics",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Danfoss",
+  "unresolved",
+  "",
+  0,
+  0,
+  "phenom?:https://jobs.danfoss.com/search/ ValueError; successfactors?:https://jobs.danfoss.com/search/ ValueError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Grundfos",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: TimeoutError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Molex",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: TimeoutError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Parker Hannifin",
+  "skipped",
+  "",
+  0,
+  0,
+  "job site blocks automated checks"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Sanmina",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Siemens",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Sulzer",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Weatherford",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "SLB",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Lennox",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Kohler",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: URLError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Rheem",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Siemens Energy",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Toro",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Lincoln Electric",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Kennametal",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Nordson",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Dover",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "IDEX",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Regal Rexnord",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Enphase",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Fluence",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "NuScale",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Type One Energy",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Fluor",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Burns & McDonnell",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Quanta Services",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "NRG",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Solar Turbines",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Sandia National Labs",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Los Alamos National Lab",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page: HTTPError"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Southwest Research Institute",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Semiconductor equipment",
+  "ASML",
+  "unresolved",
+  "",
+  0,
+  0,
+  "no job system found on careers page"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astrobotic",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page led to Voyager Technologies's job site, not Astrobotic's"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Modine",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page led to Gentherm's job site, not Modine's"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "REV Group",
+  "unresolved",
+  "",
+  0,
+  0,
+  "careers page led to Terex's job site, not REV Group's"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Trane Technologies",
+  "error",
+  "",
+  0,
+  0,
+  "phenom failed (ValueError: no Phenom job data on page) | careers page: HTTPError"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Baxter",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Goodyear",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Carrier",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "3M",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "YETI",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Logitech",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Bridgestone Americas",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "GE Vernova",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Intel",
+  "ok",
+  "workday",
+  20,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Johnson Controls",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Leidos",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "NVIDIA",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "BorgWarner",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Stoneridge",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Dyson",
+  "ok",
+  "workday",
+  40,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Edwards Lifesciences",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Cognex",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Nissan",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Michelin North America",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Shell USA",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Semiconductor equipment",
+  "KLA",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "AeroVironment",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Airbus",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Anduril",
+  "ok",
+  "greenhouse",
+  2598,
+  23,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astranis",
+  "ok",
+  "greenhouse",
+  163,
+  26,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astro Mechanica",
+  "ok",
+  "ashby",
+  42,
+  5,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Axiom Space",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "BAE Systems",
+  "ok",
+  "phenom",
+  666,
+  12,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Bell Flight",
+  "ok",
+  "taleo",
+  3,
+  1,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Blue Origin",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Boeing",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Bombardier",
+  "ok",
+  "successfactors",
+  273,
+  40,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Castelion",
+  "ok",
+  "html",
+  271,
+  8,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "CesiumAstro",
+  "ok",
+  "lever",
+  379,
+  15,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Crane Aerospace & Electronics",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Curtiss-Wright",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Firefly Aerospace",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "GE Aerospace",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Gulfstream Aerospace",
+  "ok",
+  "sfxml",
+  350,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Hermeus",
+  "ok",
+  "lever",
+  80,
+  14,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Honeywell",
+  "ok",
+  "oracle",
+  364,
+  13,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Howmet Aerospace",
+  "ok",
+  "oracle",
+  276,
+  14,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Impulse Space",
+  "ok",
+  "ashby",
+  2,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "L3Harris",
+  "ok",
+  "radancy",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Loft Orbital",
+  "ok",
+  "lever",
+  84,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Moog",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Northrop Grumman",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Relativity Space",
+  "ok",
+  "greenhouse",
+  405,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Rocket Lab",
+  "ok",
+  "greenhouse",
+  556,
+  29,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "RTX (Collins, Pratt & Whitney, Raytheon)",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Shield AI",
+  "ok",
+  "greenhouse",
+  23,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Sierra Nevada Corporation",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Sierra Space",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Skydio",
+  "ok",
+  "ashby",
+  186,
+  10,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "SpaceX",
+  "ok",
+  "greenhouse",
+  2891,
+  8,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Stoke Space",
+  "ok",
+  "greenhouse",
+  63,
+  1,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Stratolaunch",
+  "ok",
+  "greenhouse",
+  87,
+  3,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Textron (Textron Aviation, Bell, university hiring)",
+  "ok",
+  "taleo",
+  39,
+  16,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Triumph Group",
+  "ok",
+  "successfactors",
+  32,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "True Anomaly",
+  "ok",
+  "greenhouse",
+  215,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "United Launch Alliance",
+  "ok",
+  "successfactors",
+  151,
+  1,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Vast Space",
+  "ok",
+  "greenhouse",
+  205,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Wisk Aero",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Woodward",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Zipline",
+  "ok",
+  "greenhouse",
+  317,
+  8,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "BETA Technologies",
+  "ok",
+  "greenhouse",
+  131,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Varda Space",
+  "ok",
+  "greenhouse",
+  135,
+  15,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Apex Space",
+  "ok",
+  "ashby",
+  141,
+  3,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "K2 Space",
+  "ok",
+  "greenhouse",
+  248,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Venus Aerospace",
+  "ok",
+  "lever",
+  26,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Ursa Major",
+  "ok",
+  "greenhouse",
+  135,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Reliable Robotics",
+  "ok",
+  "ashby",
+  75,
+  14,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Rolls-Royce",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Spirit AeroSystems",
+  "ok",
+  "jibe",
+  4,
+  2,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Dassault Falcon Jet",
+  "ok",
+  "ukg",
+  53,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Planet Labs",
+  "ok",
+  "greenhouse",
+  102,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Spire Global",
+  "ok",
+  "greenhouse",
+  23,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Muon Space",
+  "ok",
+  "greenhouse",
+  129,
+  8,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Albedo",
+  "ok",
+  "greenhouse",
+  11,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Starfish Space",
+  "ok",
+  "ashby",
+  7,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Inversion Space",
+  "ok",
+  "greenhouse",
+  53,
+  4,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Northwood Space",
+  "ok",
+  "ashby",
+  64,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Portal Space Systems",
+  "ok",
+  "greenhouse",
+  25,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Outpost Space",
+  "ok",
+  "ashby",
+  14,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Electra.aero",
+  "ok",
+  "greenhouse",
+  28,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "JetZero",
+  "ok",
+  "greenhouse",
+  0,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Natilus",
+  "ok",
+  "workable",
+  10,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Momentus",
+  "ok",
+  "greenhouse",
+  12,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Southwest Airlines",
+  "ok",
+  "phenom",
+  15,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "United Airlines",
+  "ok",
+  "phenom",
+  121,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Amazon Project Kuiper",
+  "ok",
+  "amazon",
+  0,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Amazon Prime Air",
+  "ok",
+  "amazon",
+  0,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Terran Orbital",
+  "ok",
+  "greenhouse",
+  21,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Lunar Outpost",
+  "ok",
+  "bamboohr",
+  7,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Voyager Technologies",
+  "ok",
+  "greenhouse",
+  195,
+  3,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Benchmark Space Systems",
+  "ok",
+  "breezy",
+  6,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astra",
+  "ok",
+  "ashby",
+  5,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Skyryse",
+  "ok",
+  "greenhouse",
+  21,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Merlin Labs",
+  "ok",
+  "lever",
+  23,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Pyka",
+  "ok",
+  "lever",
+  16,
+  2,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Elroy Air",
+  "ok",
+  "lever",
+  7,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Wing",
+  "ok",
+  "greenhouse",
+  40,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Saronic",
+  "ok",
+  "ashby",
+  312,
+  4,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "KBR",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Slingshot Aerospace",
+  "ok",
+  "ashby",
+  0,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Turion Space",
+  "ok",
+  "ashby",
+  18,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Atomos Space",
+  "ok",
+  "ashby",
+  1,
+  0,
+  "config"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Vantor",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Reflect Orbital",
+  "ok",
+  "ashby",
+  16,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Draper",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "General Dynamics Mission Systems",
+  "ok",
+  "jibe",
+  82,
+  48,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "AST SpaceMobile",
+  "ok",
+  "greenhouse",
+  274,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Capella Space",
+  "ok",
+  "greenhouse",
+  8,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "BlackSky",
+  "ok",
+  "greenhouse",
+  39,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "HawkEye 360",
+  "ok",
+  "greenhouse",
+  32,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astroscale US",
+  "ok",
+  "ashby",
+  4,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Gravitics",
+  "ok",
+  "greenhouse",
+  19,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Orbit Fab",
+  "ok",
+  "rippling",
+  4,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Interlune",
+  "ok",
+  "breezy",
+  5,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Karman Space & Defense",
+  "ok",
+  "greenhouse",
+  282,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Quantum Space",
+  "ok",
+  "greenhouse",
+  56,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Regent Craft",
+  "ok",
+  "ashby",
+  70,
+  15,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Whisper Aero",
+  "ok",
+  "greenhouse",
+  11,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Heart Aerospace",
+  "ok",
+  "greenhouse",
+  0,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Viasat",
+  "ok",
+  "jibe",
+  5,
+  3,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Astronics",
+  "ok",
+  "greenhouse",
+  89,
+  1,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "ATI",
+  "ok",
+  "phenom",
+  232,
+  27,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Carpenter Technology",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Williams International",
+  "ok",
+  "ukg",
+  107,
+  0,
+  "cache"
+ ],
+ [
+  "Aerospace, space & defense",
+  "Cubic",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "1X",
+  "ok",
+  "ashby",
+  116,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "ABB",
+  "ok",
+  "phenom",
+  600,
+  10,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Aeva",
+  "ok",
+  "lever",
+  50,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Agility Robotics",
+  "ok",
+  "greenhouse",
+  71,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Amazon Robotics",
+  "ok",
+  "amazon",
+  17,
+  7,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Apptronik",
+  "ok",
+  "greenhouse",
+  87,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Boston Dynamics",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Figure",
+  "ok",
+  "greenhouse",
+  101,
+  4,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Intuitive Surgical",
+  "ok",
+  "smartrecruiters",
+  132,
+  2,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Nuro",
+  "ok",
+  "greenhouse",
+  107,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Symbotic",
+  "ok",
+  "html",
+  138,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Teradyne",
+  "ok",
+  "successfactors",
+  232,
+  3,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Dexterity",
+  "ok",
+  "lever",
+  14,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Path Robotics",
+  "ok",
+  "greenhouse",
+  64,
+  2,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Locus Robotics",
+  "ok",
+  "greenhouse",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Carbon Robotics",
+  "ok",
+  "ashby",
+  4,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Machina Labs",
+  "ok",
+  "ashby",
+  30,
+  1,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Hadrian",
+  "ok",
+  "ashby",
+  187,
+  1,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Neuralink",
+  "ok",
+  "greenhouse",
+  75,
+  8,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Stryker",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Medtronic",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Boston Scientific",
+  "ok",
+  "successfactors",
+  250,
+  3,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Zimmer Biomet",
+  "ok",
+  "phenom",
+  383,
+  3,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Globus Medical",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "PROCEPT BioRobotics",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Gecko Robotics",
+  "ok",
+  "ashby",
+  24,
+  1,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Formic",
+  "ok",
+  "greenhouse",
+  72,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Bright Machines",
+  "ok",
+  "lever",
+  14,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Serve Robotics",
+  "ok",
+  "ashby",
+  13,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Collaborative Robotics",
+  "ok",
+  "ashby",
+  12,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Built Robotics",
+  "ok",
+  "ashby",
+  7,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Dell Technologies",
+  "ok",
+  "oracle",
+  232,
+  1,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Texas Instruments",
+  "ok",
+  "oracle",
+  358,
+  33,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Diligent Robotics",
+  "ok",
+  "greenhouse",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Pickle Robot",
+  "ok",
+  "lever",
+  11,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Plus One Robotics",
+  "ok",
+  "bamboohr",
+  2,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Outrider",
+  "ok",
+  "greenhouse",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Applied Intuition",
+  "ok",
+  "ashby",
+  330,
+  2,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Physical Intelligence",
+  "ok",
+  "ashby",
+  45,
+  1,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Sanctuary AI",
+  "ok",
+  "ashby",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Berkshire Grey",
+  "ok",
+  "bamboohr",
+  17,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Exotec",
+  "ok",
+  "workable",
+  83,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Brinc",
+  "ok",
+  "ashby",
+  27,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Flock Safety",
+  "ok",
+  "ashby",
+  11,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Johnson & Johnson",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Abbott",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "BD",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "GE HealthCare",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Thermo Fisher",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Illumina",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Amazon Lab126",
+  "ok",
+  "amazon",
+  0,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "AMD",
+  "ok",
+  "jibe",
+  24,
+  0,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Tokyo Electron",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Silicon Labs",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Cirrus Logic",
+  "ok",
+  "greenhouse",
+  14,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "HP",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Sonos",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Peloton",
+  "ok",
+  "greenhouse",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "SharkNinja",
+  "ok",
+  "radancy",
+  61,
+  10,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Oura",
+  "ok",
+  "greenhouse",
+  100,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Whoop",
+  "ok",
+  "ashby",
+  107,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Trek Bicycle",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Fox Factory",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Specialized",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Toyota Research Institute",
+  "ok",
+  "lever",
+  48,
+  21,
+  "config"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "RAI Institute",
+  "ok",
+  "lever",
+  24,
+  2,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Blue River Technology",
+  "ok",
+  "greenhouse",
+  12,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Bedrock Robotics",
+  "ok",
+  "ashby",
+  63,
+  6,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Overland AI",
+  "ok",
+  "rippling",
+  56,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Field AI",
+  "ok",
+  "lever",
+  70,
+  1,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "The Bot Company",
+  "ok",
+  "ashby",
+  8,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Mytra",
+  "ok",
+  "rippling",
+  40,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Standard Bots",
+  "ok",
+  "ashby",
+  25,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Viam",
+  "ok",
+  "greenhouse",
+  10,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Nimble Robotics",
+  "ok",
+  "greenhouse",
+  31,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "RightHand Robotics",
+  "ok",
+  "breezy",
+  3,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Agtonomy",
+  "ok",
+  "lever",
+  6,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Wayve",
+  "ok",
+  "ashby",
+  151,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Pronto",
+  "ok",
+  "greenhouse",
+  41,
+  0,
+  "cache"
+ ],
+ [
+  "Robotics & autonomous vehicles",
+  "Keyence",
+  "ok",
+  "successfactors",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "AGCO",
+  "ok",
+  "successfactors",
+  67,
+  5,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "BMW",
+  "ok",
+  "successfactors",
+  148,
+  5,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Bosch",
+  "ok",
+  "smartrecruiters",
+  137,
+  13,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Caterpillar",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "CNH",
+  "ok",
+  "successfactors",
+  316,
+  57,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Daimler Truck",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Ford",
+  "ok",
+  "radancy",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "General Motors",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Honda",
+  "ok",
+  "phenom",
+  321,
+  2,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "John Deere",
+  "ok",
+  "successfactors",
+  141,
+  3,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Komatsu",
+  "ok",
+  "successfactors",
+  122,
+  2,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Lucid Motors",
+  "ok",
+  "greenhouse",
+  521,
+  8,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Oshkosh",
+  "ok",
+  "phenom",
+  526,
+  32,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "PACCAR / Peterbilt / Kenworth",
+  "ok",
+  "successfactors",
+  250,
+  42,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Rivian",
+  "ok",
+  "jibe",
+  53,
+  19,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Toyota",
+  "ok",
+  "phenom",
+  122,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Volvo Group",
+  "ok",
+  "successfactors",
+  218,
+  4,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Zoox",
+  "ok",
+  "lever",
+  246,
+  8,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Kodiak Robotics",
+  "ok",
+  "greenhouse",
+  51,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Scout Motors",
+  "ok",
+  "greenhouse",
+  217,
+  3,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Slate Auto",
+  "ok",
+  "ashby",
+  1,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Divergent",
+  "ok",
+  "greenhouse",
+  149,
+  2,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Harley-Davidson",
+  "ok",
+  "successfactors",
+  35,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Stellantis",
+  "ok",
+  "cws",
+  45,
+  3,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Motional",
+  "ok",
+  "greenhouse",
+  79,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "May Mobility",
+  "ok",
+  "greenhouse",
+  34,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Torc Robotics",
+  "ok",
+  "greenhouse",
+  50,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Stack AV",
+  "ok",
+  "greenhouse",
+  14,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Harbinger Motors",
+  "ok",
+  "greenhouse",
+  83,
+  2,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Aptiv",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Magna",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Lear",
+  "ok",
+  "successfactors",
+  92,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "ZF",
+  "ok",
+  "successfactors",
+  250,
+  10,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Allison Transmission",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Dana",
+  "ok",
+  "successfactors",
+  86,
+  7,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "American Axle",
+  "ok",
+  "radancy",
+  63,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Navistar (International)",
+  "ok",
+  "jibe",
+  8,
+  1,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Redwood Materials",
+  "ok",
+  "greenhouse",
+  88,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "QuantumScape",
+  "ok",
+  "successfactors",
+  19,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Panasonic Energy of North America",
+  "ok",
+  "jibe",
+  27,
+  1,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Terex",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Manitowoc",
+  "ok",
+  "oracle",
+  80,
+  5,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Wabtec",
+  "ok",
+  "smartrecruiters",
+  135,
+  5,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Hyliion",
+  "ok",
+  "greenhouse",
+  21,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Volvo Cars",
+  "ok",
+  "successfactors",
+  21,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Our Next Energy",
+  "ok",
+  "ukg",
+  21,
+  0,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Sila Nanotechnologies",
+  "ok",
+  "greenhouse",
+  34,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Solid Power",
+  "ok",
+  "greenhouse",
+  8,
+  1,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Group14",
+  "ok",
+  "greenhouse",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "ChargePoint",
+  "ok",
+  "greenhouse",
+  38,
+  2,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Blue Bird",
+  "ok",
+  "ukg",
+  37,
+  10,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Brunswick",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "BRP",
+  "ok",
+  "phenom",
+  56,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Gentex",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Tenneco",
+  "ok",
+  "successfactors",
+  10,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Schaeffler",
+  "ok",
+  "successfactors",
+  261,
+  4,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Valeo",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Nexteer",
+  "ok",
+  "successfactors",
+  19,
+  6,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Garrett Motion",
+  "ok",
+  "oracle",
+  54,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Timken",
+  "ok",
+  "successfactors",
+  41,
+  1,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Gates",
+  "ok",
+  "successfactors",
+  60,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Cooper Standard",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Waabi",
+  "ok",
+  "lever",
+  80,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Plus",
+  "ok",
+  "lever",
+  43,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Textron Specialized Vehicles",
+  "ok",
+  "taleo",
+  33,
+  12,
+  "config"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Jaguar Land Rover North America",
+  "ok",
+  "successfactors",
+  20,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Faraday Future",
+  "ok",
+  "greenhouse",
+  65,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Marelli",
+  "ok",
+  "successfactors",
+  15,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Gentherm",
+  "ok",
+  "successfactors",
+  48,
+  3,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Adient",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Factorial Energy",
+  "ok",
+  "greenhouse",
+  9,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Amprius",
+  "ok",
+  "workable",
+  17,
+  0,
+  "cache"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Multimatic",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Vermeer",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Automotive, trucks & heavy equipment",
+  "Gillig",
+  "ok",
+  "greenhouse",
+  0,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Allegion",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "AMETEK",
+  "ok",
+  "successfactors",
+  250,
+  20,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Baker Hughes",
+  "ok",
+  "phenom",
+  603,
+  10,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Celestica",
+  "ok",
+  "successfactors",
+  250,
+  6,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Commonwealth Fusion Systems",
+  "ok",
+  "lever",
+  136,
+  14,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Corning",
+  "ok",
+  "successfactors",
+  250,
+  9,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Eaton",
+  "ok",
+  "eightfold",
+  146,
+  23,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Emerson / National Instruments",
+  "ok",
+  "oracle",
+  332,
+  9,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Fictiv",
+  "ok",
+  "greenhouse",
+  97,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Flex",
+  "ok",
+  "greenhouse",
+  38,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Flowserve",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Formlabs",
+  "ok",
+  "greenhouse",
+  283,
+  18,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Fortive",
+  "ok",
+  "oracle",
+  144,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Hubbell",
+  "ok",
+  "successfactors",
+  202,
+  26,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Infinitum",
+  "ok",
+  "greenhouse",
+  17,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "ITW",
+  "ok",
+  "phenom",
+  600,
+  27,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Jabil",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "NOV",
+  "ok",
+  "oracle",
+  216,
+  2,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Re:Build Manufacturing",
+  "ok",
+  "greenhouse",
+  138,
+  2,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Schneider Electric",
+  "ok",
+  "jibe",
+  344,
+  26,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Stanley Black & Decker",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "TE Connectivity",
+  "ok",
+  "successfactors",
+  377,
+  10,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "TechnipFMC",
+  "ok",
+  "successfactors",
+  110,
+  1,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Xylem",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "ExxonMobil",
+  "ok",
+  "successfactors",
+  245,
+  3,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Chevron",
+  "ok",
+  "radancy",
+  60,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "ConocoPhillips",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Phillips 66",
+  "ok",
+  "successfactors",
+  15,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Halliburton",
+  "ok",
+  "radancy",
+  60,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Helion Energy",
+  "ok",
+  "ashby",
+  64,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "TAE Technologies",
+  "ok",
+  "ashby",
+  11,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Form Energy",
+  "ok",
+  "ashby",
+  211,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Fervo Energy",
+  "ok",
+  "greenhouse",
+  59,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "X-energy",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Kairos Power",
+  "ok",
+  "greenhouse",
+  85,
+  5,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Radiant Industries",
+  "ok",
+  "ashby",
+  120,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Whirlpool",
+  "ok",
+  "eightfold",
+  20,
+  4,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "GE Appliances",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Dow",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Samsung (US)",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Micron",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Otis",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Generac",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Bloom Energy",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Daikin Comfort Technologies",
+  "ok",
+  "ukg",
+  170,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Mitsubishi Power Americas",
+  "ok",
+  "successfactors",
+  168,
+  2,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Graco",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Ingersoll Rand",
+  "ok",
+  "successfactors",
+  112,
+  4,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Pentair",
+  "ok",
+  "phenom",
+  144,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Chart Industries",
+  "ok",
+  "successfactors",
+  10,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Plug Power",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "First Solar",
+  "ok",
+  "oracle",
+  209,
+  13,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Oklo",
+  "ok",
+  "greenhouse",
+  54,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "TerraPower",
+  "ok",
+  "greenhouse",
+  96,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Westinghouse",
+  "ok",
+  "successfactors",
+  250,
+  15,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "BWX Technologies",
+  "ok",
+  "successfactors",
+  126,
+  11,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Zap Energy",
+  "ok",
+  "rippling",
+  19,
+  0,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Thea Energy",
+  "ok",
+  "greenhouse",
+  5,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Pacific Fusion",
+  "ok",
+  "greenhouse",
+  43,
+  7,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Antora Energy",
+  "ok",
+  "greenhouse",
+  43,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Oceaneering",
+  "ok",
+  "oracle",
+  177,
+  7,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Bechtel",
+  "ok",
+  "phenom",
+  590,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Vistra",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Oncor",
+  "ok",
+  "ukg",
+  5,
+  2,
+  "config"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "CenterPoint Energy",
+  "ok",
+  "successfactors",
+  17,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "NextEra Energy",
+  "ok",
+  "successfactors",
+  119,
+  0,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Hexcel",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "NASA JPL",
+  "ok",
+  "phenom",
+  135,
+  1,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "Johns Hopkins APL",
+  "ok",
+  "jibe",
+  128,
+  31,
+  "cache"
+ ],
+ [
+  "Industrial equipment & manufacturing",
+  "MIT Lincoln Laboratory",
+  "ok",
+  "successfactors",
+  242,
+  26,
+  "cache"
+ ],
+ [
+  "Semiconductor equipment",
+  "Applied Materials",
+  "ok",
+  "radancy",
+  60,
+  0,
+  "config"
+ ],
+ [
+  "Semiconductor equipment",
+  "Entegris",
+  "blocked",
+  "workday",
+  0,
+  0,
+  "Workday is rate-limiting this run; will retry next run"
+ ],
+ [
+  "Semiconductor equipment",
+  "Lam Research",
+  "ok",
+  "eightfold",
+  36,
+  6,
+  "config"
+ ]
+]
