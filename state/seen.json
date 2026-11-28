@@ -808,7 +808,7 @@
    },
    "1435733800": {
     "first_seen": "2026-11-27 08:49 UTC",
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "posted_first": "2026-10-30",
     "title": "Engineering Intern"
    },
@@ -8700,8 +8700,8 @@
  "Boeing": {
   "fp": [
    3,
-   "workday",
-   "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS"
+   "radancy",
+   "https://jobs.boeing.com"
   ],
   "ids": {
    "JR2026521717": {
@@ -8732,6 +8732,16 @@
     "posted_first": "2026-11-24",
     "posted_raw": "Posted Yesterday",
     "title": "Test & Evaluation Intern 2027 - 12 Month Placement"
+   },
+   "https://jobs.boeing.com/job/gdansk/intern-software-engineer/185/103871599200": {
+    "first_seen": "2026-11-28 08:14 UTC",
+    "last_seen": "2026-11-28",
+    "title": "Intern Software Engineer"
+   },
+   "https://jobs.boeing.com/job/gosport/supply-chain-management-intern-vertical-lift-12-month-placement/185/100464598128": {
+    "first_seen": "2026-11-28 08:14 UTC",
+    "last_seen": "2026-11-28",
+    "title": "Supply Chain Management Intern (Vertical Lift) - 12 Month Placement"
    }
   },
   "seeded": true
@@ -17893,7 +17903,7 @@
     "first_seen": "2026-11-10 15:57 UTC",
     "last_seen": "2026-11-28",
     "loc": "Cedar Park, TX",
-    "posted_raw": "Posted 3 Days Ago",
+    "posted_raw": "Posted 4 Days Ago",
     "title": "Internship - Software Engineering - Spring 2027"
    },
    "JR100189": {
@@ -22725,8 +22735,8 @@
  "HP": {
   "fp": [
    3,
-   "workday",
-   "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+   "greenhouse",
+   "hp"
   ],
   "ids": {
    "3166958": {
@@ -28820,7 +28830,7 @@
    },
    "https://careers.l3harris.com/en/job/melbourne/software-engineer-intern/4832/103762541408": {
     "first_seen": "2026-11-25 08:14 UTC",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-28",
     "title": "Software Engineer Intern"
    },
    "https://careers.l3harris.com/en/job/nashville/intern-software-engineer/4832/102854131504": {
