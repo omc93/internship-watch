@@ -1748,11 +1748,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Nissan",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -1766,11 +1766,11 @@
  [
   "Industrial equipment & manufacturing",
   "Shell USA",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  1,
+  "config"
  ],
  [
   "Semiconductor equipment",
@@ -1793,11 +1793,11 @@
  [
   "Aerospace, space & defense",
   "Airbus",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -1829,11 +1829,11 @@
  [
   "Aerospace, space & defense",
   "Axiom Space",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -1901,11 +1901,11 @@
  [
   "Aerospace, space & defense",
   "Crane Aerospace & Electronics",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2522,11 +2522,11 @@
  [
   "Aerospace, space & defense",
   "KBR",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -2756,11 +2756,11 @@
  [
   "Aerospace, space & defense",
   "Cubic",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -2819,11 +2819,11 @@
  [
   "Robotics & autonomous vehicles",
   "Boston Dynamics",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  40,
+  3,
+  "cache"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3188,11 +3188,11 @@
  [
   "Robotics & autonomous vehicles",
   "GE HealthCare",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  80,
+  1,
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3512,11 +3512,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Caterpillar",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3530,11 +3530,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Daimler Truck",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -3989,11 +3989,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Valeo",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  60,
+  1,
+  "cache"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4250,11 +4250,11 @@
  [
   "Industrial equipment & manufacturing",
   "Flowserve",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Industrial equipment & manufacturing",

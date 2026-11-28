@@ -182,9 +182,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795252740.87719,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "Aisin": {
   "fails": 494,
@@ -510,9 +510,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.337713,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "BAE Systems": {
   "ats": [
@@ -792,9 +792,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3381665,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Boston Scientific": {
   "ats": [
@@ -954,9 +954,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.5481405,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "Celestica": {
   "ats": [
@@ -1138,9 +1138,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3381436,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Cubic": {
   "ats": [
@@ -1149,9 +1149,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.541426,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Cummins": {
   "fails": 518,
@@ -1188,9 +1188,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.541547,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Dana": {
   "ats": [
@@ -1575,9 +1575,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3372931,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Fluence": {
   "fails": 508,
@@ -1704,9 +1704,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.5468745,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "GE Vernova": {
   "ats": [
@@ -2410,9 +2410,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.550495,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "KLA": {
   "ats": [
@@ -3071,9 +3071,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795249012.7152379,
-  "last_ok": 1795879650,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "Nordson": {
   "fails": 508,
@@ -3851,9 +3851,9 @@
   ],
   "fails": 0,
   "last_discovery": 1794858418.69267,
-  "last_ok": 1795879650,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "config",
+  "status": "ok"
  },
  "Shield AI": {
   "ats": [
@@ -4594,9 +4594,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795851604.7492754,
-  "last_ok": 1795880632,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795884105,
+  "note": "cache",
+  "status": "ok"
  },
  "Vantor": {
   "ats": [
