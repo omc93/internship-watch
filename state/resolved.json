@@ -510,9 +510,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.337713,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "cache",
+  "status": "ok"
  },
  "BAE Systems": {
   "ats": [
@@ -731,9 +731,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3377185,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "config",
+  "status": "ok"
  },
  "Bollinger Motors": {
   "fails": 510,
@@ -1329,9 +1329,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795252740.8771951,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "config",
+  "status": "ok"
  },
  "EVgo": {
   "fails": 496,
@@ -2830,9 +2830,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795250614.8206787,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "config",
+  "status": "ok"
  },
  "Micron": {
   "ats": [
@@ -3411,9 +3411,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.5484009,
-  "last_ok": 1795883907,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "cache",
+  "status": "ok"
  },
  "Plus": {
   "ats": [
@@ -3851,9 +3851,9 @@
   ],
   "fails": 0,
   "last_discovery": 1794858418.69267,
-  "last_ok": 1795884105,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "config",
+  "status": "ok"
  },
  "Shield AI": {
   "ats": [
@@ -3885,9 +3885,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.5414069,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "cache",
+  "status": "ok"
  },
  "Sierra Space": {
   "ats": [
@@ -4089,9 +4089,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795853644.3372955,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "config",
+  "status": "ok"
  },
  "Starfish Space": {
   "ats": [
@@ -4891,9 +4891,9 @@
   ],
   "fails": 0,
   "last_discovery": 1795855713.544384,
-  "last_ok": 1795885858,
-  "note": "Workday is rate-limiting this run; will retry next run",
-  "status": "blocked"
+  "last_ok": 1795888468,
+  "note": "cache",
+  "status": "ok"
  },
  "X-Bow Systems": {
   "fails": 510,

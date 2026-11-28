@@ -1613,11 +1613,11 @@
  [
   "Industrial equipment & manufacturing",
   "Plug Power",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -1640,11 +1640,11 @@
  [
   "Industrial equipment & manufacturing",
   "Shell USA",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  1,
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -1685,11 +1685,11 @@
  [
   "Aerospace, space & defense",
   "Axiom Space",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -1721,11 +1721,11 @@
  [
   "Aerospace, space & defense",
   "Boeing",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Aerospace, space & defense",
@@ -1910,11 +1910,11 @@
  [
   "Aerospace, space & defense",
   "Sierra Nevada Corporation",
-  "blocked",
+  "ok",
   "workday",
-  0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  20,
+  3,
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2018,11 +2018,11 @@
  [
   "Aerospace, space & defense",
   "Woodward",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "cache"
  ],
  [
   "Aerospace, space & defense",
@@ -2873,11 +2873,11 @@
  [
   "Robotics & autonomous vehicles",
   "Dyson",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Robotics & autonomous vehicles",
@@ -3683,11 +3683,11 @@
  [
   "Automotive, trucks & heavy equipment",
   "Michelin North America",
-  "blocked",
+  "ok",
   "workday",
+  20,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Automotive, trucks & heavy equipment",
@@ -4223,11 +4223,11 @@
  [
   "Industrial equipment & manufacturing",
   "Stanley Black & Decker",
-  "blocked",
+  "ok",
   "workday",
+  40,
   0,
-  0,
-  "Workday is rate-limiting this run; will retry next run"
+  "config"
  ],
  [
   "Industrial equipment & manufacturing",
